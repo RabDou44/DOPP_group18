@@ -10,33 +10,33 @@ Data Sets:
  - [Rail transport performance in Europe 2021](https://cohesiondata.ec.europa.eu/dataset/Rail-transport-performance-in-Europe-2021/bp5k-ynxy/data_preview)
 
 Info (not dataset)
-Chonotrains
+ - [Chonotrains](https://www.chronotrains.com/fr/station/2988507-Paris/8)
 
 Questions:
 
-How do rail travel times compare to air travel times between cities in Europe?
-Data  we need:
-Cities (from/to)
-Travel time
-Distance (km)
-Speed
-Type of travel (rail/air)
+ - How do rail travel times compare to air travel times between cities in Europe?
+   Data  we need:
+    - Cities (from/to)
+    - Travel time
+    - Distance (km)
+    - Speed
+    - Type of travel (rail/air)
 
-Are there routes on which high-speed rail leads to shorter journey times than air travel?
-Data  we need:
-Cities (from/to)
-Travel time
-Distance (km)
-Speed
-Type of travel (rail/air)
+ - Are there routes on which high-speed rail leads to shorter journey times than air travel?
+   Data  we need:
+    - Cities (from/to)
+    - Travel time
+    - Distance (km)
+    - Speed
+    - Type of travel (rail/air)
 
-How can estimates of travel time to and from airports be included?
-The question is what to consider as a starting point for calculation of travel time: city centre, the main station, other stations? The easiest would be to calculate travel time to airport from city centre. 
+ - How can estimates of travel time to and from airports be included?
+    The question is what to consider as a starting point for calculation of travel time: city centre, the main station, other stations? The easiest would be to calculate travel time to airport from city centre. 
 
 
-Which is the most well-connected city in Europe in terms of minimising travel times to other cities? 
+ - Which is the most well-connected city in Europe in terms of minimising travel times to other cities? 
 
- Visualisation of isochrones would be useful in answering these questions. (how to build it?)
+ - Visualisation of isochrones would be useful in answering these questions. (how to build it?)
 
 Idea: assigning weights to connections when making averages, so that small connections don’t disproportionately affect the average
 
