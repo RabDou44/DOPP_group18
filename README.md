@@ -8,6 +8,7 @@ Data Sets:
  - [Data Travel Air Rail 2017-2018](https://figshare.com/articles/dataset/DATA_Travel_Time_Survey_AIR_RAIL_xlsx/6400832)
  - [Spain train travel times](https://data.renfe.com/dataset/horarios-de-alta-velocidad-larga-distancia-y-media-distancia/resource/25d6b043-9e47-4f99-bd91-edd51d782450)
  - [Rail transport performance in Europe 2021](https://cohesiondata.ec.europa.eu/dataset/Rail-transport-performance-in-Europe-2021/bp5k-ynxy/data_preview)
+ - [Air transport measurements (eurostat)](https://ec.europa.eu/eurostat/databrowser/explore/all/transp?lang=en&subtheme=rail.rail_pa&display=list&sort=category&extractionId=rail_pa_nbpass)
 
 Info (not dataset)
  - [Chonotrains](https://www.chronotrains.com/fr/station/2988507-Paris/8)
