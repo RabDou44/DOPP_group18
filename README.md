@@ -16,7 +16,8 @@ Info (not dataset)
 Questions:
 
  - How do rail travel times compare to air travel times between cities in Europe?
-   Data  we need:
+   
+   Required data:
     - Cities (from/to)
     - Travel time
     - Distance (km)
@@ -24,7 +25,10 @@ Questions:
     - Type of travel (rail/air)
 
  - Are there routes on which high-speed rail leads to shorter journey times than air travel?
-   Data  we need:
+
+   Due to limited number of high-speed rail routes in Europe (France, Belgium, Spain) there can be cosidered hypothethical routes between other european cities
+
+   Required data:
     - Cities (from/to)
     - Travel time
     - Distance (km)
@@ -32,10 +36,17 @@ Questions:
     - Type of travel (rail/air)
 
  - How can estimates of travel time to and from airports be included?
-    The question is what to consider as a starting point for calculation of travel time: city centre, the main station, other stations? The easiest would be to calculate travel time to airport from city centre. 
+    The question is what to consider as a starting point for calculation of travel time: city centre, the main station, other stations? The easiest would be to calculate travel time to airport from city centre.
 
+    Dataset avia_tf_arp_co shows if given airports have connections to other means of transports
 
  - Which is the most well-connected city in Europe in terms of minimising travel times to other cities? 
+
+   Proposition:
+   1) maesure cities in terms of they degree (number of degree connections to other cities)
+   2) compute all cities closeness $C_{cl}(v)  = \sum_{u \in V} \frac{1}{d(u,v)}$
+   for each $v \in V$ where (V - set of cities), where $d(u,v)$ is distance between cities.
+   3) compute betweeness and compare 
 
  - Visualisation of isochrones would be useful in answering these questions. (how to build it?)
 
