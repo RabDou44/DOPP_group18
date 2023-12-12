@@ -36,8 +36,8 @@ Questions:
     - Type of travel (rail/air)
 
  - How can estimates of travel time to and from airports be included?
+   
     The question is what to consider as a starting point for calculation of travel time: city centre, the main station, other stations? The easiest would be to calculate travel time to airport from city centre.
-
     Dataset avia_tf_arp_co shows if given airports have connections to other means of transports
 
  - Which is the most well-connected city in Europe in terms of minimising travel times to other cities? 
