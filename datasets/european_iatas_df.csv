@@ -1,0 +1,439 @@
+Antwerp,Antwerp International Airport,ANR
+Brussels,Brussels Airport,BRU
+Brussels,Brussels South Charleroi Airport,CRL
+Liège,Liège Airport,LGG
+Ostend,Ostend-Bruges International Airport,OST
+Ajaccio,Campo dell'Oro Airport,AJA
+Bastia,Poretta Airport,BIA
+Beauvais,Beauvais-Tillé Airport,BVA
+Bergerac,Bergerac-Roumanière Airport,EGC
+Béziers,Béziers Cap d'Agde Airport,BZR
+Biarritz,Biarritz Airport,BIQ
+Bordeaux,Mérignac Airport,BOD
+Brest,Brest Bretagne Airport,BES
+Carcassonne,Salvaza Airport,CCF
+Châlons-en-Champagne,Châlons Vatry Airport,XCR
+Chambéry,Chambéry-Savoie Airport,CMF
+Dinard,Pleurtuit Airport,DNR
+Figari,Figari Sud-Corse Airport,FSC
+Grenoble,Grenoble-Isère Airport,GNB
+Ile de Re,Île de Ré Airport,LRH
+Lille,Lille Lesquin Airport,LIL
+Limoges,Bellegarde Airport,LIG
+Lyon,Saint-Exupéry Airport,LYS
+Marseille,Provence Airport,MRS
+Mulhouse,Basel-Mulhouse-Freiburg Airport,BSL
+Nantes,Nantes Atlantique Airport,NTE
+Nice,Côte d'Azur Airport,NCE
+Nîmes,Garons Airport,FNI
+Paris,Charles de Gaulle Airport,CDG
+Paris,Orly Airport,ORY
+Pau,Uzein Airport,PUF
+Perpignan,Llabanère Airport,PGF
+Poitiers,Biard Airport,PIS
+Rodez,Marcillac Airport,RDZ
+Saint Etienne,Bouthéon Airport,EBU
+Strasbourg,Strasbourg Airport,SXB
+Toulon,Hyères Le Palyvestre Airport,TLN
+Toulouse,Blagnac Airport,TLS
+Tours,Tours Loire Valley Airport,TUF
+Gibraltar,North Front Airport,GIB
+Guernsey,Guernsey Airport,GCI
+Jersey,Jersey Airport,JER
+Cork,Cork Airport,ORK
+Dublin,Dublin Airport,DUB
+Kerry,Kerry Airport,KIR
+Knock,Ireland West Airport Knock,NOC
+Shannon,Shannon Airport,SNN
+Isle of Man,Isle of Man Airport,IOM
+Luxembourg City,Findel Airport,LUX
+Amsterdam,Amsterdam Airport Schiphol,AMS
+Eindhoven,Eindhoven Airport,EIN
+Groningen,Groningen Airport Eelde,GRQ
+Maastricht,Maastricht-Aachen Airport,MST
+Rotterdam,Rotterdam The Hague Airport,RTM
+Beja,Beja Airport,BYJ
+Faro,Faro Airport,FAO
+Funchal,Madeira Airport,FNC
+Porto Santo Island,Porto Santo Airport,PXO
+Lisbon,Humberto Delgado Airport,LIS
+Porto,Francisco Sá Carneiro Airport,OPO
+Ponta Delgada,João Paulo II Airport,PDL
+Terceira Island,Terceira Airport,TER
+A Coruña,Alvedro Airport,LCG
+Alicante,Alicante Airport,ALC
+Almeria,Almería International Airport,LEI
+Asturias,Asturias Airport,OVD
+Barcelona,Barcelona Airport,BCN
+Fuerteventura,Fuerteventura Airport,FUE
+Girona,Girona-Costa Brava Airport,GRO
+Gran Canaria,Gran Canaria Airport,LPA
+Granada,Granada Airport,GRX
+Huesca,Huesca-Pirineos Airport,HSK
+Ibiza,Ibiza Airport,IBZ
+Jerez de la Frontera,Jerez Airport,XRY
+La Palma,La Palma Airport,SPC
+Lanzarote,Lanzarote Airport,ACE
+Lleida,Alguaire Airport,ILD
+Madrid,Madrid-Barajas Airport,MAD
+Málaga,Málaga Airport,AGP
+Menorca,Menorca Airport,MAH
+Murcia,Murcia-San Javier Airport,MJV
+Palma de Mallorca,Palma de Mallorca Airport,PMI
+Reus,Reus Airport,REU
+Santander,Santander Airport,SDR
+Santiago de Compostela,Santiago de Compostela Airport,SCQ
+Seville,Seville Airport,SVQ
+Tenerife,Tenerife North Airport,TFN
+Tenerife,Tenerife South Airport,TFS
+Valencia,Valencia Airport,VLC
+Valladolid,Valladolid Airport,VLL
+Zaragoza,Zaragoza Airport,ZAZ
+Graz,Graz Airport,GRZ
+Klagenfurt,Klagenfurt Airport,KLU
+Innsbruck,Innsbruck Airport,INN
+Linz,Linz Airport,LNZ
+Salzburg,Salzburg Airport,SZG
+Vienna,Vienna International Airport,VIE
+Baden-Baden,Karlsruhe,FKB
+Berlin,Berlin Tegel Airport,TXL
+Berlin,Berlin Schönefeld Airport,SXF
+Berlin,Berlin Brandenburg Airport,BER
+Bremen,Bremen Airport,BRE
+Cologne,Cologne,CGN
+Dortmund,Dortmund Airport,DTM
+Düsseldorf,Düsseldorf Airport,DUS
+Frankfurt,Frankfurt Airport,FRA
+Frankfurt,Frankfurt-Hahn Airport,HHN
+Freiburg im Breisgau,EuroAirport Basel–Mulhouse–Freiburg,MLH
+Freiburg im Breisgau,EuroAirport Basel–Mulhouse–Freiburg,BSL
+Freiburg im Breisgau,EuroAirport Basel–Mulhouse–Freiburg,EAP
+Friedrichshafen,Friedrichshafen Airport,FDH
+Hamburg,Hamburg Airport,HAM
+Hanover,Langenhagen Airport,HAJ
+Leipzig,Leipzig,LEJ
+Lübeck,Lübeck Airport,LBC
+Memmingen,Memmingen Airport,FMM
+Munich,Munich Airport,MUC
+Nuremberg,Albrecht Dürer Airport,NUE
+Stuttgart,Stuttgart Airport,STR
+Weeze,Weeze Airport,NRN
+Athens,Athens International Airport,ATH
+Chania,Chania International Airport,CHQ
+Chios Island,Chios Island National Airport,JKH
+Corfu,Ioannis Kapodistrias Airport,CFU
+Heraklion,Heraklion International Airport,HER
+Kalamata,Kalamata International Airport,KLX
+Karpathos Island,Karpathos Island National Airport,AOK
+Kavala,Kavala International Airport,KVA
+Kefalonia Island,Kefalonia Island International Airport,EFL
+Kos Island,Kos Island International Airport,KGS
+Mykonos Island,Mykonos Island National Airport,JMK
+Mytilene,Mytilene International Airport,MJT
+Preveza,Aktion National Airport,PVK
+Rhodes,Rhodes International Airport,RHO
+Samos,Samos International Airport,SMI
+Santorini,Santorini National Airport,JTR
+Skiathos Island,Skiathos Island National Airport,JSI
+Skyros Island,Skyros Island National Airport,SKU
+Thessaloniki,Thessaloniki International Airport,SKG
+Volos,Nea Anchialos National Airport,VOL
+Zakynthos,Zakynthos International Airport,ZTH
+Alghero,Fertilia Airport,AHO
+Ancona,Ancona Airport,AOI
+Bari,Palese Airport,BRI
+Bergamo,Orio al Serio Airport,BGY
+Bologna,Bologna Airport,BLQ
+Brescia,Brescia Airport,VBS
+Brindisi,Brindisi Airport,BDS
+Cagliari,Cagliari Airport,CAG
+Catania,Fontanarossa Airport,CTA
+Cuneo,Cuneo Levaldigi Airport,CUF
+Florence,Peretola Airport,FLR
+Genoa,Cristoforo Colombo Airport,GOA
+Lamezia,Lamezia Terme Airport,SUF
+Milan,Linate Airport,LIN
+Milan,Malpensa Airport,MXP
+Naples,Capodichino Airport,NAP
+Olbia,Costa Smeralda Airport,OLB
+Palermo,Palermo Airport,PMO
+Perugia,San Egidio Airport,PEG
+Pescara,Abruzzo Airport,PSR
+Pisa,Galileo Galilei Airport,PSA
+Rimini,Federico Fellini Airport,RMI
+Rome,Leonardo da Vinci-Fiumicino Airport,FCO
+Rome,Rome Ciampino Airport,CIA
+Trapani,Vincenzo Florio Airport,TPS
+Trieste,Friuli Venezia Giulia Airport,TRS
+Turin,Caselle Airport,TRN
+Venice,Venice Marco Polo Airport,VCE
+Verona,Verona Airport,VRN
+Basel-Mulhouse-Freiburg,EuroAirport Basel–Mulhouse–Freiburg,BSL
+Bern,Bern-Belp Airport,BRN
+Geneva,Geneva International Airport,GVA
+St. Gallen,St. Gallen-Altenrhein Airport,ACH
+Zurich,Zurich Airport,ZRH
+Bydgoszcz,Bydgoszcz Ignacy Jan Paderewski Airport,BZG
+Gdańsk,Gdańsk Lech Wałęsa Airport,GDN
+Katowice,Katowice International Airport,KTW
+Kraków,John Paul II International Airport Kraków-Balice,KRK
+Lublin,Lublin Airport,LUZ
+Łódź,Łódź Władysław Reymont Airport,LCJ
+Poznań,Poznań Ławica Airport,POZ
+Rzeszów,Rzeszów-Jasionka Airport,RZE
+Szczecin,Szczecin-Goleniów "Solidarność" Airport,SZZ
+Warsaw,Frédéric Chopin Airport,WAW
+Warsaw,Modlin Airport,WMI
+Wrocław,Copernicus Airport Wrocław,WRO
+Bucharest,Henri Coanda International Airport,OTP
+Cluj-Napoca,Cluj-Napoca International Airport,CLJ
+Constanța,Mihail Kogălniceanu International Airport,CND
+Iași,Iași International Airport,IAS
+Oradea,Oradea International Airport,OMR
+Sibiu,Sibiu International Airport,SBZ
+Timișoara,Traian Vuia International Airport,TSR
+Tirana,Tirana International Airport Nënë Tereza,TIA
+Yerevan,Zvartnots International Airport,EVN
+Gyumri,Shirak Airport,LWN
+Baku,Heydar Aliyev International Airport,GYD
+Ganja,Ganja International Airport,KVD
+Nakhchivan,Nakhchivan Airport,NAJ
+Qabala,Qabala International Airport,GBB
+Lankaran,Lankaran International Airport,LLK
+Grodno,Hrodna Airport,GNA
+Gomel,Gomel Airport,GME
+Minsk,Minsk International Airport,MSQ
+Banja Luka,Banja Luka International Airport,BNX
+Sarajevo,Sarajevo International Airport,SJJ
+Tuzla,Tuzla International Airport,TZL
+Mostar,Mostar International Airport,OMO
+Burgas,Burgas Airport,BOJ
+Plovdiv,Plovdiv Airport,PDV
+Sofia,Sofia Airport,SOF
+Varna,Varna Airport,VAR
+Dubrovnik,Dubrovnik Airport,DBV
+Zagreb,Franjo Tuđman Airport,ZAG
+Osijek,Osijek Airport,OSI
+Pula,Pula Airport,PUY
+Rijeka,Rijeka Airport,RJK
+Split,Split Airport,SPU
+Zadar,Zadar Airport,ZAD
+Larnaca,Larnaca International Airport,LCA
+Paphos,Paphos International Airport,PFO
+Tymbou,Ercan International Airport,ECN
+Brno,Brno-Tuřany Airport,BRQ
+Karlovy Vary,Karlovy Vary Airport,KLV
+Ostrava,Leoš Janáček Ostrava Airport,OSR
+Prague,Prague Václav Havel Airport,PRG
+Pardubice,Pardubice Airport,PED
+Tallinn,Lennart Meri Tallinn Airport,TLL
+Tartu,Tartu Airport,TAY
+Ambrolauri,Ambrolauri Airport,UGA
+Batumi,Batumi International Airport,BUS
+Kutaisi,Kutaisi International Airport,KUT
+Mestia,Queen Tamar Airport,UGM
+Natakhtari,Natakhtari Airfield,UGS
+Sokhumi,Sukhumi Babushara Airport,SUI
+Tbilisi,Tbilisi International Airport,TBS
+Budapest,Budapest Ferenc Liszt International Airport,BUD
+Debrecen,Debrecen International Airport,DEB
+Hévíz,Hévíz-Balaton Airport,SOB
+Győr-Pér,Győr-Pér International Airport,QGY
+Pécs-Pogány,Pécs-Pogány International Airport,QPJ
+Pristina,Pristina International Airport,PRN
+Riga,Riga International Airport,RIX
+Ventspils,Ventspils International Airport,VNT
+Kaunas,Kaunas Airport,KUN
+Palanga,Palanga International Airport,PLQ
+Šiauliai,Šiauliai International Airport,SQQ
+Vilnius,Vilnius International Airport,VNO
+Ohrid,Ohrid St. Paul the Apostle Airport,OHD
+Skopje,Skopje Alexander the Great Airport,SKP
+Luqa,Malta International Airport,MLA
+Chişinău,Chişinău International Airport,KIV
+Podgorica,Podgorica Airport,TGD
+Tivat,Tivat Airport,TIV
+Abakan,Abakan International Airport,ABA
+Anadyr,Ugolny Airport,DYR
+Anapa,Anapa Airport,AAQ
+Arkhangelsk,Talagi Airport,ARH
+Astrakhan,Narimanovo Airport,ASF
+Barnaul,Barnaul Airport,BAX
+Belgorod,Belgorod International Airport,EGO
+Blagoveshchensk,Ignatyevo Airport,BQS
+Bratsk,Bratsk Airport,BTK
+Bryansk,Bryansk International Airport,BZK
+Cheboksary,Cheboksary Airport,CSY
+Chelyabinsk,Chelyabinsk Airport,CEK
+Cherepovets,Cherepovets Airport,CEE
+Chita,Kadala Airport,HTA
+Elista,Elista Airport,ESL
+Irkutsk,Irkutsk Airport,IKT
+Grozny,Grozny Airport,GRV
+Kaliningrad,Khrabrovo Airport,KGD
+Kazan,Kazan Airport,KZN
+Khabarovsk,Khabarovsk Novy Airport,KHV
+Komsomolsk-on-Amur,Komsomolsk-on-Amur Airport,KXK
+Krasnodar,Pashkovsky Airport,KRR
+Krasnoyarsk,Yemelyanovo International Airport,KJA
+Kursk,Kursk Vostochny Airport,URS
+Magadan,Sokol Airport,GDX
+Magnitogorsk,Magnitogorsk International Airport,MQF
+Makhachkala,Uytash Airport,MCX
+Mineralnye Vody,Mineralnye Vody Airport,MRV
+Moscow,Domodedovo International Airport,DME
+Moscow,Sheremetyevo International Airport,SVO
+Moscow,Vnukovo Airport,VKO
+Murmansk,Murmansk Airport,MMK
+Nalchik,Nalchik Airport,NAL
+Nizhnevartovsk,Nizhnevartovsk Airport,NJC
+Nizhnekamsk,Begishevo Airport,NBC
+Nizhny Novgorod,Strigino Airport,GOJ
+Novokuznetsk,Spichenkovo Airport,NOZ
+Novosibirsk,Tolmachevo Airport,OVB
+Omsk,Omsk Tsentralny Airport,OMS
+Orenburg,Orenburg Tsentralny Airport,REN
+Orsk,Orsk Airport,OSW
+Perm,Perm International Airport,PEE
+Petrozavodsk,Petrozavodsk Airport,PES
+Provideniya,Provideniya Bay Airport,PVS
+Petropavlovsk-Kamchatsky,Yelizovo Airport,PKC
+Pskov,Pskov Airport,PKV
+Rostov-on-Don,Rostov-na-Donu Airport,ROV
+Saint Petersburg,Pulkovo Airport,LED
+Samara,Samara Kurumoch Airport,KUF
+Saratov,Saratov Tsentralny Airport,RTW
+Sochi,Sochi International Airport,AER
+Stavropol,Stavropol Shpakovskoye Airport,STW
+Surgut,Surgut International Airport,SGC
+Syktyvkar,Syktyvkar Airport,SCW
+Tomsk,Bogashevo Airport,TOF
+Tyumen,Roshchino International Airport,TJM
+Ulan-Ude,Baikal International Airport,UUD
+Ulyanovsk,Ulyanovsk Vostochny Airport,ULY
+Ufa,Ufa International Airport,UFA
+Vladivostok,Vladivostok International Airport,VVO
+Vladikavkaz,Beslan Airport,OGZ
+Volgograd,Volgograd International Airport,VOG
+Voronezh,Voronezh International Airport,VOZ
+Yakutsk,Yakutsk Airport,YKS
+Yaroslavl,Tunoshna Airport,IAR
+Yekaterinburg,Koltsovo International Airport,SVX
+Yuzhno-Sakhalinsk,Yuzhno-Sakhalinsk Airport,UUS
+Belgrade,Belgrade Nikola Tesla Airport,BEG
+Niš,Niš Constantine the Great Airport,INI
+Bratislava,M. R. Štefánik Airport,BTS
+Košice,Košice International Airport,KSC
+Piešťany,Piešťany Airport,PZY
+Poprad,Poprad-Tatry Airport,TAT
+Sliač,Sliač Airport,SLD
+Žilina,Žilina Airport,ILZ
+Ljubljana,Ljubljana Jože Pučnik Airport,LJU
+Maribor,Maribor Edvard Rusjan Airport,MBX
+Portorož,Portorož Airport,POW
+Adana,Şakirpaşa Airport,ADA
+Ankara,Esenboğa International Airport,ESB
+Antalya,Antalya Airport,AYT
+Bodrum,Milas-Bodrum Airport,BJV
+Bursa,Yenişehir Airport,YEI
+Dalaman,Dalaman Airport,DLM
+Gaziantep,Oğuzeli Airport,GZT
+Istanbul,Atatürk International Airport,IST
+Istanbul,Sabiha Gökçen International Airport,SAW
+İzmir,Adnan Menderes Airport,ADB
+Kayseri,Erkilet Airport,ASR
+Konya,Konya Airport,KYA
+Kütahya,Zafer Airport,KZR
+Malatya,Erhaç Airport,MLX
+Nevşehir,Kapadokya Airport,NAV
+Samsun,Samsun-Çarşamba Airport,SZF
+Trabzon,Trabzon Airport,TZX
+Zonguldak,Zonguldak Airport,ONQ
+Kiev,Boryspil International Airport,KBP
+Chernivtsi,Chernivtsi International Airport,CWC
+Donetsk,Donetsk Airport,DOK
+Dnipro,Dnipropetrovsk International Airport,DNK
+Kiev,Gostomel Airport,GML
+Ivano-Frankivsk,Ivano-Frankivsk International Airport,IFO
+Kharkiv,Kharkiv International Airport,HRK
+Kryvyi Rih,Kryvyi Rih International Airport,KWG
+Kiev,Kyiv Zhuliany International Airport,IEV
+Luhansk,Luhansk International Airport,VSG
+Lviv,Lviv Danylo Halytskyi International Airport,LWO
+Mykolaiv Oblast,Mykolaiv International Airport,NLV
+Odessa,Odessa International Airport,ODS
+Simferopol,Simferopol International Airport,SIP
+Zaporizhia,Zaporizhia International Airport,OZH
+Aalborg,Aalborg Airport,AAL
+Aarhus,Aarhus Airport,AAR
+Billund,Billund Airport,BLL
+Copenhagen,Copenhagen Airport,CPH
+Vágar,Vágar Airport,FAE
+Aland,Mariehamn Airport,MHQ
+Helsinki,Helsinki-Vantaa Airport,HEL
+Kittilä,Kittilä Airport,KTT
+Kuopio,Kuopio Airport,KUO
+Kuusamo,Kuusamo Airport,KAO
+Lappeenranta,Lappeenranta Airport,LPP
+Oulu,Oulu Airport,OUL
+Rovaniemi,Rovaniemi Airport,RVN
+Tampere,Tampere-Pirkkala Airport,TMP
+Turku,Turku Airport,TKU
+Vaasa,Vaasa Airport,VAA
+Akureyri,Akureyri Airport,AEY
+Reykjavik,Keflavik International Airport,KEF
+Reykjavik,Reykjavik Airport,RKV
+Ålesund,Ålesund Airport,AES
+Bergen,Bergen Airport,BGO
+Bodø,Bodø Airport,BOO
+Haugesund,Haugesund Airport,HAU
+Kristiansand,Kristiansand Airport,KRS
+Kristiansund,Kristiansund Airport,KSU
+Oslo,Oslo Airport-Gardermoen,OSL
+Oslo,Moss Airport,RYG
+Oslo,Sandefjord Airport,TRF
+Stavanger,Stavanger Airport,SVG
+Tromsø,Tromsø Airport,TOS
+Trondheim,Trondheim Airport,TRD
+Gothenburg,Gothenburg City Airport,GSE
+Gothenburg,Göteborg Landvetter Airport,GOT
+Luleå,Luleå Airport,LLA
+Malmö,Malmö Airport,MMX
+Norrköping,Norrköping Airport,NRK
+Östersund,Åre Östersund Airport,OSD
+Stockholm,Stockholm-Arlanda Airport,ARN
+Stockholm,Stockholm-Bromma Airport,BMA
+Stockholm,Stockholm-Skavsta Airport,NYO
+Stockholm,Stockholm-Västerås Airport,VST
+Umeå,Umeå Airport,UME
+Växjö,Växjö Airport,VXO
+Visby,Visby Airport,VBY
+Birmingham,Birmingham International Airport,BHX
+Bournemouth,Bournemouth Airport,BOH
+Bristol,Bristol Airport,BRS
+Cardiff,Cardiff Airport,CWL
+Doncaster,Robin Hood Airport Doncaster Sheffield,DSA
+Middlesbrough,Durham Tees Valley Airport,MME
+Nottingham,East Midlands Airport,EMA
+Exeter,Exeter International Airport,EXT
+Leeds,Leeds Bradford International Airport,LBA
+Liverpool,Liverpool John Lennon Airport,LPL
+London,London City Airport,LCY
+London,Gatwick Airport,LGW
+London,Heathrow Airport,LHR
+London,Luton Airport,LTN
+London,Southend Airport,SEN
+London,Stansted Airport,STN
+Manchester,Manchester Airport,MAN
+Newcastle upon Tyne,Newcastle Airport,NCL
+Newquay,Newquay Cornwall Airport,NQY
+Norwich,Norwich International Airport,NWI
+Southampton,Southampton Airport,SOU
+Aberdeen,Aberdeen Airport,ABZ
+Edinburgh,Edinburgh Airport,EDI
+Glasgow,Glasgow International Airport,GLA
+Glasgow,Glasgow Prestwick Airport,PIK
+Inverness,Inverness Airport,INV
+Belfast,Belfast International Airport,BFS
+Belfast,George Best Belfast City Airport,BHD
+Derry,City of Derry Airport,LDY
