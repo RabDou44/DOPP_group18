@@ -1,5 +1,19 @@
 # Data-Oriented Programming Paradigms – Group 18 – Train vs plane travel times
 
+## To do:
+### 1. Travel times only for trips that have direct train and plane connections
+ - We need to match airports to train stations when they are in the same city – what counts as the same city? For example Brussels Charleroi is not so close to Brussels
+ - We need to choose which trips to include in 'Europe'
+ - Include info about average speed and max speed of trains
+### 2. Travel times for indirect connections
+ - This requires either timetable datasets or an API to know how long the connections are
+ - Include info about the proportion of the trip spent waiting during a connection
+### 3. Including the time to get to the airport / train station
+ - This is more complicated and requires arbitrary definitions of what is counted as travel time
+
+
+
+
 ## Datasets for trains:
  - [Rail network (eurostat) ](https://ec.europa.eu/eurostat/databrowser/explore/all/transp?lang=en&subtheme=rail.rail_pa&display=list&sort=category&extractionId=rail_pa_nbpass)
  - [Railway travel times in England](https://www.gov.uk/government/statistical-data-sets/connectivity-travel-time-indicators-for-rail-stations-con02)
