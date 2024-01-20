@@ -29,9 +29,13 @@
 - [Air transport measurements (eurostat)](https://ec.europa.eu/eurostat/databrowser/explore/all/transp?lang=en&subtheme=rail.rail_pa&display=list&sort=category&extractionId=rail_pa_nbpass)
 - [ICAO - Un Agency](https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx)
 - [EU Control](https://www.eurocontrol.int/dashboard/rnd-data-archive)
+- [OpenFlights: Airport, Airline and Route data (but sadly no temporal data)](https://openflights.org/data.php?lang=en_US#airline)
 
 #### Web apps:
  - [Flight Connections](https://www.flightconnections.com/flights-from-vienna-vie)
+
+#### Reports:
+ - [Eurocontrol European Aviation Overview](https://www.eurocontrol.int/sites/default/files/2023-12/eurocontrol-european-aviation-overview-20231206.pdf)
 
 ### General data:
 - [French Ministry of Transport](https://transport.data.gouv.fr/)
