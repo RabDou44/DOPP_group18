@@ -31,6 +31,11 @@
 - [EU Control](https://www.eurocontrol.int/dashboard/rnd-data-archive)
 - [OpenFlights: Airport, Airline and Route data (but sadly no temporal data)](https://openflights.org/data.php?lang=en_US#airline)
 
+#### APIs:
+ - [Cirium developer studio (link to FlightStats APIs)](https://developer.cirium.com/?inctmp=flightstats-resources-menu)
+ - [FlightStats APIs overview](https://developer.cirium.com/apis/flightstats-apis/overview)
+ - [FlightStats Flight Schedule API](https://developer.cirium.com/apis/flightstats-apis/overview)
+
 #### Web apps:
  - [Flight Connections](https://www.flightconnections.com/flights-from-vienna-vie)
 
