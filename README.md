@@ -22,6 +22,9 @@
  - [Rail transport performance in Europe 2021](https://cohesiondata.ec.europa.eu/dataset/Rail-transport-performance-in-Europe-2021/bp5k-ynxy/data_preview)
 #### Web apps:
 - [Chonotrains](https://www.chronotrains.com/fr/station/2988507-Paris/8)
+#### APIs
+- [Interrail API](https://github.com/juliuste/interrail)
+- [Deutsche Bahn API](https://openapi.trassenfinder.de/assets/dokumentation/3.21.4/index.html#api-Default-getRoute)
 
 ### Planes:
 #### Datasets:
