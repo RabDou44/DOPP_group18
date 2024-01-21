@@ -22,6 +22,9 @@
  - [Rail transport performance in Europe 2021](https://cohesiondata.ec.europa.eu/dataset/Rail-transport-performance-in-Europe-2021/bp5k-ynxy/data_preview)
 #### Web apps:
 - [Chonotrains](https://www.chronotrains.com/fr/station/2988507-Paris/8)
+#### APIs
+- [Interrail API](https://github.com/juliuste/interrail)
+- [Deutsche Bahn API](https://openapi.trassenfinder.de/assets/dokumentation/3.21.4/index.html#api-Default-getRoute)
 
 ### Planes:
 #### Datasets:
@@ -30,6 +33,7 @@
 - [ICAO - Un Agency](https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx)
 - [EU Control](https://www.eurocontrol.int/dashboard/rnd-data-archive)
 - [OpenFlights: Airport, Airline and Route data (but sadly no temporal data)](https://openflights.org/data.php?lang=en_US#airline)
+- [Flight routes, but sadly no times or schedules](https://www.kaggle.com/datasets/open-flights/flight-route-database)
 
 #### APIs:
  - [Cirium developer studio (link to FlightStats APIs)](https://developer.cirium.com/?inctmp=flightstats-resources-menu)
