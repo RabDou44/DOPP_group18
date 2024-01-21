@@ -50,6 +50,7 @@
 - [French Ministry of Transport](https://transport.data.gouv.fr/)
 - [Promising report from the European Comission ](https://ec.europa.eu/regional_policy/sources/work/2023-rail-vs-air_en.pdf)
 - [Data Travel Air Rail 2017-2018](https://figshare.com/articles/dataset/DATA_Travel_Time_Survey_AIR_RAIL_xlsx/6400832)
+- [Geonames for matching city names, might be useful](https://www.geonames.org/2988507/paris.html)
 
 ### Isochrones:
  - [Isochrones for Singapore: tutorial on Medium](https://medium.com/@zshaoz/reachable-sg-an-attempt-to-visualize-accessibility-in-singapore-using-isochrone-maps-ded88a334a9d)
