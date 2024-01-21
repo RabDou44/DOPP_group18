@@ -33,6 +33,7 @@
 - [ICAO - Un Agency](https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx)
 - [EU Control](https://www.eurocontrol.int/dashboard/rnd-data-archive)
 - [OpenFlights: Airport, Airline and Route data (but sadly no temporal data)](https://openflights.org/data.php?lang=en_US#airline)
+- [Flight routes, but sadly no times or schedules](https://www.kaggle.com/datasets/open-flights/flight-route-database)
 
 #### APIs:
  - [Cirium developer studio (link to FlightStats APIs)](https://developer.cirium.com/?inctmp=flightstats-resources-menu)
