@@ -1,0 +1,270 @@
+city1,city2,transit_distance [m],transit_time [s]
+Arkhangelsk,Moscow,-1,-1
+Chelyabinsk,Moscow,-1,-1
+Izhevsk,Moscow,1528463,97800
+Krasnoyarsk,Moscow,-1,-1
+Ufa,Moscow,3448951,84480
+Ufa,Moscow,3448951,84480
+Ufa,Moscow,3448951,84480
+Ulyanovsk,Moscow,1313631,56940
+Ulyanovsk,Moscow,1313631,56940
+Bugulma,Moscow,1826268,84420
+Kaliningrad,Moscow,1832277,81384
+Nizhnekamsk,Moscow,-1,-1
+Volgograd,Moscow,1850832,85200
+Volgograd,Moscow,1850832,85200
+Seville,Barcelona,1339767,45000
+Rinas,Barcelona,2120563,138949
+Caselle Torinese,Barcelona,957511,56033
+Venezia,Barcelona,-1,-1
+Vigo,Barcelona,1316211,29820
+Vienna,Barcelona,2480790,81960
+Warsaw,Barcelona,2796867,101170
+Warsaw,Barcelona,2796867,101170
+Jerez de la Frontera,Barcelona,-1,-1
+Zurich,Barcelona,1072286,60060
+Seville,Madrid,738460,34920
+Toulouse,Madrid,689688,35100
+Caselle Torinese,Madrid,1586501,70133
+Venezia,Madrid,-1,-1
+Vigo,Madrid,682836,16200
+Vienna,Madrid,2745457,88680
+Valencia,Madrid,398351,6780
+Jerez de la Frontera,Madrid,-1,-1
+Zurich,Madrid,1701276,74160
+Salzburg,Helsinki,2155024,120780
+Tallinn,Helsinki,86284,10020
+Trondheim,Helsinki,1709393,106620
+Vaasa,Helsinki,419874,13860
+Vienna,Helsinki,1933618,117900
+Vilnius,Helsinki,671904,54600
+Warsaw,Helsinki,1089352,68760
+Zurich,Helsinki,2546658,134640
+Toulouse,Munich,1501464,58380
+Caselle Torinese,Munich,776281,47273
+Venezia,Munich,507193,30600
+Vienna,Munich,455693,16140
+Vilnius,Munich,1736485,66780
+Warsaw,Munich,1258113,44400
+Zagreb,Munich,547928,29280
+Zurich,Munich,570891,29160
+Stavanger,Amsterdam,-1,-1
+Salzburg,Amsterdam,1045276,38280
+Tampere,Amsterdam,2145592,127560
+Trondheim,Amsterdam,2190943,115440
+Torp,Amsterdam,-1,-1
+Venezia,Amsterdam,1368873,62940
+Warsaw,Amsterdam,1245793,55140
+Zagreb,Amsterdam,1408600,61140
+Seville,Paris,2112683,80100
+Seville,Paris,2112683,80100
+Venezia,Paris,1414754,52380
+Venezia,Paris,1414754,52380
+Vienna,Paris,1362533,43860
+Warsaw,Paris,1712257,64860
+Zurich,Paris,583839,33000
+Seville,London,2617180,93060
+Rinas,London,2513368,142069
+Tours,London,942527,45960
+Venezia,London,1780655,70020
+Venezia,London,1780655,70020
+Warsaw,London,1835478,71760
+Zagreb,London,-1,-1
+Caselle Torinese,Otopeni,2241021,130913
+Treviso,Otopeni,1603273,112980
+Timisoara,Otopeni,674977,48107
+Vienna,Otopeni,1146401,65580
+Warsaw,Otopeni,-1,-1
+Zurich,Otopeni,1869221,100620
+Salzburg,Stockholm,2081974,74820
+Rinas,Stockholm,3358794,176809
+Tallinn,Stockholm,534104,77869
+Caselle Torinese,Stockholm,2506704,117113
+Umea,Stockholm,709688,28440
+Zurich,Stockholm,2086993,80580
+Moscow,St. Petersburg,643476,31140
+Ufa,St. Petersburg,4340610,101520
+Ulyanovsk,St. Petersburg,1957526,72240
+Moscow,St. Petersburg,643476,31140
+Volgograd,St. Petersburg,3461445,127500
+Voronezh,St. Petersburg,1260547,47280
+Seville,Orio al Serio,2292145,82895
+Rinas,Orio al Serio,1160677,81666
+Timisoara,Orio al Serio,1459170,76125
+Vienna,Orio al Serio,901226,42723
+Warsaw,Orio al Serio,1813577,73738
+Seville,Rome,2800056,88500
+Rinas,Rome,722903,66289
+Rinas,Rome,722903,66289
+Venezia,Rome,533970,27240
+Warsaw,Rome,2123477,79080
+Vienna,Malaga,3076153,124980
+Vilnius,Malaga,3858754,158040
+Warsaw,Malaga,3579983,135900
+Wroclaw,Malaga,3292897,117905
+Zurich,Malaga,2175139,85260
+Salzburg,Hamburg,964647,41520
+Rinas,Hamburg,2278269,130309
+Varna,Hamburg,2295654,140526
+Vienna,Hamburg,935616,39420
+Zurich,Hamburg,1070853,42720
+Rinas,Tille,-1,-1
+Treviso,Tille,1229684,67041
+Timisoara,Tille,2017784,79928
+Vilnius,Tille,2339532,107814
+Zaragoza,Tille,1197328,47094
+Rinas,Charleroi,2050923,133489
+Treviso,Charleroi,1508506,69540
+Warsaw,Charleroi,1445619,65340
+Zagreb,Charleroi,-1,-1
+Salzburg,Gatwick,1603537,49380
+Tallinn,Gatwick,2881878,126840
+Caselle Torinese,Gatwick,1341664,51773
+Vienna,Gatwick,1912002,59520
+Rinas,Spata,-1,-1
+Vienna,Spata,1837758,109258
+Warsaw,Spata,2271442,138051
+Zakynthos,Spata,-1,-1
+Tallinn,Geneva,2873025,138000
+Vienna,Geneva,1055504,42180
+Warsaw,Geneva,1717442,68160
+Zurich,Geneva,278706,11400
+Stavanger,Gdansk,1622968,119160
+Tromso,Gdansk,2544124,161745
+Caselle,Gdansk,1963124,81971
+Warsaw,Gdansk,623852,29100
+Stavanger,Bergen,206341,19074
+Tromso,Bergen,1910666,132765
+Trondheim,Bergen,960069,58500
+Torp,Bergen,-1,-1
+Otopeni,Stuttgart,1953923,103380
+Thessaloniki,Stuttgart,1929406,118860
+Vienna,Stuttgart,749625,25560
+Zurich,Stuttgart,454595,20040
+Vienna,Zaventem,1135642,47640
+Valencia,Zaventem,1605364,62580
+Warsaw,Zaventem,1384969,61140
+Zurich,Zaventem,601429,36660
+London,Warsaw,1699120,82680
+Seville,Warsaw,3780912,115020
+Torp,Warsaw,-1,-1
+Torp,Warsaw,-1,-1
+Rinas,Edinburgh,3142106,157849
+Venezia,Edinburgh,2409387,85980
+Zurich,Edinburgh,1599634,60360
+London,Caselle,1445374,69702
+Rinas,Caselle,1259988,84391
+Warsaw,Caselle,1982283,77742
+Rinas,Bologna,899478,71089
+Valencia,Bologna,-1,-1
+Zurich,Bologna,498911,24900
+Toulouse,Valletta,-1,-1
+Treviso,Valletta,-1,-1
+Vienna,Valletta,-1,-1
+Tampere,Tallinn,273166,17280
+Vienna,Tallinn,1760512,106560
+Warsaw,Tallinn,986254,52980
+Caselle Torinese,Lamezia Terme,-1,-1
+Venezia,Lamezia Terme,1057532,43980
+Caselle,Lamezia Terme,-1,-1
+Vienna,Zurich,781564,31500
+Warsaw,Zurich,1555997,61740
+Zagreb,Zurich,879826,43020
+London,Vilnius,2200055,113203
+Caselle Torinese,Vilnius,2495339,114463
+Warsaw,Vilnius,503763,26923
+Rinas,Frankfurt am Main,1774265,116089
+Venezia,Frankfurt am Main,1020357,46740
+Zagreb,Frankfurt am Main,1033049,44520
+London,Wroclaw,1522894,74160
+Warsaw,Wroclaw,464684,23040
+Tille,Wroclaw,1700870,80726
+Seville,Ferno,-1,-1
+Rinas,Ferno,-1,-1
+Vienna,Ferno,-1,-1
+Seville,El Matorral,-1,-1
+Vienna,El Matorral,-1,-1
+Warsaw,El Matorral,-1,-1
+Seville,Catania,3422541,121740
+Caselle Torinese,Catania,-1,-1
+Venezia,Catania,1234433,61111
+Stavanger,Oslo,584836,33060
+Goleniow,Oslo,-1,-1
+Trondheim,Oslo,469804,28020
+Svolvaer,Bodo,147845,13917
+Trondheim,Bodo,725223,36000
+Moscow,Grozny,3147441,126600
+Moscow,Grozny,3147441,126600
+Valencia,Postage,-1,-1
+Zurich,Postage,-1,-1
+Caselle Torinese,Gothenburg,2259204,98760
+Zurich,Gothenburg,1789442,73200
+Stavanger,Alicante,3770352,233940
+Trondheim,Alicante,4432922,275400
+Rinas,Luton,2558860,143449
+Warsaw,Luton,1884003,73800
+Moscow,Samara,1569205,52860
+Moscow,Samara,1569205,52860
+Moscow,Murmansk,4217130,126240
+Moscow,Murmansk,4217130,126240
+Seville,Pisa,2596825,89520
+Rinas,Pisa,1068551,76849
+Rinas,Bari,263516,48589
+Venezia,Bari,1012622,43200
+Treviso,Vienna,659576,39240
+Zagreb,Vienna,370036,18300
+Treviso,Valencia,1769274,96480
+Wroclaw,Valencia,2549567,107945
+Vienna,Cluj,879750,50100
+Warsaw,Cluj,1042113,88440
+Seville,Manchester,3031190,110100
+Venezia,Manchester,2073493,78480
+Seville,Nuremberg,2917968,83100
+Rinas,Nuremberg,1651448,106969
+Vienna,Klagenfurt on Lake Worthersee,314274,19130
+Vienna,Luxembourg,1089071,48268
+London,Zagreb,1879353,87600
+Vienna,Santander,-1,-1
+Vienna,Tromso,3720842,209477
+London,Zaragoza,1476592,65160
+Viseu,Vila Real,97802,4771
+Caselle,Poznan,1690152,76996
+Viseu,Cascais,326828,19411
+Venezia,Palermo,1353886,66860
+Warsaw,Budapest,939184,47460
+Warsaw,Saint,-1,-1
+Warsaw,Balice,307928,17317
+Warsaw,Ozarowice,281606,14369
+Warsaw,Zgornji Brnik,1201091,63600
+Warsaw,Prague,785389,40200
+Wroclaw,Birmingham,1731186,69005
+Zagreb,Sarajevo,411885,28800
+Zagreb,Split,409169,18300
+Zurich,Prishtina,1622133,114989
+Venezia,Ilinden,-1,-1
+Treviso,Sofia,1342991,93360
+Venezia,Napoli,749816,31462
+Rinas,Ronchi dei Legionari,1165856,82729
+Salzburg,Bristol,1750267,54900
+Praia da Vitoria,Ponta Delgada,-1,-1
+Praia da Vitoria,Pico Island,-1,-1
+Seville,San Bartolome,-1,-1
+Moscow,Stavropol,-1,-1
+Moscow,Nizhnekamsk,-1,-1
+Moscow,Magnitogorsk,2461654,171240
+Rinas,Genova,1242205,83629
+Rinas,Lyon,1552975,105492
+Rinas,Perugia,893439,78469
+Rinas,Treviso,1071009,78769
+Venezia,Lisbon,3031567,140340
+Moscow,Kaliningrad,1303745,90684
+Toulouse,Bordeaux,256701,8460
+Moscow,Cherepovets,-1,-1
+Caselle Torinese,Brindisi,1369069,54833
+Caselle Torinese,Cagliari,1183631,72779
+Treviso,Marseille,-1,-1
+Treviso,Rinas,982000,70058
+Ufa,Sochi,5760985,180660
+Ufa,Krasnoyarsk,4316816,162060
+Cologne,Varna,2360943,123578
+Zurich,Rovaniemi,3494234,156300

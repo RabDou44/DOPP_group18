@@ -1,0 +1,301 @@
+route,time,departure airport,arrival airport,departure city,arrival city,city1,city2
+"{'IAS', 'OTP'}",70.0,IAS,OTP,Iaşi,Otopeni,Iasi,Otopeni
+"{'IBZ', 'BCN'}",55.0,IBZ,BCN,Ibiza (Eivissa),Barcelona,Ibiza,Barcelona
+"{'IBZ', 'MAD'}",75.0,IBZ,MAD,Ibiza (Eivissa),Madrid,Ibiza,Madrid
+"{'IBZ', 'VLC'}",50.0,IBZ,VLC,Ibiza (Eivissa),Valencia,Ibiza,Valencia
+"{'HHN', 'INI'}",130.0,HHN,INI,Frankfurt am Main (Lautzenhausen),Niš,Frankfurt am Main,Nis
+"{'INI', 'LJU'}",112.5,INI,LJU,Niš,Zgornji Brnik,Nis,Zgornji Brnik
+"{'INN', 'BRS'}",127.5,INN,BRS,Innsbruck,Bristol,Innsbruck,Bristol
+"{'INN', 'EDI'}",155.0,INN,EDI,Innsbruck,Edinburgh,Innsbruck,Edinburgh
+"{'INN', 'FRA'}",65.0,INN,FRA,Innsbruck,Frankfurt am Main,Innsbruck,Frankfurt am Main
+"{'INN', 'LGW'}",123.33333333333331,INN,LGW,Innsbruck,"Gatwick, Surrey",Innsbruck,Gatwick
+"{'INN', 'MAN'}",140.0,INN,MAN,Innsbruck,Manchester,Innsbruck,Manchester
+"{'INN', 'VIE'}",57.5,INN,VIE,Innsbruck,Vienna,Innsbruck,Vienna
+"{'INV', 'LGW'}",97.5,INV,LGW,Inverness,"Gatwick, Surrey",Inverness,Gatwick
+"{'IOA', 'ATH'}",72.5,IOA,ATH,Ioannina,Spata-Artemida,Ioannina,Spata
+"{'IOM', 'LHR'}",95.0,IOM,LHR,Castletown,London,Castletown,London
+"{'IWA', 'LED'}",105.0,IWA,LED,Ivanovo,St. Petersburg,Ivanovo,St. Petersburg
+"{'LGW', 'JER'}",60.0,LGW,JER,"Gatwick, Surrey",Saint Helier,Gatwick,Saint Helier
+"{'SOU', 'JER'}",50.0,SOU,JER,Southampton,Saint Helier,Southampton,Saint Helier
+"{'ATH', 'JMK'}",45.0,ATH,JMK,Spata-Artemida,Mykonos,Spata,Mykonos
+"{'JTR', 'ATH'}",55.0,JTR,ATH,Santorini Island,Spata-Artemida,Santorini Island,Spata
+"{'KAO', 'HEL'}",102.5,KAO,HEL,Kuusamo,Helsinki,Kuusamo,Helsinki
+"{'KGD', 'LED'}",105.0,KGD,LED,Kaliningrad,St. Petersburg,Kaliningrad,St. Petersburg
+"{'VKO', 'KGD'}",115.0,VKO,KGD,Moscow,Kaliningrad,Moscow,Kaliningrad
+"{'KGS', 'ATH'}",61.66666666666666,KGS,ATH,Kos Island,Spata-Artemida,Kos Island,Spata
+"{'KGS', 'RHO'}",30.0,KGS,RHO,Kos Island,Rhodes,Kos Island,Rhodes
+"{'KGS', 'SKG'}",97.5,KGS,SKG,Kos Island,Thessaloniki,Kos Island,Thessaloniki
+"{'KIV', 'CDG'}",195.0,KIV,CDG,Chişinău,Paris,Chisinau,Paris
+"{'KIV', 'LIS'}",270.0,KIV,LIS,Chişinău,Lisbon,Chisinau,Lisbon
+"{'KIV', 'OTP'}",72.5,KIV,OTP,Chişinău,Otopeni,Chisinau,Otopeni
+"{'KJA', 'LED'}",297.5,KJA,LED,Krasnoyarsk,St. Petersburg,Krasnoyarsk,St. Petersburg
+"{'SVO', 'KJA'}",292.5,SVO,KJA,Moscow,Krasnoyarsk,Moscow,Krasnoyarsk
+"{'KJA', 'VKO'}",286.6666666666667,KJA,VKO,Krasnoyarsk,Moscow,Krasnoyarsk,Moscow
+"{'KKN', 'VDS'}",15.0,KKN,VDS,Kirkenes,Vadsø,Kirkenes,Vadso
+"{'KRK', 'AGP'}",222.5,KRK,AGP,Balice,Málaga,Balice,Malaga
+"{'KRK', 'AMS'}",120.0,KRK,AMS,Balice,Amsterdam,Balice,Amsterdam
+"{'KRK', 'ARN'}",120.0,KRK,ARN,Balice,Stockholm,Balice,Stockholm
+"{'KRK', 'BCN'}",167.5,KRK,BCN,Balice,Barcelona,Balice,Barcelona
+"{'KRK', 'BGY'}",107.5,KRK,BGY,Balice,Orio al Serio (BG),Balice,Orio al Serio
+"{'KRK', 'BHX'}",152.5,KRK,BHX,Balice,Birmingham,Balice,Birmingham
+"{'KRK', 'BLQ'}",105.0,KRK,BLQ,Balice,Bologna,Balice,Bologna
+"{'KRK', 'BVA'}",135.0,KRK,BVA,Balice,Tillé,Balice,Tille
+"{'KRK', 'CAG'}",147.5,KRK,CAG,Balice,Cagliari,Balice,Cagliari
+"{'KRK', 'CIA'}",120.0,KRK,CIA,Balice,Rome,Balice,Rome
+"{'KRK', 'CRL'}",120.0,KRK,CRL,Balice,Charleroi,Balice,Charleroi
+"{'KRK', 'EDI'}",165.0,KRK,EDI,Balice,Edinburgh,Balice,Edinburgh
+"{'KRK', 'EIN'}",120.0,KRK,EIN,Balice,Eindhoven,Balice,Eindhoven
+"{'KRK', 'GOT'}",107.5,KRK,GOT,Balice,Gothenburg,Balice,Gothenburg
+"{'KRK', 'LGW'}",155.0,KRK,LGW,Balice,"Gatwick, Surrey",Balice,Gatwick
+"{'KRK', 'LIL'}",127.5,KRK,LIL,Balice,Lesquin,Balice,Lesquin
+"{'KRK', 'LTN'}",147.5,KRK,LTN,Balice,"Luton, Bedfordshire",Balice,Luton
+"{'KRK', 'NYO'}",110.0,KRK,NYO,Balice,Nyköping,Balice,Nykoping
+"{'KRK', 'OSL'}",137.5,KRK,OSL,Balice,Oslo,Balice,Oslo
+"{'KRK', 'PSA'}",115.0,KRK,PSA,Balice,Pisa,Balice,Pisa
+"{'KRK', 'TGD'}",100.0,KRK,TGD,Balice,Podgorica,Balice,Podgorica
+"{'KRK', 'TLS'}",160.0,KRK,TLS,Balice,Toulouse/Blagnac,Balice,Toulouse
+"{'KRK', 'VIE'}",62.5,KRK,VIE,Balice,Vienna,Balice,Vienna
+"{'KRK', 'VLC'}",185.0,KRK,VLC,Balice,Valencia,Balice,Valencia
+"{'KRK', 'WAW'}",55.0,KRK,WAW,Balice,Warsaw,Balice,Warsaw
+"{'KRR', 'SVO'}",140.0,KRR,SVO,Krasnodar,Moscow,Krasnodar,Moscow
+"{'KRR', 'VKO'}",132.5,KRR,VKO,Krasnodar,Moscow,Krasnodar,Moscow
+"{'KRS', 'AMS'}",90.0,KRS,AMS,Kjevik,Amsterdam,Kjevik,Amsterdam
+"{'KRS', 'BGO'}",50.0,KRS,BGO,Kjevik,Bergen,Kjevik,Bergen
+"{'KSC', 'PRG'}",75.0,KSC,PRG,Košice,Prague,Kosice,Prague
+"{'KTT', 'HEL'}",86.66666666666667,KTT,HEL,Kittilä,Helsinki,Kittila,Helsinki
+"{'KTT', 'ZRH'}",220.0,KTT,ZRH,Kittilä,Zurich,Kittila,Zurich
+"{'KTW', 'ALC'}",195.0,KTW,ALC,Ożarowice,Alicante,Ozarowice,Alicante
+"{'KTW', 'ATH'}",155.0,KTW,ATH,Ożarowice,Spata-Artemida,Ozarowice,Spata
+"{'KTW', 'CTA'}",153.33333333333334,KTW,CTA,Ożarowice,Catania,Ozarowice,Catania
+"{'KTW', 'LTN'}",147.5,KTW,LTN,Ożarowice,"Luton, Bedfordshire",Ozarowice,Luton
+"{'KTW', 'MLA'}",167.5,KTW,MLA,Ożarowice,Valletta,Ozarowice,Valletta
+"{'KUF', 'LED'}",143.75,KUF,LED,Samara,St. Petersburg,Samara,St. Petersburg
+"{'KUN', 'BGY'}",145.0,KUN,BGY,Kaunas,Orio al Serio (BG),Kaunas,Orio al Serio
+"{'KUO', 'HEL'}",60.0,KUO,HEL,Kuopio / Siilinjärvi,Helsinki,Kuopio,Helsinki
+"{'ATH', 'KVA'}",70.0,ATH,KVA,Spata-Artemida,Kavala,Spata,Kavala
+"{'KVX', 'LED'}",120.0,KVX,LED,Kirov,St. Petersburg,Kirov,St. Petersburg
+"{'KVX', 'SVO'}",107.5,KVX,SVO,Kirov,Moscow,Kirov,Moscow
+"{'KVX', 'VKO'}",102.5,KVX,VKO,Kirov,Moscow,Kirov,Moscow
+"{'KZN', 'KUF'}",50.0,KZN,KUF,Kazan,Samara,Kazan,Samara
+"{'KZN', 'LED'}",135.0,KZN,LED,Kazan,St. Petersburg,Kazan,St. Petersburg
+"{'KZN', 'SVO'}",105.0,KZN,SVO,Kazan,Moscow,Kazan,Moscow
+"{'KZN', 'VKO'}",105.0,KZN,VKO,Kazan,Moscow,Kazan,Moscow
+"{'LBA', 'ACE'}",270.0,LBA,ACE,Leeds,San Bartolomé,Leeds,San Bartolome
+"{'LBA', 'ALC'}",167.5,LBA,ALC,Leeds,Alicante,Leeds,Alicante
+"{'LBA', 'AMS'}",80.0,LBA,AMS,Leeds,Amsterdam,Leeds,Amsterdam
+"{'LBA', 'CMF'}",120.0,LBA,CMF,Leeds,Viviers-du-Lac,Leeds,Viviers
+"{'LBA', 'FAO'}",182.5,LBA,FAO,Leeds,Faro,Leeds,Faro
+"{'LBA', 'KRK'}",152.5,LBA,KRK,Leeds,Balice,Leeds,Balice
+"{'LBA', 'POZ'}",130.0,LBA,POZ,Leeds,Poznań,Leeds,Poznan
+"{'LCG', 'MAD'}",76.66666666666667,LCG,MAD,Culleredo,Madrid,Culleredo,Madrid
+"{'CEE', 'LED'}",55.0,CEE,LED,Cherepovets,St. Petersburg,Cherepovets,St. Petersburg
+"{'MMK', 'LED'}",110.0,MMK,LED,Murmansk,St. Petersburg,Murmansk,St. Petersburg
+"{'LEI', 'MAD'}",75.0,LEI,MAD,Almería,Madrid,Almeria,Madrid
+"{'FUE', 'LEJ'}",295.0,FUE,LEJ,El Matorral,Schkeuditz,El Matorral,Schkeuditz
+"{'LGG', 'AGP'}",190.0,LGG,AGP,Grâce-Hollogne,Málaga,Grace,Malaga
+"{'AGP', 'LGW'}",170.0,AGP,LGW,Málaga,"Gatwick, Surrey",Malaga,Gatwick
+"{'BCN', 'LGW'}",135.0,BCN,LGW,Barcelona,"Gatwick, Surrey",Barcelona,Gatwick
+"{'JER', 'LGW'}",55.0,JER,LGW,Saint Helier,"Gatwick, Surrey",Saint Helier,Gatwick
+"{'OTP', 'LGW'}",225.0,OTP,LGW,Otopeni,"Gatwick, Surrey",Otopeni,Gatwick
+"{'LHR', 'ABZ'}",95.0,LHR,ABZ,London,Aberdeen,London,Aberdeen
+"{'LHR', 'AGP'}",185.0,LHR,AGP,London,Málaga,London,Malaga
+"{'LHR', 'AMS'}",85.0,LHR,AMS,London,Amsterdam,London,Amsterdam
+"{'LHR', 'ARN'}",160.0,LHR,ARN,London,Stockholm,London,Stockholm
+"{'LHR', 'ATH'}",245.0,LHR,ATH,London,Spata-Artemida,London,Spata
+"{'LHR', 'BCN'}",145.0,LHR,BCN,London,Barcelona,London,Barcelona
+"{'LHR', 'BLL'}",110.0,LHR,BLL,London,Billund,London,Billund
+"{'LHR', 'BLQ'}",145.0,LHR,BLQ,London,Bologna,London,Bologna
+"{'LHR', 'BRU'}",71.66666666666667,LHR,BRU,London,Zaventem,London,Zaventem
+"{'BSL', 'LHR'}",100.0,BSL,LHR,Saint-Louis,London,Saint,London
+"{'LHR', 'EDI'}",85.0,LHR,EDI,London,Edinburgh,London,Edinburgh
+"{'LHR', 'GIB'}",185.0,LHR,GIB,London,Gibraltar,London,Gibraltar
+"{'LHR', 'GLA'}",87.5,LHR,GLA,London,"Paisley, Renfrewshire",London,Paisley
+"{'LHR', 'GNB'}",110.0,LHR,GNB,London,Saint-Étienne-de-Saint-Geoirs,London,Saint
+"{'LHR', 'GOT'}",127.5,LHR,GOT,London,Gothenburg,London,Gothenburg
+"{'LHR', 'GVA'}",102.5,LHR,GVA,London,Geneva,London,Geneva
+"{'LHR', 'LIN'}",120.0,LHR,LIN,London,Segrate (MI),London,Segrate
+"{'LIS', 'LHR'}",170.0,LIS,LHR,Lisbon,London,Lisbon,London
+"{'LHR', 'LYS'}",112.5,LHR,LYS,London,Lyon,London,Lyon
+"{'LHR', 'MAD'}",147.5,LHR,MAD,London,Madrid,London,Madrid
+"{'LHR', 'MLA'}",210.0,LHR,MLA,London,Valletta,London,Valletta
+"{'LHR', 'MXP'}",130.0,LHR,MXP,London,Ferno (VA),London,Ferno
+"{'LHR', 'NCE'}",130.0,LHR,NCE,London,Nice,London,Nice
+"{'LHR', 'NCL'}",77.5,LHR,NCL,London,Newcastle,London,Newcastle
+"{'LHR', 'OSL'}",147.5,LHR,OSL,London,Oslo,London,Oslo
+"{'LHR', 'OTP'}",200.0,LHR,OTP,London,Otopeni,London,Otopeni
+"{'LHR', 'SZG'}",130.0,LHR,SZG,London,Salzburg,London,Salzburg
+"{'LHR', 'TLS'}",115.0,LHR,TLS,London,Toulouse/Blagnac,London,Toulouse
+"{'LHR', 'VIE'}",140.0,LHR,VIE,London,Vienna,London,Vienna
+"{'LHR', 'ZRH'}",107.5,LHR,ZRH,London,Zurich,London,Zurich
+"{'LIL', 'GVA'}",80.0,LIL,GVA,Lesquin,Geneva,Lesquin,Geneva
+"{'LIN', 'AMS'}",115.0,LIN,AMS,Segrate (MI),Amsterdam,Segrate,Amsterdam
+"{'LIN', 'BDS'}",95.0,LIN,BDS,Segrate (MI),Brindisi,Segrate,Brindisi
+"{'LIN', 'BRU'}",85.0,LIN,BRU,Segrate (MI),Zaventem,Segrate,Zaventem
+"{'LIN', 'CAG'}",82.5,LIN,CAG,Segrate (MI),Cagliari,Segrate,Cagliari
+"{'LIN', 'CDG'}",95.0,LIN,CDG,Segrate (MI),Paris,Segrate,Paris
+"{'LIN', 'CTA'}",115.0,LIN,CTA,Segrate (MI),Catania,Segrate,Catania
+"{'LIN', 'HEL'}",185.0,LIN,HEL,Segrate (MI),Helsinki,Segrate,Helsinki
+"{'LIN', 'MAD'}",145.0,LIN,MAD,Segrate (MI),Madrid,Segrate,Madrid
+"{'LIN', 'MLA'}",110.0,LIN,MLA,Segrate (MI),Valletta,Segrate,Valletta
+"{'LIN', 'MUC'}",70.0,LIN,MUC,Segrate (MI),Munich,Segrate,Munich
+"{'LIN', 'REG'}",100.0,LIN,REG,Segrate (MI),Reggio Calabria,Segrate,Reggio Calabria
+"{'LIN', 'SUF'}",97.5,LIN,SUF,Segrate (MI),Lamezia Terme (CZ),Segrate,Lamezia Terme
+"{'LIS', 'ALC'}",105.0,LIS,ALC,Lisbon,Alicante,Lisbon,Alicante
+"{'LIS', 'AMS'}",190.0,LIS,AMS,Lisbon,Amsterdam,Lisbon,Amsterdam
+"{'LIS', 'BCN'}",117.5,LIS,BCN,Lisbon,Barcelona,Lisbon,Barcelona
+"{'LIS', 'BGY'}",175.0,LIS,BGY,Lisbon,Orio al Serio (BG),Lisbon,Orio al Serio
+"{'LIS', 'BOD'}",115.0,LIS,BOD,Lisbon,Bordeaux/Mérignac,Lisbon,Bordeaux
+"{'LIS', 'BRU'}",170.0,LIS,BRU,Lisbon,Zaventem,Lisbon,Zaventem
+"{'LIS', 'CDG'}",155.0,LIS,CDG,Lisbon,Paris,Lisbon,Paris
+"{'LIS', 'CGN'}",185.0,LIS,CGN,Lisbon,Köln (Cologne),Lisbon,Cologne
+"{'LIS', 'CIA'}",190.0,LIS,CIA,Lisbon,Rome,Lisbon,Rome
+"{'LIS', 'GVA'}",155.0,LIS,GVA,Lisbon,Geneva,Lisbon,Geneva
+"{'LIS', 'HEL'}",275.0,LIS,HEL,Lisbon,Helsinki,Lisbon,Helsinki
+"{'LIS', 'LGW'}",155.0,LIS,LGW,Lisbon,"Gatwick, Surrey",Lisbon,Gatwick
+"{'LHR', 'LIS'}",165.0,LHR,LIS,London,Lisbon,London,Lisbon
+"{'LIS', 'LUX'}",160.0,LIS,LUX,Lisbon,Luxembourg,Lisbon,Luxembourg
+"{'LIS', 'LYS'}",145.0,LIS,LYS,Lisbon,Lyon,Lisbon,Lyon
+"{'LIS', 'MAD'}",80.0,LIS,MAD,Lisbon,Madrid,Lisbon,Madrid
+"{'LIS', 'MLA'}",210.0,LIS,MLA,Lisbon,Valletta,Lisbon,Valletta
+"{'LIS', 'MUC'}",190.0,LIS,MUC,Lisbon,Munich,Lisbon,Munich
+"{'LIS', 'MXP'}",175.0,LIS,MXP,Lisbon,Ferno (VA),Lisbon,Ferno
+"{'LIS', 'OPO'}",60.0,LIS,OPO,Lisbon,Porto,Lisbon,Postage
+"{'LIS', 'ORY'}",151.25,LIS,ORY,Lisbon,Paris,Lisbon,Paris
+"{'LIS', 'OSL'}",250.0,LIS,OSL,Lisbon,Oslo,Lisbon,Oslo
+"{'LIS', 'PDL'}",137.5,LIS,PDL,Lisbon,Ponta Delgada,Lisbon,Ponta Delgada
+"{'LIS', 'TER'}",150.0,LIS,TER,Lisbon,Praia da Vitória,Lisbon,Praia da Vitoria
+"{'LIS', 'VIE'}",215.0,LIS,VIE,Lisbon,Vienna,Lisbon,Vienna
+"{'LIS', 'VLC'}",92.5,LIS,VLC,Lisbon,Valencia,Lisbon,Valencia
+"{'LIS', 'WMI'}",250.0,LIS,WMI,Lisbon,Warsaw,Lisbon,Warsaw
+"{'LIS', 'ZRH'}",170.0,LIS,ZRH,Lisbon,Zurich,Lisbon,Zurich
+"{'LLA', 'ARN'}",80.0,LLA,ARN,Luleå,Stockholm,Lulea,Stockholm
+"{'ALC', 'LPL'}",170.0,ALC,LPL,Alicante,Liverpool,Alicante,Liverpool
+"{'LPL', 'BCN'}",155.0,LPL,BCN,Liverpool,Barcelona,Liverpool,Barcelona
+"{'LPL', 'GDN'}",145.0,LPL,GDN,Liverpool,Gdańsk,Liverpool,Gdansk
+"{'LPL', 'OTP'}",220.0,LPL,OTP,Liverpool,Otopeni,Liverpool,Otopeni
+"{'RVN', 'LPL'}",245.0,RVN,LPL,Rovaniemi,Liverpool,Rovaniemi,Liverpool
+"{'LTN', 'AGP'}",172.5,LTN,AGP,"Luton, Bedfordshire",Málaga,Luton,Malaga
+"{'LTN', 'BCN'}",125.0,LTN,BCN,"Luton, Bedfordshire",Barcelona,Luton,Barcelona
+"{'LTN', 'BFS'}",75.0,LTN,BFS,"Luton, Bedfordshire",Belfast,Luton,Belfast
+"{'CLJ', 'LTN'}",185.0,CLJ,LTN,Cluj-Napoca,"Luton, Bedfordshire",Cluj,Luton
+"{'LTN', 'EDI'}",75.0,LTN,EDI,"Luton, Bedfordshire",Edinburgh,Luton,Edinburgh
+"{'LTN', 'GDN'}",140.0,LTN,GDN,"Luton, Bedfordshire",Gdańsk,Luton,Gdansk
+"{'LTN', 'GNB'}",107.5,LTN,GNB,"Luton, Bedfordshire",Saint-Étienne-de-Saint-Geoirs,Luton,Saint
+"{'LTN', 'GVA'}",105.0,LTN,GVA,"Luton, Bedfordshire",Geneva,Luton,Geneva
+"{'LTN', 'IAS'}",205.0,LTN,IAS,"Luton, Bedfordshire",Iaşi,Luton,Iasi
+"{'LTN', 'OTP'}",207.5,LTN,OTP,"Luton, Bedfordshire",Otopeni,Luton,Otopeni
+"{'LTN', 'PRN'}",202.5,LTN,PRN,"Luton, Bedfordshire",Prishtina,Luton,Prishtina
+"{'LTN', 'SCV'}",195.0,LTN,SCV,"Luton, Bedfordshire",Suceava,Luton,Suceava
+"{'LTN', 'TOS'}",225.0,LTN,TOS,"Luton, Bedfordshire",Tromsø,Luton,Tromso
+"{'LTN', 'VNO'}",167.5,LTN,VNO,"Luton, Bedfordshire",Vilnius,Luton,Vilnius
+"{'LTN', 'WRO'}",127.5,LTN,WRO,"Luton, Bedfordshire",Wrocław,Luton,Wroclaw
+"{'LUX', 'AGP'}",162.5,LUX,AGP,Luxembourg,Málaga,Luxembourg,Malaga
+"{'LUX', 'BGY'}",75.0,LUX,BGY,Luxembourg,Orio al Serio (BG),Luxembourg,Orio al Serio
+"{'LUX', 'FUE'}",245.0,LUX,FUE,Luxembourg,El Matorral,Luxembourg,El Matorral
+"{'LUX', 'OPO'}",152.5,LUX,OPO,Luxembourg,Porto,Luxembourg,Postage
+"{'LUZ', 'LTN'}",160.0,LUZ,LTN,Lublin,"Luton, Bedfordshire",Lublin,Luton
+"{'LYS', 'ACE'}",215.0,LYS,ACE,Lyon,San Bartolomé,Lyon,San Bartolome
+"{'LYS', 'ARN'}",185.0,LYS,ARN,Lyon,Stockholm,Lyon,Stockholm
+"{'LYS', 'CDG'}",72.5,LYS,CDG,Lyon,Paris,Lyon,Paris
+"{'LYS', 'EDI'}",140.0,LYS,EDI,Lyon,Edinburgh,Lyon,Edinburgh
+"{'LYS', 'MAD'}",115.0,LYS,MAD,Lyon,Madrid,Lyon,Madrid
+"{'LYS', 'MUC'}",80.0,LYS,MUC,Lyon,Munich,Lyon,Munich
+"{'AGP', 'MAD'}",75.0,AGP,MAD,Málaga,Madrid,Malaga,Madrid
+"{'BCN', 'MAD'}",85.0,BCN,MAD,Barcelona,Madrid,Barcelona,Madrid
+"{'BLQ', 'MAD'}",155.0,BLQ,MAD,Bologna,Madrid,Bologna,Madrid
+"{'BOD', 'MAD'}",85.0,BOD,MAD,Bordeaux/Mérignac,Madrid,Bordeaux,Madrid
+"{'BRU', 'MAD'}",147.5,BRU,MAD,Zaventem,Madrid,Zaventem,Madrid
+"{'FUE', 'MAD'}",160.0,FUE,MAD,El Matorral,Madrid,El Matorral,Madrid
+"{'HAM', 'MAD'}",175.0,HAM,MAD,Hamburg,Madrid,Hamburg,Madrid
+"{'LGW', 'MAD'}",145.0,LGW,MAD,"Gatwick, Surrey",Madrid,Gatwick,Madrid
+"{'OPO', 'MAD'}",75.0,OPO,MAD,Porto,Madrid,Postage,Madrid
+"{'MAH', 'BCN'}",52.5,MAH,BCN,Mahón (Maó),Barcelona,Mahon,Barcelona
+"{'MAN', 'ACE'}",262.5,MAN,ACE,Manchester,San Bartolomé,Manchester,San Bartolome
+"{'MAN', 'AGP'}",177.5,MAN,AGP,Manchester,Málaga,Manchester,Malaga
+"{'MAN', 'ALC'}",167.5,MAN,ALC,Manchester,Alicante,Manchester,Alicante
+"{'MAN', 'AMS'}",77.5,MAN,AMS,Manchester,Amsterdam,Manchester,Amsterdam
+"{'MAN', 'BCN'}",135.0,MAN,BCN,Manchester,Barcelona,Manchester,Barcelona
+"{'MAN', 'BFS'}",61.25,MAN,BFS,Manchester,Belfast,Manchester,Belfast
+"{'MAN', 'BHD'}",70.0,MAN,BHD,Manchester,Belfast,Manchester,Belfast
+"{'MAN', 'BUD'}",162.5,MAN,BUD,Manchester,Budapest,Manchester,Budapest
+"{'MAN', 'CDG'}",87.5,MAN,CDG,Manchester,Paris,Manchester,Paris
+"{'MAN', 'CGN'}",97.5,MAN,CGN,Manchester,Köln (Cologne),Manchester,Cologne
+"{'MAN', 'CIA'}",167.5,MAN,CIA,Manchester,Rome,Manchester,Rome
+"{'MAN', 'CMF'}",125.0,MAN,CMF,Manchester,Viviers-du-Lac,Manchester,Viviers
+"{'MAN', 'CPH'}",115.0,MAN,CPH,Manchester,Copenhagen,Manchester,Copenhagen
+"{'MAN', 'FNC'}",242.5,MAN,FNC,Manchester,Funchal,Manchester,Funchal
+"{'MAN', 'FRA'}",100.0,MAN,FRA,Manchester,Frankfurt am Main,Manchester,Frankfurt am Main
+"{'MAN', 'FUE'}",267.5,MAN,FUE,Manchester,El Matorral,Manchester,El Matorral
+"{'MAN', 'GNB'}",115.0,MAN,GNB,Manchester,Saint-Étienne-de-Saint-Geoirs,Manchester,Saint
+"{'MAN', 'GVA'}",116.66666666666669,MAN,GVA,Manchester,Geneva,Manchester,Geneva
+"{'MAN', 'HEL'}",172.5,MAN,HEL,Manchester,Helsinki,Manchester,Helsinki
+"{'MAN', 'IOM'}",50.0,MAN,IOM,Manchester,Castletown,Manchester,Castletown
+"{'MAN', 'KRK'}",150.0,MAN,KRK,Manchester,Balice,Manchester,Balice
+"{'MAN', 'LHR'}",62.5,MAN,LHR,Manchester,London,Manchester,London
+"{'MAN', 'LIS'}",167.5,MAN,LIS,Manchester,Lisbon,Manchester,Lisbon
+"{'MAN', 'MAD'}",155.0,MAN,MAD,Manchester,Madrid,Manchester,Madrid
+"{'MAN', 'MLA'}",211.66666666666663,MAN,MLA,Manchester,Valletta,Manchester,Valletta
+"{'MAN', 'MUC'}",125.0,MAN,MUC,Manchester,Munich,Manchester,Munich
+"{'MAN', 'POZ'}",130.0,MAN,POZ,Manchester,Poznań,Manchester,Poznan
+"{'MAN', 'PRG'}",135.0,MAN,PRG,Manchester,Prague,Manchester,Prague
+"{'MAN', 'RMU'}",170.0,MAN,RMU,Manchester,Corvera,Manchester,Corvera
+"{'MAN', 'RZE'}",170.0,MAN,RZE,Manchester,Jasionka,Manchester,Jasionka
+"{'MAN', 'SDR'}",125.0,MAN,SDR,Manchester,Santander,Manchester,Santander
+"{'MAN', 'SVQ'}",170.0,MAN,SVQ,Manchester,Sevilla,Manchester,Seville
+"{'MAN', 'SZG'}",135.0,MAN,SZG,Manchester,Salzburg,Manchester,Salzburg
+"{'MAN', 'VCE'}",145.0,MAN,VCE,Manchester,Venezia (VE),Manchester,Venezia
+"{'MAN', 'VRN'}",145.0,MAN,VRN,Manchester,Caselle (VR),Manchester,Caselle
+"{'MAN', 'WRO'}",137.5,MAN,WRO,Manchester,Wrocław,Manchester,Wroclaw
+"{'MCX', 'DME'}",185.0,MCX,DME,Makhachkala,Moscow,Makhachkala,Moscow
+"{'MCX', 'LED'}",200.0,MCX,LED,Makhachkala,St. Petersburg,Makhachkala,St. Petersburg
+"{'MCX', 'SVO'}",195.0,MCX,SVO,Makhachkala,Moscow,Makhachkala,Moscow
+"{'MCX', 'VKO'}",167.5,MCX,VKO,Makhachkala,Moscow,Makhachkala,Moscow
+"{'MJT', 'ATH'}",60.0,MJT,ATH,Mytilene,Spata-Artemida,Mytilene,Spata
+"{'MLA', 'BCN'}",135.0,MLA,BCN,Valletta,Barcelona,Valletta,Barcelona
+"{'MLA', 'BGY'}",120.0,MLA,BGY,Valletta,Orio al Serio (BG),Valletta,Orio al Serio
+"{'MLA', 'BRU'}",180.0,MLA,BRU,Valletta,Zaventem,Valletta,Zaventem
+"{'MLA', 'CGN'}",170.0,MLA,CGN,Valletta,Köln (Cologne),Valletta,Cologne
+"{'MLA', 'CRL'}",172.5,MLA,CRL,Valletta,Charleroi,Valletta,Charleroi
+"{'MLA', 'CTA'}",48.333333333333336,MLA,CTA,Valletta,Catania,Valletta,Catania
+"{'MLA', 'EDI'}",230.0,MLA,EDI,Valletta,Edinburgh,Valletta,Edinburgh
+"{'INI', 'MLA'}",110.0,INI,MLA,Niš,Valletta,Nis,Valletta
+"{'MLA', 'LGW'}",195.0,MLA,LGW,Valletta,"Gatwick, Surrey",Valletta,Gatwick
+"{'MLA', 'MAD'}",175.0,MLA,MAD,Valletta,Madrid,Valletta,Madrid
+"{'MLA', 'MUC'}",145.0,MLA,MUC,Valletta,Munich,Valletta,Munich
+"{'MLA', 'OTP'}",140.0,MLA,OTP,Valletta,Otopeni,Valletta,Otopeni
+"{'MLA', 'PSA'}",100.0,MLA,PSA,Valletta,Pisa,Valletta,Pisa
+"{'MLA', 'ZRH'}",140.0,MLA,ZRH,Valletta,Zurich,Valletta,Zurich
+"{'MLN', 'AGP'}",57.5,MLN,AGP,Melilla,Málaga,Melilla,Malaga
+"{'MLN', 'GRX'}",60.0,MLN,GRX,Melilla,Granada,Melilla,Granada
+"{'MLN', 'LEI'}",55.0,MLN,LEI,Melilla,Almería,Melilla,Almeria
+"{'MMX', 'ARN'}",70.0,MMX,ARN,Malmö,Stockholm,Malmo,Stockholm
+"{'MMX', 'BMA'}",80.0,MMX,BMA,Malmö,Stockholm,Malmo,Stockholm
+"{'MPL', 'AMS'}",125.0,MPL,AMS,Montpellier/Méditerranée,Amsterdam,Montpellier,Amsterdam
+"{'MPL', 'CDG'}",87.5,MPL,CDG,Montpellier/Méditerranée,Paris,Montpellier,Paris
+"{'MRS', 'AGP'}",120.0,MRS,AGP,Marseille,Málaga,Marseille,Malaga
+"{'MRS', 'AJA'}",50.0,MRS,AJA,Marseille,Ajaccio/Napoléon Bonaparte,Marseille,Ajaccio
+"{'MRS', 'ALC'}",95.0,MRS,ALC,Marseille,Alicante,Marseille,Alicante
+"{'MRS', 'BIA'}",55.0,MRS,BIA,Marseille,Bastia/Poretta,Marseille,Bastia
+"{'MRS', 'BUD'}",120.0,MRS,BUD,Marseille,Budapest,Marseille,Budapest
+"{'MRS', 'CDG'}",95.0,MRS,CDG,Marseille,Paris,Marseille,Paris
+"{'MRS', 'CRL'}",105.0,MRS,CRL,Marseille,Charleroi,Marseille,Charleroi
+"{'MRS', 'LIS'}",140.0,MRS,LIS,Marseille,Lisbon,Marseille,Lisbon
+"{'MRS', 'LYS'}",65.0,MRS,LYS,Marseille,Lyon,Marseille,Lyon
+"{'MRS', 'MAD'}",107.5,MRS,MAD,Marseille,Madrid,Marseille,Madrid
+"{'MRS', 'NTE'}",90.0,MRS,NTE,Marseille,Nantes,Marseille,Nantes
+"{'MRS', 'ORY'}",82.5,MRS,ORY,Marseille,Paris,Marseille,Paris
+"{'MRS', 'OTP'}",165.0,MRS,OTP,Marseille,Otopeni,Marseille,Otopeni
+"{'MRV', 'AER'}",62.5,MRV,AER,Mineralnyye Vody,Sochi,Mineralnyye Vody,Sochi
+"{'MRV', 'CEE'}",210.0,MRV,CEE,Mineralnyye Vody,Cherepovets,Mineralnyye Vody,Cherepovets
+"{'MRV', 'CEK'}",192.5,MRV,CEK,Mineralnyye Vody,Chelyabinsk,Mineralnyye Vody,Chelyabinsk
+"{'MRV', 'DME'}",195.0,MRV,DME,Mineralnyye Vody,Moscow,Mineralnyye Vody,Moscow
+"{'MRV', 'KLF'}",185.0,MRV,KLF,Mineralnyye Vody,Kaluga,Mineralnyye Vody,Kaluga
+"{'MRV', 'KUF'}",160.0,MRV,KUF,Mineralnyye Vody,Samara,Mineralnyye Vody,Samara
+"{'MRV', 'LED'}",180.0,MRV,LED,Mineralnyye Vody,St. Petersburg,Mineralnyye Vody,St. Petersburg
+"{'MRV', 'MQF'}",160.0,MRV,MQF,Mineralnyye Vody,Magnitogorsk,Mineralnyye Vody,Magnitogorsk
+"{'MRV', 'NBC'}",170.0,MRV,NBC,Mineralnyye Vody,Nizhnekamsk,Mineralnyye Vody,Nizhnekamsk
+"{'MRV', 'PEE'}",197.5,MRV,PEE,Mineralnyye Vody,Perm,Mineralnyye Vody,Perm
+"{'MRV', 'SVO'}",197.5,MRV,SVO,Mineralnyye Vody,Moscow,Mineralnyye Vody,Moscow
+"{'MRV', 'UFA'}",170.0,MRV,UFA,Mineralnyye Vody,Ufa,Mineralnyye Vody,Ufa
+"{'MRV', 'VKO'}",142.5,MRV,VKO,Mineralnyye Vody,Moscow,Mineralnyye Vody,Moscow
+"{'MRV', 'VOG'}",130.0,MRV,VOG,Mineralnyye Vody,Volgograd,Mineralnyye Vody,Volgograd

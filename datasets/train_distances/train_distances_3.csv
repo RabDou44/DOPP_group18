@@ -1,0 +1,301 @@
+city1,city2,transit_distance [m],transit_time [s]
+Ibiza,Madrid,611672,37634
+Culleredo,Madrid,709686,35843
+Almeria,Madrid,426980,24103
+London,Madrid,1783116,70560
+Segrate,Madrid,1711011,75420
+Lisbon,Madrid,553107,30000
+Lyon,Madrid,1244394,39503
+Malaga,Madrid,448077,26940
+Barcelona,Madrid,518747,27300
+Bologna,Madrid,1911669,74340
+Bordeaux,Madrid,557722,31947
+Zaventem,Madrid,1712646,63840
+El Matorral,Madrid,-1,-1
+Hamburg,Madrid,2320471,83280
+Gatwick,Madrid,2148918,74100
+Postage,Madrid,-1,-1
+Manchester,Madrid,2019890,80100
+Valletta,Madrid,-1,-1
+Marseille,Madrid,1014697,37200
+Krasnoyarsk,Moscow,-1,-1
+Krasnodar,Moscow,2333338,68700
+Krasnodar,Moscow,2333338,68700
+Kirov,Moscow,1536020,44100
+Kirov,Moscow,1536020,44100
+Kazan,Moscow,1581862,47820
+Kazan,Moscow,1581862,47820
+Makhachkala,Moscow,2983736,158820
+Makhachkala,Moscow,2983736,158820
+Makhachkala,Moscow,2983736,158820
+Mineralnyye Vody,Moscow,2670312,86640
+Mineralnyye Vody,Moscow,2670312,86640
+Mineralnyye Vody,Moscow,2670312,86640
+Ivanovo,St. Petersburg,1174896,35040
+Kaliningrad,St. Petersburg,1227809,84024
+Krasnoyarsk,St. Petersburg,6190048,226260
+Samara,St. Petersburg,1836132,72600
+Kirov,St. Petersburg,1946517,82140
+Kazan,St. Petersburg,2703474,89700
+Cherepovets,St. Petersburg,615009,36934
+Murmansk,St. Petersburg,2036611,86220
+Makhachkala,St. Petersburg,3542665,158820
+Mineralnyye Vody,St. Petersburg,3353012,107640
+Ibiza,Barcelona,643731,37334
+Balice,Barcelona,2394477,103537
+London,Barcelona,1503477,60960
+Lisbon,Barcelona,1138429,39900
+Liverpool,Barcelona,-1,-1
+Luton,Barcelona,1549673,61320
+Mahon,Barcelona,245236,57635
+Manchester,Barcelona,1910605,61380
+Valletta,Barcelona,-1,-1
+Innsbruck,Gatwick,1796084,58680
+Inverness,Gatwick,968791,42000
+Balice,Gatwick,1751777,71778
+Malaga,Gatwick,2315775,83940
+Barcelona,Gatwick,1626423,56220
+Saint Helier,Gatwick,294593,25032
+Otopeni,Gatwick,-1,-1
+Lisbon,Gatwick,2399956,85740
+Valletta,Gatwick,-1,-1
+Chisinau,Paris,2656379,143186
+Segrate,Paris,879823,40500
+Lisbon,Paris,1849240,70320
+Lisbon,Paris,1849240,70320
+Lyon,Paris,395901,21983
+Manchester,Paris,850329,35400
+Montpellier,Paris,685655,24840
+Marseille,Paris,768333,29416
+Marseille,Paris,768333,29416
+Balice,Amsterdam,1197107,58938
+Kjevik,Amsterdam,-1,-1
+Leeds,Amsterdam,920017,38700
+London,Amsterdam,535353,35760
+Segrate,Amsterdam,1422103,50940
+Lisbon,Amsterdam,2382209,82740
+Manchester,Amsterdam,887657,38100
+Montpellier,Amsterdam,1229971,37920
+Balice,Malaga,3545698,132498
+Grace,Malaga,-1,-1
+London,Malaga,2272216,83580
+Luton,Malaga,2664706,86760
+Luxembourg,Malaga,2608566,68668
+Manchester,Malaga,2480812,104400
+Melilla,Malaga,-1,-1
+Marseille,Malaga,1550556,48360
+Iasi,Otopeni,378257,39180
+Chisinau,Otopeni,444297,27109
+London,Otopeni,2688075,138420
+Liverpool,Otopeni,-1,-1
+Luton,Otopeni,2987732,141480
+Valletta,Otopeni,-1,-1
+Marseille,Otopeni,-1,-1
+Ozarowice,Valletta,-1,-1
+London,Valletta,-1,-1
+Segrate,Valletta,-1,-1
+Lisbon,Valletta,-1,-1
+Manchester,Valletta,-1,-1
+Nis,Valletta,-1,-1
+Innsbruck,Edinburgh,2380129,72420
+Balice,Edinburgh,2335888,84738
+London,Edinburgh,673363,32400
+Luton,Edinburgh,624891,32100
+Lyon,Edinburgh,1606638,53603
+Valletta,Edinburgh,-1,-1
+Kuusamo,Helsinki,900615,32781
+Kittila,Helsinki,1072935,47100
+Kuopio,Helsinki,432475,14880
+Segrate,Helsinki,2817105,152220
+Lisbon,Helsinki,4456764,201600
+Manchester,Helsinki,2971406,150600
+Ioannina,Spata,917970,101332
+Santorini Island,Spata,-1,-1
+Kos Island,Spata,-1,-1
+Ozarowice,Spata,1899532,131166
+London,Spata,3664682,192958
+Mytilene,Spata,-1,-1
+Balice,Stockholm,2089243,85818
+London,Stockholm,2147903,106200
+Lulea,Stockholm,944754,43380
+Lyon,Stockholm,2553498,106523
+Malmo,Stockholm,596149,24780
+Malmo,Stockholm,596149,24780
+Segrate,Munich,544374,40260
+Lisbon,Munich,2700923,101100
+Lyon,Munich,820072,45983
+Manchester,Munich,1705487,58140
+Valletta,Munich,-1,-1
+London,Geneva,938682,42840
+Lesquin,Geneva,759842,36372
+Lisbon,Geneva,2324819,78240
+Luton,Geneva,984878,43200
+Manchester,Geneva,1380327,50400
+Balice,Orio al Serio,1308372,68816
+Kaunas,Orio al Serio,2155368,101770
+Lisbon,Orio al Serio,-1,-1
+Luxembourg,Orio al Serio,772596,59219
+Valletta,Orio al Serio,-1,-1
+Ozarowice,Alicante,3471890,126975
+Leeds,Alicante,-1,-1
+Lisbon,Alicante,1002310,44040
+Manchester,Alicante,-1,-1
+Marseille,Alicante,938395,48480
+London,Zaventem,407372,29400
+Segrate,Zaventem,1256805,46020
+Lisbon,Zaventem,2176200,77580
+Valletta,Zaventem,-1,-1
+Balice,Luton,1752527,70398
+Ozarowice,Luton,1725760,70636
+Cluj,Luton,-1,-1
+Lublin,Luton,1916809,75497
+Chisinau,Lisbon,4375981,192994
+London,Lisbon,3059868,110400
+Manchester,Lisbon,2628945,107640
+Marseille,Lisbon,1590152,72600
+Kittila,Zurich,3516334,184200
+London,Zurich,1009585,47820
+Lisbon,Zurich,2530925,90420
+Valletta,Zurich,-1,-1
+Castletown,London,-1,-1
+Saint,London,-1,-1
+Lisbon,London,2355271,83160
+Manchester,London,340402,43800
+Innsbruck,Vienna,501046,18840
+Balice,Vienna,495540,27018
+London,Vienna,1852190,69360
+Lisbon,Vienna,3164811,122820
+Balice,Rome,1538615,70425
+Lisbon,Rome,3232202,124860
+Manchester,Rome,2209640,76740
+Leeds,San Bartolome,-1,-1
+Lyon,San Bartolome,-1,-1
+Manchester,San Bartolome,-1,-1
+Lisbon,Cologne,2391159,89940
+Manchester,Cologne,892880,41700
+Valletta,Cologne,-1,-1
+London,Lyon,830124,40620
+Lisbon,Lyon,2167072,68700
+Marseille,Lyon,405424,24023
+Ibiza,Valencia,209726,27447
+Balice,Valencia,2755714,122538
+Lisbon,Valencia,938716,38520
+Ozarowice,Catania,2468602,109798
+Segrate,Catania,1314895,64651
+Valletta,Catania,-1,-1
+London,Saint,-1,-1
+Luton,Saint,-1,-1
+Manchester,Saint,-1,-1
+Luton,Belfast,879925,54660
+Manchester,Belfast,502634,44160
+Manchester,Belfast,502634,44160
+Balice,Oslo,2036332,88485
+London,Oslo,2076660,108600
+Lisbon,Oslo,3792990,164100
+Balice,Charleroi,1380589,60078
+Valletta,Charleroi,-1,-1
+Marseille,Charleroi,1145267,39376
+Manchester,Budapest,2408930,84120
+Marseille,Budapest,1542302,75355
+Kazan,Samara,-1,-1
+Mineralnyye Vody,Samara,2897242,157740
+Luxembourg,El Matorral,-1,-1
+Manchester,El Matorral,-1,-1
+London,Salzburg,1543725,60540
+Manchester,Salzburg,-1,-1
+Leeds,Viviers,1443142,44889
+Manchester,Viviers,1395529,45009
+Leeds,Balice,2083238,97957
+Manchester,Balice,2134837,101749
+Kosice,Prague,730901,30480
+Manchester,Prague,1661514,71700
+Luton,Wroclaw,1581289,76500
+Manchester,Wroclaw,1870218,81545
+Liverpool,Gdansk,-1,-1
+Luton,Gdansk,1761143,78720
+Alicante,Liverpool,-1,-1
+Rovaniemi,Liverpool,-1,-1
+Lisbon,Postage,-1,-1
+Luxembourg,Postage,-1,-1
+London,Ferno,-1,-1
+Lisbon,Ferno,-1,-1
+Leeds,Poznan,1740857,72360
+Manchester,Poznan,1817197,64130
+Innsbruck,Frankfurt am Main,-1,-1
+Manchester,Frankfurt am Main,1072714,46260
+Gatwick,Saint Helier,291378,25959
+Southampton,Saint Helier,234377,21399
+Balice,Bologna,1224899,62325
+London,Bologna,1502358,66540
+Balice,Gothenburg,1791456,81138
+London,Gothenburg,1871226,94260
+Balice,Warsaw,388994,19365
+Lisbon,Warsaw,4269593,141720
+Balice,Cagliari,2028512,124785
+Segrate,Cagliari,1041786,67260
+Balice,Pisa,1380895,68865
+Valletta,Pisa,-1,-1
+Balice,Toulouse,-1,-1
+London,Toulouse,1220929,51600
+Luton,Suceava,2399111,118512
+Luton,Prishtina,2778574,154589
+Luton,Tromso,3933251,182117
+Luton,Vilnius,2283550,111763
+Manchester,Seville,2614404,112800
+Innsbruck,Bristol,1942814,64200
+Nis,Zgornji Brnik,796195,58392
+Frankfurt am Main,Nis,1545861,89077
+Manchester,Copenhagen,1958821,88200
+Manchester,Funchal,-1,-1
+Manchester,Castletown,-1,-1
+Manchester,Corvera,2729752,105900
+Manchester,Jasionka,2177513,95846
+Manchester,Santander,-1,-1
+Kjevik,Bergen,411882,49044
+Manchester,Venezia,2055239,75840
+Manchester,Caselle,1846096,73602
+Luton,Iasi,2587092,154107
+Melilla,Almeria,-1,-1
+Marseille,Ajaccio,-1,-1
+Marseille,Bastia,-1,-1
+Marseille,Nantes,1188649,40516
+Mineralnyye Vody,Sochi,1126473,36120
+Mineralnyye Vody,Cherepovets,-1,-1
+Mineralnyye Vody,Chelyabinsk,5274603,248760
+Mineralnyye Vody,Kaluga,-1,-1
+Mineralnyye Vody,Magnitogorsk,4374004,221400
+Mineralnyye Vody,Nizhnekamsk,-1,-1
+Mineralnyye Vody,Perm,5411395,192720
+Mineralnyye Vody,Ufa,-1,-1
+Melilla,Granada,-1,-1
+Lisbon,Praia da Vitoria,-1,-1
+Innsbruck,Manchester,2044275,64980
+Lisbon,Ponta Delgada,-1,-1
+Balice,Podgorica,1785726,172004
+Spata,Kavala,644337,32269
+Balice,Nykoping,2005186,87465
+Balice,Lesquin,1443367,63774
+Leeds,Faro,3013136,119640
+Balice,Eindhoven,1229198,60378
+El Matorral,Schkeuditz,-1,-1
+London,Aberdeen,-1,-1
+London,Billund,1374967,75180
+Balice,Tille,1957177,77586
+London,Gibraltar,2321936,121811
+London,Paisley,-1,-1
+Balice,Birmingham,1886297,74358
+London,Segrate,1260971,67620
+Kirkenes,Vadso,155369,36460
+Moscow,Krasnoyarsk,-1,-1
+London,Nice,1383183,51660
+London,Newcastle,432047,14220
+Kos Island,Thessaloniki,-1,-1
+Segrate,Brindisi,1149183,49140
+Kos Island,Rhodes,140689,18332
+Segrate,Reggio Calabria,1208148,53580
+Segrate,Lamezia Terme,1094837,51900
+Lisbon,Bordeaux,1284397,60900
+Moscow,Kaliningrad,1303745,90684
+Lisbon,Luxembourg,2253202,88888
+Spata,Mykonos,-1,-1
+Mineralnyye Vody,Volgograd,1343796,81720
