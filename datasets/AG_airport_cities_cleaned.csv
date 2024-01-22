@@ -1,0 +1,305 @@
+original_city,cleaned_city,new_cleaned_city
+Andenes,Andenes,Andenes
+Moscow,Moscow,Moscow
+Prague,Prague,Prague
+Stavropol,Stavropol,Stavropol
+Craiova,Craiova,Craiova
+Bristol,Bristol,Bristol
+El Matorral,El Matorral,El Matorral
+Firenze,Firenze,Firenze
+Rhodes,Rhodes,Rhodes
+Nyköping,Nyköping,Nykoping
+Rotterdam,Rotterdam,Rotterdam
+Alghero,Alghero,Alghero
+Dresden,Dresden,Dresden
+Jasionka,Jasionka,Jasionka
+Kazan,Kazan,Kazan
+Goleniow,Goleniow,Goleniow
+"Sta Cruz de la Palma, La Palma Island","Sta Cruz de la Palma, La Palma Island",Sta Cruz de la Palma
+Samara,Samara,Samara
+Radom,Radome,Radome
+Munich,Munich,Munich
+Zagreb,Zagreb,Zagreb
+Castellón de la Plana,Castellón de la Plana,Castellon de la Plana
+Geneva,Geneva,Geneva
+Tallinn,Tallinn,Tallinn
+Brindisi,Brindisi,Brindisi
+Aalborg,Aalborg,Aalborg
+Bugulma,Bugulma,Bugulma
+Ajaccio/Napoléon Bonaparte,Ajaccio/Napoléon Bonaparte,Ajaccio
+Mineralnyye Vody,Mineralnyye Vody,Mineralnyye Vody
+Gelendzhik,Gelendzhik,Gelendzhik
+Eindhoven,Eindhoven,Eindhoven
+Pula,Pula,Pula
+Tampere / Pirkkala,Tampere / Pirkkala,Tampere
+Feldkirchen bei Graz,Feldkirchen near Graz,Graz
+Helsinki,Helsinki,Helsinki
+Lublin,Lublin,Lublin
+Karmøy,Karmøy,Karmoy
+Bologna,Bologna,Bologna
+Bydgoszcz,Bydgoszcz,Bydgoszcz
+Billund,Billund,Billund
+Otopeni,Otopeni,Otopeni
+Stavanger,Stavanger,Stavanger
+Tromsø,Tromsø,Tromso
+Segrate (MI),Segrate ,Segrate
+Varna,Varna,Varna
+Kaluga,Kaluga,Kaluga
+Granada,Granada,Granada
+Bergen,Bergen,Bergen
+Praia da Vitória,Praia da Vitória,Praia da Vitoria
+Košice,Košice,Kosice
+Vienna,Vienna,Vienna
+Lamezia Terme (CZ),Lamezia Terme ,Lamezia Terme
+Barcelona,Barcelona,Barcelona
+Dubrave Gornje,Dubrave Gornje,Dubrave Gornje
+Memmingen,Memmingen,Memmingen
+Chelyabinsk,Chelyabinsk,Chelyabinsk
+Sabetta,Sabetta,Sabetta
+Lyon,Lyon,Lyon
+Alexandroupolis,Alexandroupolis,Alexandroupolis
+Inverness,Inverness,Inverness
+Valencia,Valencia,Valencia
+Bari,Bari,Bari
+Sofia,Sofia,Sofia
+Aberdeen,Aberdeen,Aberdeen
+Birmingham,Birmingham,Birmingham
+Toulouse/Blagnac,Toulouse/Blagnac,Toulouse
+Jerez de la Frontera,Jerez de la Frontera,Jerez de la Frontera
+Corvera,Corvera,Corvera
+Petrozavodsk,Petrozavodsk,Petrozavodsk
+Archangelsk,Arkhangelsk,Arkhangelsk
+Rome,Rome,Rome
+Kos Island,Kos Island,Kos Island
+Souda,Souda,Souda
+Kaunas,Kaunas,Kaunas
+Gibraltar,Gibraltar,Gibraltar
+Leeds,Leeds,Leeds
+Ranón,Ranón,Ranon
+Podgorica,Podgorica,Podgorica
+Castletown,Castletown,Castletown
+Grozny,Grozny,Grozny
+Pskov,Pskov,Pskov
+Poznań,Poznań,Poznan
+Vila Baleira,Vila Baleira,Vila Baleira
+Cluj-Napoca,Cluj-Napoca,Cluj
+Venezia (VE),Venezia ,Venezia
+Tillé,Tillé,Tille
+Tarbes/Lourdes/Pyrénées,Tarbes/Lourdes/Pyrénées,Tarbes
+Krasnyi Kurgan,Krasnyi Kurgan,Krasnyi Kurgan
+Svolvær,Svolvær,Svolvaer
+Edinburgh,Edinburgh,Edinburgh
+Salzburg,Salzburg,Salzburg
+Béziers/Vias,Béziers/Vias,Beziers
+Crotone,Crotone,Crotone
+Cagliari,Cagliari,Cagliari
+Köln (Cologne),Cologne ,Cologne
+Kaliningrad,Kaliningrad,Kaliningrad
+Cascais,Cascais,Cascais
+Zaragoza,Zaragoza,Zaragoza
+Niš,Niš,Nis
+Saint Helier,Saint Helier,Saint Helier
+Southampton,Southampton,Southampton
+Ulyanovsk,Ulyanovsk,Ulyanovsk
+Balice,Balice,Balice
+Treviso (TV),Treviso ,Treviso
+Olsztyn,Olsztyn,Olsztyn
+Zakynthos,Zakynthos,Zakynthos
+Faro,Faro,Faro
+Paris,Paris,Paris
+Torp,Torp,Torp
+Málaga,Málaga,Malaga
+Tivat,Tivat,Tivat
+Ferno (VA),Ferno ,Ferno
+Saint Peter Port,Saint Peter Port,Saint Peter Port
+Palermo,Palermo,Palermo
+Volgograd,Volgograd,Volgograd
+Cardiff,Cardiff,Cardiff
+Reggio Calabria,Reggio Calabria,Reggio Calabria
+Evenes,Evenes,Evenes
+Newquay,Newquay,Newquay
+Greven,Greven,Greven
+Nantes,Nantes,Nantes
+Schkeuditz,Schkeuditz,Schkeuditz
+Astrakhan,Astrakhan,Astrakhan
+Zaventem,Zaventem,Zaventem
+Ronchi dei Legionari (GO),Ronchi dei Legionari ,Ronchi dei Legionari
+Mytilene,Mytilene,Mytilene
+Santander,Santander,Santander
+Mosjøen,Mosjøen,Mosjoen
+"Stornoway, Western Isles","Stornoway, Western Isles",Stornoway
+Santiago de Compostela,Santiago de Compostela,Santiago de Compostela
+Zurich,Zurich,Zurich
+Melilla,Melilla,Melilla
+Bremen,Bremen,Bremen
+Gdańsk,Gdańsk,Gdansk
+Nice,Nice,Nice
+Amsterdam,Amsterdam,Amsterdam
+Saint-Louis,Saint-Louis,Saint
+St. Petersburg,St. Petersburg,St. Petersburg
+Nizhny Novgorod,Nizhny Novgorod,Nizhny Novgorod
+Riga,Riga,Riga
+London,London,London
+Grâce-Hollogne,Grâce-Hollogne,Grace
+Nizhnekamsk,Nizhnekamsk,Nizhnekamsk
+Stuttgart,Stuttgart,Stuttgart
+Stockholm,Stockholm,Stockholm
+Mahón (Maó),Mahón ,Mahon
+Palanga,Palanga,Palanga
+Belfast,Belfast,Belfast
+Napoli,Napoli,Napoli
+Innsbruck,Innsbruck,Innsbruck
+Frankfurt am Main (Lautzenhausen),Frankfurt am Main ,Frankfurt am Main
+Kirov,Kirov,Kirov
+Düsseldorf,Düsseldorf,Dusseldorf
+Aarhus,Aarhus,Aarhus
+"Gatwick, Surrey","Gatwick, Surrey",Gatwick
+Kavala,Kavala,Kavala
+Kittilä,Kittilä,Kittila
+Nuremberg,Nuremberg,Nuremberg
+Cheboksary,Cheboksary,Cheboksary
+"Southend-on-Sea, Essex","Southend-on-Sea, Essex",Southend
+Kirkenes,Kirkenes,Kirkenes
+Montpellier/Méditerranée,Montpellier/Méditerranée,Montpellier
+Oulu / Oulunsalo,Oulu / Oulunsalo,Oulu
+Simferopol,Simferopol,Simferopol
+Banja Luka,Banja Luka,Banja Luka
+Charleroi,Charleroi,Charleroi
+Budapest,Budapest,Budapest
+Ibiza (Eivissa),Ibiza ,Ibiza
+Ohrid,Ohrid,Ohrid
+Hadsel,Hadsel,Hadsel
+Vaasa,Vaasa,Vaasa
+Prishtina,Prishtina,Prishtina
+Caselle Torinese (TO),Caselle Torinese ,Caselle Torinese
+Kuusamo,Kuusamo,Kuusamo
+Chita,Chita,Chita
+Luleå,Luleå,Lulea
+Copenhagen,Copenhagen,Copenhagen
+Hamburg,Hamburg,Hamburg
+Burgas,Burgas,Burgas
+Novokuznetsk,Novokuznetsk,Novokuznetsk
+Florø,Florø,Floro
+Weeze,Weeze,Weeze
+Calvi/Sainte-Catherine,Calvi/Sainte-Catherine,Calvi
+Chios Island,Chios Island,Chios Island
+Suceava,Suceava,Suceava
+Bilbao,Bilbao,Bilbao
+Bratislava,Bratislava,Bratislava
+Ożarowice,Ożarowice,Ozarowice
+Thessaloniki,Thessaloniki,Thessaloniki
+Porto,Postage,Postage
+Perm,Perm,Perm
+Alicante,Alicante,Alicante
+Belgrade,Belgrade,Belgrade
+Iaşi,Iaşi,Iasi
+Pico Island,Pico Island,Pico Island
+Santorini Island,Santorini Island,Santorini Island
+Horta,Horta,Horta
+Pamplona,Pamplona,Pamplona
+Figari Sud-Corse,Figari Sud-Corse,Figari Sud
+Saint-Étienne-de-Saint-Geoirs,Saint-Étienne-de-Saint-Geoirs,Saint
+Kjevik,Kjevik,Kjevik
+Hondarribia,Hondarribia,Hondarribia
+Chişinău,Chişinău,Chisinau
+Split,Split,Split
+Newcastle,Newcastle,Newcastle
+Orsk,Orsk,Orsk
+Bastia/Poretta,Bastia/Poretta,Bastia
+Rheinmünster,Rheinmünster,Rheinmunster
+Warsaw,Warsaw,Warsaw
+Marseille,Marseille,Marseille
+Sarajevo,Sarajevo,Sarajevo
+Luxembourg,Luxembourg,Luxembourg
+Liverpool,Liverpool,Liverpool
+"Paisley, Renfrewshire","Paisley, Renfrewshire",Paisley
+Oradea,Oradea,Oradea
+Ilinden,Ilinden,Ilinden
+San Bartolomé,San Bartolomé,San Bartolome
+Sochi,Sochi,Sochi
+Vila do Porto,Vila do Porto,Vila do Porto
+Bordeaux/Mérignac,Bordeaux/Mérignac,Bordeaux
+Rinas,Rinas,Rinas
+Samos Island,Samos Island,Samos Island
+Kuopio / Siilinjärvi,Kuopio / Siilinjärvi,Kuopio
+Culleredo,Culleredo,Culleredo
+Vadsø,Vadsø,Vadso
+Kerkyra (Corfu),Kerkyra ,Kerkyra
+Madrid,Madrid,Madrid
+Orenburg,Orenburg,Orenburg
+Brønnøy,Brønnøy,Bronnoy
+Ioannina,Ioannina,Ioannina
+Viseu,Viseu,Viseu
+Oslo,Oslo,Oslo
+Beslan,Beslan,Beslan
+Klagenfurt am Wörthersee,Klagenfurt on Lake Wörthersee,Klagenfurt on Lake Worthersee
+Leknes,Leknes,Leknes
+Timişoara,Timişoara,Timisoara
+Orio al Serio (BG),Orio al Serio ,Orio al Serio
+Caselle (VR),Caselle ,Caselle
+Viviers-du-Lac,Viviers-du-Lac,Viviers
+Rovaniemi,Rovaniemi,Rovaniemi
+Dortmund,Dortmund,Dortmund
+Malmö,Malmö,Malmo
+Tours/Val de Loire (Loire Valley),Tours/Val de Loire ,Tours
+Bacău,Bacău,Bacau
+Naryan Mar,Naryan Mar,Naryan Mar
+Bolzano (BZ),Bolzano ,Bolzano
+Ufa,Ufa,Ufa
+Trondheim,Trondheim,Trondheim
+Mykonos,Mykonos,Mykonos
+Izhevsk,Izhevsk,Izhevsk
+Krasnodar,Krasnodar,Krasnodar
+Parma (PR),Parma ,Parma
+Catania,Catania,Catania
+Bodø,Bodø,Bodo
+Bournemouth,Bournemouth,Bournemouth
+Murmansk,Murmansk,Murmansk
+Frankfurt am Main,Frankfurt am Main,Frankfurt am Main
+Umeå,Umeå,Umea
+Łódź,Łódź,Lodz
+Genova (GE),Genova ,Genova
+Almería,Almería,Almeria
+Crete Island,Crete Island,Crete Island
+Ivalo,Ivalo,Ivalo
+Ivanovo,Ivanovo,Ivanovo
+Vigo,Vigo,Vigo
+Minsk,Minsk,Minsk
+Sevilla,Seville,Seville
+Girona,Girona,Girona
+Magnitogorsk,Magnitogorsk,Magnitogorsk
+Zgornji Brnik,Zgornji Brnik,Zgornji Brnik
+Cherepovets,Cherepovets,Cherepovets
+Pisa,Pisa,Pisa
+Valletta,Valletta,Valletta
+Voronezh,Voronezh,Voronezh
+Vila Real,Vila Real,Vila Real
+Penza,Penza,Penza
+Makhachkala,Makhachkala,Makhachkala
+Spata-Artemida,Spata-Artemida,Spata
+"Luton, Bedfordshire","Luton, Bedfordshire",Luton
+Čilipi,Čilipi,Cilipi
+Olbia (SS),Olbia ,Olbia
+Hannover,Hanover,Hanover
+"Norwich, Norfolk","Norwich, Norfolk",Norwich
+Nottingham,Nottingham,Nottingham
+Sibiu,Sibiu,Sibiu
+Saint Anne,Saint Anne,Saint Anne
+Maastricht,Maastricht,Maastricht
+Vilnius,Vilnius,Vilnius
+Debrecen,Debrecen,Debrecen
+Lesquin,Lesquin,Lesquin
+Perugia,Perugia,Perugia
+Lisbon,Lisbon,Lisbon
+Gothenburg,Gothenburg,Gothenburg
+Ponta Delgada,Ponta Delgada,Ponta Delgada
+Ancona,Ancona,Ancona
+Ålesund,Ålesund,Alesund
+Manchester,Manchester,Manchester
+Vágar,Vágar,Vagar
+Funchal,Funchal,Funchal
+Krasnoyarsk,Krasnoyarsk,Krasnoyarsk
+Syktyvkar,Syktyvkar,Syktyvkar
+Pescara,Pescara,Pescara
+Bragança,Bragança,Braganca
+Wrocław,Wrocław,Wroclaw
