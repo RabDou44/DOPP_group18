@@ -1,0 +1,3435 @@
+city_1,city_2,transit_distance [m],transit_time [min]
+London,Burton-on-Trent,223568,498.0
+Birmingham,Burton-on-Trent,48586,22.816666666666666
+Greater Manchester,Burton-on-Trent,149323,629.35
+Liverpool,Burton-on-Trent,-1,-1.0
+Leeds,Burton-on-Trent,153590,114.0
+Greater Nottingham,Burton-on-Trent,44234,53.68333333333333
+Rotherham,Burton-on-Trent,85431,104.0
+Leicester,Burton-on-Trent,64445,43.0
+Newcastle-under-Lyme,Burton-on-Trent,79832,120.0
+Coventry,Burton-on-Trent,79067,47.0
+Wakefield,Burton-on-Trent,137226,101.0
+Derby,Burton-on-Trent,17209,10.0
+Northampton,Burton-on-Trent,127947,108.0
+Milton Keynes,Burton-on-Trent,149951,376.0
+Preston,Burton-on-Trent,-1,-1.0
+Warrington,Burton-on-Trent,281900,265.3333333333333
+Wigan,Burton-on-Trent,190992,136.0
+Gloucester,Burton-on-Trent,132165,94.0
+Telford,Burton-on-Trent,94290,86.0
+Cheltenham,Burton-on-Trent,121553,77.0
+Bedford,Burton-on-Trent,166682,147.0
+Barnsley,Burton-on-Trent,101487,115.0
+Doncaster,Burton-on-Trent,105348,79.0
+Worcester,Burton-on-Trent,90480,801.0
+Warwick,Burton-on-Trent,-1,-1.0
+Tamworth,Burton-on-Trent,20695,11.0
+Cannock,Burton-on-Trent,109792,128.0
+Mansfield,Burton-on-Trent,126903,160.0
+Nuneaton,Burton-on-Trent,82320,71.0
+Redditch,Burton-on-Trent,73990,86.0
+Crewe,Burton-on-Trent,243316,242.33333333333334
+Rugby,Burton-on-Trent,-1,-1.0
+London,Stafford,-1,-1.0
+Birmingham,Stafford,-1,-1.0
+Greater Manchester,Stafford,-1,-1.0
+Liverpool,Stafford,-1,-1.0
+Greater Nottingham,Stafford,-1,-1.0
+Rotherham,Stafford,-1,-1.0
+Leicester,Stafford,-1,-1.0
+Newcastle-under-Lyme,Stafford,-1,-1.0
+Coventry,Stafford,-1,-1.0
+Derby,Stafford,-1,-1.0
+Blackpool,Stafford,-1,-1.0
+Northampton,Stafford,-1,-1.0
+Milton Keynes,Stafford,-1,-1.0
+Preston,Stafford,-1,-1.0
+Warrington,Stafford,-1,-1.0
+Wigan,Stafford,-1,-1.0
+Telford,Stafford,-1,-1.0
+Halton,Stafford,-1,-1.0
+Cheltenham,Stafford,-1,-1.0
+Worcester,Stafford,-1,-1.0
+Warwick,Stafford,-1,-1.0
+Dacorum,Stafford,-1,-1.0
+Tamworth,Stafford,-1,-1.0
+Cannock,Stafford,-1,-1.0
+Nuneaton,Stafford,-1,-1.0
+Sefton,Stafford,-1,-1.0
+Redditch,Stafford,-1,-1.0
+Crewe,Stafford,-1,-1.0
+Rugby,Stafford,-1,-1.0
+Burton-on-Trent,Stafford,-1,-1.0
+Shrewsbury,Stafford,-1,-1.0
+Amsterdam,Vleuten,46895,43.0
+Rotterdam,Vleuten,48532,47.0
+Den Haag,Vleuten,52851,40.0
+Antwerpen,Vleuten,155266,129.0
+Leiden,Vleuten,42355,42.0
+Eindhoven,Vleuten,87598,67.0
+Utrecht,Vleuten,7419,10.0
+Dordrecht,Vleuten,68558,86.0
+Haarlem,Vleuten,65389,66.41666666666667
+Tilburg,Vleuten,78036,72.0
+Almere,Vleuten,51778,63.0
+Arnhem,Vleuten,64160,52.0
+Nijmegen,Vleuten,82499,71.0
+Amersfoort,Vleuten,28573,44.0
+Apeldoorn,Vleuten,124386,124.0
+'s-Hertogenbosch,Vleuten,55519,46.0
+Zoetermeer,Vleuten,41561,40.0
+Breda,Vleuten,99368,91.0
+Zwolle,Vleuten,125763,124.0
+Alkmaar,Vleuten,88179,100.0
+Helmond,Vleuten,100723,82.0
+Beverwijk/Heemskerk,Vleuten,77159,86.0
+Hilversum,Vleuten,24705,37.0
+Purmerend,Vleuten,73807,83.0
+Ede,Vleuten,47827,42.0
+Gouda,Vleuten,24789,20.0
+Hoorn,Vleuten,91664,75.8
+Alphen aan den Rijn,Vleuten,27459,26.0
+Lelystad,Vleuten,76619,88.0
+Roosendaal,Vleuten,122417,117.0
+Veenendaal,Vleuten,40140,68.0
+London,Rugby,-1,-1.0
+Birmingham,Rugby,-1,-1.0
+Greater Manchester,Rugby,-1,-1.0
+Liverpool,Rugby,-1,-1.0
+Greater Nottingham,Rugby,-1,-1.0
+Leicester,Rugby,-1,-1.0
+Newcastle-under-Lyme,Rugby,-1,-1.0
+Coventry,Rugby,-1,-1.0
+Derby,Rugby,-1,-1.0
+Reading,Rugby,-1,-1.0
+Northampton,Rugby,-1,-1.0
+Milton Keynes,Rugby,-1,-1.0
+Oxford,Rugby,-1,-1.0
+Warrington,Rugby,-1,-1.0
+Wigan,Rugby,-1,-1.0
+Gloucester,Rugby,-1,-1.0
+Telford,Rugby,-1,-1.0
+Halton,Rugby,-1,-1.0
+Cheltenham,Rugby,-1,-1.0
+Bedford,Rugby,-1,-1.0
+Worcester,Rugby,-1,-1.0
+Warwick,Rugby,-1,-1.0
+Dacorum,Rugby,-1,-1.0
+Tamworth,Rugby,-1,-1.0
+Cannock,Rugby,-1,-1.0
+Gravesham,Rugby,-1,-1.0
+Nuneaton,Rugby,-1,-1.0
+Redditch,Rugby,-1,-1.0
+St Albans,Rugby,-1,-1.0
+Crewe,Rugby,-1,-1.0
+London,St Albans,31917,21.0
+Birmingham,St Albans,254910,584.0
+Greater Nottingham,St Albans,172819,577.6833333333333
+Leicester,St Albans,127520,489.0
+Coventry,St Albans,183778,115.0
+Southend-on-Sea,St Albans,101583,121.0
+Luton,St Albans,16748,14.0
+Derby,St Albans,238253,543.0
+Medway,St Albans,92304,142.08333333333334
+Northampton,St Albans,138694,112.0
+Milton Keynes,St Albans,112842,96.0
+Woking,St Albans,73547,133.0
+Frimley,St Albans,84257,139.0
+Peterborough,St Albans,154939,78.0
+Cambridge,St Albans,125109,78.0
+Colchester,St Albans,118608,120.1
+Crawley,St Albans,107967,135.0
+Bedford,St Albans,48314,39.0
+Chelmsford,St Albans,82326,93.0
+Basildon,St Albans,92977,120.0
+Warwick,St Albans,-1,-1.0
+Stevenage,St Albans,76483,64.0
+Thurrock,St Albans,70761,126.1
+Maidstone,St Albans,96462,117.0
+Dacorum,St Albans,23633,59.61666666666667
+Harlow,St Albans,79984,135.0
+Gravesham,St Albans,78496,117.21666666666667
+Nuneaton,St Albans,157416,576.0
+London,Crewe,254034,152.0
+Birmingham,Crewe,84760,53.0
+Greater Manchester,Crewe,55055,94.35
+Liverpool,Crewe,-1,-1.0
+Leeds,Crewe,142322,223.0
+Greater Nottingham,Crewe,177580,153.68333333333334
+Rotherham,Crewe,255117,267.0
+Leicester,Crewe,148630,130.0
+Newcastle-under-Lyme,Crewe,67366,110.0
+Coventry,Crewe,115219,79.0
+Wakefield,Crewe,133205,162.0
+Derby,Crewe,195815,98.0
+Blackpool,Crewe,110322,514.0
+Northampton,Crewe,164077,181.0
+Milton Keynes,Crewe,173996,115.0
+Preston,Crewe,-1,-1.0
+Warrington,Crewe,38585,18.0
+Wigan,Crewe,57666,34.0
+Blackburn with Darwen,Crewe,130552,184.86666666666667
+Huddersfield,Crewe,128072,169.0
+Telford,Crewe,88977,86.0
+Burnley,Crewe,119612,516.0
+Halton,Crewe,-1,-1.0
+Warwick,Crewe,-1,-1.0
+Tamworth,Crewe,112659,87.0
+Cannock,Crewe,55316,68.0
+Nuneaton,Crewe,118494,100.0
+Sefton,Crewe,70668,131.93333333333334
+London,Redhill,57200,97.0
+Portsmouth,Redhill,155642,189.7
+Brighton,Redhill,-1,-1.0
+Luton,Redhill,87996,135.7
+Medway,Redhill,98423,206.78333333333333
+Reading,Redhill,-1,-1.0
+Milton Keynes,Redhill,120290,153.7
+Woking,Redhill,61338,160.0
+Swindon,Redhill,167860,176.7
+Frimley,Redhill,92633,173.7
+Oxford,Redhill,145805,214.7
+Slough,Redhill,71565,141.7
+Worthing,Redhill,70319,140.86666666666667
+Crawley,Redhill,18514,67.28333333333333
+Eastbourne,Redhill,77718,137.86666666666667
+Chelmsford,Redhill,84115,140.7
+Basingstoke and Deane,Redhill,89089,126.31666666666666
+Stevenage,Redhill,84016,128.7
+Hastings,Redhill,131938,534.7
+Maidstone,Redhill,93891,133.7
+Dacorum,Redhill,80370,171.88333333333333
+Gravesham,Redhill,86011,211.91666666666666
+St Albans,Redhill,71324,118.7
+Ashford,Redhill,129560,151.7
+Guildford,Redhill,72428,113.7
+Bracknell,Redhill,84020,149.7
+Tunbridge Wells,Redhill,86851,484.7
+Aldwick,Redhill,78992,124.15
+Ruhrgebiet,Oss,-1,-1.0
+Amsterdam,Oss,-1,-1.0
+Rotterdam,Oss,-1,-1.0
+Den Haag,Oss,-1,-1.0
+Leiden,Oss,-1,-1.0
+Eindhoven,Oss,-1,-1.0
+Utrecht,Oss,-1,-1.0
+Dordrecht,Oss,-1,-1.0
+Tilburg,Oss,-1,-1.0
+Almere,Oss,-1,-1.0
+Arnhem,Oss,-1,-1.0
+Nijmegen,Oss,-1,-1.0
+Amersfoort,Oss,-1,-1.0
+Apeldoorn,Oss,-1,-1.0
+'s-Hertogenbosch,Oss,-1,-1.0
+Zoetermeer,Oss,-1,-1.0
+Breda,Oss,-1,-1.0
+Helmond,Oss,-1,-1.0
+Sittard-Geleen,Oss,-1,-1.0
+Hilversum,Oss,-1,-1.0
+Ede,Oss,-1,-1.0
+Venlo,Oss,-1,-1.0
+Gouda,Oss,-1,-1.0
+Alphen aan den Rijn,Oss,-1,-1.0
+Roosendaal,Oss,-1,-1.0
+Veenendaal,Oss,-1,-1.0
+Vleuten,Oss,-1,-1.0
+Bergen op Zoom,Oss,-1,-1.0
+Amsterdam,Soest,290168,251.0
+Rotterdam,Soest,472419,498.0
+Den Haag,Soest,311077,252.0
+Leiden,Soest,337072,481.0
+Eindhoven,Soest,217181,213.0
+Utrecht,Soest,-1,-1.0
+Dordrecht,Soest,341894,503.0
+Haarlem,Soest,323490,487.0
+Tilburg,Soest,254809,235.93333333333334
+Almere,Soest,310009,491.0
+Arnhem,Soest,193861,187.0
+Nijmegen,Soest,212406,189.0
+Amersfoort,Soest,271897,235.0
+Apeldoorn,Soest,240977,231.0
+'s-Hertogenbosch,Soest,256410,238.0
+Zoetermeer,Soest,314603,487.0
+Alkmaar,Soest,346277,498.0
+Beverwijk/Heemskerk,Soest,464958,544.0
+Hilversum,Soest,268029,245.0
+Ede,Soest,210406,184.0
+Gouda,Soest,283039,233.0
+Hoorn,Soest,349815,503.8
+Alphen aan den Rijn,Soest,285553,253.0
+Lelystad,Soest,333553,495.0
+Veenendaal,Soest,283464,246.0
+Vleuten,Soest,258199,227.0
+Oss,Soest,-1,-1.0
+Deventer,Soest,239494,217.0
+London,Nuneaton,-1,-1.0
+Birmingham,Nuneaton,33728,28.0
+Greater Manchester,Nuneaton,174649,501.98333333333335
+Liverpool,Nuneaton,-1,-1.0
+Greater Nottingham,Nuneaton,75673,78.68333333333334
+Rotherham,Nuneaton,145530,131.0
+Leicester,Nuneaton,30118,18.0
+Newcastle-under-Lyme,Nuneaton,122064,219.0
+Coventry,Nuneaton,16337,22.0
+Luton,Nuneaton,140834,575.0
+Derby,Nuneaton,144783,70.0
+Northampton,Nuneaton,65346,69.0
+Milton Keynes,Nuneaton,87254,64.0
+Oxford,Nuneaton,100331,83.0
+Warrington,Nuneaton,170121,156.0
+Wigan,Nuneaton,188593,246.0
+Gloucester,Nuneaton,117302,479.0
+Telford,Nuneaton,79438,89.0
+Peterborough,Nuneaton,114315,74.0
+Halton,Nuneaton,-1,-1.0
+Cheltenham,Nuneaton,106695,100.0
+Bedford,Nuneaton,109222,101.0
+Worcester,Nuneaton,75584,82.0
+Warwick,Nuneaton,-1,-1.0
+Dacorum,Nuneaton,-1,-1.0
+Tamworth,Nuneaton,61627,77.0
+Cannock,Nuneaton,94934,148.0
+London,Tamworth,244264,508.0
+Birmingham,Tamworth,27899,15.0
+Greater Manchester,Tamworth,178713,516.9833333333333
+Liverpool,Tamworth,-1,-1.0
+Greater Nottingham,Tamworth,64929,65.68333333333334
+Rotherham,Tamworth,106127,113.0
+Leicester,Tamworth,145304,70.0
+Newcastle-under-Lyme,Tamworth,100528,130.0
+Coventry,Tamworth,58380,41.916666666666664
+Wakefield,Tamworth,157922,111.0
+Derby,Tamworth,37905,22.0
+Northampton,Tamworth,107260,98.0
+Milton Keynes,Tamworth,129264,365.0
+Preston,Tamworth,-1,-1.0
+Oxford,Tamworth,142321,83.0
+Warrington,Tamworth,151224,156.0
+Wigan,Tamworth,180170,210.0
+Gloucester,Tamworth,111478,83.0
+Telford,Tamworth,73603,76.0
+Halton,Tamworth,-1,-1.0
+Cheltenham,Tamworth,100866,67.0
+Bedford,Tamworth,187366,158.0
+Barnsley,Tamworth,122183,124.0
+Worcester,Tamworth,69793,790.0
+Warwick,Tamworth,-1,-1.0
+Dacorum,Tamworth,203374,510.18333333333334
+Ruhrgebiet,Herzogenrath,141731,159.21666666666667
+Bruxelles,Herzogenrath,299954,580.0
+Köln,Herzogenrath,83955,92.0
+Düsseldorf,Herzogenrath,75718,81.0
+Solingen,Herzogenrath,120425,99.0
+Bonn,Herzogenrath,115477,116.0
+Liège,Herzogenrath,62992,65.0
+Eindhoven,Herzogenrath,106358,87.3
+Krefeld,Herzogenrath,71902,69.0
+Aachen,Herzogenrath,14243,16.0
+Mönchengladbach,Herzogenrath,47800,34.0
+Moers,Herzogenrath,94622,101.0
+Heerlen,Herzogenrath,10233,11.0
+Duisburg,Herzogenrath,92229,81.0
+Leverkusen,Herzogenrath,102337,97.0
+Maastricht,Herzogenrath,33816,47.0
+Benrath,Herzogenrath,85893,92.18333333333334
+Neuss,Herzogenrath,64814,68.0
+Helmond,Herzogenrath,121077,104.0
+Sittard-Geleen,Herzogenrath,32758,82.0
+Porz,Herzogenrath,96009,132.51666666666668
+Venlo,Herzogenrath,81934,77.0
+Leuven,Herzogenrath,133411,182.0
+Namur,Herzogenrath,120181,232.0
+Düren,Herzogenrath,43290,48.0
+Verviers,Herzogenrath,43532,56.0
+Amsterdam,Gouda,56092,59.0
+Rotterdam,Gouda,23743,18.0
+Den Haag,Gouda,28070,18.0
+Antwerpen,Gouda,118010,78.0
+Leiden,Gouda,32375,39.0
+Eindhoven,Gouda,112923,78.0
+Utrecht,Gouda,32136,18.0
+Dordrecht,Gouda,43769,44.0
+Haarlem,Gouda,72269,65.58333333333333
+Tilburg,Gouda,90767,68.46666666666667
+Almere,Gouda,72032,83.0
+Arnhem,Gouda,89479,59.0
+Nijmegen,Gouda,107824,82.0
+Amersfoort,Gouda,53129,36.0
+Apeldoorn,Gouda,149711,135.0
+'s-Hertogenbosch,Gouda,80844,57.0
+Zoetermeer,Gouda,16787,15.0
+Breda,Gouda,69504,55.0
+Zwolle,Gouda,155985,107.43333333333334
+Alkmaar,Gouda,113504,92.0
+Helmond,Gouda,126247,91.0
+Beverwijk/Heemskerk,Gouda,87971,98.0
+Hilversum,Gouda,50030,48.0
+Purmerend,Gouda,82923,99.0
+Ede,Gouda,73152,53.0
+Amsterdam,Deventer,142021,124.0
+Rotterdam,Deventer,196960,151.0
+Utrecht,Deventer,-1,-1.0
+Haarlem,Deventer,151550,124.0
+Almere,Deventer,104003,72.0
+Groningen,Deventer,134378,85.0
+Arnhem,Deventer,45552,34.0
+Nijmegen,Deventer,63958,51.0
+Amersfoort,Deventer,123750,108.0
+Apeldoorn,Deventer,14644,11.0
+Enschede,Deventer,61567,45.0
+Zoetermeer,Deventer,151549,140.0
+Zwolle,Deventer,29971,24.0
+Leeuwarden,Deventer,123698,87.0
+Hilversum,Deventer,131021,121.0
+Ede,Deventer,62259,57.0
+Hengelo,Deventer,53141,36.0
+Gouda,Deventer,134892,106.0
+Alphen aan den Rijn,Deventer,137406,126.0
+Lelystad,Deventer,79168,57.0
+Almelo,Deventer,38268,31.0
+Assen,Deventer,106978,68.0
+Veenendaal,Deventer,112900,119.0
+Vleuten,Deventer,110052,100.0
+Oss,Deventer,-1,-1.0
+Amsterdam,Alphen aan den Rijn,57918,56.0
+Rotterdam,Alphen aan den Rijn,53271,52.06666666666667
+Den Haag,Alphen aan den Rijn,30333,33.0
+Antwerpen,Alphen aan den Rijn,147683,96.0
+Leiden,Alphen aan den Rijn,14943,13.0
+Eindhoven,Alphen aan den Rijn,114942,79.0
+Utrecht,Alphen aan den Rijn,34783,39.0
+Dordrecht,Alphen aan den Rijn,61198,71.0
+Haarlem,Alphen aan den Rijn,43692,41.0
+Tilburg,Alphen aan den Rijn,108312,100.46666666666667
+Almere,Alphen aan den Rijn,80661,68.0
+Arnhem,Alphen aan den Rijn,91499,66.0
+Nijmegen,Alphen aan den Rijn,109844,100.0
+Amersfoort,Alphen aan den Rijn,70558,70.0
+Apeldoorn,Alphen aan den Rijn,138590,142.0
+'s-Hertogenbosch,Alphen aan den Rijn,82987,60.0
+Zoetermeer,Alphen aan den Rijn,34216,55.0
+Breda,Alphen aan den Rijn,87049,87.0
+Alkmaar,Alphen aan den Rijn,115524,99.0
+Beverwijk/Heemskerk,Alphen aan den Rijn,55736,68.0
+Hilversum,Alphen aan den Rijn,52050,66.0
+Purmerend,Alphen aan den Rijn,89075,95.0
+Ede,Alphen aan den Rijn,75172,56.0
+Gouda,Alphen aan den Rijn,17429,22.0
+Hoorn,Alphen aan den Rijn,98180,88.11666666666666
+London,Loughborough,179279,90.0
+Birmingham,Loughborough,-1,-1.0
+Greater Nottingham,Loughborough,25457,38.68333333333333
+Rotherham,Loughborough,95315,87.0
+Leicester,Loughborough,20146,9.0
+Newcastle-under-Lyme,Loughborough,99976,166.46666666666667
+Coventry,Loughborough,66700,129.0
+Luton,Loughborough,130797,116.0
+Derby,Loughborough,27123,20.0
+Northampton,Loughborough,163466,176.0
+Milton Keynes,Loughborough,185349,393.0
+Peterborough,Loughborough,-1,-1.0
+Lincoln,Loughborough,-1,-1.0
+Bedford,Loughborough,99209,66.0
+Barnsley,Loughborough,111371,97.0
+Doncaster,Loughborough,118745,409.0
+Tamworth,Loughborough,125191,64.0
+Mansfield,Loughborough,68076,430.0
+Nuneaton,Loughborough,50257,49.0
+St Albans,Loughborough,147427,106.0
+Rugby,Loughborough,-1,-1.0
+Burton-on-Trent,Loughborough,44332,62.15
+Sutton in Ashfield,Loughborough,62355,416.0
+Stafford,Loughborough,-1,-1.0
+London,Kettering,115675,61.0
+Birmingham,Kettering,107367,97.0
+Greater Nottingham,Kettering,89043,73.68333333333334
+Rotherham,Kettering,158901,123.0
+Leicester,Kettering,43643,22.0
+Coventry,Kettering,90051,110.0
+Luton,Kettering,67159,36.0
+Derby,Kettering,90709,56.0
+Milton Keynes,Kettering,196616,113.0
+Peterborough,Kettering,127709,125.0
+Bedford,Kettering,35571,20.0
+Stevenage,Kettering,160293,97.0
+Tamworth,Kettering,188777,100.0
+Mansfield,Kettering,121138,189.0
+Gravesham,Kettering,162337,166.21666666666667
+Nuneaton,Kettering,73640,68.0
+St Albans,Kettering,83789,53.0
+Ashford,Kettering,206114,125.0
+Rugby,Kettering,-1,-1.0
+Burton-on-Trent,Kettering,107918,98.15
+Sutton in Ashfield,Kettering,126608,287.0
+Stafford,Kettering,-1,-1.0
+Loughborough,Kettering,63619,33.0
+Amsterdam,Lelystad,53620,53.0
+Rotterdam,Lelystad,115799,81.0
+Den Haag,Lelystad,105463,73.0
+Leiden,Lelystad,90252,59.0
+Utrecht,Lelystad,69200,73.0
+Dordrecht,Lelystad,148289,112.0
+Haarlem,Lelystad,72333,62.0
+Almere,Lelystad,24827,20.0
+Groningen,Lelystad,153609,83.0
+Arnhem,Lelystad,124680,91.0
+Amersfoort,Lelystad,67965,65.0
+Apeldoorn,Lelystad,93810,82.0
+Zoetermeer,Lelystad,116722,102.0
+Zwolle,Lelystad,49202,22.983333333333334
+Alkmaar,Lelystad,95122,88.0
+Leeuwarden,Lelystad,142922,89.0
+Beverwijk/Heemskerk,Lelystad,85476,100.0
+Hilversum,Lelystad,51821,50.0
+Purmerend,Lelystad,80447,71.0
+Hengelo,Lelystad,109153,111.0
+Gouda,Lelystad,106718,87.0
+Hoorn,Lelystad,98330,82.0
+Alphen aan den Rijn,Lelystad,105354,82.0
+Amsterdam,Veenendaal,72205,62.0
+Rotterdam,Veenendaal,88747,85.0
+Den Haag,Veenendaal,93116,78.0
+Leiden,Veenendaal,82435,80.0
+Eindhoven,Veenendaal,112908,86.0
+Utrecht,Veenendaal,32962,56.0
+Dordrecht,Veenendaal,108973,124.0
+Haarlem,Veenendaal,90699,85.65
+Tilburg,Veenendaal,103346,91.0
+Almere,Veenendaal,77088,82.0
+Arnhem,Veenendaal,89470,71.0
+Nijmegen,Veenendaal,107809,90.0
+Amersfoort,Veenendaal,53660,54.0
+Apeldoorn,Veenendaal,-1,-1.0
+'s-Hertogenbosch,Veenendaal,80829,65.0
+Zoetermeer,Veenendaal,81871,78.0
+Zwolle,Veenendaal,151073,143.0
+Alkmaar,Veenendaal,113489,119.0
+Beverwijk/Heemskerk,Veenendaal,102469,105.0
+Hilversum,Veenendaal,50015,56.0
+Ede,Veenendaal,73137,61.0
+Gouda,Veenendaal,65234,59.0
+Alphen aan den Rijn,Veenendaal,67539,64.0
+Ruhrgebiet,Gevelsberg,68203,110.21666666666667
+Köln,Gevelsberg,60550,65.0
+Düsseldorf,Gevelsberg,41995,57.0
+Solingen,Gevelsberg,32730,42.0
+Bonn,Gevelsberg,93944,112.0
+Krefeld,Gevelsberg,86450,104.0
+Aachen,Gevelsberg,130243,126.0
+Mönchengladbach,Gevelsberg,69797,73.0
+Moers,Gevelsberg,82206,117.0
+Münster,Gevelsberg,117410,107.0
+Bielefeld,Gevelsberg,133851,112.0
+Hagen,Gevelsberg,12180,17.0
+Duisburg,Gevelsberg,65755,76.0
+Leverkusen,Gevelsberg,49649,78.8
+Benrath,Gevelsberg,52132,75.18333333333334
+Hamm,Gevelsberg,68260,57.0
+Neuss,Gevelsberg,52850,75.0
+Porz,Gevelsberg,70032,98.51666666666667
+Paderborn,Gevelsberg,137912,141.0
+Marl,Gevelsberg,-1,-1.0
+Lünen,Gevelsberg,57260,103.0
+Iserlohn,Gevelsberg,53668,67.0
+Birmingham,Chester,145051,477.1
+Greater Manchester,Chester,60089,120.0
+Liverpool,Chester,-1,-1.0
+Rotherham,Chester,163710,583.0166666666667
+Leicester,Chester,208896,571.1
+Newcastle-under-Lyme,Chester,-1,-1.0
+Blackpool,Chester,122702,564.0166666666667
+Milton Keynes,Chester,229774,495.01666666666665
+Preston,Chester,-1,-1.0
+Warrington,Chester,50536,111.01666666666667
+Wigan,Chester,88366,160.01666666666668
+Blackburn with Darwen,Chester,142918,613.8833333333333
+Telford,Chester,131275,451.01666666666665
+Halton,Chester,-1,-1.0
+Tamworth,Chester,172950,510.1
+Cannock,Chester,79328,139.1
+Nuneaton,Chester,179987,524.1
+Sefton,Chester,64359,483.78333333333336
+Crewe,Chester,55628,70.01666666666667
+Rugby,Chester,-1,-1.0
+Shrewsbury,Chester,108393,404.01666666666665
+Stafford,Chester,-1,-1.0
+Ruhrgebiet,Venlo,100530,118.21666666666667
+Köln,Venlo,102149,105.0
+Düsseldorf,Venlo,59737,68.0
+Solingen,Venlo,79008,103.0
+Eindhoven,Venlo,51543,36.03333333333333
+Utrecht,Venlo,-1,-1.0
+Krefeld,Venlo,39934,38.0
+Tilburg,Venlo,89171,60.78333333333333
+Mönchengladbach,Venlo,34053,31.0
+Moers,Venlo,62622,88.0
+Arnhem,Venlo,79521,79.0
+Heerlen,Venlo,66473,65.0
+Duisburg,Venlo,60227,55.0
+Nijmegen,Venlo,60835,52.0
+'s-Hertogenbosch,Venlo,83669,63.916666666666664
+Leverkusen,Venlo,86383,112.0
+Breda,Venlo,110499,75.65
+Maastricht,Venlo,69733,56.0
+Benrath,Venlo,72165,104.18333333333334
+Neuss,Venlo,48833,55.0
+Helmond,Venlo,38370,27.75
+Sittard-Geleen,Venlo,52246,79.0
+London,Gravesham,50320,128.73333333333332
+Leicester,Gravesham,206580,239.11666666666667
+Southend-on-Sea,Gravesham,41023,131.11666666666667
+Luton,Gravesham,95889,136.11666666666667
+Medway,Gravesham,28258,147.2
+Milton Keynes,Gravesham,128781,196.95
+Woking,Gravesham,85009,221.73333333333332
+Ipswich,Gravesham,138553,217.11666666666667
+Peterborough,Gravesham,170254,173.11666666666667
+Cambridge,Gravesham,140672,217.11666666666667
+Thanet,Gravesham,90489,187.98333333333332
+Colchester,Gravesham,116397,168.21666666666667
+Crawley,Gravesham,148948,244.11666666666667
+Bedford,Gravesham,127442,156.11666666666667
+Chelmsford,Gravesham,80115,134.11666666666667
+Basildon,Gravesham,32417,145.11666666666667
+Stevenage,Gravesham,91798,129.11666666666667
+Hastings,Gravesham,106944,443.73333333333335
+Thurrock,Gravesham,-1,-1.0
+Maidstone,Gravesham,38085,130.9
+Dacorum,Gravesham,88888,151.91666666666666
+Harlow,Gravesham,95676,215.11666666666667
+Amsterdam,Hilversum,28469,35.0
+Rotterdam,Hilversum,90709,71.0
+Den Haag,Hilversum,77723,62.0
+Leiden,Hilversum,65195,49.0
+Eindhoven,Hilversum,97568,85.0
+Utrecht,Hilversum,17417,22.0
+Dordrecht,Hilversum,93633,93.0
+Haarlem,Hilversum,47221,40.0
+Tilburg,Hilversum,88006,90.0
+Almere,Hilversum,27078,25.0
+Arnhem,Hilversum,74130,70.0
+Nijmegen,Hilversum,92469,89.0
+Amersfoort,Hilversum,16097,10.116666666666667
+Apeldoorn,Hilversum,121215,131.0
+'s-Hertogenbosch,Hilversum,65489,64.0
+Zoetermeer,Hilversum,66342,77.0
+Breda,Hilversum,137028,101.31666666666666
+Zwolle,Hilversum,101063,86.0
+Alkmaar,Hilversum,70010,66.0
+Helmond,Hilversum,110693,100.0
+Beverwijk/Heemskerk,Hilversum,60364,78.0
+London,Ashford,93168,59.0
+Southend-on-Sea,Ashford,142361,110.0
+Luton,Ashford,138695,78.0
+Medway,Ashford,77783,116.08333333333333
+Milton Keynes,Ashford,171664,102.0
+Peterborough,Ashford,213102,112.0
+Thanet,Ashford,47492,90.91666666666667
+Colchester,Ashford,159334,107.1
+Crawley,Ashford,167271,180.0
+Eastbourne,Ashford,68680,79.0
+Bedford,Ashford,170303,94.0
+Chelmsford,Ashford,123052,80.0
+Basildon,Ashford,133755,124.0
+Stevenage,Ashford,134660,92.0
+Hastings,Ashford,40876,41.0
+Thurrock,Ashford,-1,-1.0
+Maidstone,Ashford,30999,31.0
+Dacorum,Ashford,131733,108.18333333333334
+Harlow,Ashford,139194,169.0
+Gravesham,Ashford,63976,91.21666666666667
+St Albans,Ashford,121997,74.0
+Birmingham,Kidderminster,31122,38.0
+Leicester,Kidderminster,111836,104.96666666666667
+Newcastle-under-Lyme,Kidderminster,-1,-1.0
+Coventry,Kidderminster,78473,67.91666666666667
+Derby,Kidderminster,110907,116.0
+Milton Keynes,Kidderminster,149357,498.0
+Gloucester,Kidderminster,70599,68.0
+Telford,Kidderminster,93696,102.0
+Cheltenham,Kidderminster,59653,58.0
+Worcester,Kidderminster,24187,21.0
+Warwick,Kidderminster,-1,-1.0
+Tamworth,Kidderminster,75891,101.0
+Cannock,Kidderminster,78900,122.0
+Nuneaton,Kidderminster,81726,87.0
+Redditch,Kidderminster,65069,85.0
+Crewe,Kidderminster,-1,-1.0
+Rugby,Kidderminster,-1,-1.0
+Burton-on-Trent,Kidderminster,79027,88.0
+Shrewsbury,Kidderminster,116457,124.0
+Stafford,Kidderminster,-1,-1.0
+Hereford,Kidderminster,71622,108.0
+Ruhrgebiet,Porz,114213,163.96666666666667
+Köln,Porz,10381,25.75
+Frankfurt am Main,Porz,190009,94.28333333333333
+Düsseldorf,Porz,50267,53.28333333333333
+Solingen,Porz,38213,59.75
+Bonn,Porz,45508,67.9
+Liège,Porz,130762,89.28333333333333
+Krefeld,Porz,96173,109.9
+Aachen,Porz,80078,95.75
+Mönchengladbach,Porz,76193,102.75
+Wiesbaden,Porz,172795,107.75
+Mainz,Porz,203927,121.28333333333333
+Moers,Porz,90682,118.75
+Hagen,Porz,82291,107.75
+Duisburg,Porz,75762,81.9
+Leverkusen,Porz,23564,40.28333333333333
+Benrath,Porz,43027,56.516666666666666
+Koblenz,Porz,89155,109.75
+Hamm,Porz,130542,146.75
+Neuss,Porz,59266,89.75
+Ruhrgebiet,Düren,144310,144.11666666666667
+Köln,Düren,38818,25.0
+Düsseldorf,Düren,79020,105.0
+Solingen,Düren,-1,-1.0
+Bonn,Düren,72230,67.0
+Liège,Düren,79733,62.0
+Krefeld,Düren,123445,119.0
+Aachen,Düren,30901,25.0
+Mönchengladbach,Düren,92973,86.0
+Moers,Düren,119007,132.0
+Heerlen,Düren,53890,58.0
+Hagen,Düren,110728,93.0
+Duisburg,Düren,102563,84.0
+Leverkusen,Düren,52383,39.0
+Benrath,Düren,69614,58.18333333333333
+Koblenz,Düren,131468,118.0
+Neuss,Düren,90156,88.0
+Porz,Düren,50872,65.51666666666667
+Gevelsberg,Düren,99319,98.0
+Bruxelles,Roosendaal,89532,109.0
+Amsterdam,Roosendaal,138193,113.0
+Rotterdam,Roosendaal,57381,42.0
+Den Haag,Roosendaal,81516,73.0
+Antwerpen,Roosendaal,36550,55.96666666666667
+Leiden,Roosendaal,95346,76.98333333333333
+Eindhoven,Roosendaal,81595,72.0
+Utrecht,Roosendaal,113388,105.0
+Dordrecht,Roosendaal,37587,26.0
+Tilburg,Roosendaal,44558,35.0
+Nijmegen,Roosendaal,110545,85.0
+'s-Hertogenbosch,Roosendaal,67153,49.916666666666664
+Zoetermeer,Roosendaal,92992,110.0
+Breda,Roosendaal,23244,18.0
+Helmond,Roosendaal,112704,91.0
+Gouda,Roosendaal,80983,68.0
+Leuven,Roosendaal,95552,110.0
+Mechelen,Roosendaal,60338,73.0
+Alphen aan den Rijn,Roosendaal,110663,99.0
+London,Warwick,-1,-1.0
+Birmingham,Warwick,-1,-1.0
+Greater Nottingham,Warwick,-1,-1.0
+Leicester,Warwick,-1,-1.0
+Newcastle-under-Lyme,Warwick,-1,-1.0
+Coventry,Warwick,-1,-1.0
+Derby,Warwick,-1,-1.0
+Reading,Warwick,-1,-1.0
+Northampton,Warwick,-1,-1.0
+Milton Keynes,Warwick,-1,-1.0
+Swindon,Warwick,-1,-1.0
+Oxford,Warwick,-1,-1.0
+Slough,Warwick,-1,-1.0
+Gloucester,Warwick,-1,-1.0
+Telford,Warwick,-1,-1.0
+Cheltenham,Warwick,-1,-1.0
+Wycombe,Warwick,-1,-1.0
+Basingstoke and Deane,Warwick,-1,-1.0
+Worcester,Warwick,-1,-1.0
+Ruhrgebiet,Remscheid,97465,144.21666666666667
+Köln,Remscheid,61392,75.0
+Düsseldorf,Remscheid,42905,67.0
+Solingen,Remscheid,17954,28.0
+Bonn,Remscheid,79197,107.0
+Krefeld,Remscheid,87280,116.0
+Mönchengladbach,Remscheid,70661,85.0
+Moers,Remscheid,82955,129.0
+Hagen,Remscheid,32112,52.0
+Duisburg,Remscheid,66744,81.0
+Leverkusen,Remscheid,59355,79.0
+Benrath,Remscheid,53006,85.18333333333334
+Hamm,Remscheid,90794,73.0
+Neuss,Remscheid,53690,85.0
+Porz,Remscheid,56166,110.8
+Lünen,Remscheid,86592,167.0
+Iserlohn,Remscheid,75791,107.0
+Gevelsberg,Remscheid,19933,35.0
+Lüdenscheid,Remscheid,61857,117.0
+Ruhrgebiet,Ede,139594,178.21666666666667
+Amsterdam,Ede,79774,67.0
+Rotterdam,Ede,96366,75.0
+Den Haag,Ede,100682,68.0
+Leiden,Ede,90054,70.0
+Eindhoven,Ede,120527,76.0
+Utrecht,Ede,-1,-1.0
+Haarlem,Ede,98189,83.0
+Tilburg,Ede,110965,81.0
+Almere,Ede,84707,87.0
+Arnhem,Ede,16342,10.0
+Nijmegen,Ede,34687,29.0
+Amersfoort,Ede,61502,53.0
+Apeldoorn,Ede,63433,70.0
+'s-Hertogenbosch,Ede,88448,55.0
+Zoetermeer,Ede,89490,68.0
+Zwolle,Ede,91905,81.0
+Hilversum,Ede,57634,61.0
+Ruhrgebiet,Lünen,40342,85.21666666666667
+Köln,Lünen,130797,139.0
+Düsseldorf,Lünen,93920,102.0
+Solingen,Lünen,81702,83.0
+Krefeld,Lünen,90516,129.0
+Mönchengladbach,Lünen,118727,144.0
+Moers,Lünen,91244,155.56666666666666
+Münster,Lünen,69698,66.0
+Bielefeld,Lünen,111884,87.0
+Hagen,Lünen,37793,76.0
+Duisburg,Lünen,70105,79.0
+Leverkusen,Lünen,117269,124.0
+Osnabrück,Lünen,93060,96.56666666666666
+Benrath,Lünen,100802,119.18333333333334
+Hamm,Lünen,45073,48.0
+Neuss,Lünen,101800,131.0
+Paderborn,Lünen,122669,113.0
+Marl,Lünen,-1,-1.0
+London,Maidenhead,30380,40.53333333333333
+Bristol,Maidenhead,151104,82.0
+Portsmouth,Maidenhead,131326,165.0
+Southampton,Maidenhead,157979,158.0
+Reading,Maidenhead,-1,-1.0
+Woking,Maidenhead,70754,93.0
+Swindon,Maidenhead,85087,41.0
+Frimley,Maidenhead,56008,80.0
+Oxford,Maidenhead,62786,45.0
+Slough,Maidenhead,9317,8.0
+Basingstoke and Deane,Maidenhead,52746,82.31666666666666
+Warwick,Maidenhead,-1,-1.0
+Bath,Maidenhead,132607,69.0
+Guildford,Maidenhead,60570,70.0
+Bracknell,Maidenhead,36543,37.0
+Thatcham,Maidenhead,40718,44.0
+Eastleigh,Maidenhead,151928,157.0
+Redhill,Maidenhead,121150,204.8
+Ruhrgebiet,Neuss,77256,115.35
+Köln,Neuss,51231,57.13333333333333
+Düsseldorf,Neuss,10967,11.0
+Solingen,Neuss,55959,54.516666666666666
+Bonn,Neuss,84870,85.51666666666667
+Krefeld,Neuss,41142,41.0
+Aachen,Neuss,79322,66.51666666666667
+Mönchengladbach,Neuss,17011,11.0
+Moers,Neuss,51406,70.13333333333334
+Münster,Neuss,143661,112.0
+Arnhem,Neuss,134033,129.0
+Heerlen,Neuss,75354,70.51666666666667
+Hagen,Neuss,65017,93.0
+Duisburg,Neuss,35057,44.516666666666666
+Leverkusen,Neuss,37523,39.0
+Benrath,Neuss,21180,34.18333333333333
+Koblenz,Neuss,176301,144.51666666666668
+Hamm,Neuss,119306,112.51666666666667
+London,Guildford,46253,46.0
+Portsmouth,Guildford,70756,76.0
+Southampton,Guildford,97448,77.0
+Brighton,Guildford,-1,-1.0
+Medway,Guildford,111933,204.08333333333334
+Reading,Guildford,-1,-1.0
+Woking,Guildford,10226,25.0
+Swindon,Guildford,108072,90.0
+Frimley,Guildford,24291,38.0
+Oxford,Guildford,85749,54.0
+Slough,Guildford,69891,60.0
+Worthing,Guildford,101235,104.0
+Crawley,Guildford,109185,110.0
+Basingstoke and Deane,Guildford,56293,81.31666666666666
+Dacorum,Guildford,92137,108.18333333333334
+Gravesham,Guildford,119976,184.21666666666667
+St Albans,Guildford,82217,104.0
+Birmingham,Halton,-1,-1.0
+Greater Manchester,Halton,-1,-1.0
+Liverpool,Halton,-1,-1.0
+Leeds,Halton,-1,-1.0
+Rotherham,Halton,-1,-1.0
+Newcastle-under-Lyme,Halton,-1,-1.0
+Coventry,Halton,-1,-1.0
+Wakefield,Halton,-1,-1.0
+Blackpool,Halton,-1,-1.0
+Milton Keynes,Halton,-1,-1.0
+Preston,Halton,-1,-1.0
+Warrington,Halton,-1,-1.0
+Wigan,Halton,-1,-1.0
+Blackburn with Darwen,Halton,-1,-1.0
+Huddersfield,Halton,-1,-1.0
+Telford,Halton,-1,-1.0
+Burnley,Halton,-1,-1.0
+London,Eastleigh,137580,138.0
+Portsmouth,Eastleigh,26788,29.0
+Bournemouth,Eastleigh,55302,61.0
+Southampton,Eastleigh,9128,10.0
+Brighton,Eastleigh,-1,-1.0
+Reading,Eastleigh,-1,-1.0
+Woking,Eastleigh,100588,125.0
+Swindon,Eastleigh,152195,165.0
+Frimley,Eastleigh,115671,156.0
+Oxford,Eastleigh,128995,2211.0
+Slough,Eastleigh,113129,2209.0
+Worthing,Eastleigh,76530,98.0
+Basingstoke and Deane,Eastleigh,50487,88.31666666666666
+Guildford,Eastleigh,91380,91.0
+Bracknell,Eastleigh,150913,180.0
+Thatcham,Eastleigh,106912,2234.0
+Aldwick,Eastleigh,57900,125.2
+Ruhrgebiet,Marl,-1,-1.0
+Köln,Marl,-1,-1.0
+Düsseldorf,Marl,-1,-1.0
+Solingen,Marl,-1,-1.0
+Krefeld,Marl,-1,-1.0
+Mönchengladbach,Marl,-1,-1.0
+Moers,Marl,-1,-1.0
+Münster,Marl,-1,-1.0
+Hagen,Marl,-1,-1.0
+Duisburg,Marl,-1,-1.0
+Enschede,Marl,-1,-1.0
+Leverkusen,Marl,-1,-1.0
+Osnabrück,Marl,-1,-1.0
+Benrath,Marl,-1,-1.0
+Hamm,Marl,-1,-1.0
+Neuss,Marl,-1,-1.0
+Porz,Marl,-1,-1.0
+Birmingham,Doncaster,214060,108.0
+Greater Manchester,Doncaster,103292,180.35
+Leeds,Doncaster,48216,30.0
+Tyneside conurbation,Doncaster,-1,-1.0
+Greater Nottingham,Doncaster,96250,115.68333333333334
+Rotherham,Doncaster,20530,24.0
+Leicester,Doncaster,135336,104.0
+Stockton-on-Tees,Doncaster,137360,82.0
+Kingston-upon-Hull,Doncaster,65483,61.0
+Wakefield,Doncaster,31852,17.0
+Derby,Doncaster,88119,60.0
+York,Doncaster,52273,21.0
+Huddersfield,Doncaster,75845,83.0
+Grimsby,Doncaster,78633,91.0
+Peterborough,Doncaster,127966,48.0
+Lincoln,Doncaster,-1,-1.0
+Barnsley,Doncaster,45302,58.0
+London,Corby,127720,71.0
+Birmingham,Corby,119429,542.0
+Greater Nottingham,Corby,101117,84.68333333333334
+Leicester,Corby,55704,79.0
+Coventry,Corby,102112,598.0
+Luton,Corby,79203,46.0
+Derby,Corby,124953,127.0
+Peterborough,Corby,-1,-1.0
+Bedford,Corby,47616,30.0
+Tamworth,Corby,200838,515.0
+Nuneaton,Corby,85701,513.0
+St Albans,Corby,95834,63.0
+Rugby,Corby,-1,-1.0
+Burton-on-Trent,Corby,119979,564.0
+Loughborough,Corby,75680,90.0
+Kettering,Corby,12055,8.0
+Bruxelles,Kapellen,63553,80.0
+Amsterdam,Kapellen,187085,158.0
+Rotterdam,Kapellen,109512,71.0
+Den Haag,Kapellen,108421,121.0
+Antwerpen,Kapellen,10571,25.466666666666665
+Leiden,Kapellen,122251,124.98333333333333
+Gent,Kapellen,75772,93.0
+Dordrecht,Kapellen,63383,87.0
+Tilburg,Kapellen,71463,82.0
+Zoetermeer,Kapellen,148210,204.0
+Breda,Kapellen,50149,65.0
+Gouda,Kapellen,107888,116.0
+Leuven,Kapellen,69573,81.0
+Mechelen,Kapellen,34359,44.0
+Roosendaal,Kapellen,25998,29.0
+Bergen op Zoom,Kapellen,39394,61.13333333333333
+Birmingham,Shrewsbury,68483,69.0
+Greater Manchester,Shrewsbury,107672,167.35
+Liverpool,Shrewsbury,-1,-1.0
+Newcastle-under-Lyme,Shrewsbury,76339,114.0
+Coventry,Shrewsbury,98989,96.0
+Preston,Shrewsbury,-1,-1.0
+Warrington,Shrewsbury,91225,63.0
+Wigan,Shrewsbury,110283,99.0
+Telford,Shrewsbury,22882,22.0
+Newport,Shrewsbury,-1,-1.0
+Halton,Shrewsbury,-1,-1.0
+Warwick,Shrewsbury,-1,-1.0
+Tamworth,Shrewsbury,96382,123.0
+Nuneaton,Shrewsbury,102217,89.0
+Crewe,Shrewsbury,52640,35.0
+Rugby,Shrewsbury,-1,-1.0
+Greater Manchester,Halifax,-1,-1.0
+Liverpool,Halifax,-1,-1.0
+Leeds,Halifax,-1,-1.0
+Rotherham,Halifax,-1,-1.0
+Wakefield,Halifax,-1,-1.0
+Blackpool,Halifax,-1,-1.0
+Preston,Halifax,-1,-1.0
+Warrington,Halifax,-1,-1.0
+Wigan,Halifax,-1,-1.0
+York,Halifax,-1,-1.0
+Blackburn with Darwen,Halifax,-1,-1.0
+Huddersfield,Halifax,-1,-1.0
+Burnley,Halifax,-1,-1.0
+Barnsley,Halifax,-1,-1.0
+Doncaster,Halifax,-1,-1.0
+London,Stevenage,47633,44.0
+Greater Nottingham,Stevenage,163406,136.68333333333334
+Southend-on-Sea,Stevenage,110773,134.0
+Luton,Stevenage,93174,60.0
+Medway,Stevenage,104932,170.08333333333334
+Woking,Stevenage,92211,174.0
+Peterborough,Stevenage,78466,50.0
+Cambridge,Stevenage,48616,44.0
+Colchester,Stevenage,127746,131.1
+Crawley,Stevenage,121363,127.0
+Lincoln,Stevenage,-1,-1.0
+Bedford,Stevenage,124755,89.0
+Chelmsford,Stevenage,91464,104.0
+Basildon,Stevenage,102167,148.0
+Doncaster,Stevenage,206353,81.0
+Bruxelles,Mechelen,29267,33.0
+Lille,Mechelen,131219,79.0
+Rotterdam,Mechelen,117694,56.0
+Den Haag,Mechelen,149133,108.0
+Antwerpen,Mechelen,21847,26.0
+Liège,Mechelen,107204,64.0
+Gent,Mechelen,56886,69.0
+Dordrecht,Mechelen,108523,99.0
+Charleroi,Mechelen,76130,78.0
+Aachen,Mechelen,170323,93.0
+Breda,Mechelen,79171,55.0
+Brugge,Mechelen,116193,89.0
+Quaregnon,Mechelen,90947,118.0
+Gouda,Mechelen,148740,116.0
+Leuven,Mechelen,35376,34.0
+Greater Manchester,Hyndburn,66293,151.65
+Liverpool,Hyndburn,-1,-1.0
+Leeds,Hyndburn,74552,109.83333333333333
+Wakefield,Hyndburn,91684,143.83333333333334
+Blackpool,Hyndburn,58599,150.33333333333334
+Preston,Hyndburn,-1,-1.0
+Warrington,Hyndburn,92459,171.83333333333334
+Wigan,Hyndburn,54692,107.33333333333333
+Blackburn with Darwen,Hyndburn,17944,83.2
+Huddersfield,Hyndburn,98794,149.83333333333334
+Burnley,Hyndburn,12050,43.833333333333336
+Halton,Hyndburn,-1,-1.0
+Halifax,Hyndburn,-1,-1.0
+Sefton,Hyndburn,101809,603.1
+Crewe,Hyndburn,112255,600.3333333333334
+Amsterdam,'s-Hertogenbosch,87375,54.0
+Rotterdam,'s-Hertogenbosch,89382,65.0
+Den Haag,'s-Hertogenbosch,108387,70.0
+Leiden,'s-Hertogenbosch,97706,72.0
+Eindhoven,'s-Hertogenbosch,32108,19.0
+Utrecht,'s-Hertogenbosch,-1,-1.0
+Dordrecht,'s-Hertogenbosch,73167,60.0
+Haarlem,'s-Hertogenbosch,105869,77.2
+Tilburg,'s-Hertogenbosch,22517,15.3
+Almere,'s-Hertogenbosch,113293,83.0
+Arnhem,'s-Hertogenbosch,61844,43.0
+Heerlen,'s-Hertogenbosch,127624,90.0
+Nijmegen,'s-Hertogenbosch,43380,40.0
+Amersfoort,'s-Hertogenbosch,69154,54.0
+Apeldoorn,'s-Hertogenbosch,108812,95.0
+Amsterdam,Zoetermeer,69261,75.0
+Rotterdam,Zoetermeer,40562,46.0
+Den Haag,Zoetermeer,11259,12.0
+Antwerpen,Zoetermeer,130092,85.0
+Leiden,Zoetermeer,26510,39.96666666666667
+Utrecht,Zoetermeer,48975,36.0
+Dordrecht,Zoetermeer,55531,73.0
+Haarlem,Zoetermeer,55372,64.0
+Tilburg,Zoetermeer,119579,111.3
+Almere,Zoetermeer,91957,87.0
+Arnhem,Zoetermeer,106298,77.0
+Nijmegen,Zoetermeer,124042,111.0
+Amersfoort,Zoetermeer,69948,54.0
+Apeldoorn,Zoetermeer,152788,153.0
+'s-Hertogenbosch,Zoetermeer,97786,71.0
+Ruhrgebiet,Duisburg,38777,67.21666666666667
+Köln,Duisburg,63808,54.0
+Düsseldorf,Duisburg,23661,18.0
+Solingen,Duisburg,43029,40.0
+Bonn,Duisburg,97115,73.0
+Utrecht,Duisburg,-1,-1.0
+Krefeld,Duisburg,20411,25.0
+Aachen,Duisburg,133471,112.0
+Mönchengladbach,Duisburg,51754,59.0
+Moers,Duisburg,16652,32.0
+Münster,Duisburg,109015,73.0
+Bielefeld,Duisburg,151216,87.0
+Arnhem,Duisburg,99350,90.0
+Heerlen,Duisburg,102458,102.0
+Hagen,Duisburg,64591,68.0
+Birmingham,Cannock,35765,411.5
+Greater Manchester,Cannock,110334,154.18333333333334
+Greater Nottingham,Cannock,128585,517.1833333333333
+Leicester,Cannock,99609,466.5
+Newcastle-under-Lyme,Cannock,48651,95.26666666666667
+Coventry,Cannock,66247,441.5
+Derby,Cannock,101561,472.5
+Northampton,Cannock,115126,486.5
+Milton Keynes,Cannock,137140,477.5
+Telford,Cannock,81475,462.5
+Halton,Cannock,-1,-1.0
+Cheltenham,Cannock,109007,505.5
+Worcester,Cannock,78085,476.5
+Warwick,Cannock,-1,-1.0
+Tamworth,Cannock,-1,-1.0
+Amsterdam,Helmond,137455,118.0
+Rotterdam,Helmond,117810,74.0
+Eindhoven,Helmond,13200,8.283333333333333
+Utrecht,Helmond,-1,-1.0
+Dordrecht,Helmond,101497,140.0
+Krefeld,Helmond,77258,74.0
+Tilburg,Helmond,50817,34.0
+Mönchengladbach,Helmond,70408,67.0
+Arnhem,Helmond,107159,95.0
+Heerlen,Helmond,109221,96.0
+Nijmegen,Helmond,88752,80.0
+Amersfoort,Helmond,114441,91.0
+'s-Hertogenbosch,Helmond,45315,30.35
+Breda,Helmond,89326,68.0
+Maastricht,Helmond,112481,87.0
+London,Bracknell,57884,90.0
+Bristol,Bracknell,150107,99.0
+Portsmouth,Bracknell,108633,135.0
+Southampton,Bracknell,135325,138.0
+Reading,Bracknell,-1,-1.0
+Woking,Bracknell,48103,76.0
+Swindon,Bracknell,84085,54.0
+Frimley,Bracknell,19425,41.0
+Oxford,Bracknell,61789,61.0
+Slough,Bracknell,45904,50.0
+Crawley,Bracknell,120817,151.0
+Basingstoke and Deane,Bracknell,51702,116.31666666666666
+Warwick,Bracknell,-1,-1.0
+Bath,Bracknell,131610,86.0
+Guildford,Bracknell,37877,43.0
+Ruhrgebiet,Hamm,55911,66.21666666666667
+Köln,Hamm,120537,75.0
+Düsseldorf,Hamm,108148,88.0
+Hannover,Hamm,176187,80.0
+Solingen,Hamm,92349,74.0
+Krefeld,Hamm,104861,101.0
+Moers,Hamm,107541,106.0
+Münster,Hamm,35576,27.0
+Bielefeld,Hamm,66879,42.0
+Hagen,Hamm,48256,35.0
+Duisburg,Hamm,84495,66.0
+Leverkusen,Hamm,134553,96.0
+Osnabrück,Hamm,85621,68.0
+Benrath,Hamm,118086,91.18333333333334
+London,Dacorum,40542,67.05
+Birmingham,Dacorum,143026,344.05
+Newcastle-under-Lyme,Dacorum,209282,197.05
+Coventry,Dacorum,135236,87.05
+Luton,Dacorum,89626,99.05
+Medway,Dacorum,101474,176.13333333333333
+Northampton,Dacorum,67446,66.05
+Milton Keynes,Dacorum,41675,44.05
+Woking,Dacorum,83441,144.05
+Frimley,Dacorum,114959,165.05
+Crawley,Dacorum,116487,159.05
+Bedford,Dacorum,121179,119.05
+Basingstoke and Deane,Dacorum,129748,148.36666666666667
+Warwick,Dacorum,-1,-1.0
+Ruhrgebiet,Nijmegen,139453,160.21666666666667
+Amsterdam,Nijmegen,119085,103.0
+Rotterdam,Nijmegen,133067,98.0
+Den Haag,Nijmegen,135500,112.0
+Eindhoven,Nijmegen,75834,65.0
+Utrecht,Nijmegen,-1,-1.0
+Dordrecht,Nijmegen,116493,105.0
+Haarlem,Nijmegen,132954,112.0
+Krefeld,Nijmegen,100744,124.0
+Tilburg,Nijmegen,65843,60.3
+Mönchengladbach,Nijmegen,94863,117.0
+Moers,Nijmegen,123417,174.0
+Arnhem,Nijmegen,18423,15.0
+Duisburg,Nijmegen,117773,114.0
+Ruhrgebiet,Leverkusen,92500,110.21666666666667
+Köln,Leverkusen,13531,14.0
+Frankfurt am Main,Leverkusen,191219,107.0
+Düsseldorf,Leverkusen,26614,31.0
+Solingen,Leverkusen,40993,50.0
+Bonn,Leverkusen,47013,53.0
+Liège,Leverkusen,131968,102.0
+Krefeld,Leverkusen,70612,61.0
+Aachen,Leverkusen,83195,72.0
+Mönchengladbach,Leverkusen,54550,48.0
+Mainz,Leverkusen,188910,95.0
+Moers,Leverkusen,66650,65.0
+Hagen,Leverkusen,80913,108.0
+Duisburg,Leverkusen,50307,40.0
+London,Bath,173399,105.3
+Bristol,Bath,18520,11.0
+Cardiff,Bath,79873,74.0
+Southampton,Bath,105771,84.0
+Reading,Bath,-1,-1.0
+Swindon,Bath,47543,21.0
+Frimley,Bath,151035,119.0
+Oxford,Bath,103030,69.0
+Slough,Bath,141908,75.0
+Gloucester,Bath,106852,93.0
+Newport,Bath,-1,-1.0
+Cheltenham,Bath,90294,75.0
+Exeter,Bath,-1,-1.0
+Basingstoke and Deane,Bath,147767,135.31666666666666
+London,Thatcham,81491,76.0
+Bristol,Thatcham,154243,113.0
+Southampton,Thatcham,152652,175.0
+Reading,Thatcham,-1,-1.0
+Woking,Thatcham,73893,124.0
+Swindon,Thatcham,88221,70.0
+Frimley,Thatcham,59106,127.0
+Oxford,Thatcham,66130,64.0
+Slough,Thatcham,50040,66.0
+Basingstoke and Deane,Thatcham,24507,53.266666666666666
+Warwick,Thatcham,-1,-1.0
+Bath,Thatcham,135746,100.0
+Guildford,Thatcham,63668,59.0
+Bracknell,Thatcham,39682,55.0
+Ruhrgebiet,Benrath,76206,125.36666666666666
+Köln,Benrath,30652,27.15
+Düsseldorf,Benrath,10121,16.866666666666667
+Solingen,Benrath,24516,35.15
+Bonn,Benrath,64182,76.86666666666666
+Krefeld,Benrath,54193,58.2
+Aachen,Benrath,100315,85.15
+Mönchengladbach,Benrath,38101,64.15
+Moers,Benrath,50758,82.45
+Münster,Benrath,142665,107.15
+Arnhem,Benrath,132897,124.15
+Hagen,Benrath,64442,93.15
+Duisburg,Benrath,33867,39.15
+Leverkusen,Benrath,17124,12.15
+Ruhrgebiet,Arnhem,120981,135.21666666666667
+Amsterdam,Arnhem,100730,84.0
+Rotterdam,Arnhem,112793,85.0
+Den Haag,Arnhem,117162,78.0
+Düsseldorf,Arnhem,122836,75.0
+Leiden,Arnhem,106481,80.0
+Eindhoven,Arnhem,94217,80.0
+Utrecht,Arnhem,-1,-1.0
+Dordrecht,Arnhem,135114,129.0
+Haarlem,Arnhem,114599,93.0
+Krefeld,Arnhem,119581,134.0
+Tilburg,Arnhem,84435,64.0
+Moers,Arnhem,115658,165.0
+Almere,Arnhem,101118,97.0
+Amsterdam,Hoorn,44719,34.0
+Rotterdam,Hoorn,114637,121.51666666666667
+Den Haag,Hoorn,98237,82.0
+Leiden,Hoorn,82995,65.0
+Utrecht,Hoorn,84984,72.2
+Dordrecht,Hoorn,140990,121.0
+Haarlem,Hoorn,57540,69.0
+Almere,Hoorn,73687,83.0
+Amersfoort,Hoorn,105392,88.0
+Alkmaar,Hoorn,23503,23.0
+Beverwijk/Heemskerk,Hoorn,45795,52.0
+Hilversum,Hoorn,73202,83.0
+Purmerend,Hoorn,17889,11.0
+Gouda,Hoorn,116534,86.0
+London,Basingstoke and Deane,83433,216.1
+Bristol,Basingstoke and Deane,166420,491.1
+Portsmouth,Basingstoke and Deane,77436,105.1
+Bournemouth,Basingstoke and Deane,105986,453.1
+Southampton,Basingstoke and Deane,59800,86.1
+Brighton,Basingstoke and Deane,-1,-1.0
+Medway,Basingstoke and Deane,154253,623.1833333333333
+Reading,Basingstoke and Deane,-1,-1.0
+Woking,Basingstoke and Deane,53803,371.1
+Swindon,Basingstoke and Deane,100418,444.1
+Frimley,Basingstoke and Deane,61545,368.48333333333335
+Oxford,Basingstoke and Deane,77675,186.1
+Slough,Basingstoke and Deane,62162,160.1
+Crawley,Basingstoke and Deane,168069,416.1
+Ruhrgebiet,Gütersloh,105315,94.21666666666667
+Düsseldorf,Gütersloh,160401,122.0
+Hannover,Gütersloh,126823,100.0
+Solingen,Gütersloh,141858,124.0
+Moers,Gütersloh,156957,139.0
+Münster,Gütersloh,85010,68.0
+Bielefeld,Gütersloh,17460,8.0
+Hagen,Gütersloh,111161,80.0
+Duisburg,Gütersloh,136751,97.0
+Osnabrück,Gütersloh,83738,81.0
+Hamm,Gütersloh,49517,29.0
+Paderborn,Gütersloh,127074,92.0
+Lünen,Gütersloh,95149,88.0
+Gevelsberg,Gütersloh,131173,105.0
+Rotterdam,Bergen op Zoom,70796,54.0
+Den Haag,Bergen op Zoom,95083,86.0
+Antwerpen,Bergen op Zoom,92735,90.0
+Leiden,Bergen op Zoom,108913,89.98333333333333
+Eindhoven,Bergen op Zoom,95188,84.0
+Utrecht,Bergen op Zoom,126769,117.0
+Dordrecht,Bergen op Zoom,50968,38.0
+Tilburg,Bergen op Zoom,58870,47.0
+'s-Hertogenbosch,Bergen op Zoom,80746,63.0
+Zoetermeer,Bergen op Zoom,106494,131.0
+Breda,Bergen op Zoom,36837,30.0
+Gouda,Bergen op Zoom,94550,81.0
+Mechelen,Bergen op Zoom,116096,110.0
+Roosendaal,Bergen op Zoom,13593,9.0
+Amsterdam,Breda,115520,78.0
+Rotterdam,Breda,45688,23.0
+Den Haag,Breda,69960,48.0
+Antwerpen,Breda,55898,33.0
+Leiden,Breda,83828,67.0
+Eindhoven,Breda,58368,37.0
+Utrecht,Breda,101798,79.0
+Dordrecht,Breda,29351,23.0
+Haarlem,Breda,112898,87.0
+Tilburg,Breda,21387,12.0
+Arnhem,Breda,105782,77.0
+Nijmegen,Breda,87185,76.0
+'s-Hertogenbosch,Breda,43816,31.366666666666667
+Zoetermeer,Breda,81371,93.0
+Amsterdam,Purmerend,26860,32.0
+Rotterdam,Purmerend,103247,106.0
+Den Haag,Purmerend,80345,85.0
+Leiden,Purmerend,65103,68.0
+Utrecht,Purmerend,67149,75.2
+Dordrecht,Purmerend,123098,124.0
+Haarlem,Purmerend,36296,41.0
+Almere,Purmerend,55816,70.91666666666667
+Amersfoort,Purmerend,71397,86.0
+'s-Hertogenbosch,Purmerend,114564,95.0
+Zoetermeer,Purmerend,99780,123.0
+Alkmaar,Purmerend,44154,44.0
+Beverwijk/Heemskerk,Purmerend,47999,60.0
+Hilversum,Purmerend,55316,72.0
+Greater Manchester,Keighley,103107,138.98333333333332
+Leeds,Keighley,27377,24.0
+Rotherham,Keighley,97856,104.0
+Kingston-upon-Hull,Keighley,140879,172.0
+Wakefield,Keighley,43654,51.0
+York,Keighley,68537,82.0
+Huddersfield,Keighley,55172,90.0
+Barnsley,Keighley,73571,89.0
+Doncaster,Keighley,75661,80.0
+Halifax,Keighley,-1,-1.0
+Darlington,Keighley,139455,134.0
+Scunthorpe,Keighley,112291,1414.0
+Harrogate,Keighley,56920,78.0
+Amsterdam,Beverwijk/Heemskerk,25619,31.0
+Rotterdam,Beverwijk/Heemskerk,78905,77.98333333333333
+Den Haag,Beverwijk/Heemskerk,56003,59.0
+Leiden,Beverwijk/Heemskerk,40761,42.0
+Utrecht,Beverwijk/Heemskerk,80021,89.2
+Dordrecht,Beverwijk/Heemskerk,98756,98.0
+Haarlem,Beverwijk/Heemskerk,11763,17.0
+Almere,Beverwijk/Heemskerk,59224,74.91666666666667
+Arnhem,Beverwijk/Heemskerk,126749,765.0
+Amersfoort,Beverwijk/Heemskerk,74805,90.0
+'s-Hertogenbosch,Beverwijk/Heemskerk,118175,99.0
+Zoetermeer,Beverwijk/Heemskerk,67262,88.0
+Alkmaar,Beverwijk/Heemskerk,22325,28.0
+Köln,Bad Soden am Taunus,199699,162.28333333333333
+Frankfurt am Main,Bad Soden am Taunus,19624,61.28333333333333
+Bonn,Bad Soden am Taunus,185981,178.28333333333333
+Mannheim/Ludwigshafen,Bad Soden am Taunus,115380,494.53333333333336
+Karlsruhe,Bad Soden am Taunus,172355,489.53333333333336
+Wiesbaden,Bad Soden am Taunus,68905,125.28333333333333
+Mainz,Bad Soden am Taunus,59314,111.28333333333333
+Heidelberg,Bad Soden am Taunus,106813,166.28333333333333
+Würzburg,Bad Soden am Taunus,142825,178.28333333333333
+Rüsselsheim am Main,Bad Soden am Taunus,53701,117.53333333333333
+Darmstadt,Bad Soden am Taunus,47537,106.28333333333333
+Hanau,Bad Soden am Taunus,48784,107.53333333333333
+Gießen,Bad Soden am Taunus,105616,151.28333333333333
+London,Tunbridge Wells,53519,61.0
+Brighton,Tunbridge Wells,-1,-1.0
+Medway,Tunbridge Wells,68552,173.08333333333334
+Woking,Tunbridge Wells,93981,148.0
+Frimley,Tunbridge Wells,127052,162.0
+Crawley,Tunbridge Wells,127901,139.0
+Eastbourne,Tunbridge Wells,69354,81.0
+Hastings,Tunbridge Wells,45115,48.0
+Maidstone,Tunbridge Wells,111925,98.0
+Gravesham,Tunbridge Wells,95181,189.21666666666667
+St Albans,Tunbridge Wells,89279,99.0
+Ashford,Tunbridge Wells,87413,134.0
+Guildford,Tunbridge Wells,102761,117.0
+Bristol,Taunton,-1,-1.0
+Cardiff,Taunton,-1,-1.0
+Plymouth,Taunton,-1,-1.0
+Reading,Taunton,-1,-1.0
+Swindon,Taunton,-1,-1.0
+Gloucester,Taunton,-1,-1.0
+Newport,Taunton,-1,-1.0
+Cheltenham,Taunton,-1,-1.0
+Torbay,Taunton,-1,-1.0
+Exeter,Taunton,-1,-1.0
+Bath,Taunton,-1,-1.0
+Weston-super-Mare,Taunton,-1,-1.0
+Thatcham,Taunton,-1,-1.0
+Köln,Rüsselsheim am Main,182873,89.0
+Frankfurt am Main,Rüsselsheim am Main,28577,27.0
+Stuttgart,Rüsselsheim am Main,187976,113.0
+Bonn,Rüsselsheim am Main,161863,147.0
+Mannheim/Ludwigshafen,Rüsselsheim am Main,84063,107.0
+Karlsruhe,Rüsselsheim am Main,157261,117.0
+Wiesbaden,Rüsselsheim am Main,20675,26.0
+Mainz,Rüsselsheim am Main,11084,12.0
+Leverkusen,Rüsselsheim am Main,197098,103.0
+Heidelberg,Rüsselsheim am Main,94779,88.0
+Koblenz,Rüsselsheim am Main,102749,82.0
+Neuss,Rüsselsheim am Main,234445,139.0
+Porz,Rüsselsheim am Main,174850,117.8
+Birmingham,Ellesmere Port,130321,188.0
+Greater Manchester,Ellesmere Port,86558,205.75
+Liverpool,Ellesmere Port,-1,-1.0
+Newcastle-under-Lyme,Ellesmere Port,82581,179.0
+Preston,Ellesmere Port,-1,-1.0
+Warrington,Ellesmere Port,50268,114.76666666666667
+Wigan,Ellesmere Port,55576,147.76666666666668
+Halton,Ellesmere Port,-1,-1.0
+Sefton,Ellesmere Port,36702,165.7
+Crewe,Ellesmere Port,55165,114.76666666666667
+Shrewsbury,Ellesmere Port,89445,146.76666666666668
+Stafford,Ellesmere Port,-1,-1.0
+Chester,Ellesmere Port,33693,99.23333333333333
+Birmingham,Redditch,25399,45.666666666666664
+Greater Nottingham,Redditch,118219,154.35
+Leicester,Redditch,89243,121.66666666666667
+Coventry,Redditch,55880,78.66666666666667
+Derby,Redditch,88314,98.66666666666667
+Gloucester,Redditch,100647,91.66666666666667
+Telford,Redditch,71109,98.66666666666667
+Cheltenham,Redditch,90035,82.66666666666667
+Worcester,Redditch,58966,92.66666666666667
+Warwick,Redditch,-1,-1.0
+Tamworth,Redditch,53298,85.66666666666667
+Cannock,Redditch,86605,159.66666666666666
+Nuneaton,Redditch,59133,98.66666666666667
+Ruhrgebiet,Iserlohn,64292,116.21666666666667
+Köln,Iserlohn,98645,97.0
+Düsseldorf,Iserlohn,87177,129.0
+Solingen,Iserlohn,70587,71.0
+Moers,Iserlohn,107758,162.3
+Münster,Iserlohn,89568,95.0
+Hagen,Iserlohn,26447,28.0
+Duisburg,Iserlohn,91099,103.0
+Leverkusen,Iserlohn,141180,125.0
+Benrath,Iserlohn,124713,120.18333333333334
+Hamm,Iserlohn,53991,69.0
+Porz,Iserlohn,116260,159.8
+Lünen,Iserlohn,51674,79.0
+Köln,Hanau,204363,106.0
+Frankfurt am Main,Hanau,24382,26.0
+Bonn,Hanau,190645,122.0
+Mannheim/Ludwigshafen,Hanau,113181,159.0
+Karlsruhe,Hanau,170156,154.0
+Kassel,Hanau,170417,69.0
+Wiesbaden,Hanau,67972,80.0
+Mainz,Hanau,56441,73.0
+Heidelberg,Hanau,110085,114.0
+Würzburg,Hanau,101592,72.0
+Göttingen,Hanau,215108,134.0
+Rüsselsheim am Main,Hanau,51673,62.0
+Darmstadt,Hanau,50375,36.0
+Utrecht,Almelo,184489,147.2
+Almere,Almelo,126571,101.0
+Arnhem,Almelo,84071,73.0
+Nijmegen,Almelo,102477,89.45
+Amersfoort,Almelo,191378,151.0
+Apeldoorn,Almelo,53128,38.0
+Enschede,Almelo,23061,20.0
+Osnabrück,Almelo,110087,106.0
+Zwolle,Almelo,44429,38.0
+Hilversum,Almelo,145423,136.0
+Hengelo,Almelo,15312,13.0
+Lelystad,Almelo,117667,97.0
+London,Derby,206359,97.0
+Birmingham,Derby,65796,28.366666666666667
+Greater Manchester,Derby,132114,577.35
+Liverpool,Derby,-1,-1.0
+Leeds,Derby,136380,100.0
+Greater Nottingham,Derby,27024,39.68333333333333
+Rotherham,Derby,68229,65.0
+Leicester,Derby,47236,23.0
+Newcastle-under-Lyme,Derby,61844,87.73333333333333
+Coventry,Derby,96278,62.0
+Wakefield,Derby,120016,87.0
+Luton,Derby,157903,150.0
+Leeds,Scunthorpe,85171,76.0
+Rotherham,Scunthorpe,57608,102.0
+Kingston-upon-Hull,Scunthorpe,102417,92.0
+Wakefield,Scunthorpe,68807,63.0
+York,Scunthorpe,89247,90.0
+Huddersfield,Scunthorpe,112734,112.0
+Grimsby,Scunthorpe,41730,39.0
+Peterborough,Scunthorpe,164916,130.0
+Lincoln,Scunthorpe,-1,-1.0
+Barnsley,Scunthorpe,81566,137.0
+Doncaster,Scunthorpe,36842,25.0
+Halifax,Scunthorpe,-1,-1.0
+London,Rustington,133510,380.0
+Portsmouth,Rustington,45104,505.3333333333333
+Southampton,Rustington,76562,419.0
+Brighton,Rustington,-1,-1.0
+Woking,Rustington,161930,468.0
+Worthing,Rustington,9988,40.0
+Crawley,Rustington,61386,235.0
+Eastbourne,Rustington,65292,420.0
+Guildford,Rustington,95210,445.0
+Aldwick,Rustington,33241,90.2
+Eastleigh,Rustington,70582,454.0
+Redhill,Rustington,76911,275.0
+Greater Manchester,Huddersfield,47927,74.98333333333333
+Liverpool,Huddersfield,-1,-1.0
+Leeds,Huddersfield,27558,20.0
+Rotherham,Huddersfield,98156,99.0
+Newcastle-under-Lyme,Huddersfield,105427,138.0
+Kingston-upon-Hull,Huddersfield,119043,148.0
+Wakefield,Huddersfield,43936,74.0
+Preston,Huddersfield,-1,-1.0
+Warrington,Huddersfield,76233,81.0
+Wigan,Huddersfield,76216,115.0
+York,Huddersfield,68586,64.0
+Blackburn with Darwen,Huddersfield,76547,131.86666666666667
+Amsterdam,Zwolle,107691,80.0
+Rotterdam,Zwolle,165027,108.0
+Leiden,Zwolle,139449,86.0
+Utrecht,Zwolle,118391,109.0
+Haarlem,Zwolle,121530,89.0
+Almere,Zwolle,73992,41.0
+Groningen,Zwolle,104407,56.0
+Arnhem,Zwolle,75478,59.0
+Nijmegen,Zwolle,93884,75.45
+Amersfoort,Zwolle,147016,101.0
+Apeldoorn,Zwolle,44608,50.0
+Enschede,Zwolle,67358,65.0
+Stuttgart,Göppingen,41396,48.0
+Mannheim/Ludwigshafen,Göppingen,149976,129.0
+Augsburg,Göppingen,136386,94.0
+Karlsruhe,Göppingen,206951,124.0
+Ulm/Neu-Ulm,Göppingen,54339,83.8
+Heidelberg,Göppingen,132951,94.0
+Ludwigsburg,Göppingen,55565,50.0
+Esslingen am Neckar,Göppingen,26765,18.0
+Reutlingen,Göppingen,53871,50.0
+Sindelfingen,Göppingen,69630,73.0
+Heilbronn,Göppingen,93954,96.0
+Pforzheim,Göppingen,102683,125.8
+Birmingham,Warrington,123412,105.0
+Greater Manchester,Warrington,41919,98.35
+Liverpool,Warrington,-1,-1.0
+Leeds,Warrington,94849,132.0
+Rotherham,Warrington,112907,158.0
+Newcastle-under-Lyme,Warrington,91759,107.0
+Coventry,Warrington,153894,135.0
+Wakefield,Warrington,120047,159.0
+Derby,Warrington,186327,147.0
+Blackpool,Warrington,71213,98.0
+Milton Keynes,Warrington,224750,158.0
+Preston,Warrington,-1,-1.0
+Stuttgart,Vaihingen,-1,-1.0
+Mannheim/Ludwigshafen,Vaihingen,126213,105.63333333333334
+Karlsruhe,Vaihingen,183188,100.63333333333334
+Ulm/Neu-Ulm,Vaihingen,102641,122.9
+Heidelberg,Vaihingen,108007,89.63333333333334
+Ludwigsburg,Vaihingen,30603,49.63333333333333
+Esslingen am Neckar,Vaihingen,29963,45.63333333333333
+Reutlingen,Vaihingen,73385,86.63333333333334
+Sindelfingen,Vaihingen,13381,26.633333333333333
+Heilbronn,Vaihingen,69303,90.63333333333334
+Pforzheim,Vaihingen,70775,121.9
+Göppingen,Vaihingen,56630,64.63333333333334
+Amsterdam,Amersfoort,49412,46.0
+Rotterdam,Amersfoort,76855,62.0
+Den Haag,Amersfoort,81144,55.0
+Leiden,Amersfoort,81240,61.0
+Eindhoven,Amersfoort,101546,75.0
+Utrecht,Amersfoort,20765,13.0
+Dordrecht,Amersfoort,96761,83.0
+Haarlem,Amersfoort,63281,55.0
+Tilburg,Amersfoort,92278,77.0
+Almere,Amersfoort,43166,44.0
+Arnhem,Amersfoort,77492,51.0
+Nijmegen,Amersfoort,96831,85.45
+Greater Manchester,Carlisle,201393,153.91666666666666
+Glasgow,Carlisle,164599,75.0
+Tyneside conurbation,Carlisle,-1,-1.0
+Edinburgh,Carlisle,-1,-1.0
+Blackpool,Carlisle,172635,149.0
+Preston,Carlisle,-1,-1.0
+Wigan,Carlisle,169189,86.0
+Blackburn with Darwen,Carlisle,193383,150.86666666666667
+Blantyre,Carlisle,-1,-1.0
+Coatbridge,Carlisle,148710,280.01666666666665
+Motherwell,Carlisle,-1,-1.0
+Stuttgart,Pforzheim,50814,41.68333333333333
+Strasbourg,Pforzheim,128876,138.0
+Mannheim/Ludwigshafen,Pforzheim,96314,102.68333333333334
+Karlsruhe,Pforzheim,30997,54.233333333333334
+Freiburg im Breisgau,Pforzheim,163117,136.0
+Heidelberg,Pforzheim,76248,75.68333333333334
+Ludwigsburg,Pforzheim,47132,63.68333333333333
+Esslingen am Neckar,Pforzheim,64325,63.68333333333333
+Reutlingen,Pforzheim,107747,117.68333333333334
+Sindelfingen,Pforzheim,79042,80.68333333333334
+Heilbronn,Pforzheim,66615,84.68333333333334
+Stuttgart,Tübingen,71255,59.0
+Mannheim/Ludwigshafen,Tübingen,180884,123.0
+Ulm/Neu-Ulm,Tübingen,104674,107.5
+Ludwigsburg,Tübingen,85315,73.0
+Esslingen am Neckar,Tübingen,58046,48.0
+Reutlingen,Tübingen,14319,8.0
+Sindelfingen,Tübingen,99488,180.0
+Heilbronn,Tübingen,123974,108.0
+Pforzheim,Tübingen,131935,141.8
+Göppingen,Tübingen,66684,62.0
+Vaihingen,Tübingen,87702,154.68333333333334
+Bruxelles,Leuven,30638,22.0
+Lille,Leuven,140248,150.0
+Rotterdam,Leuven,152486,85.0
+Antwerpen,Leuven,56749,62.0
+Liège,Leuven,72209,30.0
+Gent,Leuven,84312,64.0
+Charleroi,Leuven,85626,90.0
+Aachen,Leuven,136669,96.0
+Maastricht,Leuven,116285,138.08333333333334
+Brugge,Leuven,124334,84.0
+Quaregnon,Leuven,100393,104.0
+Paris,Arras,180600,65.68333333333334
+Bruxelles,Arras,153875,352.68333333333334
+Lille,Arras,59940,51.68333333333333
+Cergy-Pontoise,Arras,222353,135.68333333333334
+Lens,Arras,-1,-1.0
+Dunkerque,Arras,150230,153.68333333333334
+Amiens,Arras,69023,67.68333333333334
+Valenciennes,Arras,62541,117.26666666666667
+Douai,Arras,27424,43.916666666666664
+Calais,Arras,170424,134.68333333333334
+Creil,Arras,231786,125.08333333333333
+Greater Manchester,Harrogate,105181,157.98333333333332
+Leeds,Harrogate,29543,36.0
+Rotherham,Harrogate,90299,134.0
+Kingston-upon-Hull,Harrogate,110973,117.0
+Wakefield,Harrogate,45710,77.0
+York,Harrogate,32861,35.0
+Huddersfield,Harrogate,57177,81.0
+Barnsley,Harrogate,65611,85.0
+Doncaster,Harrogate,77611,89.0
+Halifax,Harrogate,-1,-1.0
+Darlington,Harrogate,103779,70.0
+London,Maidstone,64192,63.0
+Southend-on-Sea,Maidstone,173357,149.0
+Luton,Maidstone,169691,119.0
+Medway,Maidstone,108780,158.08333333333334
+Woking,Maidstone,101708,167.0
+Thanet,Maidstone,78489,150.91666666666666
+Crawley,Maidstone,136287,147.0
+Bedford,Maidstone,144698,138.0
+Chelmsford,Maidstone,154048,121.0
+Stevenage,Maidstone,109167,114.0
+Hastings,Maidstone,71872,86.0
+Greater Manchester,Sefton,80023,167.91666666666666
+Liverpool,Sefton,-1,-1.0
+Newcastle-under-Lyme,Sefton,100449,181.76666666666668
+Blackpool,Sefton,99406,220.13333333333333
+Preston,Sefton,-1,-1.0
+Warrington,Sefton,49645,117.8
+Wigan,Sefton,47417,140.8
+Blackburn with Darwen,Sefton,106601,270.0
+Burnley,Sefton,111332,188.8
+Halton,Sefton,-1,-1.0
+Tamworth,Sefton,184873,217.8
+Köln,Darmstadt,200796,82.0
+Frankfurt am Main,Darmstadt,27818,15.0
+Stuttgart,Darmstadt,166462,96.0
+Bonn,Darmstadt,184011,154.0
+Mannheim/Ludwigshafen,Darmstadt,62491,90.0
+Karlsruhe,Darmstadt,119466,85.0
+Wiesbaden,Darmstadt,43676,45.0
+Mainz,Darmstadt,33232,32.0
+Heidelberg,Darmstadt,59392,46.0
+Würzburg,Darmstadt,122881,92.0
+Rüsselsheim am Main,Darmstadt,29021,37.0
+Birmingham,Worcester,41868,42.0
+Bristol,Worcester,106790,71.0
+Leicester,Worcester,105748,99.0
+Newcastle-under-Lyme,Worcester,120066,166.0
+Coventry,Worcester,72386,71.0
+Derby,Worcester,104819,105.0
+Swindon,Worcester,146892,131.0
+Oxford,Worcester,91543,67.0
+Gloucester,Worcester,46321,73.0
+Telford,Worcester,87608,96.0
+Cheltenham,Worcester,35709,64.0
+Bologna,Ferrara,48957,31.0
+Firenze,Ferrara,137502,67.0
+Padova,Ferrara,74072,48.0
+Verona,Ferrara,154457,109.0
+Prato,Ferrara,-1,-1.0
+Mestre,Ferrara,-1,-1.0
+Modena,Ferrara,85234,66.0
+Parma,Ferrara,137680,93.0
+Rimini,Ferrara,159509,166.0
+Reggio nell'Emilia,Ferrara,109861,79.0
+Vicenza,Ferrara,104140,82.0
+Greater Manchester,Burnley,54285,106.81666666666666
+Liverpool,Burnley,-1,-1.0
+Leeds,Burnley,62544,64.0
+Wakefield,Burnley,78765,96.0
+Blackpool,Burnley,65935,126.0
+Preston,Burnley,-1,-1.0
+Warrington,Burnley,80451,127.0
+Wigan,Burnley,62029,83.0
+York,Burnley,103704,118.0
+Blackburn with Darwen,Burnley,25281,58.86666666666667
+Huddersfield,Burnley,86786,105.0
+London,Milton Keynes,80101,45.0
+Birmingham,Milton Keynes,105170,93.0
+Greater Manchester,Milton Keynes,229028,236.35
+Greater Nottingham,Milton Keynes,198007,201.68333333333334
+Leicester,Milton Keynes,117459,116.0
+Newcastle-under-Lyme,Milton Keynes,167592,146.0
+Coventry,Milton Keynes,70952,48.0
+Luton,Milton Keynes,28940,20.0
+Derby,Milton Keynes,170966,183.0
+Medway,Milton Keynes,141394,199.08333333333334
+Northampton,Milton Keynes,25786,14.0
+Milano,Pavia,-1,-1.0
+Torino,Pavia,149388,535.1666666666666
+Genova,Pavia,97949,62.0
+Bologna,Pavia,245316,105.0
+Busto Arsizio,Pavia,69093,83.0
+Brescia,Pavia,119197,102.0
+Gallarate,Pavia,76267,89.0
+Como,Pavia,91056,122.0
+Piacenza,Pavia,91109,104.0
+Novara,Pavia,86097,106.0
+Alessandria,Pavia,63291,48.0
+Birmingham,Hereford,89051,115.0
+Bristol,Hereford,112456,89.0
+Cardiff,Hereford,88631,68.0
+Gloucester,Hereford,93485,116.0
+Telford,Hereford,104966,103.0
+Newport,Hereford,-1,-1.0
+Cheltenham,Hereford,82873,106.0
+Worcester,Hereford,46063,42.0
+Redditch,Hereford,106141,130.0
+Crewe,Hereford,134718,98.0
+Shrewsbury,Hereford,82084,53.0
+Birmingham,Wigan,142426,116.0
+Greater Manchester,Wigan,42957,65.98333333333333
+Liverpool,Wigan,-1,-1.0
+Leeds,Wigan,97688,109.0
+Rotherham,Wigan,168273,186.0
+Newcastle-under-Lyme,Wigan,98755,146.0
+Wakefield,Wigan,114071,134.0
+Derby,Wigan,205341,157.0
+Blackpool,Wigan,52680,89.0
+Preston,Wigan,-1,-1.0
+Warrington,Wigan,19023,10.0
+Barcelona,Castelldefels,18840,23.0
+Sabadell,Castelldefels,-1,-1.0
+Terrassa,Castelldefels,54983,82.0
+Sant Cugat del Vallès/Rubí,Castelldefels,42592,79.86666666666666
+Tarragona,Castelldefels,65590,60.0
+Girona,Castelldefels,119714,126.0
+Viladecans,Castelldefels,5365,6.0
+Reus,Castelldefels,83268,78.0
+Granollers,Castelldefels,50489,80.96666666666667
+Sant Boi de Llobregat,Castelldefels,22132,40.083333333333336
+Vilanova i la Geltrú,Castelldefels,22940,23.0
+Birmingham,Telford,45614,46.0
+Greater Manchester,Telford,145055,157.98333333333332
+Liverpool,Telford,-1,-1.0
+Greater Nottingham,Telford,138434,164.68333333333334
+Newcastle-under-Lyme,Telford,82460,91.0
+Coventry,Telford,76096,74.0
+Derby,Telford,108529,108.0
+Milton Keynes,Telford,146978,109.0
+Warrington,Telford,119819,120.0
+Wigan,Telford,146533,144.0
+Gloucester,Telford,129188,102.0
+Greater Manchester,Barnsley,121916,162.98333333333332
+Leeds,Barnsley,36146,32.0
+Greater Nottingham,Barnsley,92349,97.68333333333334
+Rotherham,Barnsley,24691,48.0
+Leicester,Barnsley,131462,89.0
+Kingston-upon-Hull,Barnsley,113904,112.0
+Wakefield,Barnsley,17806,15.0
+Derby,Barnsley,84269,63.0
+York,Barnsley,77306,87.0
+Huddersfield,Barnsley,63941,95.0
+Barcelona,El Prat de Llobregat,7788,12.0
+Sabadell,El Prat de Llobregat,-1,-1.0
+Terrassa,El Prat de Llobregat,43931,80.0
+Sant Cugat del Vallès/Rubí,El Prat de Llobregat,31559,67.86666666666666
+Tarragona,El Prat de Llobregat,76611,74.0
+Girona,El Prat de Llobregat,108681,114.0
+Viladecans,El Prat de Llobregat,5720,4.0
+Reus,El Prat de Llobregat,94288,92.0
+Vilanova i la Geltrú,El Prat de Llobregat,33973,32.0
+Castelldefels,El Prat de Llobregat,11058,11.0
+Köln,Koblenz,92526,70.0
+Frankfurt am Main,Koblenz,128756,87.0
+Düsseldorf,Koblenz,132851,112.0
+Solingen,Koblenz,120375,79.0
+Bonn,Koblenz,59153,55.0
+Wiesbaden,Koblenz,101224,83.0
+Mainz,Koblenz,90752,84.0
+Duisburg,Koblenz,156300,159.0
+Leverkusen,Koblenz,106084,89.0
+Benrath,Koblenz,123190,102.18333333333334
+Greater Nottingham,Sutton in Ashfield,-1,-1.0
+Rotherham,Sutton in Ashfield,55116,108.0
+Leicester,Sutton in Ashfield,69153,371.6166666666667
+Derby,Sutton in Ashfield,64456,73.0
+Lincoln,Sutton in Ashfield,-1,-1.0
+Doncaster,Sutton in Ashfield,75033,95.0
+Tamworth,Sutton in Ashfield,201870,146.0
+Mansfield,Sutton in Ashfield,5748,13.0
+Nuneaton,Sutton in Ashfield,112422,168.0
+Burton-on-Trent,Sutton in Ashfield,80975,143.11666666666667
+Barcelona,Vilanova i la Geltrú,41767,42.0
+Sabadell,Vilanova i la Geltrú,-1,-1.0
+Terrassa,Vilanova i la Geltrú,77910,105.0
+Sant Cugat del Vallès/Rubí,Vilanova i la Geltrú,65519,101.86666666666666
+Tarragona,Vilanova i la Geltrú,42700,38.0
+Girona,Vilanova i la Geltrú,142641,152.0
+Viladecans,Vilanova i la Geltrú,28292,25.0
+Reus,Vilanova i la Geltrú,60378,56.0
+Granollers,Vilanova i la Geltrú,73416,106.96666666666667
+Sant Boi de Llobregat,Vilanova i la Geltrú,45059,62.083333333333336
+Birmingham,Cheltenham,72907,36.0
+Bristol,Cheltenham,71583,40.0
+Cardiff,Cheltenham,101033,73.0
+Coventry,Cheltenham,103389,67.0
+Derby,Cheltenham,135821,79.0
+Reading,Cheltenham,-1,-1.0
+Swindon,Cheltenham,69990,58.0
+Gloucester,Cheltenham,10619,9.0
+Telford,Cheltenham,118611,108.0
+Newport,Cheltenham,-1,-1.0
+Madrid,Toledo,-1,-1.0
+Alcalá de Henares,Toledo,-1,-1.0
+Fuenlabrada,Toledo,-1,-1.0
+Majadahonda,Toledo,-1,-1.0
+Coslada,Toledo,-1,-1.0
+Parla,Toledo,-1,-1.0
+Torrejón de Ardoz,Toledo,-1,-1.0
+Pozuelo de Alarcón,Toledo,-1,-1.0
+Ciudad Real,Toledo,-1,-1.0
+Collado Villalba,Toledo,-1,-1.0
+London,Bedford,80158,61.0
+Greater Nottingham,Bedford,124577,96.68333333333334
+Leicester,Bedford,79039,43.0
+Coventry,Bedford,125584,130.0
+Southend-on-Sea,Bedford,151154,136.0
+Luton,Bedford,31600,23.0
+Derby,Bedford,126243,76.0
+Medway,Bedford,140596,175.08333333333334
+Northampton,Bedford,-1,-1.0
+Milton Keynes,Bedford,-1,-1.0
+Amsterdam,Apeldoorn,152364,142.0
+Rotterdam,Apeldoorn,160306,132.0
+Den Haag,Apeldoorn,164475,142.0
+Leiden,Apeldoorn,175510,136.0
+Utrecht,Apeldoorn,-1,-1.0
+Haarlem,Apeldoorn,161928,142.0
+Almere,Apeldoorn,118596,97.0
+Arnhem,Apeldoorn,47044,44.0
+Nijmegen,Apeldoorn,65449,59.38333333333333
+Amersfoort,Apeldoorn,125242,118.0
+London,Crawley,72088,73.0
+Portsmouth,Crawley,91742,101.0
+Brighton,Crawley,-1,-1.0
+Luton,Crawley,124640,149.0
+Medway,Crawley,135471,211.08333333333334
+Reading,Crawley,-1,-1.0
+Woking,Crawley,100444,151.0
+Frimley,Crawley,129440,171.0
+Slough,Crawley,108529,125.0
+Worthing,Crawley,51419,91.0
+Bruxelles,Verviers,127344,81.0
+Köln,Verviers,99041,109.0
+Liège,Verviers,24630,16.0
+Aachen,Verviers,29282,30.0
+Heerlen,Verviers,52188,109.0
+Maastricht,Verviers,53105,103.08333333333333
+Leuven,Verviers,96911,55.0
+Mechelen,Verviers,131859,85.0
+Namur,Verviers,83765,113.0
+Düren,Verviers,60266,86.0
+Ruhrgebiet,Hagen,55325,79.21666666666667
+Köln,Hagen,71888,46.0
+Düsseldorf,Hagen,54099,75.0
+Solingen,Hagen,44115,42.0
+Bonn,Hagen,105323,106.0
+Krefeld,Hagen,84378,108.0
+Mönchengladbach,Hagen,81285,72.0
+Moers,Hagen,93463,116.0
+Münster,Hagen,83800,62.0
+Bielefeld,Hagen,128567,92.0
+London,Peterborough,126107,74.0
+Leeds,Peterborough,175985,88.0
+Greater Nottingham,Peterborough,84917,80.68333333333334
+Rotherham,Peterborough,148610,113.0
+Leicester,Peterborough,84235,52.88333333333333
+Wakefield,Peterborough,159778,74.0
+Luton,Peterborough,171634,90.0
+Derby,Peterborough,131469,100.0
+Norwich,Peterborough,135764,87.0
+York,Peterborough,180213,63.0
+Barcelona,Sant Boi de Llobregat,9832,36.75
+Sabadell,Sant Boi de Llobregat,-1,-1.0
+Terrassa,Sant Boi de Llobregat,45888,94.75
+Sant Cugat del Vallès/Rubí,Sant Boi de Llobregat,32801,86.75
+Lleida,Sant Boi de Llobregat,173962,103.75
+Tarragona,Sant Boi de Llobregat,92893,112.91666666666667
+Girona,Sant Boi de Llobregat,111842,149.75
+Viladecans,Sant Boi de Llobregat,16783,32.75
+Granollers,Sant Boi de Llobregat,42449,78.71666666666667
+Manresa,Sant Boi de Llobregat,54425,91.61666666666666
+Amsterdam,Alkmaar,41262,37.0
+Rotterdam,Alkmaar,111113,112.28333333333333
+Den Haag,Alkmaar,78295,87.0
+Leiden,Alkmaar,63054,70.0
+Utrecht,Alkmaar,81468,77.2
+Dordrecht,Alkmaar,121049,125.0
+Haarlem,Alkmaar,50664,51.0
+Almere,Alkmaar,70162,74.0
+Amersfoort,Alkmaar,85905,78.0
+Zoetermeer,Alkmaar,129865,110.16666666666667
+London,Oxford,103757,86.16666666666667
+Birmingham,Oxford,114417,70.0
+Bristol,Oxford,121377,70.0
+Southampton,Oxford,258353,242.0
+Coventry,Oxford,83969,47.0
+Reading,Oxford,-1,-1.0
+Milton Keynes,Oxford,154907,118.0
+Woking,Oxford,96186,112.0
+Swindon,Oxford,55355,53.0
+Frimley,Oxford,81208,104.0
+Liège,Sittard-Geleen,57233,102.21666666666667
+Eindhoven,Sittard-Geleen,81758,76.75
+Krefeld,Sittard-Geleen,92325,121.21666666666667
+Tilburg,Sittard-Geleen,118712,111.98333333333333
+Aachen,Sittard-Geleen,44896,93.21666666666667
+Mönchengladbach,Sittard-Geleen,80446,120.21666666666667
+Heerlen,Sittard-Geleen,22386,58.21666666666667
+'s-Hertogenbosch,Sittard-Geleen,113873,102.21666666666667
+Maastricht,Sittard-Geleen,25676,49.21666666666667
+Helmond,Sittard-Geleen,95298,108.21666666666667
+Hamburg,Delmenhorst,117912,80.1
+Hannover,Delmenhorst,135817,103.0
+Bremen,Delmenhorst,13679,10.0
+Münster,Delmenhorst,185474,96.0
+Oldenburg (Oldenburg),Delmenhorst,30694,24.0
+Osnabrück,Delmenhorst,112075,121.0
+Bremerhaven,Delmenhorst,75818,58.0
+Harburg,Delmenhorst,118133,103.96666666666667
+Gröpelingen,Delmenhorst,24146,74.05
+Greater Manchester,Wakefield,92107,132.98333333333332
+Liverpool,Wakefield,-1,-1.0
+Leeds,Wakefield,16326,15.0
+Tyneside conurbation,Wakefield,-1,-1.0
+Greater Nottingham,Wakefield,110166,111.68333333333334
+Rotherham,Wakefield,54210,52.0
+Stockton-on-Tees,Wakefield,169402,127.0
+Newcastle-under-Lyme,Wakefield,158827,163.0
+Kingston-upon-Hull,Wakefield,96098,88.0
+London,Harlow,79305,103.0
+Southend-on-Sea,Harlow,93990,163.0
+Luton,Harlow,124832,119.0
+Medway,Harlow,108605,226.08333333333334
+Cambridge,Harlow,80279,120.0
+Chelmsford,Harlow,32379,47.0
+Basildon,Harlow,85384,162.0
+Stevenage,Harlow,31645,55.0
+Thurrock,Harlow,63116,181.1
+Ruhrgebiet,Osnabrück,188974,179.21666666666667
+Hannover,Osnabrück,133062,92.0
+Bremen,Osnabrück,121792,74.0
+Münster,Osnabrück,50013,36.0
+Bielefeld,Osnabrück,66233,60.0
+Hagen,Osnabrück,129448,80.0
+Duisburg,Osnabrück,220410,182.0
+Oldenburg (Oldenburg),Osnabrück,166174,91.0
+Enschede,Osnabrück,103661,89.0
+London,Aldwick,110427,405.1333333333333
+Portsmouth,Aldwick,41691,371.1333333333333
+Southampton,Aldwick,74476,404.1333333333333
+Brighton,Aldwick,-1,-1.0
+Woking,Aldwick,102332,464.1333333333333
+Worthing,Aldwick,34394,390.1333333333333
+Crawley,Aldwick,66047,359.1333333333333
+Eastbourne,Aldwick,138692,465.1333333333333
+Guildford,Aldwick,93124,430.1333333333333
+London,Frimley,70960,112.0
+Portsmouth,Frimley,89419,137.36666666666667
+Bournemouth,Frimley,167876,178.0
+Southampton,Frimley,121734,147.0
+Brighton,Frimley,-1,-1.0
+Medway,Frimley,128321,314.45
+Reading,Frimley,-1,-1.0
+Woking,Frimley,17875,60.0
+Swindon,Frimley,103510,97.0
+Greater Manchester,Blackburn with Darwen,102793,218.96666666666667
+Liverpool,Blackburn with Darwen,-1,-1.0
+Leeds,Blackburn with Darwen,87729,123.98333333333333
+Newcastle-under-Lyme,Blackburn with Darwen,99214,157.98333333333332
+Wakefield,Blackburn with Darwen,103950,175.98333333333332
+Blackpool,Blackburn with Darwen,54947,190.98333333333332
+Preston,Blackburn with Darwen,-1,-1.0
+Warrington,Blackburn with Darwen,91831,145.98333333333332
+Wigan,Blackburn with Darwen,59887,124.98333333333333
+Bologna,Forlì,64676,29.0
+Firenze,Forlì,153737,99.0
+Verona,Forlì,178138,198.0
+Prato,Forlì,-1,-1.0
+Modena,Forlì,101404,53.0
+Parma,Forlì,153849,80.0
+Rimini,Forlì,45907,35.0
+Reggio nell'Emilia,Forlì,126030,66.0
+Ferrara,Forlì,113633,124.0
+Stuttgart,Heilbronn,54948,55.0
+Mannheim/Ludwigshafen,Heilbronn,136388,145.0
+Karlsruhe,Heilbronn,71949,67.0
+Heidelberg,Heilbronn,74038,106.0
+Ludwigsburg,Heilbronn,38645,35.0
+Esslingen am Neckar,Heilbronn,65697,65.0
+Würzburg,Heilbronn,127094,94.0
+Reutlingen,Heilbronn,109159,93.0
+Sindelfingen,Heilbronn,80792,93.0
+Münster,Hengelo,86892,81.0
+Arnhem,Hengelo,99030,85.0
+Nijmegen,Hengelo,117436,100.38333333333334
+Amersfoort,Hengelo,152725,137.0
+Apeldoorn,Hengelo,68086,49.0
+Enschede,Hengelo,8153,9.0
+Osnabrück,Hengelo,95188,72.0
+Zwolle,Hengelo,59033,52.0
+Hilversum,Hengelo,160027,150.0
+Bruxelles,La Louvière,52878,63.0
+Lille,La Louvière,92890,98.0
+Antwerpen,La Louvière,98605,112.0
+Gent,La Louvière,102946,90.0
+Charleroi,La Louvière,17594,13.0
+Quaregnon,La Louvière,26239,27.0
+Leuven,La Louvière,83372,111.0
+Mechelen,La Louvière,82196,106.0
+Namur,La Louvière,57721,85.0
+Bruxelles,Namur,63184,66.0
+Antwerpen,Namur,112299,114.0
+Liège,Namur,59103,46.0
+Charleroi,Namur,40192,70.0
+Aachen,Namur,113578,114.0
+Maastricht,Namur,87574,112.08333333333333
+Quaregnon,Namur,83483,80.0
+Leuven,Namur,61135,74.0
+Mechelen,Namur,82150,99.0
+Leeds,Darlington,112056,86.0
+Tyneside conurbation,Darlington,-1,-1.0
+Rotherham,Darlington,143852,159.0
+Stockton-on-Tees,Darlington,14172,18.0
+Wakefield,Darlington,128277,112.0
+York,Darlington,70918,27.0
+Huddersfield,Darlington,139552,152.0
+Doncaster,Darlington,123190,46.0
+Halifax,Darlington,-1,-1.0
+Madrid,Collado Villalba,38663,41.0
+Alcalá de Henares,Collado Villalba,77952,96.0
+Fuenlabrada,Collado Villalba,62534,78.0
+Majadahonda,Collado Villalba,29807,52.0
+Coslada,Collado Villalba,59525,77.0
+Parla,Collado Villalba,70155,93.3
+Torrejón de Ardoz,Collado Villalba,67584,86.0
+Pozuelo de Alarcón,Collado Villalba,29754,31.0
+Ávila,Collado Villalba,82863,57.0
+Birmingham,Gloucester,83449,76.0
+Bristol,Gloucester,82185,70.0
+Cardiff,Gloucester,90237,66.0
+Coventry,Gloucester,114342,75.0
+Derby,Gloucester,222460,89.0
+Reading,Gloucester,-1,-1.0
+Swindon,Gloucester,59049,48.0
+Oxford,Gloucester,114654,97.0
+Ruhrgebiet,Paderborn,133567,140.21666666666667
+Solingen,Paderborn,170285,114.0
+Kassel,Paderborn,105859,67.0
+Münster,Paderborn,113070,90.0
+Bielefeld,Paderborn,44294,54.0
+Hagen,Paderborn,125902,84.0
+Hamm,Paderborn,77618,39.0
+Göttingen,Paderborn,111962,115.0
+Hamburg,Lüneburg,49781,60.0
+Hannover,Lüneburg,128538,59.0
+Bremen,Lüneburg,140933,119.0
+Lübeck,Lüneburg,79026,65.0
+Göttingen,Lüneburg,228490,100.0
+Harburg,Lüneburg,39092,59.166666666666664
+Gröpelingen,Lüneburg,151542,161.05
+Neumünster,Lüneburg,127611,88.0
+Ruhrgebiet,Moers,56905,89.21666666666667
+Köln,Moers,80291,76.0
+Düsseldorf,Moers,40249,42.0
+Solingen,Moers,59935,75.3
+Bonn,Moers,113703,114.0
+Krefeld,Moers,22978,29.3
+Aachen,Moers,130148,125.0
+Mönchengladbach,Moers,46812,65.0
+Amsterdam,Tilburg,114632,87.0
+Rotterdam,Tilburg,66944,38.0
+Den Haag,Tilburg,91274,63.0
+Antwerpen,Tilburg,161373,112.0
+Leiden,Tilburg,105134,82.0
+Eindhoven,Tilburg,36982,29.0
+Utrecht,Tilburg,-1,-1.0
+Dordrecht,Tilburg,50651,39.733333333333334
+Frankfurt am Main,Gießen,65849,61.0
+Mannheim/Ludwigshafen,Gießen,156039,189.0
+Kassel,Gießen,130256,100.0
+Wiesbaden,Gießen,111086,113.0
+Mainz,Gießen,104522,112.0
+Rüsselsheim am Main,Gießen,93387,89.0
+Darmstadt,Gießen,114662,103.0
+Hanau,Gießen,64265,54.0
+Padova,Treviso,48886,48.0
+Verona,Treviso,129183,98.0
+Mestre,Treviso,-1,-1.0
+Vicenza,Treviso,78866,69.0
+Ferrara,Treviso,122884,101.0
+Udine,Treviso,103703,76.0
+Venezia,Treviso,28702,37.0
+Pordenone,Treviso,55710,50.0
+Bologna,Carpi,51530,77.0
+Firenze,Carpi,142685,79.0
+Prato,Carpi,-1,-1.0
+Modena,Carpi,14796,14.0
+Parma,Carpi,67243,81.0
+Reggio nell'Emilia,Carpi,39424,63.0
+Ferrara,Carpi,100488,366.0
+Piacenza,Carpi,124066,94.0
+Köln,Heerlen,92225,85.0
+Düsseldorf,Heerlen,85943,101.0
+Liège,Heerlen,55342,94.0
+Eindhoven,Heerlen,96048,63.0
+Krefeld,Heerlen,82141,85.0
+Tilburg,Heerlen,133035,99.76666666666667
+Aachen,Heerlen,22466,26.0
+Mönchengladbach,Heerlen,58016,53.0
+Glasgow,Falkirk,34941,19.0
+Edinburgh,Falkirk,41102,27.0
+Dundee City,Falkirk,103696,89.0
+Blantyre,Falkirk,-1,-1.0
+Coatbridge,Falkirk,49576,47.0
+Motherwell,Falkirk,-1,-1.0
+East Kilbride,Falkirk,54265,88.1
+Livingston,Falkirk,-1,-1.0
+Glasgow,Livingston,-1,-1.0
+Edinburgh,Livingston,-1,-1.0
+Dundee City,Livingston,-1,-1.0
+Blantyre,Livingston,-1,-1.0
+Coatbridge,Livingston,-1,-1.0
+Motherwell,Livingston,-1,-1.0
+Carlisle,Livingston,-1,-1.0
+East Kilbride,Livingston,-1,-1.0
+Paris,Meaux,43880,39.5
+Cergy-Pontoise,Meaux,84768,92.0
+Reims,Meaux,185784,129.46666666666667
+Maurepas,Meaux,86808,129.2
+Melun,Meaux,94152,116.5
+Poissy,Meaux,73285,97.83333333333333
+Creil,Meaux,95885,108.9
+Arras,Meaux,225300,125.3
+Paris,Les Clayes-sous-Bois,36909,77.96666666666667
+Cergy-Pontoise,Les Clayes-sous-Bois,71592,121.83333333333333
+Maurepas,Les Clayes-sous-Bois,20631,55.333333333333336
+Le Mans,Les Clayes-sous-Bois,246343,182.83333333333334
+Melun,Les Clayes-sous-Bois,85524,115.96666666666667
+Mantes en Yvelines,Les Clayes-sous-Bois,93672,170.96666666666667
+Poissy,Les Clayes-sous-Bois,47244,98.3
+Chartres,Les Clayes-sous-Bois,84308,100.96666666666667
+London,Newcastle-under-Lyme,409893,523.0
+Birmingham,Newcastle-under-Lyme,-1,-1.0
+Greater Manchester,Newcastle-under-Lyme,65593,378.81666666666666
+Liverpool,Newcastle-under-Lyme,-1,-1.0
+Leeds,Newcastle-under-Lyme,150202,200.0
+Greater Nottingham,Newcastle-under-Lyme,88757,578.6833333333333
+Rotherham,Newcastle-under-Lyme,155227,433.0
+Leicester,Newcastle-under-Lyme,136206,525.0
+London,Woking,37449,72.0
+Portsmouth,Woking,79964,107.0
+Bournemouth,Woking,152798,163.0
+Southampton,Woking,106656,132.0
+Brighton,Woking,-1,-1.0
+Luton,Woking,90168,141.0
+Medway,Woking,100844,212.08333333333334
+Reading,Woking,-1,-1.0
+London,Slough,31631,41.15
+Bristol,Slough,160416,107.0
+Southampton,Slough,167279,165.0
+Reading,Slough,-1,-1.0
+Woking,Slough,80058,100.0
+Swindon,Slough,94433,59.0
+Frimley,Slough,65319,90.0
+Oxford,Slough,72311,46.0
+Ruhrgebiet,Mönchengladbach,84527,104.21666666666667
+Köln,Mönchengladbach,56705,54.0
+Düsseldorf,Mönchengladbach,28012,34.0
+Solingen,Mönchengladbach,60235,74.0
+Bonn,Mönchengladbach,89927,106.0
+Liège,Mönchengladbach,174882,125.0
+Krefeld,Mönchengladbach,24136,20.0
+Aachen,Mönchengladbach,61997,49.0
+Amsterdam,Almere,28822,32.0
+Rotterdam,Almere,91024,66.0
+Den Haag,Almere,80688,58.0
+Leiden,Almere,65476,44.0
+Eindhoven,Almere,148666,113.5
+Utrecht,Almere,44386,48.0
+Dordrecht,Almere,123513,97.0
+Haarlem,Almere,47548,48.0
+London,Chelmsford,-1,-1.0
+Southend-on-Sea,Chelmsford,49605,86.31666666666666
+Luton,Chelmsford,100339,105.0
+Medway,Chelmsford,93265,171.08333333333334
+Norwich,Chelmsford,133646,112.0
+Ipswich,Chelmsford,59145,72.0
+Colchester,Chelmsford,36288,33.1
+Bedford,Chelmsford,131934,120.0
+Milano,Piacenza,-1,-1.0
+Genova,Piacenza,130498,93.0
+Bologna,Piacenza,146007,97.0
+Busto Arsizio,Piacenza,106001,100.5
+Modena,Piacenza,109269,70.0
+Parma,Piacenza,56856,48.0
+Gallarate,Piacenza,109725,101.0
+Reggio nell'Emilia,Piacenza,84685,54.0
+Stuttgart,Sindelfingen,12621,21.0
+Mannheim/Ludwigshafen,Sindelfingen,137985,129.0
+Karlsruhe,Sindelfingen,194960,124.0
+Ulm/Neu-Ulm,Sindelfingen,130246,158.8
+Heidelberg,Sindelfingen,119779,113.0
+Ludwigsburg,Sindelfingen,42375,60.0
+Esslingen am Neckar,Sindelfingen,41735,56.0
+Reutlingen,Sindelfingen,85157,110.0
+Bruxelles,Maastricht,136883,121.0
+Liège,Maastricht,31423,33.0
+Eindhoven,Maastricht,99035,57.53333333333333
+Tilburg,Maastricht,135984,92.93333333333334
+Aachen,Maastricht,46977,63.0
+Mönchengladbach,Maastricht,103722,95.0
+Heerlen,Maastricht,39670,40.93333333333333
+'s-Hertogenbosch,Maastricht,131146,81.96666666666667
+Bruxelles,Dordrecht,163667,115.0
+Amsterdam,Dordrecht,100729,88.0
+Rotterdam,Dordrecht,19846,15.0
+Den Haag,Dordrecht,44112,54.0
+Antwerpen,Dordrecht,114203,79.0
+Leiden,Dordrecht,57930,53.0
+Eindhoven,Dordrecht,87818,78.0
+Utrecht,Dordrecht,75922,65.0
+Ruhrgebiet,Aachen,146723,158.21666666666667
+Bruxelles,Aachen,183652,221.0
+Köln,Aachen,69759,49.0
+Düsseldorf,Aachen,90013,94.0
+Solingen,Aachen,129257,114.0
+Bonn,Aachen,103171,94.0
+Liège,Aachen,48749,22.0
+Krefeld,Aachen,86144,87.0
+Greater Nottingham,Lincoln,-1,-1.0
+Rotherham,Lincoln,-1,-1.0
+Leicester,Lincoln,-1,-1.0
+Wakefield,Lincoln,-1,-1.0
+Derby,Lincoln,-1,-1.0
+York,Lincoln,-1,-1.0
+Grimsby,Lincoln,-1,-1.0
+Peterborough,Lincoln,-1,-1.0
+Bristol,Weston-super-Mare,114874,93.0
+Cardiff,Weston-super-Mare,91023,145.0
+Swindon,Weston-super-Mare,180914,150.0
+Gloucester,Weston-super-Mare,92713,135.0
+Newport,Weston-super-Mare,-1,-1.0
+Cheltenham,Weston-super-Mare,186359,131.0
+Exeter,Weston-super-Mare,-1,-1.0
+Bath,Weston-super-Mare,145518,127.0
+Greater Manchester,York,116639,146.98333333333332
+Leeds,York,41160,33.0
+Tyneside conurbation,York,-1,-1.0
+Rotherham,York,72953,67.0
+Stockton-on-Tees,York,85090,58.0
+Kingston-upon-Hull,York,78112,61.0
+Wakefield,York,57381,69.0
+Derby,York,140388,76.0
+Amsterdam,Haarlem,13939,10.0
+Rotterdam,Haarlem,67004,56.0
+Den Haag,Haarlem,44052,36.0
+Antwerpen,Haarlem,161366,99.0
+Leiden,Haarlem,28833,20.0
+Utrecht,Haarlem,58890,59.2
+Dordrecht,Haarlem,86805,75.0
+Frankfurt am Main,Kaiserslautern,151497,172.0
+Stuttgart,Kaiserslautern,171048,121.0
+Mannheim/Ludwigshafen,Kaiserslautern,61433,56.0
+Karlsruhe,Kaiserslautern,124052,110.0
+Mainz,Kaiserslautern,134286,136.0
+Heidelberg,Kaiserslautern,81370,99.0
+Saarbrücken,Kaiserslautern,66337,36.0
+Frankfurt am Main,Heidelberg,87096,83.0
+Stuttgart,Heidelberg,124112,63.0
+Strasbourg,Heidelberg,151428,117.0
+Mannheim/Ludwigshafen,Heidelberg,20083,26.0
+Karlsruhe,Heidelberg,53840,34.0
+Wiesbaden,Heidelberg,96846,87.0
+Mainz,Heidelberg,87330,71.0
+Bristol,Newport,-1,-1.0
+Cardiff,Newport,-1,-1.0
+Reading,Newport,-1,-1.0
+Swindon,Newport,-1,-1.0
+Oxford,Newport,-1,-1.0
+Gloucester,Newport,-1,-1.0
+Swansea,Newport,-1,-1.0
+Köln,Mainz,193757,83.0
+Frankfurt am Main,Mainz,39657,39.0
+Stuttgart,Mainz,176892,84.0
+Bonn,Mainz,150736,85.0
+Mannheim/Ludwigshafen,Mainz,72979,78.0
+Karlsruhe,Mainz,129954,73.0
+Wiesbaden,Mainz,9504,13.0
+Stuttgart,Reutlingen,56958,47.0
+Mannheim/Ludwigshafen,Reutlingen,166898,112.0
+Karlsruhe,Reutlingen,223873,107.0
+Ulm/Neu-Ulm,Reutlingen,90373,117.8
+Heidelberg,Reutlingen,148692,96.0
+Ludwigsburg,Reutlingen,70550,66.0
+Esslingen am Neckar,Reutlingen,43749,36.0
+Hamburg,Gröpelingen,114676,113.98333333333333
+Hannover,Gröpelingen,132602,147.88333333333333
+Bremen,Gröpelingen,10455,41.88333333333333
+Oldenburg (Oldenburg),Gröpelingen,54815,100.88333333333334
+Osnabrück,Gröpelingen,132269,111.88333333333334
+Bremerhaven,Gröpelingen,72582,106.88333333333334
+Harburg,Gröpelingen,114895,159.85
+Greater Nottingham,Mansfield,-1,-1.0
+Rotherham,Mansfield,60554,122.0
+Leicester,Mansfield,117093,111.0
+Wakefield,Mansfield,94383,152.0
+Derby,Mansfield,69894,86.0
+Lincoln,Mansfield,-1,-1.0
+Doncaster,Mansfield,80471,108.0
+Zürich,Thun,148643,83.0
+Basel,Thun,131939,89.0
+Lausanne,Thun,128220,93.0
+Bern,Thun,31667,18.0
+Luzern,Thun,144788,85.0
+Biel/Bienne,Thun,64824,60.0
+Fribourg,Thun,62609,48.0
+Almere,Assen,150659,86.0
+Groningen,Assen,27387,20.0
+Apeldoorn,Assen,121323,97.0
+Zwolle,Assen,76574,45.0
+Leeuwarden,Assen,81358,65.0
+Lelystad,Assen,125865,72.0
+Almelo,Assen,145198,108.0
+Birmingham,Preston,-1,-1.0
+Greater Manchester,Preston,-1,-1.0
+Liverpool,Preston,-1,-1.0
+Leeds,Preston,-1,-1.0
+Newcastle-under-Lyme,Preston,-1,-1.0
+Wakefield,Preston,-1,-1.0
+Blackpool,Preston,-1,-1.0
+Madrid,Pozuelo de Alarcón,30352,34.0
+Alcalá de Henares,Pozuelo de Alarcón,48227,65.0
+Fuenlabrada,Pozuelo de Alarcón,32809,46.0
+Majadahonda,Pozuelo de Alarcón,12120,28.0
+Coslada,Pozuelo de Alarcón,29800,46.0
+Parla,Pozuelo de Alarcón,40430,62.3
+Torrejón de Ardoz,Pozuelo de Alarcón,37859,55.0
+London,Thurrock,49626,122.1
+Southend-on-Sea,Thurrock,38819,66.1
+Medway,Thurrock,-1,-1.0
+Colchester,Thurrock,107787,123.2
+Chelmsford,Thurrock,71505,113.1
+Basildon,Thurrock,28625,79.1
+Stevenage,Thurrock,80342,139.15
+Ruhrgebiet,Utrecht,178611,200.71666666666667
+Amsterdam,Utrecht,44847,47.5
+Rotterdam,Utrecht,56060,37.0
+Den Haag,Utrecht,60409,47.0
+Antwerpen,Utrecht,150303,83.38333333333334
+Leiden,Utrecht,72168,57.5
+Eindhoven,Utrecht,80924,57.0
+Milano,Reggio nell'Emilia,-1,-1.0
+Bologna,Reggio nell'Emilia,61361,45.0
+Firenze,Reggio nell'Emilia,152516,80.0
+Verona,Reggio nell'Emilia,264752,216.0
+Prato,Reggio nell'Emilia,-1,-1.0
+Modena,Reggio nell'Emilia,24628,14.0
+Parma,Reggio nell'Emilia,27863,12.0
+London,Hastings,98580,111.0
+Brighton,Hastings,-1,-1.0
+Medway,Hastings,118677,178.08333333333334
+Worthing,Hastings,81906,131.0
+Thanet,Hastings,88386,161.91666666666666
+Crawley,Hastings,85167,89.0
+Eastbourne,Hastings,26417,33.0
+Paris,Douai,206263,84.33333333333333
+Bruxelles,Douai,143755,114.33333333333333
+Lille,Douai,34500,32.333333333333336
+Lens,Douai,-1,-1.0
+Dunkerque,Douai,124793,130.33333333333334
+Amiens,Douai,94103,66.33333333333333
+Valenciennes,Douai,37068,60.916666666666664
+Madrid,Ciudad Real,170801,54.0
+Córdoba,Ciudad Real,172833,61.0
+Fuenlabrada,Ciudad Real,191090,102.0
+Majadahonda,Ciudad Real,198129,125.0
+Parla,Ciudad Real,195994,106.3
+Torrejón de Ardoz,Ciudad Real,193423,99.0
+Pozuelo de Alarcón,Ciudad Real,186038,97.0
+Bruxelles,Liège,102734,59.0
+Köln,Liège,118367,62.0
+Antwerpen,Liège,130537,84.0
+Düsseldorf,Liège,128573,270.0833333333333
+Solingen,Liège,173090,295.0833333333333
+Bonn,Liège,146520,305.0833333333333
+Stuttgart,Esslingen am Neckar,13296,10.0
+Mannheim/Ludwigshafen,Esslingen am Neckar,123057,97.0
+Karlsruhe,Esslingen am Neckar,180032,92.0
+Ulm/Neu-Ulm,Esslingen am Neckar,77785,64.8
+Heidelberg,Esslingen am Neckar,104851,62.0
+Ludwigsburg,Esslingen am Neckar,26887,29.0
+Foggia,Manfredonia,38538,51.0
+Barletta,Manfredonia,103766,128.51666666666668
+Molfetta,Manfredonia,135163,341.0
+Trani,Manfredonia,116317,137.51666666666668
+San Severo,Manfredonia,65152,98.51666666666667
+Bisceglie,Manfredonia,125926,332.0
+Milano,Asti,-1,-1.0
+Torino,Asti,54942,51.166666666666664
+Genova,Asti,99348,85.0
+Piacenza,Asti,258585,538.0
+Alessandria,Asti,32766,21.0
+Pavia,Asti,129656,113.0
+Milano,Alessandria,-1,-1.0
+Torino,Alessandria,87637,75.16666666666667
+Genova,Alessandria,66674,62.0
+Parma,Alessandria,224191,468.0
+Piacenza,Alessandria,291280,562.0
+Novara,Alessandria,184961,453.0
+Paris,Saint-Quentin,154124,129.35
+Amiens,Saint-Quentin,101855,120.35
+Valenciennes,Saint-Quentin,98963,579.9333333333333
+Douai,Saint-Quentin,195974,633.5833333333334
+Creil,Saint-Quentin,104951,96.75
+Arras,Saint-Quentin,205255,631.15
+Zürich,Mulhouse,123716,336.0
+Strasbourg,Mulhouse,108207,64.0
+Basel,Mulhouse,33941,23.0
+Dijon,Mulhouse,203829,78.0
+Freiburg im Breisgau,Mulhouse,61021,50.0
+Bern,Mulhouse,136012,342.0
+Bruxelles,Calais,204422,385.0
+Lille,Calais,113700,58.0
+Lens,Calais,-1,-1.0
+Dunkerque,Calais,46434,45.0
+Boulogne-sur-mer,Calais,40463,44.333333333333336
+Douai,Calais,145000,589.2333333333333
+Milano,Modena,-1,-1.0
+Bologna,Modena,36734,29.0
+Firenze,Modena,127890,66.0
+Padova,Modena,159741,134.0
+Verona,Modena,240126,195.0
+Prato,Modena,-1,-1.0
+Genève,Fribourg,125752,103.0
+Basel,Fribourg,131258,89.0
+Lausanne,Fribourg,65563,44.0
+Bern,Fribourg,30836,21.0
+Luzern,Fribourg,143850,85.0
+Biel/Bienne,Fribourg,64476,84.0
+Zürich,Biel/Bienne,114436,69.0
+Genève,Biel/Bienne,157015,98.0
+Basel,Biel/Bienne,97998,77.0
+Lausanne,Biel/Bienne,109369,61.0
+Bern,Biel/Bienne,33451,35.0
+Luzern,Biel/Bienne,116167,79.0
+London,Coventry,151043,107.0
+Birmingham,Coventry,30482,17.7
+Greater Nottingham,Coventry,123300,129.68333333333334
+Rotherham,Coventry,164500,184.0
+Leicester,Coventry,94326,81.0
+Newcastle-under-Lyme,Coventry,108805,121.0
+London,Reading,-1,-1.0
+Bristol,Reading,-1,-1.0
+Portsmouth,Reading,-1,-1.0
+Bournemouth,Reading,-1,-1.0
+Southampton,Reading,-1,-1.0
+Coventry,Reading,-1,-1.0
+London,Northampton,105997,63.0
+Birmingham,Northampton,79475,62.0
+Leicester,Northampton,95476,112.0
+Newcastle-under-Lyme,Northampton,157751,176.0
+Coventry,Northampton,49061,34.0
+Derby,Northampton,145189,122.0
+Paris,Creil,50138,54.5
+Cergy-Pontoise,Creil,92938,122.38333333333334
+Maurepas,Creil,94200,406.2
+Amiens,Creil,81527,73.38333333333334
+Melun,Creil,100549,125.5
+Poissy,Creil,80407,107.33333333333333
+Strasbourg,Colmar,65812,35.0
+Basel,Colmar,76339,43.0
+Karlsruhe,Colmar,158015,230.0
+Freiburg im Breisgau,Colmar,103692,101.0
+Mulhouse,Colmar,42402,18.0
+Besançon,Colmar,182090,116.13333333333334
+London,Colchester,-1,-1.0
+Southend-on-Sea,Colchester,138598,118.1
+Luton,Colchester,136644,116.1
+Medway,Colchester,131659,202.08333333333334
+Norwich,Colchester,99648,94.1
+Ipswich,Colchester,25147,47.1
+Hamburg,Harburg,2196,9.533333333333333
+Hannover,Harburg,167436,85.83333333333333
+Bremen,Harburg,104440,86.83333333333333
+Kiel,Harburg,122352,101.43333333333334
+Lübeck,Harburg,76113,74.83333333333333
+Oldenburg (Oldenburg),Harburg,148808,138.43333333333334
+Madrid,Torrejón de Ardoz,22622,27.0
+Alcalá de Henares,Torrejón de Ardoz,10370,10.0
+Fuenlabrada,Torrejón de Ardoz,42921,55.0
+Majadahonda,Torrejón de Ardoz,49950,82.0
+Coslada,Torrejón de Ardoz,8111,9.0
+Parla,Torrejón de Ardoz,47815,73.3
+Barcelona,Viladecans,13502,17.0
+Sabadell,Viladecans,-1,-1.0
+Terrassa,Viladecans,49645,77.0
+Sant Cugat del Vallès/Rubí,Viladecans,36572,82.0
+Tarragona,Viladecans,70917,69.0
+Girona,Viladecans,114375,116.0
+Stuttgart,Ludwigsburg,16272,21.0
+Strasbourg,Ludwigsburg,-1,-1.0
+Mannheim/Ludwigshafen,Ludwigsburg,123680,91.0
+Karlsruhe,Ludwigsburg,110613,108.0
+Ulm/Neu-Ulm,Ludwigsburg,104577,98.8
+Heidelberg,Ludwigsburg,105715,70.0
+München,Rosenheim,59073,37.0
+Augsburg,Rosenheim,121197,92.0
+Salzburg,Rosenheim,88219,54.0
+Innsbruck,Rosenheim,106633,70.0
+Ingolstadt,Rosenheim,139994,115.0
+Landshut,Rosenheim,116102,108.0
+London,Swindon,125865,80.3
+Bristol,Swindon,66001,35.0
+Cardiff,Swindon,109166,57.0
+Southampton,Swindon,153217,129.0
+Reading,Swindon,-1,-1.0
+Woking,Swindon,118288,151.0
+Bergamo,Cremona,132453,153.0
+Brescia,Cremona,50232,58.0
+Modena,Cremona,195779,145.0
+Parma,Cremona,143360,115.0
+Reggio nell'Emilia,Cremona,171195,131.0
+Piacenza,Cremona,86576,76.0
+Bari,Bisceglie,34014,29.0
+Foggia,Bisceglie,83148,48.0
+Barletta,Bisceglie,20564,13.0
+Molfetta,Bisceglie,9258,7.0
+Trani,Bisceglie,8004,5.0
+San Severo,Bisceglie,115224,72.0
+Ruhrgebiet,Bocholt,91111,164.21666666666667
+Düsseldorf,Bocholt,78364,99.0
+Moers,Bocholt,71247,134.0
+Arnhem,Bocholt,85198,117.0
+Duisburg,Bocholt,54856,92.0
+Nijmegen,Bocholt,103932,138.0
+Paris,Poissy,30890,36.483333333333334
+Rouen,Poissy,165198,152.0
+Cergy-Pontoise,Poissy,29831,43.333333333333336
+Maurepas,Poissy,50176,99.2
+Melun,Poissy,75637,89.0
+Mantes en Yvelines,Poissy,83175,102.0
+Napoli,Acerra,15674,97.73333333333333
+Roma,Acerra,204341,182.15
+Caserta,Acerra,47751,191.15
+Salerno,Acerra,70116,154.15
+Pozzuoli,Acerra,30497,180.15
+Battipaglia,Acerra,86528,140.56666666666666
+Glasgow,Ayr,-1,-1.0
+Blantyre,Ayr,-1,-1.0
+Coatbridge,Ayr,-1,-1.0
+Motherwell,Ayr,-1,-1.0
+East Kilbride,Ayr,-1,-1.0
+Falkirk,Ayr,-1,-1.0
+Bologna,Venezia,159316,94.0
+Padova,Venezia,36807,26.0
+Verona,Venezia,109352,83.0
+Mestre,Venezia,-1,-1.0
+Vicenza,Venezia,66764,45.0
+Ferrara,Venezia,110838,63.0
+Paris,Le Mans,231713,152.0
+Nantes,Le Mans,191488,584.0
+Tours,Le Mans,105765,581.0
+Rennes,Le Mans,169446,548.0
+Maurepas,Le Mans,383848,614.2
+Angers,Le Mans,94036,330.01666666666665
+Ruhrgebiet,Münster,77760,82.21666666666667
+Düsseldorf,Münster,150442,130.0
+Solingen,Münster,127908,99.0
+Bremen,Münster,171795,77.0
+Krefeld,Münster,140462,143.0
+Moers,Münster,121561,127.0
+Barcelona,Granollers,31586,52.31666666666667
+Sabadell,Granollers,-1,-1.0
+Terrassa,Granollers,38884,81.31666666666666
+Sant Cugat del Vallès/Rubí,Granollers,31504,76.8
+Girona,Granollers,71258,71.31666666666666
+Viladecans,Granollers,45002,72.31666666666666
+Bruxelles,Charleroi,53707,50.0
+Lille,Charleroi,110123,111.0
+Antwerpen,Charleroi,99428,101.0
+Liège,Charleroi,156422,110.0
+Gent,Charleroi,103710,85.0
+London,Basildon,-1,-1.0
+Southend-on-Sea,Basildon,20580,32.0
+Medway,Basildon,103884,194.08333333333334
+Colchester,Basildon,129885,134.1
+Chelmsford,Basildon,93603,107.0
+London,Worthing,121310,123.0
+Portsmouth,Worthing,49744,51.0
+Southampton,Worthing,87261,100.0
+Brighton,Worthing,-1,-1.0
+Woking,Worthing,110385,146.0
+Budapest,Érd,-1,-1.0
+Gyõr,Érd,-1,-1.0
+Rákosliget,Érd,-1,-1.0
+Székesfehérvár,Érd,-1,-1.0
+Tatabánya,Érd,-1,-1.0
+Sevilla,"Puerto de Santa María, El",-1,-1.0
+Jerez de la Frontera,"Puerto de Santa María, El",-1,-1.0
+Cádiz,"Puerto de Santa María, El",-1,-1.0
+San Fernando,"Puerto de Santa María, El",-1,-1.0
+Dos Hermanas,"Puerto de Santa María, El",-1,-1.0
+Glasgow,East Kilbride,18671,36.2
+Edinburgh,East Kilbride,95343,115.2
+Blantyre,East Kilbride,-1,-1.0
+Coatbridge,East Kilbride,33951,83.2
+Motherwell,East Kilbride,-1,-1.0
+London,Wycombe,-1,-1.0
+Birmingham,Wycombe,-1,-1.0
+Coventry,Wycombe,-1,-1.0
+Reading,Wycombe,-1,-1.0
+Oxford,Wycombe,-1,-1.0
+Hamburg,Neumünster,78025,50.0
+Kiel,Neumünster,30916,24.0
+Lübeck,Neumünster,67629,76.0
+Harburg,Neumünster,91484,78.16666666666667
+Flensburg,Neumünster,102502,68.0
+Bologna,Vicenza,163999,105.0
+Padova,Vicenza,30066,22.0
+Brescia,Vicenza,112398,65.0
+Verona,Vicenza,50380,27.0
+Mestre,Vicenza,-1,-1.0
+Birmingham,Rotherham,194138,98.0
+Greater Manchester,Rotherham,128899,185.98333333333332
+Liverpool,Rotherham,-1,-1.0
+Leeds,Rotherham,60830,69.0
+Greater Nottingham,Rotherham,76328,102.68333333333334
+Bruxelles,Antwerpen,45808,47.0
+Amsterdam,Antwerpen,171364,120.0
+Lille,Antwerpen,136555,134.0
+Rotterdam,Antwerpen,94158,32.0
+Den Haag,Antwerpen,118716,71.0
+Hannover,Hildesheim,38711,30.0
+Magdeburg,Hildesheim,125400,117.0
+Kassel,Hildesheim,176678,148.0
+Braunschweig,Hildesheim,42517,27.0
+Göttingen,Hildesheim,93223,76.0
+München,Ingolstadt,80575,46.0
+Fürth,Ingolstadt,125267,46.0
+Augsburg,Ingolstadt,67273,61.0
+Regensburg,Ingolstadt,73806,56.1
+Würzburg,Ingolstadt,219623,94.0
+Bruxelles,Quaregnon,68610,68.0
+Lille,Quaregnon,66582,70.0
+Antwerpen,Quaregnon,114311,438.0
+Gent,Quaregnon,118576,114.0
+Charleroi,Quaregnon,43747,41.0
+Stockholm,Södertälje,36496,20.0
+Uppsala,Södertälje,108056,116.36666666666666
+Västerås,Södertälje,142535,124.36666666666666
+Norrköping,Södertälje,125365,56.0
+Haninge,Södertälje,46107,69.8
+Madrid,Ávila,122691,100.11666666666666
+Valladolid,Ávila,229573,570.0
+Salamanca,Ávila,110774,65.0
+Majadahonda,Ávila,112694,146.0
+Pozuelo de Alarcón,Ávila,112617,90.0
+Ruhrgebiet,Bonn,134028,147.21666666666667
+Köln,Bonn,33387,23.0
+Frankfurt am Main,Bonn,213452,106.0
+Düsseldorf,Bonn,73500,70.0
+Solingen,Bonn,61222,45.0
+Sevilla,Dos Hermanas,14767,19.0
+Córdoba,Dos Hermanas,141429,84.0
+Jerez de la Frontera,Dos Hermanas,90030,50.0
+Cádiz,Dos Hermanas,138978,91.0
+San Fernando,Dos Hermanas,-1,-1.0
+Madrid,Parla,25193,36.333333333333336
+Alcalá de Henares,Parla,58183,80.33333333333333
+Fuenlabrada,Parla,26482,41.333333333333336
+Majadahonda,Parla,52521,96.33333333333333
+Coslada,Parla,39766,64.33333333333333
+Zürich,Bregenz,126639,125.0
+Winterthur,Bregenz,97770,92.0
+Konstanz,Bregenz,60973,92.0
+St. Gallen,Bregenz,40675,45.0
+Kempten (Allgäu),Bregenz,97293,115.0
+Lyon,Avignon,227085,67.0
+Marseille,Avignon,94738,51.7
+Montpellier,Avignon,-1,-1.0
+Toulon,Avignon,159980,471.0
+Nimes,Avignon,-1,-1.0
+Milano,Verona,-1,-1.0
+Bologna,Verona,113619,52.0
+Firenze,Verona,188805,93.0
+Padova,Verona,80383,58.0
+Brescia,Verona,62113,38.0
+Köln,Wiesbaden,164640,52.0
+Frankfurt am Main,Wiesbaden,46219,47.0
+Bonn,Wiesbaden,198053,102.0
+Mannheim/Ludwigshafen,Wiesbaden,82495,94.0
+Karlsruhe,Wiesbaden,139412,89.0
+Ruhrgebiet,Lüdenscheid,82146,150.21666666666667
+Solingen,Lüdenscheid,77772,106.0
+Hagen,Lüdenscheid,19702,40.0
+Hamm,Lüdenscheid,101817,137.91666666666666
+Gevelsberg,Lüdenscheid,31810,82.0
+Ruhrgebiet,Bielefeld,122726,104.21666666666667
+Hannover,Bielefeld,109448,87.0
+Solingen,Bielefeld,159269,138.0
+Münster,Bielefeld,102402,82.0
+Braunschweig,Bielefeld,170433,136.0
+Pescara,San Severo,196270,136.0
+Foggia,San Severo,28030,14.0
+Barletta,San Severo,94668,60.0
+Molfetta,San Severo,124459,86.0
+Trani,San Severo,107219,70.0
+Fürth,Schweinfurt,137545,108.0
+Würzburg,Schweinfurt,43213,23.0
+Erlangen,Schweinfurt,168726,116.0
+Hanau,Schweinfurt,155709,121.0
+Bamberg,Schweinfurt,56850,38.0
+Ruhrgebiet,Krefeld,60509,79.21666666666667
+Köln,Krefeld,84114,66.0
+Düsseldorf,Krefeld,26984,32.0
+Solingen,Krefeld,49473,71.0
+Bonn,Krefeld,117526,104.0
+Bologna,Pesaro,142829,75.0
+Rimini,Pesaro,32296,17.0
+Forlì,Pesaro,78184,51.0
+Ravenna,Pesaro,81802,101.0
+Ancona,Pesaro,58858,44.0
+London,Leicester,159139,71.0
+Birmingham,Leicester,63838,48.0
+Greater Manchester,Leicester,204759,527.9833333333333
+Greater Nottingham,Leicester,45555,50.68333333333333
+Rotherham,Leicester,115412,98.0
+Leeds,Hartlepool,141920,198.65
+Tyneside conurbation,Hartlepool,-1,-1.0
+Stockton-on-Tees,Hartlepool,18547,18.0
+York,Hartlepool,95168,60.0
+Darlington,Hartlepool,69744,71.0
+Paris,Mantes en Yvelines,57427,68.5
+Rouen,Mantes en Yvelines,82038,56.0
+Cergy-Pontoise,Mantes en Yvelines,94664,125.0
+Maurepas,Mantes en Yvelines,73627,123.76666666666667
+Melun,Mantes en Yvelines,108129,135.0
+Frankfurt am Main,Mannheim/Ludwigshafen,90190,102.0
+Stuttgart,Mannheim/Ludwigshafen,109761,57.0
+Bonn,Mannheim/Ludwigshafen,256395,267.0
+Strasbourg,Mannheim/Ludwigshafen,161135,365.0
+Frankfurt am Main,Karlsruhe,147165,112.0
+Stuttgart,Karlsruhe,80816,60.0
+Strasbourg,Karlsruhe,97624,173.0
+Mannheim/Ludwigshafen,Karlsruhe,73906,75.0
+Madrid,Coslada,14564,18.0
+Alcalá de Henares,Coslada,18479,19.0
+Fuenlabrada,Coslada,34862,46.0
+Majadahonda,Coslada,41892,73.0
+Stockholm,Haninge,27083,45.833333333333336
+Uppsala,Haninge,96561,100.28333333333333
+Västerås,Haninge,131152,107.28333333333333
+Norrköping,Haninge,188424,131.28333333333333
+Madrid,Majadahonda,30144,51.016666666666666
+Valladolid,Majadahonda,208687,128.01666666666668
+Alcalá de Henares,Majadahonda,70914,104.01666666666667
+Fuenlabrada,Majadahonda,44638,85.01666666666667
+Leipzig,Plauen,119087,117.0
+Chemnitz,Plauen,100023,123.71666666666667
+Gera,Plauen,-1,-1.0
+Bayreuth,Plauen,122483,143.0
+Münster,Enschede,65151,79.0
+Arnhem,Enschede,83060,76.0
+Amersfoort,Enschede,161258,150.0
+Apeldoorn,Enschede,76166,57.0
+Glasgow,Motherwell,-1,-1.0
+Edinburgh,Motherwell,-1,-1.0
+Blantyre,Motherwell,-1,-1.0
+Coatbridge,Motherwell,-1,-1.0
+Gdańsk,Tczew,66976,101.0
+Bydgoszcz,Tczew,127730,71.0
+Gdynia,Tczew,52767,50.0
+Elbląg,Tczew,47250,47.0
+Zürich,Winterthur,29934,24.0
+Basel,Winterthur,118416,83.0
+Bern,Winterthur,146853,87.0
+Luzern,Winterthur,85878,80.0
+Paris,Amiens,130700,96.0
+Lille,Amiens,126636,78.0
+Rouen,Amiens,118012,83.0
+Lens,Amiens,-1,-1.0
+Lyon,Valence,-1,-1.0
+Grenoble,Valence,-1,-1.0
+Nimes,Valence,-1,-1.0
+Avignon,Valence,-1,-1.0
+Górnośląski Związek Metropolitalny,Mysłowice,11443,31.483333333333334
+Bielsko-Biała,Mysłowice,64731,118.0
+Gliwice,Mysłowice,36582,40.0
+Tychy,Mysłowice,26226,63.0
+Nice,Fréjus,63129,74.2
+Toulon,Fréjus,91393,497.65
+Cannes,Fréjus,35750,45.65
+Antibes,Fréjus,47058,70.48333333333333
+London,Luton,48525,25.0
+Greater Nottingham,Luton,156171,111.68333333333334
+Leicester,Luton,110633,58.0
+Southend-on-Sea,Luton,118297,137.0
+Praha,Ústí nad Labem,92782,112.0
+Dresden,Ústí nad Labem,65103,66.0
+Most,Ústí nad Labem,-1,-1.0
+Chomutov,Ústí nad Labem,165712,299.3666666666667
+Amsterdam,Leiden,42744,30.0
+Rotterdam,Leiden,38165,33.0
+Den Haag,Leiden,15236,12.0
+Antwerpen,Leiden,132577,71.38333333333334
+Amsterdam,Eindhoven,124131,87.0
+Rotterdam,Eindhoven,103897,62.0
+Den Haag,Eindhoven,128226,87.0
+Leiden,Eindhoven,151440,102.0
+London,Aylesbury,73220,121.0
+Oxford,Aylesbury,60539,95.0
+Wycombe,Aylesbury,-1,-1.0
+Warwick,Aylesbury,-1,-1.0
+Leipzig,Jena,92100,84.0
+Halle an der Saale,Jena,83895,79.0
+Erfurt,Jena,48685,40.0
+Gera,Jena,-1,-1.0
+London,Eastbourne,130699,132.0
+Brighton,Eastbourne,-1,-1.0
+Worthing,Eastbourne,55317,99.0
+Crawley,Eastbourne,58551,52.0
+London,Greater Nottingham,204628,118.81666666666666
+Birmingham,Greater Nottingham,152925,119.81666666666666
+Greater Manchester,Greater Nottingham,214024,321.31666666666666
+Leeds,Greater Nottingham,128449,133.81666666666666
+Bari,Trani,41995,36.0
+Foggia,Trani,79195,40.0
+Barletta,Trani,12560,7.0
+Molfetta,Trani,17239,14.0
+Nice,Monaco,16419,28.883333333333333
+Cannes,Monaco,47345,68.88333333333334
+Antibes,Monaco,36387,56.88333333333333
+Fréjus,Monaco,83074,488.5833333333333
+London,Cambridge,96522,84.0
+Norwich,Cambridge,109861,80.0
+Ipswich,Cambridge,89184,79.0
+Peterborough,Cambridge,72603,54.0
+Bologna,Arezzo,147084,91.0
+Firenze,Arezzo,65374,32.0
+Prato,Arezzo,-1,-1.0
+Perugia,Arezzo,72162,59.0
+Padova,Pordenone,104410,88.0
+Mestre,Pordenone,-1,-1.0
+Udine,Pordenone,48082,33.0
+Venezia,Pordenone,84271,81.0
+Bruxelles,Oostende,115722,75.0
+Lille,Oostende,133703,126.0
+Gent,Oostende,62050,40.0
+Brugge,Oostende,21995,13.0
+Strasbourg,Freiburg im Breisgau,85100,65.0
+Mannheim/Ludwigshafen,Freiburg im Breisgau,194590,128.0
+Basel,Freiburg im Breisgau,65840,43.0
+Karlsruhe,Freiburg im Breisgau,131829,66.0
+Bruxelles,Brugge,93735,59.0
+Lille,Brugge,111716,110.0
+Antwerpen,Brugge,104879,92.0
+Gent,Brugge,40036,26.0
+Basel,Belfort,80038,173.31666666666666
+Mulhouse,Belfort,49361,54.733333333333334
+Besançon,Belfort,97124,89.86666666666666
+Colmar,Belfort,88511,136.31666666666666
+Milano,Novara,-1,-1.0
+Torino,Novara,99677,85.16666666666667
+Busto Arsizio,Novara,61799,56.0
+Gallarate,Novara,69086,92.0
+Bologna,Pisa,163703,140.0
+Firenze,Pisa,74594,60.0
+Prato,Pisa,-1,-1.0
+Livorno,Pisa,18506,13.0
+Fürth,Bayreuth,100851,81.0
+Ingolstadt,Bayreuth,210889,94.0
+Erlangen,Bayreuth,116655,91.0
+Bamberg,Bayreuth,95223,88.0
+Bydgoszcz,Kasztelanka,-1,-1.0
+Toruń,Kasztelanka,-1,-1.0
+Grudziądz,Kasztelanka,-1,-1.0
+Inowrocław,Kasztelanka,-1,-1.0
+Hannover,Göttingen,108094,75.0
+Kassel,Göttingen,83455,58.0
+Braunschweig,Göttingen,111792,124.0
+Würzburg,Göttingen,247035,129.0
+Budapest,Tatabánya,57860,30.0
+Gyõr,Tatabánya,65647,33.0
+Rákosliget,Tatabánya,81615,125.06666666666666
+Székesfehérvár,Tatabánya,121077,87.36666666666666
+Fürth,Bamberg,54642,53.0
+Würzburg,Bamberg,99967,53.0
+Ingolstadt,Bamberg,180042,80.0
+Erlangen,Bamberg,38835,36.0
+Toulouse,Béziers,176274,111.38333333333334
+Montpellier,Béziers,72919,64.38333333333334
+Nimes,Béziers,122635,103.38333333333334
+Perpignan,Béziers,90918,86.38333333333334
+A Coruña,Santiago de Compostela,61459,31.0
+Vigo,Santiago de Compostela,101341,64.0
+Ourense,Santiago de Compostela,109895,38.0
+Pontevedra,Santiago de Compostela,73929,62.0
+Berlin,Braunschweig,318494,213.0
+Hannover,Braunschweig,61258,47.0
+Magdeburg,Braunschweig,82883,68.0
+Kassel,Braunschweig,205861,154.0
+München,Landshut,75852,48.0
+Augsburg,Landshut,137895,95.0
+Regensburg,Landshut,62134,44.0
+Ingolstadt,Landshut,135940,117.8
+Fürth,Erlangen,15849,16.0
+Regensburg,Erlangen,123991,100.0
+Würzburg,Erlangen,125693,81.0
+Ingolstadt,Erlangen,141250,52.0
+Milano,Parma,-1,-1.0
+Bologna,Parma,89180,64.0
+Firenze,Parma,180335,96.0
+Modena,Parma,52447,31.0
+Barcelona,Reus,102056,96.0
+Lleida,Reus,101056,92.0
+Tarragona,Reus,17728,18.0
+Viladecans,Reus,88665,95.0
+Birmingham,Blackpool,194975,216.0
+Greater Manchester,Blackpool,95480,164.98333333333332
+Liverpool,Blackpool,-1,-1.0
+Newcastle-under-Lyme,Blackpool,143876,182.0
+Bruxelles,Valenciennes,142063,299.73333333333335
+Lille,Valenciennes,48128,47.733333333333334
+Lens,Valenciennes,-1,-1.0
+Dunkerque,Valenciennes,138427,130.73333333333332
+Barcelona,Manresa,69144,103.21666666666667
+Sabadell,Manresa,-1,-1.0
+Terrassa,Manresa,33042,50.21666666666667
+Sant Cugat del Vallès/Rubí,Manresa,45038,72.56666666666666
+Glasgow,Coatbridge,14582,22.0
+Edinburgh,Coatbridge,56649,53.0
+Blantyre,Coatbridge,-1,-1.0
+Bari,Brindisi,109148,74.0
+Taranto,Brindisi,67379,75.81666666666666
+Lecce,Brindisi,38281,23.0
+Glasgow,Dundee City,133684,84.0
+Edinburgh,Dundee City,144862,154.0
+Aberdeen,Dundee City,114685,70.0
+Paris,Chartres,95635,100.0
+Maurepas,Chartres,55898,135.86666666666667
+Le Mans,Chartres,306408,190.0
+Hrabuvka,Ostrava,8049,28.15
+Olomouc,Ostrava,98254,56.0
+Havířov,Ostrava,18455,17.0
+Frankfurt am Main,Würzburg,136856,123.0
+Fürth,Würzburg,94332,68.0
+Kassel,Würzburg,202343,64.0
+Zürich,Bern,116976,56.0
+Basel,Bern,100255,58.0
+Lausanne,Bern,96507,67.0
+Barcelona,Girona,94699,38.0
+Sabadell,Girona,-1,-1.0
+Sant Cugat del Vallès/Rubí,Girona,117729,107.0
+Bologna,Mestre,-1,-1.0
+Padova,Mestre,-1,-1.0
+Verona,Mestre,-1,-1.0
+Zürich,Luzern,55803,41.0
+Basel,Luzern,94864,89.0
+Bern,Luzern,112911,61.0
+Milano,Como,-1,-1.0
+Busto Arsizio,Como,78557,102.0
+Brescia,Como,126994,103.0
+Lyon,Chambery,107038,86.0
+Grenoble,Chambery,63888,46.0
+Annecy,Chambery,54035,40.0
+Milano,Gallarate,-1,-1.0
+Busto Arsizio,Gallarate,7177,5.0
+Brescia,Gallarate,122575,133.0
+Ruhrgebiet,Düsseldorf,60303,74.21666666666667
+Köln,Düsseldorf,40081,21.0
+Frankfurt am Main,Düsseldorf,217699,88.0
+Sevilla,San Fernando,-1,-1.0
+Jerez de la Frontera,San Fernando,-1,-1.0
+Cádiz,San Fernando,-1,-1.0
+Łódź,Zgierz,10914,13.0
+Piotrków Trybunalski,Zgierz,82009,109.38333333333334
+Pabianice,Zgierz,25330,41.0
+Wrocław,Świdnica,61612,85.28333333333333
+Wałbrzych,Świdnica,30565,83.21666666666667
+Legnica,Świdnica,58120,101.28333333333333
+Paris,Lens,-1,-1.0
+Bruxelles,Lens,-1,-1.0
+Lille,Lens,-1,-1.0
+Napoli,Battipaglia,73374,80.08333333333333
+Caserta,Battipaglia,79692,132.6
+Salerno,Battipaglia,21233,45.6
+Valladolid,Palencia,48528,23.0
+Burgos,Palencia,173359,83.0
+León,Palencia,-1,-1.0
+Genova,La Spezia,81189,93.0
+Livorno,La Spezia,91086,67.0
+Pisa,La Spezia,72699,51.0
+Paris,Melun,44747,26.0
+Cergy-Pontoise,Melun,87057,109.66666666666667
+Maurepas,Melun,88456,127.2
+Napoli,Pozzuoli,14921,47.13333333333333
+Caserta,Pozzuoli,46341,110.0
+Salerno,Pozzuoli,68842,125.0
+Lyon,Nimes,279736,542.0
+Marseille,Nimes,-1,-1.0
+Montpellier,Nimes,49718,24.0
+Ruhrgebiet,Solingen,79544,109.21666666666667
+Köln,Solingen,28100,25.0
+Düsseldorf,Solingen,19271,22.0
+Bari,Molfetta,24756,20.0
+Foggia,Molfetta,96434,54.0
+Barletta,Molfetta,29800,20.0
+Marseille,Aix-en-Provence,37160,63.11666666666667
+Toulon,Aix-en-Provence,102617,124.0
+Avignon,Aix-en-Provence,128871,84.0
+Marseille,Martigues,48962,112.7
+Nimes,Martigues,173352,584.0666666666667
+Avignon,Martigues,140266,476.06666666666666
+Paris,Maurepas,39831,75.53333333333333
+Cergy-Pontoise,Maurepas,61649,119.53333333333333
+Tours,Maurepas,274766,140.36666666666667
+Barcelona,Sant Cugat del Vallès/Rubí,23030,47.0
+Sabadell,Sant Cugat del Vallès/Rubí,-1,-1.0
+Terrassa,Sant Cugat del Vallès/Rubí,11996,13.0
+Barcelona,Tarragona,84375,75.0
+Sabadell,Tarragona,-1,-1.0
+Sant Cugat del Vallès/Rubí,Tarragona,133100,189.1
+Roma,Grosseto,175380,145.0
+Livorno,Grosseto,124388,96.0
+Pisa,Grosseto,142818,115.0
+Zürich,St. Gallen,86882,77.0
+Winterthur,St. Gallen,56913,44.0
+Konstanz,St. Gallen,40739,35.0
+Milano,Brescia,-1,-1.0
+Bergamo,Brescia,48631,57.0
+Busto Arsizio,Brescia,115800,98.0
+Saarbrücken,Trier,88304,90.0
+Koblenz,Trier,114377,357.0
+Luxembourg,Trier,85867,268.6166666666667
+München,Ulm/Neu-Ulm,143991,77.7
+Stuttgart,Ulm/Neu-Ulm,149850,65.0
+Augsburg,Ulm/Neu-Ulm,82266,49.9
+Berlin,Halle an der Saale,164207,100.0
+Leipzig,Halle an der Saale,24495,24.0
+Magdeburg,Halle an der Saale,86012,49.0
+München,Kempten (Allgäu),130093,83.0
+Augsburg,Kempten (Allgäu),102395,70.0
+Ulm/Neu-Ulm,Kempten (Allgäu),84684,67.0
+Norwich,Great Yarmouth,31209,47.833333333333336
+Ipswich,Great Yarmouth,109281,108.83333333333333
+Waveney,Great Yarmouth,-1,-1.0
+Nice,Antibes,19971,26.0
+Toulon,Antibes,137060,84.0
+Cannes,Antibes,10963,8.0
+Berlin,Magdeburg,143098,105.9
+Hannover,Magdeburg,143956,85.0
+Leipzig,Magdeburg,122962,103.0
+Górnośląski Związek Metropolitalny,Tychy,17658,38.483333333333334
+Bielsko-Biała,Tychy,38741,43.0
+Gliwice,Tychy,42801,48.0
+Paris,Lille,225216,62.0
+London,Lille,282754,605.0
+Bruxelles,Lille,-1,-1.0
+Verona,Trento,84551,55.0
+Bolzano,Trento,53690,44.0
+Vicenza,Trento,123524,106.0
+Leipzig,Erfurt,116434,41.0
+Halle an der Saale,Erfurt,91905,27.0
+Kassel,Erfurt,161848,148.0
+Bruxelles,Den Haag,168189,113.0
+Amsterdam,Den Haag,57995,46.0
+Rotterdam,Den Haag,24338,27.0
+Bruxelles,Gent,53743,29.0
+Lille,Gent,71680,75.0
+Antwerpen,Gent,64866,66.0
+Bologna,Ravenna,80262,67.0
+Rimini,Ravenna,49498,43.0
+Forlì,Ravenna,61437,123.0
+Leipzig,Gera,-1,-1.0
+Chemnitz,Gera,-1,-1.0
+Erfurt,Gera,-1,-1.0
+Bruxelles,Dunkerque,184225,356.0
+Lille,Dunkerque,90290,63.0
+Lens,Dunkerque,-1,-1.0
+Strasbourg,Metz,154258,48.0
+Nancy,Metz,57867,49.68333333333333
+Reims,Metz,169449,154.0
+Dresden,Görlitz,105800,96.0
+Legnica,Görlitz,100328,152.01666666666668
+Cottbus,Görlitz,93590,70.8
+Wien,Gyõr,118799,74.0
+Budapest,Gyõr,125602,68.0
+Bratislava,Gyõr,237225,420.5833333333333
+Wien,Trnava,106687,124.88333333333334
+Bratislava,Trnava,44608,45.88333333333333
+Nitra,Trnava,51117,84.53333333333333
+Bristol,Exeter,-1,-1.0
+Plymouth,Exeter,-1,-1.0
+Torbay,Exeter,-1,-1.0
+København,Greve,-1,-1.0
+Malmö,Greve,-1,-1.0
+Lund,Greve,-1,-1.0
+København,Lund,57066,53.0
+Malmö,Lund,16307,10.0
+Helsingborg,Lund,52626,29.0
+Lisboa,Setúbal,66568,116.0
+Almada,Setúbal,42279,42.0
+Barreiro,Setúbal,28238,30.5
+Basel,Besançon,173621,585.1333333333333
+Dijon,Besançon,91586,56.13333333333333
+Mulhouse,Besançon,139680,79.13333333333334
+Poznań,Gniezno,50088,29.5
+Bydgoszcz,Gniezno,101500,69.0
+Inowrocław,Gniezno,56166,31.5
+Catania,Acireale,26806,95.48333333333333
+Messina,Acireale,-1,-1.0
+Siracusa,Acireale,98590,542.5833333333334
+London,Southampton,143738,144.0
+Portsmouth,Southampton,32794,45.0
+Bournemouth,Southampton,46182,44.0
+London,Brighton,-1,-1.0
+Portsmouth,Brighton,-1,-1.0
+Southampton,Brighton,-1,-1.0
+Barcelona,Perpignan,191049,81.0
+Montpellier,Perpignan,161532,101.0
+Girona,Perpignan,83006,322.1
+London,Medway,61641,342.53333333333336
+Southend-on-Sea,Medway,135169,476.53333333333336
+Luton,Medway,114432,460.53333333333336
+Poznań,Inowrocław,106240,65.0
+Bydgoszcz,Inowrocław,45395,39.0
+Toruń,Inowrocław,96254,91.0
+London,Ipswich,185771,191.0
+Southend-on-Sea,Ipswich,161455,167.0
+Norwich,Ipswich,74467,40.0
+Gdańsk,Elbląg,114375,364.0
+Olsztyn,Elbląg,167045,147.0
+Rotherham,Grimsby,99297,141.0
+Wakefield,Grimsby,110496,100.0
+Zürich,Basel,87920,54.0
+Strasbourg,Basel,148648,179.43333333333334
+Nice,Cannes,30930,39.0
+Toulon,Cannes,126121,71.0
+San Sebastián/Donostia,Irun,17538,40.083333333333336
+Bayonne,Irun,-1,-1.0
+Bari,Lecce,147380,100.0
+Taranto,Lecce,113767,132.13333333333333
+San Sebastián/Donostia,Bayonne,-1,-1.0
+Pau,Bayonne,-1,-1.0
+Poznań,Ostrów Wielkopolski,123522,75.0
+Kalisz,Ostrów Wielkopolski,23991,16.0
+Sevilla,Córdoba,120342,105.0
+Málaga,Córdoba,192272,49.0
+Zürich,Konstanz,86436,78.0
+Winterthur,Konstanz,56508,49.0
+Dresden,Chemnitz,83025,94.71666666666667
+Leipzig,Chemnitz,80351,63.0
+Bologna,Prato,-1,-1.0
+Firenze,Prato,-1,-1.0
+Bari,Barletta,54556,46.0
+Foggia,Barletta,66651,29.0
+Gdynia,Słupsk,109714,103.0
+Koszalin,Słupsk,66988,42.0
+Łódź,Pabianice,14416,15.0
+Piotrków Trybunalski,Pabianice,86138,126.0
+Barcelona,Terrassa,35026,61.5
+Sabadell,Terrassa,-1,-1.0
+Milano,Lugano,-1,-1.0
+Como,Lugano,29779,35.0
+Hrabuvka,Havířov,29209,62.15
+Olomouc,Havířov,92508,102.0
+Napoli,Caserta,34324,58.0
+Roma,Caserta,245914,139.63333333333333
+Napoli,Salerno,53074,70.13333333333334
+Caserta,Salerno,83724,420.0
+Napoli,Avellino,95080,488.18333333333334
+Salerno,Avellino,56099,123.7
+Firenze,Livorno,93012,80.0
+Prato,Livorno,-1,-1.0
+Barcelona,Lleida,163011,60.0
+Zaragoza,Lleida,140075,43.0
+Bremen,Bremerhaven,62127,34.0
+Oldenburg (Oldenburg),Bremerhaven,106487,88.0
+Badajoz,Mérida,59186,40.0
+Cáceres,Mérida,60661,55.0
+Birmingham,Liverpool,-1,-1.0
+Greater Manchester,Liverpool,-1,-1.0
+Roma,Firenze,272654,98.0
+Bologna,Firenze,89061,37.0
+Nantes,Angers,87457,40.0
+Tours,Angers,111039,70.0
+Greater Manchester,Leeds,75730,103.98333333333333
+Liverpool,Leeds,-1,-1.0
+Lisboa,Barreiro,-1,-1.0
+Almada,Barreiro,45325,78.0
+Milano,Busto Arsizio,-1,-1.0
+Bologna,Busto Arsizio,238216,116.0
+Berlin,Frankfurt (Oder),80934,54.4
+Cottbus,Frankfurt (Oder),87574,79.0
+Bydgoszcz,Włocławek,96858,76.0
+Toruń,Włocławek,45963,34.0
+A Coruña,Ourense,171320,72.0
+Vigo,Ourense,211236,510.0
+Paris,Cergy-Pontoise,42373,47.35
+Rouen,Cergy-Pontoise,176648,512.1666666666666
+Banská Bystrica,Martin,-1,-1.0
+Žilina,Martin,-1,-1.0
+Paris,Reims,145867,46.0
+Nancy,Reims,227716,170.68333333333334
+Paris,Orléans,121688,78.76666666666667
+Tours,Orléans,115477,87.76666666666667
+London,Bristol,191904,118.2
+Birmingham,Bristol,144541,73.0
+Valladolid,Burgos,115167,90.0
+Vitoria/Gasteiz,Burgos,107288,115.0
+London,Thanet,148232,539.4833333333333
+Medway,Thanet,148410,323.71666666666664
+Berlin,Potsdam,27653,27.9
+Magdeburg,Potsdam,115449,82.0
+Madrid,Zaragoza,306311,75.0
+Barcelona,Zaragoza,299875,84.0
+Madrid,Fuenlabrada,20289,26.0
+Alcalá de Henares,Fuenlabrada,53279,75.0
+Madrid,Albacete,322782,98.0
+Alicante/Alacant,Albacete,206278,53.0
+Madrid,Talavera de la Reina,135407,88.0
+Fuenlabrada,Talavera de la Reina,115442,64.0
+Berlin,Hannover,257236,116.0
+Hamburg,Hannover,153922,148.9
+Berlin,Leipzig,168699,81.0
+Dresden,Leipzig,119474,96.0
+Frankfurt am Main,Kassel,193391,89.0
+Hannover,Kassel,170048,210.0
+Wien,Bratislava,62079,69.0
+Brno,Bratislava,228226,315.98333333333335
+Budapest,Székesfehérvár,63351,45.333333333333336
+Rákosliget,Székesfehérvár,87086,160.4
+Leeds,Kingston-upon-Hull,82929,81.0
+Rotherham,Kingston-upon-Hull,86293,88.0
+Mannheim/Ludwigshafen,Saarbrücken,127771,116.0
+Metz,Saarbrücken,79688,71.7
+København,Helsingborg,109865,83.0
+Malmö,Helsingborg,68950,41.0
+Dublin,Swords,-1,-1.0
+Blanchardstown,Swords,-1,-1.0
+Lille,Boulogne-sur-mer,146377,79.51666666666667
+Amiens,Boulogne-sur-mer,124430,146.71666666666667
+Nancy,Luxembourg,146945,468.15
+Metz,Luxembourg,89193,379.46666666666664
+Leeds,Stockton-on-Tees,118788,119.5
+Tyneside conurbation,Stockton-on-Tees,-1,-1.0
+Glasgow,Edinburgh,76020,48.0
+Tyneside conurbation,Edinburgh,-1,-1.0
+Praha,Kladno,38785,147.33333333333334
+Ústí nad Labem,Kladno,114614,369.4
+Glasgow,Blantyre,-1,-1.0
+Edinburgh,Blantyre,-1,-1.0
+Rennes,Saint-Brieuc,102110,63.2
+Brest,Saint-Brieuc,149174,105.68333333333334
+Tours,Bourges,231243,610.0
+Orléans,Bourges,120203,504.2
+Porto,Arcozelo,15185,23.5
+Braga,Arcozelo,67979,94.5
+Porto,Coimbra,118903,69.0
+Arcozelo,Coimbra,104623,87.0
+Genève,Annecy,69960,89.0
+Grenoble,Annecy,117622,102.0
+Alicante/Alacant,Elche/Elx,24143,36.0
+Murcia,Elche/Elx,51969,76.0
+København,Odense,158033,88.0
+Århus,Odense,169055,136.0
+Praha,Pardubice,94798,69.0
+Hradec Králové,Pardubice,23117,26.116666666666667
+Trieste,Udine,78165,84.0
+Mestre,Udine,-1,-1.0
+Budapest,Szolnok,83430,58.0
+Kecskemét,Szolnok,61193,57.0
+Hamburg,Bremen,115130,89.0
+Hannover,Bremen,122147,81.0
+Hamburg,Lübeck,62652,46.0
+Kiel,Lübeck,83540,87.0
+Groningen,Leeuwarden,53832,34.0
+Zwolle,Leeuwarden,93713,55.0
+München,Augsburg,61773,27.0
+Fürth,Augsburg,192540,115.0
+München,Salzburg,147228,103.0
+Linz,Salzburg,124259,79.0
+München,Regensburg,139143,88.0
+Fürth,Regensburg,108189,112.4
+Norwich,Waveney,-1,-1.0
+Ipswich,Waveney,-1,-1.0
+Bruxelles,Rotterdam,143737,81.0
+Amsterdam,Rotterdam,69870,52.0
+Stockholm,Västerås,104532,56.0
+Uppsala,Västerås,174516,120.0
+Górnośląski Związek Metropolitalny,Rybnik,46318,84.48333333333333
+Mysłowice,Rybnik,54873,88.5
+Bologna,Rimini,110552,56.0
+Modena,Rimini,147280,80.0
+A Coruña,Ferrol,69174,74.0
+A Coruña,Lugo,118733,120.7
+Gijón,Oviedo,31763,32.0
+Bydgoszcz,Piła,86891,70.0
+Bydgoszcz,Toruń,50910,40.0
+Vigo,Pontevedra,27443,19.0
+Varna,Shumen,110666,447.3
+Paris,Bruxelles,347186,186.0
+Murcia,Cartagena,-1,-1.0
+Murcia,Lorca,-1,-1.0
+Rzeszów,Przemyśl,86842,72.96666666666667
+Larisa,Volos,61062,48.0
+Ruse,Giurgiu,-1,-1.0
+Bacău,Piatra Neamţ,-1,-1.0
+Hrabuvka,Olomouc,101945,135.71666666666667
+Rimini,Ancona,91085,51.0
+Baia Mare,Satu Mare,-1,-1.0
+Wałbrzych,Jelenia Góra,55997,57.5
+Västerås,Örebro,97777,55.0
+Tampere,Jyväskylä,190060,152.0
+Gyõr,Szombathely,102410,70.0
+Norrköping,Linköping,46296,27.0
+Rostock,Lütten Klein,6863,46.86666666666667
+Gela,Ragusa,57588,82.56666666666666
+Terni,Perugia,81313,422.0
+Cork,Limerick,98986,106.35
+Caen,Cherbourg,134980,108.1
+León,Ponferrada,-1,-1.0
+Kiel,Flensburg,133421,98.0
+Plymouth,Torbay,-1,-1.0
+Galaţi,Brăila,19915,30.0
+Bari,Taranto,79655,88.21666666666667
+Bari,Foggia,121190,84.0
+Graz,Maribor,65263,62.0
+Braşov,Sfântu Gheorghe,34112,56.78333333333333
+Tours,Poitiers,103923,63.0
+Santander,Torrelavega,-1,-1.0
+Ploieşti,Buzău,73337,148.0
+Radom,Kielce,84599,58.0
+Jerez de la Frontera,Cádiz,49022,45.016666666666666
+Verona,Bolzano,138174,88.0
+Toruń,Grudziądz,-1,-1.0
+Szczecin,Stargard Szczeciński,35696,36.0
+Białystok,Ełk,103131,85.0
+Górnośląski Związek Metropolitalny,Bielsko-Biała,56304,85.48333333333333
+Rouen,Le Havre,89731,45.18333333333333
+Valencia,Alicante/Alacant,178376,143.0
+Warszawa,Siedlce,88217,53.5
+Warszawa,Legionowo,20094,16.0
+Wien,Linz,184285,86.0
+Budapest,Rákosliget,16174,51.93333333333333
+Budapest,Kecskemét,87395,58.0
+Hamburg,Kiel,108886,70.0
+München,Fürth,177432,111.0
+Valencia,Castellón de la Plana/Castelló de la Plana,75553,114.65
+Bucureşti,Ploieşti,62748,358.0
+Valencia,Gandia,63210,64.0
+Stockholm,Uppsala,70020,38.0
+Stockholm,Norrköping,161847,73.0
+Górnośląski Związek Metropolitalny,Częstochowa,90041,115.48333333333333
+Górnośląski Związek Metropolitalny,Gliwice,28031,42.483333333333334
+Praha,Plzeň,108895,113.0
+Praha,Hradec Králové,118897,314.1166666666667
+Lisboa,Almada,19422,70.0
+Roma,Anzio,50484,48.0
+Dublin,Blanchardstown,12018,58.766666666666666
+Madrid,Alcalá de Henares,32990,40.0
+Paris,Rouen,138753,111.0
+Paris,Tours,247479,99.0
+Paris,Troyes,166734,102.2
+London,Birmingham,181491,136.0
+London,Portsmouth,116967,111.0
+London,Southend-on-Sea,-1,-1.0
+Madrid,Valladolid,178543,65.0
+Berlin,Cottbus,117112,97.0
+Roma,Terni,86502,58.0
+Milano,Torino,-1,-1.0
+Milano,Genova,-1,-1.0
+Milano,Bologna,-1,-1.0
+Ruhrgebiet,Köln,105497,119.11666666666666
+Napoli,Roma,188802,79.48333333333333
+Barcelona,Sabadell,-1,-1.0
+Birmingham,Greater Manchester,139523,109.48333333333333
+København,Malmö,40988,41.0
+Lyon,Grenoble,131193,83.0
+Timişoara,Arad,57608,100.78333333333333
+Portsmouth,Bournemouth,79023,68.0
+Göteborg,Borås,58267,45.0
+Catania,Siracusa,72827,95.15
+Gdańsk,Gdynia,14129,16.0
+Bologna,Padova,122550,66.0
+Genève,Lausanne,60233,42.0
+Alicante/Alacant,Murcia,75628,86.0
+Strasbourg,Nancy,212240,192.41666666666666
+Belfast,Bangor,-1,-1.0
+Wrocław,Wałbrzych,70527,49.5
+Nantes,Rennes,99001,76.0
+Bremen,Oldenburg (Oldenburg),44360,28.0
+Cardiff,Swansea,73273,59.0
+Lublin,Radom,121373,81.0
+Lublin,Chełm,72283,83.43333333333334
+Valladolid,Salamanca,118799,79.0
+Pamplona/Iruña,Vitoria/Gasteiz,93957,75.0
+Wrocław,Legnica,64742,43.0
+Wrocław,Opole,81682,43.0
+Lyon,Saint-Etienne,61001,47.8
+Frankfurt am Main,Stuttgart,194161,122.0
+Leeds,Tyneside conurbation,-1,-1.0
+Köln,Frankfurt am Main,179977,75.0
+Porto,Braga,53848,37.0
+Marseille,Montpellier,-1,-1.0
+Marseille,Toulon,68269,75.11666666666666
+Helsinki,Tampere,186405,110.0
+Thessaloniki,Larisa,165617,101.0
+Łódź,Piotrków Trybunalski,74269,166.5
+Genova,Savona,40199,28.0
+Sevilla,Jerez de la Frontera,104777,65.0
+Sevilla,Huelva,118707,98.0
+Oslo,Lørenskog,18903,45.0
+Palermo,Bagheria,15471,39.5
+Stuttgart,Strasbourg,161893,168.0
+Poznań,Zielona Góra,225464,215.0
+Bristol,Cardiff,61398,44.0
+Most,Chomutov,-1,-1.0

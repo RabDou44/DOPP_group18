@@ -1,0 +1,305 @@
+randomized_city,cleaned_city,transit_distance [m],transit_time [s],transit_time [min]
+Tours/Val de Loire ,Andenes,4089168,199140,3319.0
+Split,Kjevik,3043025,177811,2963.516666666667
+Balice,Rheinmünster,1233645,68061,1134.35
+Budapest,Bastia/Poretta,-1,-1,-1.0
+Napoli,Orsk,-1,-1,-1.0
+Caselle ,Newcastle,1673873,80357,1339.2833333333333
+Ancona,Split,-1,-1,-1.0
+Trondheim,Chişinău,-1,-1,-1.0
+Memmingen,Hondarribia,1672459,75720,1262.0
+Newquay,Saint-Étienne-de-Saint-Geoirs,-1,-1,-1.0
+Dresden,Moscow,2649141,113520,1892.0
+Almería,Figari Sud-Corse,-1,-1,-1.0
+Paris,Pamplona,957000,30120,502.0
+Saint Peter Port,Horta,-1,-1,-1.0
+Leeds,Santorini Island,-1,-1,-1.0
+Munich,Pico Island,-1,-1,-1.0
+Naryan Mar,Iaşi,-1,-1,-1.0
+Jerez de la Frontera,Belgrade,-1,-1,-1.0
+Nottingham,Warsaw,1984961,93300,1555.0
+Nuremberg,Marseille,-1,-1,-1.0
+London,Sarajevo,2538976,109740,1829.0
+Orsk,Luxembourg,-1,-1,-1.0
+Ufa,Madrid,-1,-1,-1.0
+Nizhnekamsk,Kerkyra ,-1,-1,-1.0
+Düsseldorf,Vadsø,-1,-1,-1.0
+Suceava,Culleredo,-1,-1,-1.0
+Alicante,Kuopio / Siilinjärvi,-1,-1,-1.0
+Madrid,Samos Island,-1,-1,-1.0
+"Gatwick, Surrey",Rinas,2426816,149441,2490.6833333333334
+Nizhny Novgorod,Bordeaux/Mérignac,-1,-1,-1.0
+Spata-Artemida,Vila do Porto,-1,-1,-1.0
+Segrate ,Sochi,-1,-1,-1.0
+Malmö,San Bartolomé,-1,-1,-1.0
+Ferno ,Ilinden,-1,-1,-1.0
+Stockholm,Oradea,2831016,122580,2043.0
+Reggio Calabria,"Paisley, Renfrewshire",3269417,127080,2118.0
+Aalborg,Liverpool,-1,-1,-1.0
+Cardiff,Alicante,-1,-1,-1.0
+Geneva,Perm,-1,-1,-1.0
+Evenes,Postage,-1,-1,-1.0
+Poznań,Vaasa,2654731,139620,2327.0
+Novokuznetsk,Ohrid,-1,-1,-1.0
+Radome,Ibiza ,-1,-1,-1.0
+Luxembourg,Budapest,1404847,66022,1100.3666666666666
+Andenes,Charleroi,3578869,185700,3095.0
+Košice,Banja Luka,1064134,61860,1031.0
+Tromsø,Simferopol,-1,-1,-1.0
+Saint-Étienne-de-Saint-Geoirs,Oulu / Oulunsalo,-1,-1,-1.0
+"Stornoway, Western Isles",Montpellier/Méditerranée,2347748,99747,1662.45
+Vadsø,Kirkenes,-1,-1,-1.0
+Málaga,"Southend-on-Sea, Essex",2821959,89359,1489.3166666666666
+Bari,Cheboksary,-1,-1,-1.0
+Banja Luka,Nuremberg,954116,83940,1399.0
+Brindisi,Kittilä,4885608,247500,4125.0
+Pskov,Kavala,4897438,373121,6218.683333333333
+Nice,"Gatwick, Surrey",1525486,65237,1087.2833333333333
+Petrozavodsk,Hadsel,-1,-1,-1.0
+Oradea,Prishtina,994227,107729,1795.4833333333333
+Postage,Thessaloniki,-1,-1,-1.0
+Kerkyra ,Caselle Torinese ,-1,-1,-1.0
+Lyon,Ożarowice,1627561,78179,1302.9833333333333
+Simferopol,Bratislava,-1,-1,-1.0
+Granada,Bilbao,1086131,54600,910.0
+Oulu / Oulunsalo,Suceava,-1,-1,-1.0
+Mineralnyye Vody,Chios Island,-1,-1,-1.0
+Jasionka,Calvi/Sainte-Catherine,-1,-1,-1.0
+Seville,Weeze,2479249,94500,1575.0
+Łódź,Florø,2688142,156511,2608.516666666667
+Izhevsk,Novokuznetsk,3864197,176280,2938.0
+Amsterdam,Burgas,3004076,176900,2948.3333333333335
+Syktyvkar,Hamburg,-1,-1,-1.0
+Prishtina,Copenhagen,2708738,170458,2840.9666666666667
+Pescara,Luleå,3860419,171780,2863.0
+Bragança,Chita,-1,-1,-1.0
+Pico Island,Kuusamo,-1,-1,-1.0
+Sabetta,Orenburg,-1,-1,-1.0
+Krasnoyarsk,Brønnøy,8078215,450418,7506.966666666666
+Castletown,Ioannina,-1,-1,-1.0
+Gibraltar,Saint Anne,-1,-1,-1.0
+Magnitogorsk,Nottingham,-1,-1,-1.0
+Viseu,"Norwich, Norfolk",2961690,122464,2041.0666666666666
+Vienna,Hanover,993757,28740,479.0
+Faro,Olbia ,-1,-1,-1.0
+Santiago de Compostela,Čilipi,-1,-1,-1.0
+Rome,"Luton, Bedfordshire",2040645,75960,1266.0
+Chita,Spata-Artemida,-1,-1,-1.0
+Charleroi,Makhachkala,-1,-1,-1.0
+Bergen,Penza,3577796,270540,4509.0
+Kos Island,Vila Real,-1,-1,-1.0
+Torp,Voronezh,-1,-1,-1.0
+Aarhus,Valletta,-1,-1,-1.0
+Kazan,Pisa,-1,-1,-1.0
+Rhodes,Cherepovets,-1,-1,-1.0
+Arkhangelsk,Zgornji Brnik,-1,-1,-1.0
+Timişoara,Sibiu,350170,31479,524.65
+Saint Helier,Maastricht,892183,73752,1229.2
+Southampton,Girona,1604975,52183,869.7166666666667
+St. Petersburg,Vilnius,-1,-1,-1.0
+Birmingham,Bragança,-1,-1,-1.0
+Corvera,Pescara,-1,-1,-1.0
+Samos Island,Syktyvkar,-1,-1,-1.0
+Warsaw,Krasnoyarsk,-1,-1,-1.0
+Edinburgh,Funchal,-1,-1,-1.0
+Ioannina,Vágar,-1,-1,-1.0
+Vila do Porto,Manchester,-1,-1,-1.0
+Girona,Ålesund,3935733,183835,3063.9166666666665
+Makhachkala,Ancona,-1,-1,-1.0
+Salzburg,Ponta Delgada,-1,-1,-1.0
+Figari Sud-Corse,Gothenburg,3025000,147412,2456.866666666667
+Orenburg,Lisbon,-1,-1,-1.0
+Bydgoszcz,Perugia,1998729,94500,1575.0
+Kaliningrad,Lesquin,2200336,162600,2710.0
+Feldkirchen near Graz,Debrecen,680444,31982,533.0333333333333
+Sochi,Magnitogorsk,4476057,219900,3665.0
+Santander,Seville,-1,-1,-1.0
+Frankfurt am Main ,Viseu,2102765,98681,1644.6833333333334
+Bodø,Trondheim,725221,35160,586.0
+Klagenfurt on Lake Wörthersee,Bolzano ,281217,21542,359.03333333333336
+Vigo,Naryan Mar,-1,-1,-1.0
+Ranón,Bacău,-1,-1,-1.0
+Palermo,Tours/Val de Loire ,2530211,110960,1849.3333333333333
+Greven,Malmö,829160,31680,528.0
+Goleniow,Dortmund,675554,25440,424.0
+Zakynthos,Rovaniemi,-1,-1,-1.0
+Saint-Louis,Viviers-du-Lac,-1,-1,-1.0
+Montpellier/Méditerranée,Caselle ,556483,33954,565.9
+Zurich,Orio al Serio ,286557,21475,357.9166666666667
+Kirov,Timişoara,6042987,309466,5157.766666666666
+Kuusamo,Leknes,1311441,151881,2531.35
+Ożarowice,Klagenfurt on Lake Wörthersee,962251,52917,881.95
+Bastia/Poretta,Beslan,-1,-1,-1.0
+Oslo,Oslo,-1,-1,-1.0
+Penza,Ufa,1394589,53700,895.0
+Santorini Island,Mykonos,-1,-1,-1.0
+Marseille,Minsk,2931408,138250,2304.1666666666665
+Murmansk,Izhevsk,5424779,227040,3784.0
+Tarbes/Lourdes/Pyrénées,Vigo,1465171,79717,1328.6166666666666
+Caselle Torinese ,Ivanovo,-1,-1,-1.0
+"Norwich, Norfolk",Ivalo,-1,-1,-1.0
+Prague,Crete Island,-1,-1,-1.0
+Crete Island,Almería,-1,-1,-1.0
+Orio al Serio ,Genova ,191183,11215,186.91666666666666
+Vilnius,Łódź,657525,37320,622.0
+Belfast,Umeå,3606695,164562,2742.7
+Barcelona,Frankfurt am Main,1843472,69780,1163.0
+Castellón de la Plana,Murmansk,-1,-1,-1.0
+Genova ,Bournemouth,1707825,82440,1374.0
+Cheboksary,Bodø,4827799,309000,5150.0
+Florø,Catania,-1,-1,-1.0
+Voronezh,Parma ,-1,-1,-1.0
+Vila Real,Krasnodar,-1,-1,-1.0
+Cluj-Napoca,Aarhus,2477988,131400,2190.0
+Ivalo,Düsseldorf,3039940,174712,2911.866666666667
+Sibiu,Kirov,-1,-1,-1.0
+Bacău,Sabetta,-1,-1,-1.0
+Bremen,Memmingen,870082,25800,430.0
+Tampere / Pirkkala,Dubrave Gornje,-1,-1,-1.0
+Hadsel,Barcelona,-1,-1,-1.0
+Chelyabinsk,Lamezia Terme ,-1,-1,-1.0
+"Paisley, Renfrewshire",Vienna,-1,-1,-1.0
+Tivat,Košice,1605633,162393,2706.55
+Catania,Praia da Vitória,-1,-1,-1.0
+Debrecen,Bergen,3029452,168900,2815.0
+Ibiza ,Granada,1223154,86174,1436.2333333333333
+Kjevik,Kaluga,-1,-1,-1.0
+Firenze,Varna,2408251,161738,2695.633333333333
+Zagreb,Segrate ,724903,47880,798.0
+Palanga,Tromsø,-1,-1,-1.0
+"Luton, Bedfordshire",Stavanger,-1,-1,-1.0
+Maastricht,Otopeni,2345839,128955,2149.25
+Pamplona,Chelyabinsk,-1,-1,-1.0
+Hondarribia,Lyon,1264758,29971,499.51666666666665
+Cascais,Bydgoszcz,4521067,174720,2912.0
+Viviers-du-Lac,Alexandroupolis,3525266,235630,3927.1666666666665
+Gothenburg,Kaunas,-1,-1,-1.0
+Kittilä,Souda,-1,-1,-1.0
+Valletta,Kos Island,-1,-1,-1.0
+Ulyanovsk,Rome,-1,-1,-1.0
+Astrakhan,Arkhangelsk,4722716,226320,3772.0
+Olsztyn,Petrozavodsk,-1,-1,-1.0
+Vila Baleira,Corvera,-1,-1,-1.0
+Nantes,Jerez de la Frontera,-1,-1,-1.0
+Vaasa,Toulouse/Blagnac,3639907,182248,3037.4666666666667
+Wrocław,Birmingham,1899358,86400,1440.0
+Frankfurt am Main,Aberdeen,1619795,71100,1185.0
+San Bartolomé,Sofia,-1,-1,-1.0
+Bournemouth,Bari,2367860,98880,1648.0
+Mahón ,Valencia,593692,85279,1421.3166666666666
+Calvi/Sainte-Catherine,Inverness,-1,-1,-1.0
+Thessaloniki,Billund,2625242,167340,2789.0
+Sofia,Bologna,1753994,105000,1750.0
+Schkeuditz,Leeds,1515425,52620,877.0
+Ilinden,Radome,-1,-1,-1.0
+Treviso ,"Sta Cruz de la Palma, La Palma Island",-1,-1,-1.0
+Dortmund,Goleniow,739236,32100,535.0
+Vágar,Kazan,-1,-1,-1.0
+Podgorica,Jasionka,-1,-1,-1.0
+Cagliari,Dresden,1956472,92340,1539.0
+Chios Island,Alghero,-1,-1,-1.0
+Alghero,Rotterdam,2043109,97920,1632.0
+Liverpool,Nyköping,-1,-1,-1.0
+Ronchi dei Legionari ,Rhodes,-1,-1,-1.0
+Volgograd,Firenze,3609436,217320,3622.0
+Pula,El Matorral,-1,-1,-1.0
+Bristol,Bristol,-1,-1,-1.0
+Tillé,Craiova,2363297,120373,2006.2166666666667
+Bilbao,Stavropol,-1,-1,-1.0
+Rheinmünster,Prague,835806,43562,726.0333333333333
+Kavala,Samara,-1,-1,-1.0
+Luleå,Munich,2984467,139260,2321.0
+Bolzano ,Karmøy,3003216,160668,2677.8
+Kirkenes,Zagreb,-1,-1,-1.0
+Parma ,Lublin,2284589,90360,1506.0
+Aberdeen,Helsinki,-1,-1,-1.0
+Iaşi,Feldkirchen near Graz,1341758,93491,1558.1833333333334
+Mytilene,Tampere / Pirkkala,-1,-1,-1.0
+Minsk,Pula,-1,-1,-1.0
+Dubrave Gornje,Eindhoven,-1,-1,-1.0
+Lublin,Gelendzhik,-1,-1,-1.0
+Lisbon,Mineralnyye Vody,-1,-1,-1.0
+Karmøy,Ajaccio/Napoléon Bonaparte,-1,-1,-1.0
+Moscow,Bugulma,-1,-1,-1.0
+Rotterdam,Aalborg,1129550,59460,991.0
+Belgrade,Brindisi,-1,-1,-1.0
+"Sta Cruz de la Palma, La Palma Island",Tallinn,-1,-1,-1.0
+Cherepovets,Geneva,4387009,236700,3945.0
+Alexandroupolis,Castellón de la Plana,3835145,244920,4082.0
+Bordeaux/Mérignac,Gibraltar,1395946,92419,1540.3166666666666
+Zgornji Brnik,Ranón,2938027,155551,2592.516666666667
+Lamezia Terme ,Frankfurt am Main ,-1,-1,-1.0
+Čilipi,Bremen,-1,-1,-1.0
+Chişinău,Zurich,2485129,157579,2626.3166666666666
+Melilla,Santiago de Compostela,-1,-1,-1.0
+Praia da Vitória,"Stornoway, Western Isles",-1,-1,-1.0
+Copenhagen,Mosjøen,1904611,104220,1737.0
+Helsinki,Santander,-1,-1,-1.0
+Krasnyi Kurgan,Mytilene,-1,-1,-1.0
+Bratislava,Ronchi dei Legionari ,598310,34320,572.0
+Funchal,Zaventem,-1,-1,-1.0
+Horta,Astrakhan,-1,-1,-1.0
+Hamburg,Schkeuditz,473148,12780,213.0
+Culleredo,Nantes,-1,-1,-1.0
+El Matorral,Greven,-1,-1,-1.0
+Sarajevo,Newquay,2869231,185640,3094.0
+Béziers/Vias,Evenes,4383818,242063,4034.383333333333
+Billund,Reggio Calabria,2717428,109920,1832.0
+Niš,Melilla,-1,-1,-1.0
+Zaventem,Gdańsk,1401263,68610,1143.5
+Perugia,Volgograd,-1,-1,-1.0
+Inverness,Nice,2410781,83460,1391.0
+Valencia,Innsbruck,2664560,103260,1721.0
+Samara,Napoli,-1,-1,-1.0
+Svolvær,Belfast,4619682,264621,4410.35
+Rovaniemi,Palanga,-1,-1,-1.0
+Tallinn,Mahón ,-1,-1,-1.0
+Rinas,Stockholm,3358794,176809,2946.8166666666666
+Stavanger,Stuttgart,1663495,100779,1679.65
+Stavropol,Nizhnekamsk,-1,-1,-1.0
+Gdańsk,Grâce-Hollogne,1344272,73020,1217.0
+Bugulma,London,-1,-1,-1.0
+Burgas,Riga,-1,-1,-1.0
+Zaragoza,Nizhny Novgorod,-1,-1,-1.0
+Cologne ,St. Petersburg,-1,-1,-1.0
+Grâce-Hollogne,Saint-Louis,-1,-1,-1.0
+Kuopio / Siilinjärvi,Amsterdam,2447771,152744,2545.733333333333
+Newcastle,Cardiff,616072,19740,329.0
+Eindhoven,Palermo,2603142,107120,1785.3333333333333
+Leknes,Podgorica,-1,-1,-1.0
+"Southend-on-Sea, Essex",Cologne ,669466,23656,394.26666666666665
+Bologna,Crotone,981091,30799,513.3166666666667
+Mykonos,Béziers/Vias,-1,-1,-1.0
+Hanover,Salzburg,794267,24000,400.0
+Perm,Edinburgh,-1,-1,-1.0
+Saint Anne,Svolvær,-1,-1,-1.0
+Umeå,Krasnyi Kurgan,-1,-1,-1.0
+Krasnodar,Tarbes/Lourdes/Pyrénées,-1,-1,-1.0
+Pisa,Tillé,1375525,66801,1113.35
+Kaluga,Venezia ,-1,-1,-1.0
+Brønnøy,Cluj-Napoca,3988400,262822,4380.366666666667
+Ponta Delgada,Vila Baleira,-1,-1,-1.0
+Ajaccio/Napoléon Bonaparte,Poznań,2091901,156629,2610.483333333333
+Ivanovo,Pskov,1454250,57600,960.0
+Ohrid,Grozny,-1,-1,-1.0
+Crotone,Castletown,-1,-1,-1.0
+Craiova,Cagliari,-1,-1,-1.0
+Nyköping,Kaliningrad,1134427,157584,2626.4
+Ålesund,Saint Peter Port,3446717,293679,4894.65
+Manchester,Cascais,3501220,152500,2541.6666666666665
+Riga,Ferno ,-1,-1,-1.0
+Varna,Tivat,-1,-1,-1.0
+Venezia ,Málaga,2440426,104100,1735.0
+Gelendzhik,Torp,-1,-1,-1.0
+Souda,Paris,-1,-1,-1.0
+Mosjøen,Faro,5240437,265560,4426.0
+Otopeni,Zakynthos,1726652,118004,1966.7333333333333
+Lesquin,Olsztyn,1559785,77436,1290.6
+Weeze,Treviso ,1287406,60420,1007.0
+Toulouse/Blagnac,Balice,2631082,101273,1687.8833333333334
+Beslan,Ulyanovsk,-1,-1,-1.0
+Innsbruck,Southampton,1715389,75720,1262.0
+Olbia ,Saint Helier,2559809,194619,3243.65
+Kaunas,Niš,2018725,210997,3516.616666666667
+Stuttgart,Zaragoza,1748188,80100,1335.0
+Grozny,Wrocław,-1,-1,-1.0
