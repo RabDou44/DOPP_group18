@@ -1,0 +1,137 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Minsk,53.9000,27.5667,Belarus,BY,Minsk,primary,2009786,1996553
+Homyel’,52.4453,30.9842,Belarus,BY,Homyel’skaya Voblasts’,admin,510300,503984
+Vitsyebsk,55.1917,30.2056,Belarus,BY,Vitsyebskaya Voblasts’,admin,366299,360419
+Hrodna,53.6667,23.8333,Belarus,BY,Hrodzyenskaya Voblasts’,admin,357493,357493
+Mahilyow,53.9167,30.3500,Belarus,BY,Mahilyowskaya Voblasts’,admin,357100,355436
+Brest,52.1347,23.6569,Belarus,BY,Brestskaya Voblasts’,admin,340723,340723
+Babruysk,53.1500,29.2333,Belarus,BY,Mahilyowskaya Voblasts’,minor,212200,209675
+Baranavichy,53.1333,26.0167,Belarus,BY,Brestskaya Voblasts’,minor,174183,173028
+Horad Barysaw,54.2279,28.5050,Belarus,BY,Minskaya Voblasts’,minor,155389,155389
+Pinsk,52.1153,26.1031,Belarus,BY,Brestskaya Voblasts’,minor,125900,125060
+Orsha,54.5092,30.4258,Belarus,BY,Vitsyebskaya Voblasts’,minor,117225,104605
+Navapolatsk,55.5333,28.6500,Belarus,BY,Vitsyebskaya Voblasts’,,108000,97182
+Salihorsk,52.8000,27.5333,Belarus,BY,Minskaya Voblasts’,minor,106627,99622
+Mazyr,52.0500,29.2667,Belarus,BY,Homyel’skaya Voblasts’,minor,105439,104967
+Lida,53.8833,25.3000,Belarus,BY,Hrodzyenskaya Voblasts’,,103479,103479
+Maladzyechna,54.3208,26.8572,Belarus,BY,Minskaya Voblasts’,minor,91063,90136
+Polatsk,55.4833,28.8000,Belarus,BY,Vitsyebskaya Voblasts’,minor,82547,79896
+Zhlobin,52.9000,30.0333,Belarus,BY,Homyel’skaya Voblasts’,minor,76078,76078
+Rechytsa,52.3639,30.3947,Belarus,BY,Homyel’skaya Voblasts’,minor,66400,66400
+Horad Zhodzina,54.1000,28.3500,Belarus,BY,Minskaya Voblasts’,minor,65451,65451
+Svyetlahorsk,52.6333,29.7333,Belarus,BY,Homyel’skaya Voblasts’,minor,64989,63946
+Slutsk,53.0333,27.5667,Belarus,BY,Minskaya Voblasts’,minor,61396,60794
+Kobryn,52.2167,24.3667,Belarus,BY,Brestskaya Voblasts’,minor,52843,52699
+Slonim,53.0833,25.3167,Belarus,BY,Hrodzyenskaya Voblasts’,minor,49830,49426
+Vawkavysk,53.1667,24.4667,Belarus,BY,Hrodzyenskaya Voblasts’,minor,42746,42369
+Kalinkavichy,52.1250,29.3333,Belarus,BY,Homyel’skaya Voblasts’,minor,37633,37226
+Smarhon’,54.4836,26.4000,Belarus,BY,Hrodzyenskaya Voblasts’,minor,36202,35908
+Rahachow,53.1000,30.0500,Belarus,BY,Homyel’skaya Voblasts’,minor,33702,33702
+Horki,54.2667,30.9833,Belarus,BY,Mahilyowskaya Voblasts’,minor,30390,30010
+Asipovichy,53.2933,28.4756,Belarus,BY,Mahilyowskaya Voblasts’,minor,29981,29633
+Dzyarzhynsk,53.6833,27.1333,Belarus,BY,Minskaya Voblasts’,,29863,29863
+Byaroza,52.5500,24.9667,Belarus,BY,Brestskaya Voblasts’,minor,28619,28454
+Navahrudak,53.5833,25.8167,Belarus,BY,Hrodzyenskaya Voblasts’,,28199,28014
+Vilyeyka,54.4980,26.9260,Belarus,BY,Minskaya Voblasts’,minor,27167,26987
+Krychaw,53.7194,31.7139,Belarus,BY,Mahilyowskaya Voblasts’,minor,24170,23704
+Luninyets,52.2500,26.8000,Belarus,BY,Brestskaya Voblasts’,minor,23734,23569
+Ivatsevichy,52.7167,25.3333,Belarus,BY,Brestskaya Voblasts’,minor,22958,22958
+Mar’’ina Horka,53.5167,28.1417,Belarus,BY,Minskaya Voblasts’,,20592,20445
+Pastavy,55.1167,26.8333,Belarus,BY,Vitsyebskaya Voblasts’,minor,19153,18939
+Pruzhany,52.5567,24.4644,Belarus,BY,Brestskaya Voblasts’,minor,19032,18978
+Dobrush,52.4167,31.3167,Belarus,BY,Homyel’skaya Voblasts’,minor,18311,18208
+Hlybokaye,55.1333,27.6833,Belarus,BY,Vitsyebskaya Voblasts’,minor,17790,17694
+Zaslawye,54.0083,27.2847,Belarus,BY,Minskaya Voblasts’,,17701,17601
+Fanipal,53.7500,27.3333,Belarus,BY,Minskaya Voblasts’,,17507,17493
+Stowbtsy,53.4833,26.7333,Belarus,BY,Minskaya Voblasts’,,17496,17496
+Lyepyel,54.8750,28.6944,Belarus,BY,Vitsyebskaya Voblasts’,,17280,17280
+Shklow,54.2236,30.2864,Belarus,BY,Mahilyowskaya Voblasts’,minor,17064,17064
+Bykhaw,53.5167,30.2500,Belarus,BY,Mahilyowskaya Voblasts’,minor,17031,17031
+Ashmyany,54.4250,25.9375,Belarus,BY,Hrodzyenskaya Voblasts’,minor,16979,16979
+Zhytkavichy,52.2333,27.8667,Belarus,BY,Homyel’skaya Voblasts’,minor,16600,16600
+Horad Smalyavichy,54.1000,28.0667,Belarus,BY,Minskaya Voblasts’,minor,16594,16594
+Ivanava,52.1333,25.5500,Belarus,BY,Brestskaya Voblasts’,minor,16498,16377
+Kastsyukovichy,53.3333,32.0500,Belarus,BY,Mahilyowskaya Voblasts’,minor,15993,15993
+Shchuchyn,53.6167,24.7333,Belarus,BY,Hrodzyenskaya Voblasts’,minor,15475,15475
+Lahoysk,54.2000,27.8500,Belarus,BY,Minskaya Voblasts’,minor,15442,15442
+Klimavichy,53.6167,31.9500,Belarus,BY,Mahilyowskaya Voblasts’,minor,15408,15244
+Masty,53.4170,24.5500,Belarus,BY,Hrodzyenskaya Voblasts’,minor,15197,14914
+Drahichyn,52.1833,25.1500,Belarus,BY,Brestskaya Voblasts’,,14963,14855
+Astravyets,54.6136,25.9553,Belarus,BY,Hrodzyenskaya Voblasts’,minor,14641,14641
+Zhabinka,52.2006,24.0233,Belarus,BY,Brestskaya Voblasts’,minor,14577,14577
+Nyasvizh,53.2167,26.6667,Belarus,BY,Minskaya Voblasts’,minor,14300,14300
+Hantsavichy,52.7500,26.4333,Belarus,BY,Brestskaya Voblasts’,minor,14043,14043
+Khoyniki,51.8892,29.9644,Belarus,BY,Homyel’skaya Voblasts’,minor,13439,13278
+Stolin,51.8833,26.8500,Belarus,BY,Brestskaya Voblasts’,,13290,13290
+Malaryta,51.7833,24.0833,Belarus,BY,Brestskaya Voblasts’,minor,12883,12869
+Mikashevichy,52.2203,27.4736,Belarus,BY,Brestskaya Voblasts’,,12771,12527
+Novalukoml,54.6569,29.1500,Belarus,BY,Vitsyebskaya Voblasts’,,12439,12250
+Haradok,55.4667,30.0000,Belarus,BY,Vitsyebskaya Voblasts’,minor,11814,11629
+Lyuban,52.7819,28.0525,Belarus,BY,Minskaya Voblasts’,minor,11654,11522
+Klyetsk,53.0636,26.6372,Belarus,BY,Minskaya Voblasts’,minor,11462,11383
+Byerazino,53.8333,28.9833,Belarus,BY,Minskaya Voblasts’,,11462,11462
+Staryya Darohi,53.0394,28.2650,Belarus,BY,Minskaya Voblasts’,minor,11198,11066
+Byelaazyorsk,52.4500,25.1667,Belarus,BY,Brestskaya Voblasts’,,11115,11010
+Lyakhavichy,53.0333,26.2667,Belarus,BY,Brestskaya Voblasts’,minor,10997,10997
+Uzda,53.4661,27.2244,Belarus,BY,Minskaya Voblasts’,,10781,10740
+Chavusy,53.8075,30.9714,Belarus,BY,Mahilyowskaya Voblasts’,minor,10692,10692
+Baran,54.4833,30.3333,Belarus,BY,Vitsyebskaya Voblasts’,,10573,10395
+Kapyl,53.1500,27.0917,Belarus,BY,Minskaya Voblasts’,minor,10367,10192
+Mstsislaw,54.0167,31.7167,Belarus,BY,Mahilyowskaya Voblasts’,minor,10201,10139
+Skidal’,53.5861,24.2519,Belarus,BY,Hrodzyenskaya Voblasts’,,10168,9943
+Pyetrykaw,52.1333,28.5000,Belarus,BY,Homyel’skaya Voblasts’,minor,10127,10127
+Byarozawka,53.7167,25.5000,Belarus,BY,Hrodzyenskaya Voblasts’,,10081,9900
+Valozhyn,54.0833,26.5167,Belarus,BY,Minskaya Voblasts’,minor,10012,9993
+Byalynichy,53.9956,29.7096,Belarus,BY,Mahilyowskaya Voblasts’,minor,9913,9806
+Talachyn,54.4167,29.7000,Belarus,BY,Vitsyebskaya Voblasts’,minor,9899,9823
+Braslaw,55.6391,27.0318,Belarus,BY,Vitsyebskaya Voblasts’,minor,9427,9427
+Yel’sk,51.8167,29.1500,Belarus,BY,Homyel’skaya Voblasts’,minor,9175,9175
+Buda-Kashalyova,52.7167,30.5667,Belarus,BY,Homyel’skaya Voblasts’,minor,8850,8700
+Chachersk,52.9161,30.9161,Belarus,BY,Homyel’skaya Voblasts’,minor,8730,8730
+Krupki,54.3167,29.1333,Belarus,BY,Minskaya Voblasts’,minor,8540,8522
+Vyetka,52.5667,31.1833,Belarus,BY,Homyel’skaya Voblasts’,minor,8507,8507
+Narowlya,51.8000,29.5000,Belarus,BY,Homyel’skaya Voblasts’,minor,8374,8374
+Kamyanyets,52.4000,23.8167,Belarus,BY,Brestskaya Voblasts’,,8349,8330
+Kirawsk,53.2692,29.4730,Belarus,BY,Mahilyowskaya Voblasts’,minor,8178,8074
+Chashniki,54.8533,29.1647,Belarus,BY,Vitsyebskaya Voblasts’,minor,8092,8092
+Dzyatlava,53.4653,25.4056,Belarus,BY,Hrodzyenskaya Voblasts’,,8061,8008
+Slawharad,53.4333,31.0000,Belarus,BY,Mahilyowskaya Voblasts’,minor,7928,7895
+Cherykaw,53.5667,31.3667,Belarus,BY,Mahilyowskaya Voblasts’,minor,7910,7789
+Myory,55.6167,27.6167,Belarus,BY,Vitsyebskaya Voblasts’,minor,7845,7829
+Karma,53.1292,30.8106,Belarus,BY,Homyel’skaya Voblasts’,minor,7583,7583
+Kruhlaye,54.2478,29.7964,Belarus,BY,Mahilyowskaya Voblasts’,minor,7530,7349
+Syanno,54.8000,29.7000,Belarus,BY,Vitsyebskaya Voblasts’,minor,7370,7265
+Iwye,53.9167,25.7667,Belarus,BY,Hrodzyenskaya Voblasts’,,7354,7354
+Klichaw,53.4833,29.3333,Belarus,BY,Mahilyowskaya Voblasts’,minor,7308,7295
+Aktsyabrski,52.6472,28.8833,Belarus,BY,Homyel’skaya Voblasts’,minor,7300,7300
+Hlusk,52.8895,28.6922,Belarus,BY,Mahilyowskaya Voblasts’,minor,7152,7152
+Myadzyel,54.8667,26.9333,Belarus,BY,Minskaya Voblasts’,minor,7146,7054
+Voranava,54.1500,25.3167,Belarus,BY,Hrodzyenskaya Voblasts’,minor,7000,7000
+Vyerkhnyadzvinsk,55.7833,27.9500,Belarus,BY,Vitsyebskaya Voblasts’,minor,6967,6967
+Dokshytsy,54.9000,27.7667,Belarus,BY,Vitsyebskaya Voblasts’,minor,6954,6954
+Dubrowna,54.5667,30.6833,Belarus,BY,Vitsyebskaya Voblasts’,minor,6951,6857
+Loyew,51.9333,30.8000,Belarus,BY,Homyel’skaya Voblasts’,minor,6698,6698
+Lyozna,55.0167,30.8000,Belarus,BY,Vitsyebskaya Voblasts’,minor,6688,6688
+Sharkawshchyna,55.3667,27.4667,Belarus,BY,Vitsyebskaya Voblasts’,minor,6330,6330
+Svislach,53.0333,24.1000,Belarus,BY,Hrodzyenskaya Voblasts’,minor,6323,6266
+Khotsimsk,53.4083,32.5722,Belarus,BY,Mahilyowskaya Voblasts’,minor,6300,6300
+Davyd-Haradok,52.0556,27.2139,Belarus,BY,Brestskaya Voblasts’,,5919,5842
+Krasnapollye,53.3333,31.4022,Belarus,BY,Mahilyowskaya Voblasts’,minor,5749,5749
+Vyalikaya Byerastavitsa,53.1956,24.0208,Belarus,BY,Hrodzyenskaya Voblasts’,minor,5545,5545
+Chysts’,54.2683,27.1089,Belarus,BY,Minskaya Voblasts’,,5422,5422
+Rasony,55.9042,28.8092,Belarus,BY,Vitsyebskaya Voblasts’,minor,4946,4946
+Vysokaye,52.3686,23.3806,Belarus,BY,Brestskaya Voblasts’,,4859,4859
+Brahin,51.7833,30.2667,Belarus,BY,Homyel’skaya Voblasts’,minor,3700,3700
+Vasilyevichy,52.2667,29.8000,Belarus,BY,Homyel’skaya Voblasts’,,3435,3363
+Drybin,54.1194,31.0931,Belarus,BY,Mahilyowskaya Voblasts’,minor,2974,2974
+Turaw,52.0700,27.7400,Belarus,BY,Homyel’skaya Voblasts’,,2772,2738
+Kosava,52.7500,25.1500,Belarus,BY,Brestskaya Voblasts’,,1919,1908
+Dzisna,55.5667,28.2167,Belarus,BY,Vitsyebskaya Voblasts’,,1492,1455
+Nasilava,54.3094,26.7789,Belarus,BY,Minskaya Voblasts’,,1279,1279
+Andreyewshchyna,54.5672,30.4522,Belarus,BY,Vitsyebskaya Voblasts’,,1091,1091
+Horad Pinsk,52.1214,26.0728,Belarus,BY,Brestskaya Voblasts’,minor,,
+Horad Orsha,54.5153,30.4053,Belarus,BY,Vitsyebskaya Voblasts’,minor,,
+Horad Kobryn,52.2161,24.3664,Belarus,BY,Brestskaya Voblasts’,minor,,
+Horad Rechytsa,52.3639,30.3947,Belarus,BY,Homyel’skaya Voblasts’,minor,,
+Horad Luninyets,52.2503,26.7994,Belarus,BY,Brestskaya Voblasts’,minor,,
+Lyel’chytsy,51.7894,28.3214,Belarus,BY,Homyel’skaya Voblasts’,minor,,

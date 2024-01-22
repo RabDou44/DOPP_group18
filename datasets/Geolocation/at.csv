@@ -1,0 +1,183 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Vienna,48.2083,16.3725,Austria,AT,Wien,primary,1973403,1973403
+Graz,47.0708,15.4386,Austria,AT,Steiermark,admin,289440,289440
+Linz,48.3058,14.2864,Austria,AT,Oberösterreich,admin,210165,210165
+Salzburg,47.8000,13.0450,Austria,AT,Salzburg,admin,155021,155021
+Innsbruck,47.2683,11.3933,Austria,AT,Tirol,admin,132493,131961
+Klagenfurt,46.6167,14.3000,Austria,AT,Kärnten,admin,101403,101403
+Villach,46.6167,13.8333,Austria,AT,Kärnten,minor,65127,65127
+Wels,48.1500,14.0167,Austria,AT,Oberösterreich,minor,61233,61233
+Sankt Pölten,48.2000,15.6167,Austria,AT,Niederösterreich,admin,55514,55514
+Dornbirn,47.4167,9.7500,Austria,AT,Vorarlberg,minor,48067,48067
+Wiener Neustadt,47.8167,16.2500,Austria,AT,Niederösterreich,minor,44461,44461
+Steyr,48.0333,14.4167,Austria,AT,Oberösterreich,minor,38331,38331
+Bregenz,47.5050,9.7492,Austria,AT,Vorarlberg,admin,29806,29806
+Leonding,48.2792,14.2528,Austria,AT,Oberösterreich,,28698,28698
+Klosterneuburg,48.3042,16.3167,Austria,AT,Niederösterreich,minor,27058,27058
+Baden,48.0075,16.2344,Austria,AT,Niederösterreich,minor,26286,26286
+Krems an der Donau,48.4167,15.6167,Austria,AT,Niederösterreich,minor,24610,24610
+Traun,48.2217,14.2397,Austria,AT,Oberösterreich,,24477,24477
+Amstetten,48.1167,14.8667,Austria,AT,Niederösterreich,minor,23656,23656
+Lustenau,47.4271,9.6711,Austria,AT,Vorarlberg,,22821,22821
+Kapfenberg,47.4394,15.2894,Austria,AT,Steiermark,,22798,22798
+Hallein,47.6667,13.0833,Austria,AT,Salzburg,minor,21150,21150
+Mödling,48.0856,16.2831,Austria,AT,Niederösterreich,minor,20555,20555
+Kufstein,47.5833,12.1667,Austria,AT,Tirol,minor,19223,19223
+Traiskirchen,48.0189,16.2922,Austria,AT,Niederösterreich,,18858,18858
+Schwechat,48.1411,16.4786,Austria,AT,Niederösterreich,,18026,18026
+Stockerau,48.3858,16.2108,Austria,AT,Niederösterreich,,16916,16916
+Hohenems,47.3667,9.6667,Austria,AT,Vorarlberg,,16317,16317
+Ansfelden,48.2083,14.2889,Austria,AT,Oberösterreich,,16194,16194
+Telfs,47.3069,11.0722,Austria,AT,Tirol,,16046,16046
+Bruck an der Mur,47.4106,15.2686,Austria,AT,Steiermark,minor,15837,15837
+Spittal an der Drau,46.7917,13.4958,Austria,AT,Kärnten,minor,15413,15413
+Perchtoldsdorf,48.1167,16.2667,Austria,AT,Niederösterreich,,15047,15047
+Bludenz,47.1533,9.8219,Austria,AT,Vorarlberg,minor,14956,14956
+Eisenstadt,47.8500,16.5167,Austria,AT,Burgenland,admin,14476,14476
+Hall in Tirol,47.2833,11.5000,Austria,AT,Tirol,,13897,13897
+Wörgl,47.4831,12.0664,Austria,AT,Tirol,,13811,13811
+Schwaz,47.3500,11.7000,Austria,AT,Tirol,minor,13810,13810
+Marchtrenk,48.1917,14.1106,Austria,AT,Oberösterreich,,13603,13603
+Hard,47.4892,9.6900,Austria,AT,Vorarlberg,,13495,13495
+Korneuburg,48.3453,16.3331,Austria,AT,Niederösterreich,minor,12986,12986
+Neunkirchen,47.7269,16.0817,Austria,AT,Niederösterreich,minor,12879,12879
+Knittelfeld,47.2150,14.8294,Austria,AT,Steiermark,,12626,12626
+Vöcklabruck,48.0086,13.6558,Austria,AT,Oberösterreich,minor,12299,12299
+Leibnitz,46.7831,15.5450,Austria,AT,Steiermark,minor,12176,12176
+Enns,48.2167,14.4750,Austria,AT,Oberösterreich,,11937,11937
+Lienz,46.8297,12.7697,Austria,AT,Tirol,minor,11935,11935
+Brunn am Gebirge,48.1069,16.2842,Austria,AT,Niederösterreich,,11864,11864
+Rankweil,47.2667,9.6500,Austria,AT,Vorarlberg,,11855,11855
+Bad Vöslau,47.9669,16.2144,Austria,AT,Niederösterreich,,11844,11844
+Weiz,47.2189,15.6253,Austria,AT,Steiermark,minor,11627,11627
+Götzis,47.3342,9.6453,Austria,AT,Vorarlberg,,11473,11473
+Gänserndorf,48.3406,16.7175,Austria,AT,Niederösterreich,minor,11404,11404
+Gerasdorf bei Wien,48.2950,16.4675,Austria,AT,Niederösterreich,,11155,11155
+Gleisdorf,47.1039,15.7083,Austria,AT,Steiermark,,10763,10763
+Lauterach,47.4772,9.7314,Austria,AT,Vorarlberg,,10028,10028
+Strasshof an der Nordbahn,48.3194,16.6475,Austria,AT,Niederösterreich,,10009,10009
+Köflach,47.0639,15.0889,Austria,AT,Steiermark,,9888,9888
+Laakirchen,47.9828,13.8242,Austria,AT,Oberösterreich,,9861,9861
+Purkersdorf,48.2092,16.1792,Austria,AT,Niederösterreich,,9701,9701
+Wiener Neudorf,48.0856,16.3131,Austria,AT,Niederösterreich,,9433,9433
+Voitsberg,47.0483,15.1503,Austria,AT,Steiermark,minor,9403,9403
+Rum,47.2872,11.4581,Austria,AT,Tirol,,9190,9190
+Guntramsdorf,48.0483,16.3150,Austria,AT,Niederösterreich,,9179,9179
+Attnang-Puchheim,48.0167,13.7167,Austria,AT,Oberösterreich,,8944,8944
+Maria Enzersdorf,48.1000,16.2833,Austria,AT,Niederösterreich,,8829,8829
+Deutsch-Wagram,48.2994,16.5644,Austria,AT,Niederösterreich,,8651,8651
+Wolfurt,47.4731,9.7539,Austria,AT,Vorarlberg,,8429,8429
+Perg,48.2503,14.6336,Austria,AT,Oberösterreich,minor,8388,8388
+Langenzersdorf,48.3069,16.3553,Austria,AT,Niederösterreich,,8137,8137
+Höchst,47.4592,9.6400,Austria,AT,Vorarlberg,,7995,7995
+Freistadt,48.5117,14.5061,Austria,AT,Oberösterreich,minor,7909,7909
+Bruck an der Leitha,48.0255,16.7790,Austria,AT,Niederösterreich,minor,7887,7887
+Landeck,47.1333,10.5667,Austria,AT,Tirol,minor,7725,7725
+Pasching,48.2589,14.2028,Austria,AT,Oberösterreich,,7552,7552
+Kottingbrunn,47.9519,16.2292,Austria,AT,Niederösterreich,,7417,7417
+Seiersberg,47.0100,15.3989,Austria,AT,Steiermark,,7351,7351
+Grödig,47.7394,13.0361,Austria,AT,Salzburg,,7262,7262
+Zeltweg,47.1906,14.7511,Austria,AT,Steiermark,,7212,7212
+Hafendorf,47.4556,15.3194,Austria,AT,Steiermark,,7177,7177
+Jenbach,47.3933,11.7767,Austria,AT,Tirol,,7120,7120
+Vösendorf,48.1167,16.3333,Austria,AT,Niederösterreich,,6990,6990
+Kalsdorf bei Graz,46.9661,15.4817,Austria,AT,Steiermark,,6954,6954
+Völs,47.2500,11.3333,Austria,AT,Tirol,,6938,6938
+Hartberg,47.2806,15.9700,Austria,AT,Steiermark,minor,6650,6650
+Altach,47.3500,9.6500,Austria,AT,Vorarlberg,,6624,6624
+Feldkirchen bei Graz,47.0125,15.4425,Austria,AT,Steiermark,,6622,6622
+Asten,48.2167,14.4167,Austria,AT,Oberösterreich,,6613,6613
+Mattighofen,48.1067,13.1494,Austria,AT,Oberösterreich,,6524,6524
+Gallneukirchen,48.3531,14.4158,Austria,AT,Oberösterreich,,6492,6492
+Hörbranz,47.5553,9.7528,Austria,AT,Vorarlberg,,6346,6346
+Neuhofen an der Krems,48.1336,14.2333,Austria,AT,Oberösterreich,,6269,6269
+Axams,47.2303,11.2792,Austria,AT,Tirol,,6111,6111
+Hörsching,48.2267,14.1794,Austria,AT,Oberösterreich,,6062,6062
+Gloggnitz,47.6758,15.9383,Austria,AT,Niederösterreich,,5916,5916
+Wagna,46.7681,15.5583,Austria,AT,Steiermark,,5859,5859
+Kirchbichl,47.5167,12.0667,Austria,AT,Tirol,,5855,5855
+Oberndorf bei Salzburg,47.9417,12.9417,Austria,AT,Salzburg,,5815,5815
+Lochau,47.5300,9.7517,Austria,AT,Vorarlberg,,5747,5747
+Timelkam,48.0014,13.6125,Austria,AT,Oberösterreich,,5708,5708
+Thalheim bei Wels,48.1514,14.0383,Austria,AT,Oberösterreich,,5482,5482
+Bergheim,47.8403,13.0222,Austria,AT,Salzburg,,5388,5388
+Wildon,46.8869,15.5142,Austria,AT,Steiermark,,5367,5367
+Schwertberg,48.2717,14.5833,Austria,AT,Oberösterreich,,5365,5365
+Bad Gleichenberg,46.8702,15.9027,Austria,AT,Steiermark,,5314,5314
+Schärding,48.4569,13.4317,Austria,AT,Oberösterreich,minor,5253,5253
+Lieboch,46.9742,15.3375,Austria,AT,Steiermark,,5096,5096
+Leopoldsdorf,48.1167,16.4000,Austria,AT,Niederösterreich,,5078,5078
+Stadl-Paura,48.0839,13.8639,Austria,AT,Oberösterreich,,5053,5053
+Lenzing,47.9761,13.5956,Austria,AT,Oberösterreich,,5043,5043
+Bad Hall,48.0344,14.2097,Austria,AT,Oberösterreich,,5043,5043
+Sollenau,47.9000,16.2500,Austria,AT,Niederösterreich,,5038,5038
+Grieskirchen,48.2350,13.8319,Austria,AT,Oberösterreich,minor,5002,5002
+Birkfeld,47.3547,15.6950,Austria,AT,Steiermark,,4992,4992
+Mauthausen,48.2419,14.5169,Austria,AT,Oberösterreich,,4936,4936
+Leobersdorf,47.9286,16.2167,Austria,AT,Niederösterreich,,4915,4915
+Bürmoos,47.9833,12.9333,Austria,AT,Salzburg,,4899,4899
+Weißkirchen in Steiermark,47.1539,14.7386,Austria,AT,Steiermark,,4853,4853
+Althofen,46.8667,14.4667,Austria,AT,Kärnten,,4759,4759
+Bisamberg,48.3314,16.3614,Austria,AT,Niederösterreich,,4729,4729
+Ottensheim,48.3333,14.1769,Austria,AT,Oberösterreich,,4721,4721
+Oberwaltersdorf,47.9769,16.3253,Austria,AT,Niederösterreich,,4618,4618
+Eichgraben,48.1728,15.9833,Austria,AT,Niederösterreich,,4614,4614
+Koblach,47.3333,9.6000,Austria,AT,Vorarlberg,,4577,4577
+Neudörfl,47.7978,16.2967,Austria,AT,Burgenland,,4564,4564
+Mils bei Solbad Hall,47.2864,11.5267,Austria,AT,Tirol,,4549,4549
+Kirchdorf,47.9067,14.0000,Austria,AT,Oberösterreich,minor,4502,4502
+Puchenau,48.3108,14.2414,Austria,AT,Oberösterreich,,4445,4445
+Wies,46.7203,15.2719,Austria,AT,Steiermark,,4438,4438
+Sankt Georgen im Attergau,47.9333,13.4922,Austria,AT,Oberösterreich,,4375,4375
+Oberalm,47.7000,13.1000,Austria,AT,Salzburg,,4325,4325
+Felixdorf,47.8833,16.2333,Austria,AT,Niederösterreich,,4292,4292
+Schwanenstadt,48.0553,13.7758,Austria,AT,Oberösterreich,,4264,4264
+Fügen,47.3500,11.8333,Austria,AT,Tirol,,4227,4227
+Anif,47.7500,13.0667,Austria,AT,Salzburg,,4195,4195
+Hallwang,47.8500,13.0667,Austria,AT,Salzburg,,4189,4189
+Bad Schallerbach,48.2289,13.9253,Austria,AT,Oberösterreich,,4169,4169
+Götzens,47.2361,11.3114,Austria,AT,Tirol,,4138,4138
+Sankt Georgen an der Gusen,48.2717,14.4483,Austria,AT,Oberösterreich,,4119,4119
+Eferding,48.3083,14.0203,Austria,AT,Oberösterreich,minor,4100,4100
+Mäder,47.3500,9.6167,Austria,AT,Vorarlberg,,4031,4031
+Gössendorf,46.9958,15.4878,Austria,AT,Steiermark,,3981,3981
+Schwarzach,47.4447,9.7631,Austria,AT,Vorarlberg,,3949,3949
+Gumpoldskirchen,48.0442,16.2803,Austria,AT,Niederösterreich,,3899,3899
+Fußach,47.4783,9.6639,Austria,AT,Vorarlberg,,3871,3871
+Pinsdorf,47.9303,13.7669,Austria,AT,Oberösterreich,,3849,3849
+Loosdorf,48.2006,15.4011,Austria,AT,Niederösterreich,,3794,3794
+Gratwein,47.1294,15.3178,Austria,AT,Steiermark,,3635,3635
+Pfaffstätten,48.0167,16.2661,Austria,AT,Niederösterreich,,3551,3551
+Schwarzach im Pongau,47.3222,13.1500,Austria,AT,Salzburg,,3515,3515
+Theresienfeld,47.8500,16.2167,Austria,AT,Niederösterreich,,3485,3485
+Ludesch,47.1944,9.7817,Austria,AT,Vorarlberg,,3437,3437
+Lambach,48.0944,13.8775,Austria,AT,Oberösterreich,,3435,3435
+Neufeld an der Leitha,47.8678,16.3767,Austria,AT,Burgenland,,3418,3418
+Göfis,47.2331,9.6331,Austria,AT,Vorarlberg,,3312,3312
+Hausmannstätten,46.9908,15.5086,Austria,AT,Steiermark,,3288,3288
+Pirka,46.9977,15.3945,Austria,AT,Steiermark,,3288,3288
+Kierling,48.3083,16.2742,Austria,AT,Niederösterreich,,3178,3178
+Klaus,47.3086,9.6467,Austria,AT,Vorarlberg,,3118,3118
+Brixlegg,47.4292,11.8775,Austria,AT,Tirol,,3043,3043
+Ennsdorf,48.2125,14.4892,Austria,AT,Niederösterreich,,3031,3031
+Kematen in Tirol,47.2542,11.2722,Austria,AT,Tirol,,3014,3014
+Biedermannsdorf,48.0834,16.3458,Austria,AT,Niederösterreich,,2988,2988
+Elixhausen,47.8667,13.0667,Austria,AT,Salzburg,,2963,2963
+Niederndorf,47.6500,12.2156,Austria,AT,Tirol,,2820,2820
+Gallspach,48.2067,13.8144,Austria,AT,Oberösterreich,,2772,2772
+Aldrans,47.2522,11.4461,Austria,AT,Tirol,,2761,2761
+Sankt Marein im Mürztal,47.4744,15.3711,Austria,AT,Steiermark,,2713,2713
+Kaindorf an der Sulm,46.8000,15.5333,Austria,AT,Steiermark,,2552,2552
+Rohrbach,48.5733,13.9917,Austria,AT,Oberösterreich,minor,2552,2552
+Sulz,47.2883,9.6533,Austria,AT,Vorarlberg,,2527,2527
+Raaba,47.0278,15.4967,Austria,AT,Steiermark,,2427,2427
+Schlins,47.2061,9.6997,Austria,AT,Vorarlberg,,2404,2404
+Windischgarsten,47.7211,14.3308,Austria,AT,Oberösterreich,,2392,2392
+Bludesch,47.1996,9.7471,Austria,AT,Vorarlberg,,2370,2370
+Werndorf,46.9211,15.4811,Austria,AT,Steiermark,,2365,2365
+Gießhübl,48.0972,16.2367,Austria,AT,Niederösterreich,,2335,2335
+Sistrans,47.2381,11.4467,Austria,AT,Tirol,,2255,2255
+Meiningen,47.3000,9.5833,Austria,AT,Vorarlberg,,2245,2245
+Thüringen,47.2000,9.7667,Austria,AT,Vorarlberg,,2222,2222
+Aschach an der Donau,48.3667,14.0167,Austria,AT,Oberösterreich,,2201,2201
+Viehausen,47.7832,12.9871,Austria,AT,Salzburg,,2165,2165

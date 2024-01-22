@@ -1,0 +1,251 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Belgrade,44.8200,20.4600,Serbia,RS,Beograd,primary,1378682,1378682
+Novi Sad,45.2542,19.8425,Serbia,RS,Novi Sad,admin,380000,380000
+Niš,43.3192,21.8961,Serbia,RS,Niš,admin,183164,183164
+Zemun,44.8500,20.4000,Serbia,RS,Beograd,minor,161596,161596
+Kragujevac,44.0142,20.9394,Serbia,RS,Kragujevac,admin,150623,150623
+Valjevo,44.2667,19.8833,Serbia,RS,Valjevo,admin,90312,90312
+Loznica,44.5333,19.2258,Serbia,RS,Loznica,admin,86413,86413
+Sremska Mitrovica,44.9700,19.6125,Serbia,RS,Sremska Mitrovica,admin,79940,79940
+Zrenjanin,45.3833,20.3894,Serbia,RS,Zrenjanin,admin,76511,76511
+Pančevo,44.8706,20.6403,Serbia,RS,Pančevo,admin,76203,76203
+Stara Pazova,44.9833,20.1667,Serbia,RS,Stara Pazova,admin,71931,71931
+Čačak,43.8914,20.3497,Serbia,RS,Čačak,admin,71883,71883
+Kraljevo,43.7234,20.6870,Serbia,RS,Kraljevo,admin,66688,66688
+Novi Pazar,43.1500,20.5167,Serbia,RS,Novi Pazar,admin,66527,66527
+Leskovac,42.9981,21.9461,Serbia,RS,Leskovac,admin,60288,20913
+Užice,43.8500,19.8500,Serbia,RS,Užice,admin,59747,59747
+Kruševac,43.5833,21.3267,Serbia,RS,Kruševac,admin,58745,58745
+Vranje,42.5542,21.8972,Serbia,RS,Vranje,admin,55138,55138
+Ruma,45.0000,19.8333,Serbia,RS,Ruma,admin,54339,54339
+Mladenovac,44.4333,20.7000,Serbia,RS,Beograd,minor,53050,53050
+Sombor,45.7833,19.1167,Serbia,RS,Sombor,admin,51471,51471
+Batajnica,44.9022,20.2814,Serbia,RS,Beograd,,48600,48600
+Inđija,45.0500,20.0833,Serbia,RS,Inđija,admin,47433,47433
+Borča,44.8700,20.4500,Serbia,RS,Beograd,,46086,46086
+Surčin,44.8000,20.2833,Serbia,RS,Beograd,minor,43819,43819
+Kula,45.6000,19.5333,Serbia,RS,Kula,admin,43101,43101
+Kikinda,45.8333,20.4500,Serbia,RS,Kikinda,admin,38065,38065
+Bečej,45.6167,20.0333,Serbia,RS,Bečej,admin,37351,37351
+Prijepolje,43.5439,19.6514,Serbia,RS,Prijepolje,admin,37059,37059
+Vršac,45.1167,21.3033,Serbia,RS,Vršac,admin,35701,35701
+Šid,45.1167,19.2333,Serbia,RS,Šid,admin,34188,34188
+Bor,44.1303,22.1036,Serbia,RS,Bor,admin,34159,34159
+Kovin,44.7500,20.9667,Serbia,RS,Kovin,admin,33722,33722
+Subotica,46.1003,19.6656,Serbia,RS,Subotica,admin,29919,29919
+Bačka Palanka,45.2500,19.4000,Serbia,RS,Bačka Palanka,admin,29449,29449
+Apatin,45.6667,18.9833,Serbia,RS,Apatin,admin,28929,28929
+Temerin,45.4167,19.8833,Serbia,RS,Temerin,admin,28287,28287
+Bajina Bašta,43.9731,19.5597,Serbia,RS,Bajina Bašta,admin,26022,26022
+Vrbas,45.5667,19.6500,Serbia,RS,Vrbas,admin,24112,24112
+Ćuprija,43.9231,21.3686,Serbia,RS,Ćuprija,admin,20585,9609
+Senta,45.9314,20.0900,Serbia,RS,Senta,admin,20302,20302
+Pećinci,44.9000,19.9667,Serbia,RS,Pećinci,admin,19720,19720
+Futog,45.2333,19.7167,Serbia,RS,,,18641,18641
+Veternik,45.2533,19.7608,Serbia,RS,,,17454,17454
+Trstenik,43.6186,20.9972,Serbia,RS,Trstenik,admin,17180,17180
+Nova Pazova,44.9500,20.2167,Serbia,RS,,,17105,17105
+Srbobran,45.5333,19.7833,Serbia,RS,Srbobran,admin,16317,16317
+Bačka Topola,45.8167,19.6333,Serbia,RS,Bačka Topola,admin,16171,16171
+Titel,45.2047,20.3000,Serbia,RS,Titel,admin,15738,15738
+Petrovaradin,45.2500,19.8667,Serbia,RS,Novi Sad,minor,14810,14810
+Niška Banja,43.2933,22.0061,Serbia,RS,Niš,minor,14098,14098
+Sjenica,43.2667,20.0000,Serbia,RS,Sjenica,admin,14060,14060
+Sečanj,45.3667,20.7725,Serbia,RS,Sečanj,admin,13267,13267
+Novi Bečej,45.6000,20.1167,Serbia,RS,Novi Bečej,admin,13133,13133
+Sremska Kamenica,45.2206,19.8392,Serbia,RS,,,11967,11967
+Kać,45.3000,19.9500,Serbia,RS,,,11740,11740
+Ugrinovci,44.8783,20.1869,Serbia,RS,Beograd,,10807,10807
+Bela Crkva,44.8975,21.4169,Serbia,RS,Bela Crkva,admin,10675,10675
+Laćarak,45.0000,19.5667,Serbia,RS,,,10638,10638
+Ada,45.8000,20.1333,Serbia,RS,Ada,admin,10547,10547
+Vrnjačka Banja,43.6236,20.8936,Serbia,RS,Vrnjačka Banja,admin,10065,10065
+Kanjiža,46.0667,20.0500,Serbia,RS,Kanjiža,admin,9871,9871
+Vranjska Banja,42.5556,21.9917,Serbia,RS,,,9580,9580
+Novi Banovci,44.9500,20.2833,Serbia,RS,,,9443,9443
+Žabalj,45.3667,20.0667,Serbia,RS,Žabalj,admin,9161,9161
+Odžaci,45.5167,19.2667,Serbia,RS,Odžaci,admin,9021,9021
+Crvenka,45.6583,19.4556,Serbia,RS,,,9001,9001
+Sremski Karlovci,45.2000,19.9333,Serbia,RS,Sremski Karlovci,admin,8750,8750
+Dobanovci,44.8333,20.2333,Serbia,RS,Beograd,,8503,8503
+Beočin,45.2000,19.7333,Serbia,RS,Beočin,admin,8058,8058
+Sokobanja,43.6500,21.8667,Serbia,RS,Sokobanja,admin,7982,7982
+Sivac,45.7000,19.3833,Serbia,RS,,,7895,7895
+Palić,46.1031,19.7586,Serbia,RS,,,7771,7771
+Starčevo,44.8072,20.7047,Serbia,RS,,,7473,7473
+Lapovo,44.1833,21.1000,Serbia,RS,Lapovo,admin,7143,7143
+Kačarevo,44.9597,20.6894,Serbia,RS,,,7100,7100
+Banatsko Novo Selo,44.9897,20.7836,Serbia,RS,,,7089,7089
+Novi Kneževac,46.0500,20.1000,Serbia,RS,Novi Kneževac,admin,6960,6960
+Kovačica,45.1117,20.6214,Serbia,RS,Kovačica,admin,6764,6764
+Novo Miloševo,45.7197,20.3019,Serbia,RS,,,6763,6763
+Melenci,45.3764,20.3008,Serbia,RS,,,6737,6737
+Rumenka,45.3000,19.7500,Serbia,RS,,,6495,6495
+Bogatić,44.8333,19.4833,Serbia,RS,Bogatić,admin,6488,6488
+Jakovo,44.7500,20.2667,Serbia,RS,Beograd,,6393,6393
+Zvečka,44.6389,20.1647,Serbia,RS,Beograd,,6350,6350
+Banja Koviljača,44.5167,19.1500,Serbia,RS,,,6340,6340
+Horgoš,46.1533,19.9703,Serbia,RS,,,6325,6325
+Beška,45.1333,20.0667,Serbia,RS,,,6239,6239
+Jabuka,44.9431,20.5931,Serbia,RS,,,6181,6181
+Bački Petrovac,45.3606,19.5917,Serbia,RS,Bački Petrovac,admin,6155,6155
+Bavanište,44.8181,20.8722,Serbia,RS,,,6106,6106
+Bač,45.3833,19.2333,Serbia,RS,Bač,admin,6087,6087
+Mol,45.7586,20.1253,Serbia,RS,,,6009,6009
+Stari Banovci,44.9833,20.2833,Serbia,RS,,,5954,5954
+Banatski Karlovac,45.0500,21.0167,Serbia,RS,,,5820,5820
+Padina,45.1200,20.7200,Serbia,RS,,,5760,5760
+Bački Jarak,45.3667,19.8667,Serbia,RS,,,5687,5687
+Mali Iđoš,45.7069,19.6644,Serbia,RS,Mali Iđoš,admin,5464,5464
+Bačko Gradište,45.5333,20.0333,Serbia,RS,,,5445,5445
+Debeljača,45.0711,20.6000,Serbia,RS,,,5325,5325
+Mokrin,45.9347,20.4044,Serbia,RS,,,5270,5270
+Stara Moravica,45.8689,19.4661,Serbia,RS,,,5051,5051
+Irig,45.1000,19.8500,Serbia,RS,Irig,admin,4848,4848
+Stanišić,45.9333,19.1667,Serbia,RS,,,4808,4808
+Golubinci,44.9833,20.0667,Serbia,RS,,,4721,4721
+Čoka,45.9333,20.1500,Serbia,RS,Čoka,admin,4707,4707
+Elemir,45.4389,20.2922,Serbia,RS,,,4690,4690
+Opovo,45.0519,20.4303,Serbia,RS,Opovo,admin,4546,4546
+Ečka,45.3178,20.4389,Serbia,RS,,,4513,4513
+Markovac,44.2333,21.1000,Serbia,RS,,,4462,2915
+Sonta,45.6000,19.1000,Serbia,RS,,,4238,4238
+Ostružnica,44.7236,20.3181,Serbia,RS,Beograd,,4218,4218
+Vladimirovac,45.0472,20.8822,Serbia,RS,,,4111,4111
+Feketić,45.6667,19.7000,Serbia,RS,,,3980,3980
+Bukovac,45.1911,19.8947,Serbia,RS,,,3936,3936
+Bačko Dobro Polje,45.5000,19.6833,Serbia,RS,,,3929,3929
+Mačvanska Mitrovica,44.9656,19.5981,Serbia,RS,,,3873,3873
+Plandište,45.2269,21.1217,Serbia,RS,Plandište,admin,3832,3832
+Srpska Crnja,45.7206,20.6864,Serbia,RS,,,3753,3753
+Kamenica,43.3758,21.9419,Serbia,RS,,,3700,3700
+Budisava,45.2833,20.0000,Serbia,RS,,,3656,3656
+Bašaid,45.6381,20.4086,Serbia,RS,,,3503,3123
+Aradac,45.3764,20.3008,Serbia,RS,,,3461,3461
+Alibunar,45.0806,20.9656,Serbia,RS,Alibunar,admin,3431,3431
+Perlez,45.2047,20.3756,Serbia,RS,,,3383,3383
+Šimanovci,44.8667,20.0833,Serbia,RS,,,3358,3358
+Gaj,44.7878,21.0581,Serbia,RS,,,3302,3302
+Kumane,45.5367,20.2236,Serbia,RS,,,3284,3284
+Banatski Brestovac,44.7269,20.8072,Serbia,RS,,,3251,3251
+Klenak,44.7881,19.7044,Serbia,RS,,,3246,3246
+Putinci,45.0000,19.9667,Serbia,RS,,,3244,3244
+Vreoci,44.4422,20.2817,Serbia,RS,Beograd,,3210,3210
+Obrovac,45.3167,19.3500,Serbia,RS,,,3177,3177
+Mramorak,44.8753,20.9686,Serbia,RS,,,3145,3145
+Čenta,45.1050,20.3861,Serbia,RS,,,3119,3119
+Srpski Miletić,45.5667,19.2000,Serbia,RS,,,3038,3038
+Hrtkovci,44.8833,19.7667,Serbia,RS,,,3036,3036
+Banatsko Veliko Selo,45.8194,20.6058,Serbia,RS,,,3034,3034
+Glogonj,44.9833,20.5333,Serbia,RS,,,3012,3012
+Sirig,45.4333,19.8167,Serbia,RS,,,3010,3010
+Jaša Tomić,45.4414,20.8531,Serbia,RS,,,2982,2982
+Belegiš,45.0167,20.3333,Serbia,RS,,,2973,2973
+Klek,45.4197,20.4747,Serbia,RS,,,2959,2959
+Mataruška Banja,43.6917,20.6111,Serbia,RS,,,2950,2950
+Deliblato,44.8375,21.0392,Serbia,RS,,,2939,2939
+Žitište,45.4833,20.5500,Serbia,RS,Žitište,admin,2903,2903
+Padej,45.8239,20.1597,Serbia,RS,,,2882,2882
+Krčedin,45.1333,20.1333,Serbia,RS,,,2878,2878
+Lazarevo,45.3864,20.5367,Serbia,RS,,,2877,2877
+Begejci,45.5053,20.6039,Serbia,RS,,,2850,2850
+Novi Žednik,45.9333,19.6667,Serbia,RS,,,2848,2848
+Ostojićevo,45.8881,20.1667,Serbia,RS,,,2844,2844
+Rusko Selo,45.7578,20.5697,Serbia,RS,,,2811,2811
+Ravni Topolovac,45.4553,20.5681,Serbia,RS,,,2762,2762
+Platičevo,44.8167,19.8000,Serbia,RS,,,2760,2760
+Svetozar Miletić,45.8503,19.2067,Serbia,RS,,,2746,2746
+Maglić,45.3622,19.5317,Serbia,RS,,,2695,2695
+Aleksandrovo,45.6356,20.5889,Serbia,RS,,,2665,2665
+Riđica,45.9833,19.1000,Serbia,RS,,,2590,2590
+Skorenovac,44.7589,20.9028,Serbia,RS,,,2574,2574
+Mošorin,45.3000,20.1667,Serbia,RS,,,2569,2569
+Bajša,45.7833,19.5833,Serbia,RS,,,2568,2568
+Sefkerin,45.0028,20.4764,Serbia,RS,,,2522,2522
+Banatsko Karađorđevo,45.5667,20.5578,Serbia,RS,,,2508,2508
+Donji Milanovac,44.4664,22.1517,Serbia,RS,,,2410,2410
+Nova Crnja,45.6667,20.6000,Serbia,RS,Nova Crnja,admin,1491,1491
+Crna Trava,42.8101,22.2990,Serbia,RS,Crna Trava,admin,434,434
+Tutin,42.9875,20.3256,Serbia,RS,Tutin,admin,,
+Aranđelovac,44.3042,20.5561,Serbia,RS,Aranđelovac,admin,,
+Ivanjica,43.5811,20.2297,Serbia,RS,Ivanjica,admin,,
+Obrenovac,44.6539,20.2000,Serbia,RS,Beograd,minor,,
+Priboj,43.5836,19.5258,Serbia,RS,Priboj,admin,,
+Jagodina,43.9750,21.2564,Serbia,RS,Jagodina,admin,,
+Šabac,44.7558,19.6939,Serbia,RS,Šabac,admin,,
+Smederevo,44.6633,20.9289,Serbia,RS,Smederevo,admin,,
+Arilje,43.7531,20.0956,Serbia,RS,Arilje,admin,,
+Vladičin Han,42.7000,22.0667,Serbia,RS,Vladičin Han,admin,,
+Nova Varoš,43.4667,19.8203,Serbia,RS,Nova Varoš,admin,,
+Kuršumlija,43.1408,21.2678,Serbia,RS,Kuršumlija,admin,,
+Aleksandrovac,43.4553,21.0514,Serbia,RS,Aleksandrovac,admin,,
+Gornji Milanovac,44.0212,20.4560,Serbia,RS,Gornji Milanovac,admin,,
+Svrljig,43.4167,22.1167,Serbia,RS,Svrljig,admin,,
+Raška,43.2856,20.6092,Serbia,RS,Raška,admin,,
+Pirot,43.1519,22.5850,Serbia,RS,Pirot,admin,,
+Prokuplje,43.2339,21.5861,Serbia,RS,Prokuplje,admin,,
+Brus,43.3836,21.0336,Serbia,RS,Brus,admin,,
+Surdulica,42.6950,22.1672,Serbia,RS,Surdulica,admin,,
+Ub,44.4500,20.0667,Serbia,RS,Ub,admin,,
+Lučani,43.8667,20.1333,Serbia,RS,Lučani,admin,,
+Požega,43.8459,20.0368,Serbia,RS,Požega,admin,,
+Smederevska Palanka,44.3655,20.9587,Serbia,RS,Smederevska Palanka,admin,,
+Babušnica,43.0680,22.4115,Serbia,RS,Babušnica,admin,,
+Vlasotince,42.9667,22.1333,Serbia,RS,Vlasotince,admin,,
+Ljubovija,44.1869,19.3728,Serbia,RS,Ljubovija,admin,,
+Lajkovac,44.3667,20.1667,Serbia,RS,Lajkovac,admin,,
+Kosjerić,44.0000,19.9167,Serbia,RS,Kosjerić,admin,,
+Mionica,44.2500,20.0833,Serbia,RS,Mionica,admin,,
+Bela Palanka,43.2178,22.3067,Serbia,RS,Bela Palanka,admin,,
+Požarevac,44.6200,21.1897,Serbia,RS,Požarevac,admin,,
+Krupanj,44.3667,19.3667,Serbia,RS,Krupanj,admin,,
+Knjaževac,43.5000,22.4333,Serbia,RS,Knjaževac,admin,,
+Zaječar,43.9042,22.2847,Serbia,RS,Zaječar,admin,,
+Paraćin,43.8667,21.4167,Serbia,RS,Paraćin,admin,,
+Lebane,42.9167,21.7333,Serbia,RS,Lebane,admin,,
+Rača,44.2333,20.9833,Serbia,RS,Rača,admin,,
+Aleksinac,43.5383,21.7047,Serbia,RS,Aleksinac,admin,,
+Osečina,44.3667,19.6000,Serbia,RS,Osečina,admin,,
+Despotovac,44.0833,21.4333,Serbia,RS,Despotovac,admin,,
+Čajetina,43.7500,19.7167,Serbia,RS,Čajetina,admin,,
+Ljig,44.2213,20.2375,Serbia,RS,Ljig,admin,,
+Varvarin,43.7167,21.3667,Serbia,RS,Varvarin,admin,,
+Mali Zvornik,44.3992,19.1214,Serbia,RS,Mali Zvornik,admin,,
+Blace,43.2906,21.2847,Serbia,RS,Blace,admin,,
+Doljevac,43.1968,21.8334,Serbia,RS,Doljevac,admin,,
+Batočina,44.1500,21.0833,Serbia,RS,Batočina,admin,,
+Negotin,44.2167,22.5167,Serbia,RS,Negotin,admin,,
+Veliko Gradište,44.7500,21.5167,Serbia,RS,Veliko Gradište,admin,,
+Dimitrovgrad,43.0167,22.7833,Serbia,RS,Dimitrovgrad,admin,,
+Velika Plana,44.3333,21.0833,Serbia,RS,Velika Plana,admin,,
+Petrovac na Mlavi,44.3783,21.4194,Serbia,RS,Petrovac na Mlavi,admin,,
+Svilajnac,44.2167,21.2000,Serbia,RS,Svilajnac,admin,,
+Boljevac,43.8247,21.9519,Serbia,RS,Boljevac,admin,,
+Kladovo,44.6039,22.6072,Serbia,RS,Kladovo,admin,,
+Bojnik,43.0142,21.7180,Serbia,RS,Bojnik,admin,,
+Topola,44.2525,20.6761,Serbia,RS,Topola,admin,,
+Merošina,43.2833,21.7167,Serbia,RS,Merošina,admin,,
+Žitorađa,43.1833,21.7167,Serbia,RS,Žitorađa,admin,,
+Koceljeva,44.4708,19.8070,Serbia,RS,Koceljeva,admin,,
+Gadžin Han,43.2203,22.0258,Serbia,RS,Gadžin Han,admin,,
+Ćićevac,43.7167,21.4500,Serbia,RS,Ćićevac,admin,,
+Bosilegrad,42.5005,22.4728,Serbia,RS,Bosilegrad,admin,,
+Vladimirci,44.6167,19.7833,Serbia,RS,Vladimirci,admin,,
+Ražanj,43.6667,21.5500,Serbia,RS,Ražanj,admin,,
+Kučevo,44.4833,21.6667,Serbia,RS,Kučevo,admin,,
+Medveđa,42.8333,21.5833,Serbia,RS,Medveđa,admin,,
+Rekovac,43.8667,21.1333,Serbia,RS,Rekovac,admin,,
+Knić,43.9167,20.7167,Serbia,RS,Knić,admin,,
+Žabari,44.3562,21.2143,Serbia,RS,Žabari,admin,,
+Malo Crniće,44.5667,21.2833,Serbia,RS,Malo Crniće,admin,,
+Golubac,44.6530,21.6320,Serbia,RS,Golubac,admin,,
+Majdanpek,44.4167,21.9333,Serbia,RS,Majdanpek,admin,,
+Trgovište,42.3514,22.0921,Serbia,RS,Trgovište,admin,,
+Žagubica,44.1979,21.7902,Serbia,RS,Žagubica,admin,,
+Preševo,42.3067,21.6500,Serbia,RS,Preševo,admin,,
+Bujanovac,42.4667,21.7667,Serbia,RS,Bujanovac,admin,,
+Lazarevac,44.3667,20.2500,Serbia,RS,Beograd,minor,,
+Kostolac,44.7167,21.1667,Serbia,RS,Požarevac,minor,,
+Sopot,44.5193,20.5758,Serbia,RS,Beograd,minor,,
+Grocka,44.6720,20.7153,Serbia,RS,Beograd,minor,,
+Barajevo,44.5790,20.4179,Serbia,RS,Beograd,minor,,

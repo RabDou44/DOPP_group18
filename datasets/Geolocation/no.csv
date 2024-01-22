@@ -1,0 +1,31 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Oslo,59.9133,10.7389,Norway,NO,Oslo,primary,1064235,709037
+Bergen,60.3894,5.3300,Norway,NO,Vestland,admin,267117,267117
+Stavanger,58.9700,5.7314,Norway,NO,Rogaland,admin,237369,129300
+Sandnes,58.8517,5.7361,Norway,NO,Rogaland,minor,237369,58694
+Trondheim,63.4297,10.3933,Norway,NO,Trøndelag,minor,194860,194860
+Sandvika,59.8833,10.5167,Norway,NO,Viken,minor,115543,115543
+Kristiansand,58.1472,7.9972,Norway,NO,Agder,minor,113737,113737
+Drammen,59.7378,10.2050,Norway,NO,Viken,minor,109416,109416
+Asker,59.8331,10.4392,Norway,NO,Viken,minor,61523,61523
+Tønsberg,59.2981,10.4236,Norway,NO,Vestfold og Telemark,minor,57794,57794
+Skien,59.2081,9.5528,Norway,NO,Vestfold og Telemark,admin,55513,55513
+Bodø,67.2827,14.3751,Norway,NO,Nordland,admin,52803,52803
+Ålesund,62.4740,6.1582,Norway,NO,Møre og Romsdal,minor,52163,52163
+Moss,59.4592,10.7008,Norway,NO,Viken,minor,50290,50290
+Arendal,58.4608,8.7664,Norway,NO,Agder,admin,45509,45509
+Lørenskog,59.8989,10.9642,Norway,NO,Viken,minor,44693,44693
+Tromsø,69.6828,18.9428,Norway,NO,Troms og Finnmark,admin,38980,38980
+Haugesund,59.4464,5.2983,Norway,NO,Rogaland,minor,37444,37444
+Molde,62.7375,7.1591,Norway,NO,Møre og Romsdal,admin,32002,32002
+Askøy,60.4667,5.1500,Norway,NO,Vestland,,29816,29816
+Hamar,60.7945,11.0679,Norway,NO,Innlandet,admin,27947,27947
+Oppegård,59.7925,10.7903,Norway,NO,Viken,,27394,27394
+Rygge,59.3747,10.7147,Norway,NO,Viken,minor,16145,16145
+Steinkjer,64.0148,11.4954,Norway,NO,Trøndelag,admin,12985,12985
+Randaberg,59.0017,5.6153,Norway,NO,Rogaland,minor,11454,11454
+Lommedalen,59.9500,10.4667,Norway,NO,Viken,,11200,11200
+Barbu,58.4664,8.7781,Norway,NO,Agder,,6787,6787
+Tiller,63.3550,10.3790,Norway,NO,Trøndelag,,3595,3595
+Kolbotn,59.8112,10.8000,Norway,NO,Viken,minor,,
+Lillestrøm,59.9500,11.0833,Norway,NO,Viken,minor,,

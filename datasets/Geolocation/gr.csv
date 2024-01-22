@@ -1,0 +1,226 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Athens,37.9842,23.7281,Greece,GR,Attikí,primary,3041131,664046
+Thessaloníki,40.6403,22.9347,Greece,GR,Kentrikí Makedonía,admin,824676,317778
+Piraeus,37.9430,23.6469,Greece,GR,Attikí,minor,448997,163688
+Irákleio,35.3403,25.1344,Greece,GR,Kríti,admin,211370,140730
+Pátra,38.2500,21.7333,Greece,GR,Dytikí Elláda,admin,167446,167446
+Lárisa,39.6417,22.4167,Greece,GR,Thessalía,admin,144651,144651
+Vólos,39.3667,22.9333,Greece,GR,Thessalía,minor,144449,86046
+Peristéri,38.0167,23.6833,Greece,GR,Attikí,minor,139981,139981
+Ioánnina,39.6636,20.8522,Greece,GR,Ípeiros,admin,113094,113094
+Acharnés,38.0833,23.7333,Greece,GR,Attikí,minor,108130,99346
+Kallithéa,37.9500,23.7000,Greece,GR,Attikí,minor,100641,100641
+Kalamariá,40.5833,22.9500,Greece,GR,Kentrikí Makedonía,minor,91279,91279
+Níkaia,37.9667,23.6333,Greece,GR,Attikí,minor,89380,89380
+Glyfáda,37.8667,23.7500,Greece,GR,Attikí,minor,87305,87305
+Ílion,38.0333,23.7000,Greece,GR,Attikí,minor,84793,84793
+Ilioúpoli,37.9333,23.7500,Greece,GR,Attikí,minor,78153,78153
+Keratsíni,37.9667,23.6167,Greece,GR,Attikí,minor,77077,77077
+Évosmos,40.6689,22.9083,Greece,GR,Kentrikí Makedonía,minor,74686,74686
+Chalándri,38.0167,23.8000,Greece,GR,Attikí,minor,74192,74192
+Néa Smýrni,37.9500,23.7167,Greece,GR,Attikí,minor,73076,73076
+Maroúsi,38.0500,23.8000,Greece,GR,Attikí,minor,72333,72333
+Ágios Dimítrios,37.9333,23.7333,Greece,GR,Attikí,minor,71294,71294
+Zográfos,37.9783,23.7717,Greece,GR,Attikí,minor,71026,71026
+Aigáleo,37.9920,23.6780,Greece,GR,Attikí,minor,69946,69946
+Kozáni,40.3000,21.7833,Greece,GR,Dytikí Makedonía,admin,67161,67161
+Néa Ionía,38.0333,23.7500,Greece,GR,Attikí,minor,67134,67134
+Kavála,40.9333,24.4000,Greece,GR,Anatolikí Makedonía kai Thráki,minor,65857,65857
+Palaió Fáliro,37.9333,23.7000,Greece,GR,Attikí,minor,64021,64021
+Korydallós,37.9833,23.6500,Greece,GR,Attikí,minor,63445,63445
+Agía Paraskeví,38.0117,23.8200,Greece,GR,Attikí,minor,62717,59704
+Výronas,37.9617,23.7533,Greece,GR,Attikí,minor,61535,61308
+Galátsi,38.0167,23.7500,Greece,GR,Attikí,minor,59345,59345
+Chalkída,38.4625,23.5950,Greece,GR,Stereá Elláda,minor,59125,59125
+Petroúpoli,38.0333,23.6833,Greece,GR,Attikí,minor,58979,58979
+Ródos,36.4412,28.2225,Greece,GR,Nótio Aigaío,minor,56969,56969
+Pallíni,38.0000,23.8833,Greece,GR,Attikí,,54415,16415
+Chaniá,35.5167,24.0167,Greece,GR,Kríti,minor,53910,53910
+Thérmi,40.5500,23.0167,Greece,GR,Kentrikí Makedonía,minor,53201,16004
+Kalamáta,37.0378,22.1111,Greece,GR,Pelopónnisos,minor,53041,53041
+Lamía,38.9000,22.4333,Greece,GR,Stereá Elláda,admin,52006,52006
+Komotiní,41.1000,25.4167,Greece,GR,Anatolikí Makedonía kai Thráki,admin,50990,50990
+Irákleio,38.0500,23.7667,Greece,GR,Attikí,minor,49642,49642
+Kifisiá,38.0833,23.8167,Greece,GR,Attikí,minor,47332,47332
+Stavroúpoli,40.6667,22.9333,Greece,GR,Kentrikí Makedonía,minor,46008,46008
+Chaïdári,38.0167,23.6500,Greece,GR,Attikí,minor,45642,45642
+Álimos,37.9167,23.7167,Greece,GR,Attikí,minor,41720,41720
+Oraiókastro,40.7333,22.9167,Greece,GR,Kentrikí Makedonía,minor,38317,38317
+Sykiés,40.6500,22.9500,Greece,GR,Kentrikí Makedonía,minor,37753,37753
+Ampelókipoi,40.6500,22.9167,Greece,GR,Kentrikí Makedonía,minor,37381,37381
+Pylaía,40.6000,22.9833,Greece,GR,Kentrikí Makedonía,,34625,34625
+Ágioi Anárgyroi,38.0267,23.7183,Greece,GR,Attikí,minor,34168,34168
+Argyroúpoli,37.9000,23.7500,Greece,GR,Attikí,minor,34097,34097
+Áno Liósia,38.0833,23.7000,Greece,GR,Attikí,minor,33565,33565
+Ptolemaḯda,40.5167,21.6833,Greece,GR,Dytikí Makedonía,minor,32127,32127
+Salamína,37.9667,23.5000,Greece,GR,Attikí,minor,31776,25370
+Trípoli,37.5167,22.3833,Greece,GR,Pelopónnisos,admin,30866,30866
+Cholargós,38.0000,23.8000,Greece,GR,Attikí,minor,30840,30840
+Vrilíssia,38.0333,23.8333,Greece,GR,Attikí,minor,30741,30741
+Asprópyrgos,38.0667,23.5833,Greece,GR,Attikí,minor,30251,30251
+Kórinthos,37.9386,22.9272,Greece,GR,Pelopónnisos,minor,30176,30176
+Gérakas,38.0333,23.8500,Greece,GR,Attikí,minor,29939,29939
+Metamórfosi,38.0500,23.7500,Greece,GR,Attikí,minor,29891,29891
+Giannitsá,40.7833,22.4000,Greece,GR,Kentrikí Makedonía,minor,29789,29789
+Amaliáda,37.8000,21.3500,Greece,GR,Dytikí Elláda,minor,28520,16763
+Voúla,37.8500,23.7500,Greece,GR,Attikí,minor,28364,28364
+Kamateró,38.0597,23.7120,Greece,GR,Attikí,,28361,28361
+Mytilíni,39.1000,26.5500,Greece,GR,Vóreio Aigaío,admin,27871,27871
+Ágios Nikólaos,35.1833,25.7167,Greece,GR,Kríti,minor,27074,12638
+Chíos,38.3725,26.1375,Greece,GR,Vóreio Aigaío,minor,26850,26850
+Paianía,37.9500,23.8500,Greece,GR,Attikí,minor,26668,14595
+Agía Varvára,38.0000,23.6500,Greece,GR,Attikí,minor,26550,26550
+Kaisarianí,37.9683,23.7583,Greece,GR,Attikí,minor,26458,26370
+Grevená,40.0850,21.4275,Greece,GR,Dytikí Makedonía,minor,25905,13374
+Néa Filadélfeia,38.0367,23.7367,Greece,GR,Attikí,minor,25734,25734
+Moscháto,37.9500,23.6667,Greece,GR,Attikí,minor,25441,25441
+Pérama,37.9667,23.5667,Greece,GR,Attikí,minor,25389,25389
+Elefsína,38.0333,23.5333,Greece,GR,Attikí,minor,24910,24910
+Kérkyra,39.6239,19.9214,Greece,GR,Ionía Nísia,admin,24838,24838
+Pýrgos,37.6667,21.4333,Greece,GR,Dytikí Elláda,minor,24359,24359
+Kilkís,40.9833,22.8667,Greece,GR,Kentrikí Makedonía,minor,22914,22914
+Dáfni,37.9500,23.7333,Greece,GR,Attikí,minor,22913,22913
+Melíssia,38.0500,23.8333,Greece,GR,Attikí,minor,22741,22741
+Árgos,37.6167,22.7167,Greece,GR,Pelopónnisos,minor,22085,22085
+Árta,39.1650,20.9875,Greece,GR,Ípeiros,minor,21895,21895
+Artémida,37.9667,24.0000,Greece,GR,Attikí,,21488,21488
+Péfki,38.0667,23.8000,Greece,GR,Attikí,minor,21415,21415
+Aígio,38.2500,22.0833,Greece,GR,Dytikí Elláda,minor,20422,20422
+Gázi,35.3250,25.0667,Greece,GR,Kríti,minor,19221,14640
+Koropí,37.9000,23.8733,Greece,GR,Attikí,minor,19164,19164
+Peraía,40.5000,22.9250,Greece,GR,Kentrikí Makedonía,minor,18546,18546
+Orestiáda,41.5000,26.5333,Greece,GR,Anatolikí Makedonía kai Thráki,minor,18426,18426
+Édessa,40.8000,22.0500,Greece,GR,Kentrikí Makedonía,minor,18229,18229
+Flórina,40.7833,21.4000,Greece,GR,Dytikí Makedonía,minor,17686,17686
+Panórama,40.5833,23.0333,Greece,GR,Kentrikí Makedonía,minor,17444,17444
+Néa Erythraía,38.0833,23.8167,Greece,GR,Attikí,,17379,17379
+Ellinikó,37.8667,23.7333,Greece,GR,Attikí,,17259,17259
+Néa Mákri,38.0833,23.9833,Greece,GR,Attikí,,16670,15554
+Spárti,37.0739,22.4294,Greece,GR,Pelopónnisos,minor,16239,16239
+Ágios Ioánnis Réntis,37.9667,23.6667,Greece,GR,Attikí,,16050,16050
+Vári,37.8333,23.8000,Greece,GR,Attikí,,15855,15855
+Távros,37.9667,23.6950,Greece,GR,Attikí,,14972,14972
+Alexándreia,40.6333,22.4500,Greece,GR,Kentrikí Makedonía,minor,14821,14821
+Néa Alikarnassós,35.3167,25.1833,Greece,GR,Kríti,,14635,12925
+Kalývia Thorikoú,37.8333,23.9167,Greece,GR,Attikí,minor,14424,14424
+Náfplio,37.5667,22.8000,Greece,GR,Pelopónnisos,minor,14203,14203
+Drapetsóna,37.9467,23.6250,Greece,GR,Attikí,,13968,13968
+Efkarpía,40.6833,22.9500,Greece,GR,Kentrikí Makedonía,,13905,13905
+Ermoúpoli,37.4333,24.9167,Greece,GR,Nótio Aigaío,admin,13737,11407
+Papágos,37.9900,23.7933,Greece,GR,Attikí,,13699,13699
+Náfpaktos,38.3939,21.8306,Greece,GR,Dytikí Elláda,minor,13415,13415
+Kastoriá,40.5167,21.2667,Greece,GR,Dytikí Makedonía,minor,13387,13387
+Péfka,40.6500,22.9833,Greece,GR,Kentrikí Makedonía,,13052,13052
+Ierápetra,35.0000,25.7333,Greece,GR,Kríti,minor,12355,12355
+Rafína,38.0167,24.0000,Greece,GR,Attikí,minor,12168,12168
+Ialysós,36.4167,28.1500,Greece,GR,Nótio Aigaío,,11331,11331
+Týrnavos,39.7333,22.2833,Greece,GR,Thessalía,minor,11069,11069
+Glyká Nerá,37.9917,23.8483,Greece,GR,Attikí,,11049,11049
+Ymittós,37.9500,23.7333,Greece,GR,Attikí,,10715,10715
+Néo Psychikó,38.0000,23.7833,Greece,GR,Attikí,,10137,10137
+Diavatá,40.6883,22.8583,Greece,GR,Kentrikí Makedonía,,9890,9890
+Kiáto,38.0102,22.7493,Greece,GR,Pelopónnisos,minor,9812,9812
+Anatolí,39.6386,20.8661,Greece,GR,Ípeiros,,9798,9798
+Lykóvrysi,38.0667,23.7833,Greece,GR,Attikí,,9738,9738
+Pórto Ráfti,37.8844,24.0125,Greece,GR,Attikí,,9686,9686
+Psychikó,38.0108,23.7727,Greece,GR,Attikí,minor,9529,9529
+Néa Artáki,38.5167,23.6333,Greece,GR,Stereá Elláda,,9489,9489
+Zefýri,38.0667,23.7167,Greece,GR,Attikí,,9454,9454
+Néa Moudaniá,40.2386,23.2814,Greece,GR,Kentrikí Makedonía,minor,9342,9342
+Fársala,39.2833,22.3833,Greece,GR,Thessalía,minor,9298,9298
+Síndos,40.6706,22.8056,Greece,GR,Kentrikí Makedonía,minor,9289,9289
+Vochaïkó,37.9333,22.8000,Greece,GR,Pelopónnisos,,9258,9258
+Spáta,37.9667,23.9167,Greece,GR,Attikí,minor,9198,9198
+Chrysoúpoli,40.9833,24.7000,Greece,GR,Anatolikí Makedonía kai Thráki,minor,8885,8885
+Néa Michanióna,40.4644,22.8606,Greece,GR,Kentrikí Makedonía,,8775,8775
+Néa Péramos,38.0000,23.4167,Greece,GR,Attikí,,8333,8333
+Giánnouli,39.6672,22.3958,Greece,GR,Thessalía,,7847,7847
+Lagkadás,40.7500,23.0667,Greece,GR,Kentrikí Makedonía,minor,7764,7764
+Mourniés,35.4850,24.0130,Greece,GR,Kríti,,7553,7553
+Néa Kallikráteia,40.3139,23.0633,Greece,GR,Kentrikí Makedonía,,7238,7238
+Lávrio,37.7144,24.0565,Greece,GR,Attikí,minor,7078,7078
+Aígina,37.7467,23.4275,Greece,GR,Attikí,minor,6867,6867
+Néo Karlovási,37.7917,26.7051,Greece,GR,Vóreio Aigaío,,6708,6708
+Káto Achaḯa,38.1418,21.5518,Greece,GR,Dytikí Elláda,minor,6618,6618
+Aridaía,40.9750,22.0583,Greece,GR,Kentrikí Makedonía,minor,6561,6561
+Soúda,35.4833,24.0667,Greece,GR,Kríti,,6358,6358
+Kounoupidianá,35.5360,24.0760,Greece,GR,Kríti,,6334,6334
+Anávyssos,37.7333,23.9500,Greece,GR,Attikí,,6202,6202
+Messíni,37.0513,22.0087,Greece,GR,Pelopónnisos,minor,6065,6065
+Néoi Epivátes,40.5010,22.9090,Greece,GR,Kentrikí Makedonía,,5984,5984
+Megalópoli,37.4000,22.1333,Greece,GR,Pelopónnisos,minor,5748,5748
+Mýrina,39.8782,25.0636,Greece,GR,Vóreio Aigaío,minor,5711,5711
+Diónysos,38.1000,23.8667,Greece,GR,Attikí,,5651,5651
+Nerokoúros,35.4758,24.0383,Greece,GR,Kríti,,5531,5531
+Xylókastro,38.0667,22.6333,Greece,GR,Pelopónnisos,minor,5500,5500
+Fílyro,40.6911,23.0042,Greece,GR,Kentrikí Makedonía,,5495,5495
+Kremastí,36.4105,28.1191,Greece,GR,Nótio Aigaío,,5363,5363
+Tympáki,35.0719,24.7683,Greece,GR,Kríti,,5285,5285
+Río,38.3028,21.7847,Greece,GR,Dytikí Elláda,,5252,5252
+Krýa Vrýsi,40.6875,22.3053,Greece,GR,Kentrikí Makedonía,,5214,5214
+Agriá,39.3400,23.0133,Greece,GR,Thessalía,,5191,5191
+Kyparissía,37.2508,21.6705,Greece,GR,Pelopónnisos,minor,5131,5131
+Kárystos,38.0158,24.4203,Greece,GR,Stereá Elláda,minor,5112,5112
+Alykés,37.8333,20.7667,Greece,GR,Ionía Nísia,,4834,4834
+Alivéri,38.4083,24.0417,Greece,GR,Stereá Elláda,minor,4827,4827
+Tínos,37.5377,25.1611,Greece,GR,Nótio Aigaío,minor,4762,4762
+Magoúla,38.0753,23.5240,Greece,GR,Attikí,,4735,4735
+Ampelákia,37.9500,23.5167,Greece,GR,Attikí,,4710,4710
+Filippiáda,39.2028,20.8842,Greece,GR,Ípeiros,minor,4619,4619
+Itéa,38.4329,22.4261,Greece,GR,Stereá Elláda,,4362,4303
+Arkalochóri,35.1500,25.2667,Greece,GR,Kríti,,4313,4313
+Néa Magnisía,40.6878,22.8458,Greece,GR,Kentrikí Makedonía,,4266,4266
+Kíssamos,35.4833,23.6500,Greece,GR,Kríti,minor,4236,4236
+Vouliagméni,37.8139,23.7824,Greece,GR,Attikí,,4180,4180
+Kítsi,37.8456,23.8267,Greece,GR,Attikí,,4091,4091
+Schimatári,38.3464,23.5811,Greece,GR,Stereá Elláda,minor,4035,4035
+Spétses,37.2591,23.1364,Greece,GR,Attikí,minor,4027,4027
+Katsikás,39.6228,20.8875,Greece,GR,Ípeiros,,3885,3885
+Néa Raidestós,40.5239,23.0508,Greece,GR,Kentrikí Makedonía,,3869,3869
+Potamós,39.6239,19.8792,Greece,GR,Ionía Nísia,,3840,3840
+Irákleia,41.1831,23.2819,Greece,GR,Kentrikí Makedonía,minor,3786,3786
+Lixoúri,38.2000,20.4333,Greece,GR,Ionía Nísia,,3752,3752
+Stavrós,40.6642,23.6961,Greece,GR,Kentrikí Makedonía,minor,3672,3672
+Amýntaio,40.6897,21.6797,Greece,GR,Dytikí Makedonía,minor,3671,3671
+Vartholomió,37.8622,21.2058,Greece,GR,Dytikí Elláda,,3603,3603
+Lagyná,40.7233,23.0050,Greece,GR,Kentrikí Makedonía,,3591,3591
+Néa Péramos,40.8389,24.3036,Greece,GR,Anatolikí Makedonía kai Thráki,,3514,3514
+Vracháti,37.9557,22.8028,Greece,GR,Pelopónnisos,,3338,3338
+Thásos,40.7781,24.7094,Greece,GR,Anatolikí Makedonía kai Thráki,minor,3234,3234
+Mália,35.2836,25.4625,Greece,GR,Kríti,,3224,3224
+Zacháro,37.4861,21.6494,Greece,GR,Dytikí Elláda,minor,3145,3145
+Kallithéa,40.2750,22.5750,Greece,GR,Kentrikí Makedonía,,3134,3134
+Vélo,37.9757,22.7605,Greece,GR,Pelopónnisos,,3096,3096
+Neápoli,36.5111,23.0566,Greece,GR,Pelopónnisos,,3090,3090
+Ntráfi,38.0333,23.9000,Greece,GR,Attikí,,3055,3055
+Maniákoi,40.5019,21.2447,Greece,GR,Dytikí Makedonía,,3055,3055
+Liménas Chersonísou,35.3167,25.3900,Greece,GR,Kríti,,2968,2968
+Néo Rýsi,40.4961,22.9881,Greece,GR,Kentrikí Makedonía,,2952,2952
+Lefkímmi,39.4167,20.0667,Greece,GR,Ionía Nísia,,2935,2935
+Saronída,37.7333,23.9000,Greece,GR,Attikí,,2932,2932
+Néa Kíos,37.5875,22.7444,Greece,GR,Pelopónnisos,,2778,2778
+Kárpathos,35.5075,27.2136,Greece,GR,Nótio Aigaío,minor,2707,2707
+Spercheiáda,38.9082,22.1271,Greece,GR,Stereá Elláda,minor,2691,2691
+Kanaláki,39.2325,20.5986,Greece,GR,Ípeiros,minor,2513,2513
+Filiátes,39.6011,20.3119,Greece,GR,Ípeiros,minor,2512,2512
+Mouzáki,39.4297,21.6636,Greece,GR,Thessalía,minor,1961,1961
+Sámos,37.7475,26.9825,Greece,GR,Vóreio Aigaío,minor,1888,1888
+Kréstena,37.5917,21.6200,Greece,GR,Dytikí Elláda,minor,1864,1864
+Firá,36.4200,25.4317,Greece,GR,Nótio Aigaío,minor,1616,1616
+Archaía Olympía,37.6443,21.6253,Greece,GR,Dytikí Elláda,minor,835,835
+Pezá,35.2178,25.1928,Greece,GR,Kríti,minor,441,441
+Zákynthos,37.8000,20.7500,Greece,GR,Ionía Nísia,minor,,
+Ágios Stéfanos,38.1408,23.8591,Greece,GR,Attikí,minor,,
+Náxos,37.1021,25.3780,Greece,GR,Nótio Aigaío,minor,,
+Zevgolatió,38.0815,22.6193,Greece,GR,Pelopónnisos,minor,,
+Moíres,35.0517,24.8750,Greece,GR,Kríti,minor,,
+Pérama,35.3695,24.7039,Greece,GR,Kríti,minor,,
+Igoumenítsa,39.5034,20.2673,Greece,GR,Ípeiros,minor,,
+Goúrnes,35.3248,25.2776,Greece,GR,Kríti,minor,,
+Gastoúni,37.8506,21.2534,Greece,GR,Dytikí Elláda,minor,,
+Eleoúsa,39.7059,20.7928,Greece,GR,Ípeiros,minor,,
+Árgos Orestikó,40.4525,21.2592,Greece,GR,Dytikí Makedonía,minor,,
+Markópoulo,37.8833,23.9333,Greece,GR,Attikí,minor,,
+Geráni,35.5168,23.8780,Greece,GR,Kríti,minor,,
+Ándros,37.8362,24.9352,Greece,GR,Nótio Aigaío,minor,,
+Stylída,38.9144,22.6138,Greece,GR,Stereá Elláda,minor,,

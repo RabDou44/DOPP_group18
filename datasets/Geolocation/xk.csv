@@ -1,0 +1,92 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Pristina,42.6633,21.1622,Kosovo,XK,Prishtinë,primary,161751,161751
+Ferizaj,42.3667,21.1667,Kosovo,XK,Ferizaj,admin,108610,108610
+Gjakovë,42.3833,20.4333,Kosovo,XK,Gjakovë,admin,94556,94556
+Prizren,42.2128,20.7392,Kosovo,XK,Prizren,admin,94517,94517
+Podujevë,42.9167,21.2000,Kosovo,XK,Podujevë,admin,88499,88499
+Mitrovicë,42.8833,20.8667,Kosovo,XK,,admin,85360,85360
+Vushtrri,42.8222,20.9694,Kosovo,XK,Vushtrri,admin,69870,69870
+Suharekë,42.3800,20.8219,Kosovo,XK,Suharekë,admin,59722,59722
+Gllogovc,42.6236,20.8939,Kosovo,XK,Gllogovc,admin,58531,58531
+Lipjan,42.5300,21.1386,Kosovo,XK,Lipjan,admin,57605,57605
+Rahovec,42.3994,20.6547,Kosovo,XK,Rahovec,admin,56208,56208
+Gjilan,42.4647,21.4669,Kosovo,XK,Gjilan,admin,54239,54239
+Skenderaj,42.7467,20.7886,Kosovo,XK,Skenderaj,admin,50858,50858
+Pejë,42.6603,20.2917,Kosovo,XK,Pejë,admin,48962,48962
+Istog,42.7833,20.4833,Kosovo,XK,Istog,admin,39289,39289
+Klinë,42.6167,20.5667,Kosovo,XK,Klinë,admin,38496,38496
+Kamenicë,42.5839,21.5750,Kosovo,XK,Kamenicë,admin,36085,36085
+Dragash,42.0611,20.6528,Kosovo,XK,Dragash,admin,34827,34827
+Fushë Kosovë,42.6300,21.1200,Kosovo,XK,Fushë Kosovë,admin,33997,33997
+Kaçanik,42.2467,21.2553,Kosovo,XK,Kaçanik,admin,33409,33409
+Shtime,42.4333,21.0333,Kosovo,XK,Shtime,admin,27324,27324
+Leposaviq,43.1000,20.8000,Kosovo,XK,Leposaviq,admin,18600,18600
+Zveçan,42.9000,20.8333,Kosovo,XK,Zveçan,admin,16650,16650
+Zubin Potok,42.9167,20.6833,Kosovo,XK,Zubin Potok,admin,15200,15200
+Matiçan,42.6449,21.1918,Kosovo,XK,Prishtinë,,13876,13876
+Shtërpcë,42.2333,21.0167,Kosovo,XK,Shtërpcë,admin,13630,13630
+Graçanicë,42.6000,21.2000,Kosovo,XK,Graçanicë,admin,10675,10675
+Hani i Elezit,42.1475,21.2992,Kosovo,XK,Hani i Elezit,admin,9403,9403
+Dushanovë,42.2347,20.7091,Kosovo,XK,Prizren,,9398,9398
+Zhur,42.1639,20.6211,Kosovo,XK,Prizren,,8927,8927
+Donje Žabare,42.8714,20.8411,Kosovo,XK,Mitrovicë e Jugut,,7394,7394
+Hajvali,42.6167,21.1833,Kosovo,XK,Prishtinë,,7391,7391
+Novobërdë,42.6000,21.4333,Kosovo,XK,Novobërdë,admin,7121,7121
+Obiliq,42.6900,21.0778,Kosovo,XK,Obiliq,admin,6864,6864
+Junik,42.4761,20.2775,Kosovo,XK,Junik,admin,6084,6084
+Lubizhdë,42.2380,20.7615,Kosovo,XK,Prizren,,5982,5982
+Ranillug,42.4920,21.5590,Kosovo,XK,Ranillug,admin,5800,5800
+Bresje,42.6264,21.0874,Kosovo,XK,Fushë Kosovë,,5596,5596
+Mamushë,42.3167,20.7167,Kosovo,XK,Mamushë,admin,5507,5507
+Partesh,42.4019,21.4336,Kosovo,XK,Partesh,admin,5300,1738
+Korishë,42.2576,20.7981,Kosovo,XK,Prizren,,5279,5279
+Shipol,42.8636,20.8489,Kosovo,XK,Mitrovicë e Jugut,,4834,4834
+Gjonaj,42.2505,20.6172,Kosovo,XK,Prizren,,4818,4818
+Pleshinë,42.3444,21.1067,Kosovo,XK,Ferizaj,,4506,4506
+Krushë e Madhe,42.3190,20.6360,Kosovo,XK,Rahovec,,4473,4473
+Greme,42.3183,21.1572,Kosovo,XK,Ferizaj,,4421,4421
+Komogllavë,42.3431,21.2158,Kosovo,XK,Ferizaj,,4404,4404
+Komoran,42.5789,20.9039,Kosovo,XK,Gllogovc,,4393,4393
+Stroc,42.7136,20.9803,Kosovo,XK,Vushtrri,,4237,4237
+Stanoc i Poshtëm,42.7597,21.0491,Kosovo,XK,Vushtrri,,4237,4237
+Rogovë,42.3312,20.5801,Kosovo,XK,Gjakovë,,4115,4115
+Tërstenik,42.6575,20.8544,Kosovo,XK,Gllogovc,,3903,3903
+Deçan,42.5333,20.2833,Kosovo,XK,Deçan,admin,3803,3803
+Ratkoc,42.4094,20.5397,Kosovo,XK,Rahovec,,3791,3791
+Nekodim,42.3492,21.1728,Kosovo,XK,Ferizaj,,3718,3718
+Banjë,42.4644,20.7791,Kosovo,XK,Malishevë,,3639,3639
+Llashkadrenoc,42.5396,20.7179,Kosovo,XK,Malishevë,,3573,3573
+Donji Livoč,42.4307,21.4539,Kosovo,XK,Gjilan,,3497,3497
+Llapushnik,42.5656,20.8439,Kosovo,XK,Gllogovc,,3433,3433
+Jerli Talinovac,42.3863,21.1514,Kosovo,XK,Ferizaj,,3428,3428
+Sllovi,42.5217,21.2212,Kosovo,XK,Lipjan,,3428,3428
+Veliki Kičić,42.8706,20.9222,Kosovo,XK,Mitrovicë e Jugut,,3412,3412
+Hoçë e Qytetit,42.1749,20.6902,Kosovo,XK,Prizren,,3410,3410
+Malishevë,42.4828,20.7461,Kosovo,XK,Malishevë,admin,3395,3395
+Bllacë,42.4231,20.8625,Kosovo,XK,Suharekë,,3357,3357
+Donje Gadimlje,42.4767,21.2055,Kosovo,XK,Lipjan,,3337,3337
+Zhegër,42.3706,21.4850,Kosovo,XK,Gjilan,,3327,3327
+Studençan,42.3586,20.7586,Kosovo,XK,Suharekë,,3311,3311
+Samodraža,42.3634,20.7403,Kosovo,XK,Suharekë,,3249,3249
+Xërxë,42.3482,20.5693,Kosovo,XK,Rahovec,,3184,3184
+Malishevë,42.4525,21.5072,Kosovo,XK,Gjilan,,3165,3165
+Arllat,42.5452,20.8329,Kosovo,XK,Gllogovc,,3134,3134
+Nekoc,42.5355,20.8973,Kosovo,XK,Gllogovc,,3118,3118
+Sopijë,42.3356,20.8436,Kosovo,XK,Suharekë,,3017,3017
+Mazgit,42.6890,21.0908,Kosovo,XK,Obiliq,,2886,2886
+Bresalc,42.4964,21.4050,Kosovo,XK,Gjilan,,2823,2823
+Bardhi i Madh,42.6315,21.0222,Kosovo,XK,Fushë Kosovë,,2750,2750
+Romajë,42.2919,20.5928,Kosovo,XK,Prizren,,2747,2747
+Lubizhdë,42.2505,20.6172,Kosovo,XK,Prizren,,2719,2719
+Dobrčane,42.4732,21.5714,Kosovo,XK,Gjilan,,2659,2659
+Gadime e Epërme,42.4900,21.2259,Kosovo,XK,Lipjan,,2641,2641
+Kllokot,42.3667,21.3833,Kosovo,XK,Kllokot,admin,2556,2556
+Gornji Livoč,42.4539,21.4316,Kosovo,XK,Gjilan,,2551,2551
+Kolovicë,42.6852,21.1968,Kosovo,XK,Prishtinë,,2545,2545
+Petrovë,42.4055,21.0392,Kosovo,XK,Shtime,,2543,2543
+Grejkoc,42.2840,20.8340,Kosovo,XK,Suharekë,,2534,2534
+Shalë,42.5024,20.9209,Kosovo,XK,Lipjan,,2517,2517
+Stanoc i Epërm,42.7611,21.0513,Kosovo,XK,Vushtrri,,2501,2501
+Varosh,42.3422,21.1764,Kosovo,XK,Ferizaj,,2483,2483
+Piranë,42.2922,20.6736,Kosovo,XK,Prizren,,2417,2417
+Viti,42.3214,21.3583,Kosovo,XK,Viti,admin,,

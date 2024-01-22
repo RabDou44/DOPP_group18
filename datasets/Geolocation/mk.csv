@@ -1,0 +1,76 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Skopje,41.9961,21.4317,Macedonia,MK,Skopje,primary,640000,526502
+Tetovo,42.0103,20.9714,Macedonia,MK,Tetovo,admin,142030,142030
+Bitola,41.0319,21.3347,Macedonia,MK,Bitola,admin,74550,74550
+Kumanovo,42.1322,21.7144,Macedonia,MK,Kumanovo,admin,70842,70842
+Prilep,41.3464,21.5542,Macedonia,MK,Prilep,admin,66246,66246
+Ohrid,41.1169,20.8019,Macedonia,MK,Ohrid,admin,55749,55749
+Veles,41.7153,21.7753,Macedonia,MK,Veles,admin,43716,43716
+Štip,41.7358,22.1914,Macedonia,MK,Štip,admin,43652,43652
+Gostivar,41.8000,20.9167,Macedonia,MK,Gostivar,admin,35847,35847
+Kočani,41.9167,22.4125,Macedonia,MK,Kočani,admin,28330,28330
+Dračevo,41.9367,21.5217,Macedonia,MK,Skopje,,19246,19246
+Struga,41.1775,20.6789,Macedonia,MK,Struga,admin,16559,16559
+Debar,41.5250,20.5272,Macedonia,MK,Debar,admin,14561,14561
+Strumica,41.4375,22.6431,Macedonia,MK,Strumica,admin,10868,10868
+Vinica,41.8828,22.5092,Macedonia,MK,Vinica,admin,10863,10863
+Probištip,41.9936,22.1767,Macedonia,MK,Probištip,admin,10826,10826
+Aračinovo,42.0264,21.5617,Macedonia,MK,Aračinovo,admin,7315,7315
+Kičevo,41.5142,20.9631,Macedonia,MK,Kičevo,admin,7280,7280
+Kavadarci,41.4328,22.0117,Macedonia,MK,Kavadarci,admin,6228,6228
+Gevgelija,41.1392,22.5025,Macedonia,MK,Gevgelija,admin,4967,4967
+Vrapčište,41.8337,20.8851,Macedonia,MK,Vrapčište,admin,4874,4874
+Radoviš,41.6381,22.4644,Macedonia,MK,Radoviš,admin,4678,4678
+Berovo,41.7078,22.8564,Macedonia,MK,Berovo,admin,3619,3619
+Kruševo,41.3700,21.2483,Macedonia,MK,Kruševo,admin,3570,3570
+Sveti Nikole,41.8650,21.9425,Macedonia,MK,Sveti Nikole,admin,3468,3468
+Demir Kapija,41.4114,22.2422,Macedonia,MK,Demir Kapija,admin,3275,3275
+Kučevište,42.1097,21.4180,Macedonia,MK,Čučer-Sandevo,,3167,3167
+Delčevo,41.9661,22.7747,Macedonia,MK,Delčevo,admin,3033,3033
+Bogdanci,41.2031,22.5728,Macedonia,MK,Bogdanci,admin,2951,2951
+Rašče,42.0225,21.2506,Macedonia,MK,Skopje,,2697,2697
+Negotino,41.4839,22.0892,Macedonia,MK,Negotino,admin,2683,2683
+Vevčani,41.2403,20.5931,Macedonia,MK,Vevčani,admin,2416,2359
+Debrešte,41.4792,21.3167,Macedonia,MK,Dolneni,,2319,2319
+Labuništa,41.2683,20.5958,Macedonia,MK,Struga,,2272,2272
+Gradsko,41.5775,21.9428,Macedonia,MK,Gradsko,admin,2219,2219
+Valandovo,41.3169,22.5611,Macedonia,MK,Valandovo,admin,1992,1992
+Kriva Palanka,42.2017,22.3317,Macedonia,MK,Kriva Palanka,admin,1967,1967
+Kratovo,42.0783,22.1750,Macedonia,MK,Kratovo,admin,1925,1925
+Krivogaštani,41.3358,21.3331,Macedonia,MK,Krivogaštani,admin,1870,1870
+Zrnovci,41.8542,22.4442,Macedonia,MK,Zrnovci,admin,1864,1534
+Pehčevo,41.7592,22.8906,Macedonia,MK,Pehčevo,admin,1687,1687
+Plasnica,41.4667,21.1167,Macedonia,MK,Plasnica,admin,1584,1584
+Mogila,41.1083,21.3786,Macedonia,MK,Mogila,admin,1480,1262
+Tearce,42.0775,21.0519,Macedonia,MK,Tearce,admin,1475,1475
+Novaci,41.0419,21.4561,Macedonia,MK,Novaci,admin,1283,1283
+Rosoman,41.5161,21.9497,Macedonia,MK,Rosoman,admin,1247,1247
+Novo Selo,41.4128,22.8800,Macedonia,MK,Novo Selo,admin,1246,1246
+Bosilovo,41.4406,22.7278,Macedonia,MK,Bosilovo,admin,1069,1069
+Konče,41.4958,22.3825,Macedonia,MK,Konče,admin,966,915
+Rostuša,41.6100,20.6000,Macedonia,MK,Mavrovo i Rostuše,admin,872,872
+Jegunovce,42.0731,21.1231,Macedonia,MK,Jegunovce,admin,846,846
+Rankovce,42.1719,22.1167,Macedonia,MK,Rankovce,admin,744,744
+Sopište,41.9500,21.4333,Macedonia,MK,Sopište,admin,690,690
+Obleševo,41.8833,22.3339,Macedonia,MK,Češinovo-Obleševo,admin,673,673
+Karbinci,41.8167,22.2375,Macedonia,MK,Karbinci,admin,673,673
+Vasilevo,41.4758,22.6417,Macedonia,MK,Vasilevo,admin,630,630
+Petrovec,41.9389,21.6150,Macedonia,MK,Petrovec,admin,580,121
+Makedonski Brod,41.5133,21.2153,Macedonia,MK,Makedonski Brod,admin,567,567
+Staro Nagoričane,42.2000,21.8300,Macedonia,MK,Staro Nagoričane,admin,555,493
+Demir Hisar,41.2208,21.2031,Macedonia,MK,Demir Hisar,admin,543,543
+Lozovo,41.7817,21.9025,Macedonia,MK,Lozovo,admin,521,521
+Centar Župa,41.4775,20.5578,Macedonia,MK,Centar Župa,admin,466,354
+Brvenica,41.9672,20.9808,Macedonia,MK,Brvenica,admin,449,449
+Belčišta,41.3028,20.8303,Macedonia,MK,Debarca,admin,437,297
+Dolneni,41.4264,21.4536,Macedonia,MK,Dolneni,admin,375,300
+Čučer-Sandevo,42.0975,21.3877,Macedonia,MK,Čučer-Sandevo,admin,274,274
+Zelenikovo,41.8867,21.5869,Macedonia,MK,Zelenikovo,admin,272,272
+Želino,41.9794,21.0619,Macedonia,MK,Želino,admin,105,105
+Star Dojran,41.1865,22.7203,Macedonia,MK,Dojran,admin,105,105
+Studeničani,41.9158,21.5306,Macedonia,MK,Studeničani,admin,59,59
+Bogovinje,41.9233,20.9133,Macedonia,MK,Bogovinje,admin,25,25
+Ilinden,41.9945,21.5800,Macedonia,MK,Ilinden,admin,,
+Lipkovo,42.1553,21.5875,Macedonia,MK,Lipkovo,admin,0,0
+Makedonska Kamenica,42.0208,22.5876,Macedonia,MK,Makedonska Kamenica,admin,,
+Resen,41.0893,21.0109,Macedonia,MK,Resen,admin,,

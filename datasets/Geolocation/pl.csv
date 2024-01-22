@@ -1,0 +1,173 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Warsaw,52.2300,21.0111,Poland,PL,Mazowieckie,primary,1860281,1860281
+Kraków,50.0614,19.9372,Poland,PL,Małopolskie,admin,800653,800653
+Łódź,51.7769,19.4547,Poland,PL,Łódzkie,admin,690422,670642
+Wrocław,51.1100,17.0325,Poland,PL,Dolnośląskie,admin,672929,672929
+Poznań,52.4083,16.9336,Poland,PL,Wielkopolskie,admin,546859,546859
+Gdańsk,54.3475,18.6453,Poland,PL,Pomorskie,admin,486022,486022
+Szczecin,53.4325,14.5481,Poland,PL,Zachodniopomorskie,admin,403833,396168
+Bydgoszcz,53.1219,18.0003,Poland,PL,Kujawsko-Pomorskie,admin,346739,337666
+Lublin,51.2500,22.5667,Poland,PL,Lubelskie,admin,339850,334681
+Bielsko-Biała,49.8225,19.0444,Poland,PL,Śląskie,minor,325000,169089
+Białystok,53.1353,23.1456,Poland,PL,Podlaskie,admin,297554,294242
+Katowice,50.2667,19.0167,Poland,PL,Śląskie,admin,285711,285711
+Gdynia,54.5000,18.5333,Poland,PL,Pomorskie,minor,247672,245222
+Częstochowa,50.8000,19.1167,Poland,PL,Śląskie,minor,223322,213107
+Radom,51.4036,21.1567,Poland,PL,Mazowieckie,minor,219703,201601
+Zielona Góra,51.9333,15.5000,Poland,PL,Lubuskie,admin,216781,140002
+Toruń,53.0222,18.6111,Poland,PL,Kujawsko-Pomorskie,admin,201447,198273
+Rzeszów,50.0333,22.0000,Poland,PL,Podkarpackie,admin,195871,195871
+Sosnowiec,50.2833,19.1333,Poland,PL,Śląskie,minor,193660,193660
+Kielce,50.8742,20.6333,Poland,PL,Świętokrzyskie,admin,191605,186894
+Gliwice,50.2833,18.6667,Poland,PL,Śląskie,minor,174016,174016
+Olsztyn,53.7778,20.4792,Poland,PL,Warmińsko-Mazurskie,admin,173599,170225
+Zabrze,50.3025,18.7781,Poland,PL,Śląskie,minor,158307,158307
+Bytom,50.3483,18.9156,Poland,PL,Śląskie,minor,153274,153274
+Rybnik,50.0833,18.5500,Poland,PL,Śląskie,minor,141000,133772
+Ruda Śląska,50.2628,18.8536,Poland,PL,Śląskie,minor,133793,133793
+Tychy,50.1236,18.9867,Poland,PL,Śląskie,minor,129322,124882
+Opole,50.6667,17.9333,Poland,PL,Opolskie,admin,127792,127387
+Gorzów Wielkopolski,52.7333,15.2500,Poland,PL,Lubuskie,admin,123341,119964
+Płock,52.5500,19.7000,Poland,PL,Mazowieckie,minor,120000,114594
+Elbląg,54.1667,19.4000,Poland,PL,Warmińsko-Mazurskie,minor,119317,115220
+Dąbrowa Górnicza,50.3214,19.1872,Poland,PL,Śląskie,minor,116930,116930
+Wałbrzych,50.7667,16.2833,Poland,PL,Dolnośląskie,minor,116069,104401
+Tarnów,50.0125,20.9886,Poland,PL,Małopolskie,minor,110956,106259
+Koszalin,54.2000,16.1833,Poland,PL,Zachodniopomorskie,minor,106880,105883
+Włocławek,52.6592,19.0681,Poland,PL,Kujawsko-Pomorskie,minor,104705,104705
+Chorzów,50.3000,18.9500,Poland,PL,Śląskie,minor,104193,104193
+Kalisz,51.7575,18.0800,Poland,PL,Wielkopolskie,minor,99761,95905
+Legnica,51.2083,16.1603,Poland,PL,Dolnośląskie,minor,99350,94878
+Nowy Sącz,49.6239,20.6972,Poland,PL,Małopolskie,minor,81281,81281
+Inowrocław,52.7931,18.2611,Poland,PL,Kujawsko-Pomorskie,minor,72561,69576
+Mysłowice,50.2333,19.1333,Poland,PL,Śląskie,minor,72553,72553
+Ostrowiec Świętokrzyski,50.9333,21.4000,Poland,PL,Świętokrzyskie,minor,72001,64796
+Ostrów Wielkopolski,51.6494,17.8164,Poland,PL,Wielkopolskie,minor,70725,70725
+Lubin,51.4000,16.2000,Poland,PL,Dolnośląskie,minor,70016,70016
+Gniezno,52.5358,17.5958,Poland,PL,Wielkopolskie,minor,68217,65452
+Stargard Szczeciński,53.3333,15.0500,Poland,PL,Zachodniopomorskie,minor,67579,67348
+Głogów,51.6589,16.0803,Poland,PL,Dolnośląskie,minor,66980,64261
+Zamość,50.7167,23.2528,Poland,PL,Lubelskie,minor,66234,60148
+Pruszków,52.1667,20.8000,Poland,PL,Mazowieckie,minor,65283,65283
+Pabianice,51.6500,19.3833,Poland,PL,Łódzkie,minor,64988,62954
+Siemianowice Śląskie,50.2758,18.9858,Poland,PL,Śląskie,minor,64676,64676
+Leszno,51.8458,16.5806,Poland,PL,Wielkopolskie,minor,63505,61791
+Ełk,53.8214,22.3622,Poland,PL,Warmińsko-Mazurskie,minor,62006,60390
+Chełm,51.1322,23.4778,Poland,PL,Lubelskie,minor,61588,59546
+Mielec,50.2833,21.4333,Poland,PL,Podkarpackie,minor,60628,58213
+Tomaszów Mazowiecki,51.5167,20.0167,Poland,PL,Łódzkie,minor,59388,59388
+Bełchatów,51.3667,19.3667,Poland,PL,Łódzkie,minor,59025,54338
+Tczew,54.0875,18.7972,Poland,PL,Pomorskie,minor,57990,57990
+Świdnica,50.8500,16.4833,Poland,PL,Dolnośląskie,minor,57761,54792
+Będzin,50.3333,19.1167,Poland,PL,Śląskie,minor,56354,55695
+Zgierz,51.8500,19.4167,Poland,PL,Łódzkie,minor,55079,55079
+Legionowo,52.4000,20.8833,Poland,PL,Mazowieckie,minor,53886,53216
+Piekary Śląskie,50.3833,18.9500,Poland,PL,Śląskie,minor,53017,53017
+Ostrołęka,53.0667,21.5667,Poland,PL,Mazowieckie,minor,52900,49805
+Rumia,54.5667,18.4000,Poland,PL,Pomorskie,,51879,51879
+Starogard Gdański,53.9667,18.5333,Poland,PL,Pomorskie,minor,48690,46373
+Starachowice,51.0500,21.0667,Poland,PL,Świętokrzyskie,minor,47638,46270
+Wejherowo,54.6000,18.2500,Poland,PL,Pomorskie,minor,47357,47357
+Kołobrzeg,54.1761,15.5761,Poland,PL,Zachodniopomorskie,minor,46716,44340
+Świętochłowice,50.2919,18.9178,Poland,PL,Śląskie,minor,46494,46494
+Dębica,50.0500,21.4167,Poland,PL,Podkarpackie,minor,44047,44047
+Ząbki,52.2928,21.1161,Poland,PL,Mazowieckie,,43740,43740
+Świdnik,51.2167,22.7000,Poland,PL,Lubelskie,minor,42797,37884
+Marki,52.3333,21.1000,Poland,PL,Mazowieckie,,42252,42252
+Mińsk Mazowiecki,52.1833,21.5667,Poland,PL,Mazowieckie,minor,40467,40467
+Kwidzyn,53.7358,18.9308,Poland,PL,Pomorskie,minor,40008,37768
+Chojnice,53.7000,17.5500,Poland,PL,Pomorskie,minor,39937,39275
+Zduńska Wola,51.6000,18.9667,Poland,PL,Łódzkie,minor,39846,39846
+Nowa Sól,51.8000,15.7167,Poland,PL,Lubuskie,minor,39721,36843
+Bolesławiec,51.2667,15.5667,Poland,PL,Dolnośląskie,minor,39412,37559
+Żyrardów,52.0500,20.4333,Poland,PL,Mazowieckie,minor,39374,39374
+Oświęcim,50.0381,19.2214,Poland,PL,Małopolskie,minor,39057,36956
+Malbork,54.0333,19.0333,Poland,PL,Pomorskie,minor,38895,37635
+Żary,51.6333,15.1333,Poland,PL,Lubuskie,minor,37502,36004
+Sopot,54.4500,18.5667,Poland,PL,Pomorskie,minor,37457,32962
+Knurów,50.2167,18.6833,Poland,PL,Śląskie,,36498,36498
+Wołomin,52.3500,21.2500,Poland,PL,Mazowieckie,minor,36311,36311
+Brzeg,50.8667,17.4833,Poland,PL,Opolskie,minor,35890,34492
+Oleśnica,51.2000,17.3833,Poland,PL,Dolnośląskie,minor,35856,35856
+Lębork,54.5500,17.7500,Poland,PL,Pomorskie,minor,35374,34500
+Czechowice-Dziedzice,49.9131,19.0064,Poland,PL,Śląskie,,35261,35261
+Cieszyn,49.7500,18.6333,Poland,PL,Śląskie,minor,34513,33958
+Sochaczew,52.2333,20.2333,Poland,PL,Mazowieckie,minor,34439,34439
+Kraśnik,50.9167,22.2167,Poland,PL,Lubelskie,minor,34230,32593
+Iława,53.5964,19.5656,Poland,PL,Warmińsko-Mazurskie,minor,33322,32664
+Oława,50.9333,17.3000,Poland,PL,Dolnośląskie,minor,33268,33268
+Dzierżoniów,50.7281,16.6511,Poland,PL,Dolnośląskie,minor,33137,31866
+Luboń,52.3333,16.8833,Poland,PL,Wielkopolskie,,33024,33024
+Ostróda,53.7000,19.9667,Poland,PL,Warmińsko-Mazurskie,minor,32052,32052
+Pruszcz Gdański,54.2667,18.6333,Poland,PL,Pomorskie,minor,31582,31582
+Zgorzelec,51.1500,15.0083,Poland,PL,Dolnośląskie,minor,31359,29966
+Czeladź,50.3333,19.0833,Poland,PL,Śląskie,,30681,30681
+Łowicz,52.1000,19.9333,Poland,PL,Łódzkie,minor,30383,26928
+Rury,51.2386,22.5164,Poland,PL,Lubelskie,,30093,30093
+Giżycko,54.0400,21.7589,Poland,PL,Warmińsko-Mazurskie,minor,29642,28233
+Brodnica,53.2597,19.3956,Poland,PL,Kujawsko-Pomorskie,minor,28880,28865
+Kętrzyn,54.0833,21.3833,Poland,PL,Warmińsko-Mazurskie,minor,27827,26174
+Gorlice,49.6547,21.1597,Poland,PL,Małopolskie,minor,27357,26405
+Biłgoraj,50.5500,22.7333,Poland,PL,Lubelskie,minor,27290,25459
+Kobyłka,52.3333,21.2000,Poland,PL,Mazowieckie,,27185,27185
+Wągrowiec,52.8000,17.2000,Poland,PL,Wielkopolskie,minor,25773,25773
+Turek,52.0167,18.5000,Poland,PL,Wielkopolskie,minor,25376,25376
+Skawina,49.9833,19.8333,Poland,PL,Małopolskie,,24310,24177
+Kościan,52.0833,16.6500,Poland,PL,Wielkopolskie,minor,24086,24022
+Kościerzyna,54.1167,17.9833,Poland,PL,Pomorskie,minor,23744,23723
+Piastów,52.1833,20.8500,Poland,PL,Mazowieckie,,23281,23281
+Bartoszyce,54.2500,20.8000,Poland,PL,Warmińsko-Mazurskie,minor,22984,22281
+Szczytno,53.5667,20.9833,Poland,PL,Warmińsko-Mazurskie,minor,22813,22389
+Jawor,51.0500,16.2000,Poland,PL,Dolnośląskie,minor,22758,21494
+Lubartów,51.4667,22.6000,Poland,PL,Lubelskie,minor,22138,20494
+Grajewo,53.6500,22.4500,Poland,PL,Podlaskie,minor,21900,21395
+Płońsk,52.6333,20.3833,Poland,PL,Mazowieckie,minor,21800,21800
+Koło,52.2000,18.6333,Poland,PL,Wielkopolskie,minor,21686,20380
+Zambrów,52.9833,22.2500,Poland,PL,Podlaskie,minor,21351,21351
+Mrągowo,53.8667,21.3000,Poland,PL,Warmińsko-Mazurskie,minor,21325,21325
+Działdowo,53.2333,20.1833,Poland,PL,Warmińsko-Mazurskie,minor,21279,20670
+Sulejówek,52.2442,21.2800,Poland,PL,Mazowieckie,,21248,21248
+Chełmno,53.3492,18.4231,Poland,PL,Kujawsko-Pomorskie,minor,20428,18837
+Lubań,51.1181,15.2889,Poland,PL,Dolnośląskie,minor,20096,20096
+Chodzież,52.9833,16.9000,Poland,PL,Wielkopolskie,minor,19100,18044
+Złotów,53.3603,17.0408,Poland,PL,Wielkopolskie,minor,18768,18768
+Ozorków,51.9667,19.2833,Poland,PL,Łódzkie,,18721,18721
+Tomaszów Lubelski,50.4500,23.4167,Poland,PL,Lubelskie,minor,18567,18567
+Giszowiec,50.2333,19.0667,Poland,PL,Śląskie,,18475,18475
+Łomianki,52.3333,20.8833,Poland,PL,Mazowieckie,,18124,18124
+Jasien,54.3399,18.5600,Poland,PL,Pomorskie,,18014,18014
+Łańcut,50.0667,22.2333,Poland,PL,Podkarpackie,minor,17768,17768
+Rawa Mazowiecka,51.7658,20.2533,Poland,PL,Łódzkie,minor,17765,16429
+Braniewo,54.3833,19.8333,Poland,PL,Warmińsko-Mazurskie,minor,16992,16480
+Rypin,53.0667,19.4500,Poland,PL,Kujawsko-Pomorskie,minor,16558,15832
+Milanówek,52.1333,20.6833,Poland,PL,Mazowieckie,,16490,16490
+Złotoryja,51.1333,15.9167,Poland,PL,Dolnośląskie,minor,16479,14656
+Radzionków Nowy,50.3833,18.8833,Poland,PL,Śląskie,,16253,16253
+Osowa,54.4272,18.4708,Poland,PL,Pomorskie,,15843,15843
+Ustka,54.5833,16.8500,Poland,PL,Pomorskie,,15812,14321
+Łęczyca,52.0500,19.2000,Poland,PL,Łódzkie,minor,15593,13587
+Chełmża,53.1847,18.6042,Poland,PL,Kujawsko-Pomorskie,,14808,14045
+Biały Kamień,50.7814,16.2539,Poland,PL,Dolnośląskie,,14278,14278
+Chojnów,51.2667,15.9333,Poland,PL,Dolnośląskie,,13904,12769
+Człuchów,53.6667,17.3667,Poland,PL,Pomorskie,minor,13869,13343
+Lipno,52.8500,19.1667,Poland,PL,Kujawsko-Pomorskie,minor,13752,13752
+Słupca,52.3000,17.8667,Poland,PL,Wielkopolskie,minor,13353,13353
+Wąbrzeźno,53.2833,18.9500,Poland,PL,Kujawsko-Pomorskie,minor,13317,13317
+Sidlice,54.3471,18.6171,Poland,PL,Pomorskie,,12842,12842
+Golub-Dobrzyń,53.1000,19.0500,Poland,PL,Kujawsko-Pomorskie,minor,12546,11722
+Aleksandrów Kujawski,52.8767,18.6936,Poland,PL,Kujawsko-Pomorskie,minor,12359,11719
+Puck,54.7000,18.4000,Poland,PL,Pomorskie,minor,10868,10868
+Suchanino,54.3566,18.6056,Poland,PL,Pomorskie,,10392,10392
+Czarnków,52.9000,16.5667,Poland,PL,Wielkopolskie,minor,10370,10370
+Ksawerów,51.6822,19.4028,Poland,PL,Łódzkie,,6897,6897
+Wola Rzędzińska,50.0500,21.0833,Poland,PL,Małopolskie,,5869,5869
+Sejny,54.1167,23.3667,Poland,PL,Podlaskie,minor,5075,5075
+Raciąż,52.7794,20.1153,Poland,PL,Mazowieckie,,4585,4146
+Górowo Iławeckie,54.2861,20.4917,Poland,PL,Warmińsko-Mazurskie,,3797,3797
+Zgłobice,49.9833,20.9167,Poland,PL,Małopolskie,,3030,3030
+Libertów,49.9724,19.8946,Poland,PL,Małopolskie,,3029,3029
+Zbylitowska Góra,49.9833,20.9167,Poland,PL,Małopolskie,,2695,2695
+Wiśniowa Góra,51.7167,19.6333,Poland,PL,Łódzkie,,2569,2569
+Koszyce,49.9689,20.9475,Poland,PL,Małopolskie,,2207,2207
+Latoszyn,50.0297,21.3834,Poland,PL,Podkarpackie,,1560,1560
+Jodłówka,50.0499,21.1333,Poland,PL,Małopolskie,,1282,1282

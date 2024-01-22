@@ -1,0 +1,128 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Vilnius,54.6872,25.2800,Lithuania,LT,Vilniaus Miestas,primary,708203,581475
+Kaunas,54.8972,23.8861,Lithuania,LT,Kauno Miestas,admin,381007,305120
+Klaipėda,55.7500,21.1667,Lithuania,LT,Klaipėdos Miestas,admin,164310,158420
+Panevėžys,55.7333,24.3500,Lithuania,LT,Panevėžio Miestas,admin,124412,87913
+Šiauliai,55.9333,23.3167,Lithuania,LT,Šiaulių Miestas,admin,107086,104300
+Alytus,54.4014,24.0492,Lithuania,LT,Alytaus Miestas,admin,51856,51856
+Marijampolė,54.5472,23.3500,Lithuania,LT,Marijampolė,admin,36807,36807
+Mažeikiai,56.3167,22.3333,Lithuania,LT,Mažeikiai,admin,33249,33249
+Jonava,55.0722,24.2806,Lithuania,LT,Jonava,admin,27134,27134
+Utena,55.5000,25.6000,Lithuania,LT,Utena,admin,26491,25608
+Kėdainiai,55.2833,23.9667,Lithuania,LT,Kėdainiai,admin,23447,23447
+Telšiai,55.9833,22.2500,Lithuania,LT,Telšiai,admin,22261,22261
+Tauragė,55.2522,22.2897,Lithuania,LT,Tauragė,admin,21516,21416
+Ukmergė,55.2500,24.7500,Lithuania,LT,Ukmergė,admin,21226,21048
+Visaginas,55.5980,26.4380,Lithuania,LT,Visaginas,admin,19586,19586
+Palanga,55.9167,21.0667,Lithuania,LT,Palangos Miestas,admin,18132,18132
+Plungė,55.9167,21.8500,Lithuania,LT,Plungė,admin,17385,17385
+Kretinga,55.8900,21.2422,Lithuania,LT,Kretinga,admin,17207,17207
+Šilutė,55.3500,21.4833,Lithuania,LT,Šilutė,admin,16200,16200
+Gargždai,55.7128,21.4033,Lithuania,LT,Klaipėda,,15932,15932
+Radviliškis,55.8000,23.5500,Lithuania,LT,Radviliškis,admin,15275,15112
+Druskininkai,54.0167,23.9667,Lithuania,LT,Druskininkai,admin,13170,13170
+Rokiškis,55.9667,25.5833,Lithuania,LT,Rokiškis,admin,12738,11606
+Elektrėnai,54.7861,24.6611,Lithuania,LT,Elektrénai,admin,11753,11753
+Aukštieji Paneriai,54.6000,25.2000,Lithuania,LT,Vilniaus Miestas,,11149,11149
+Kuršėnai,55.9833,22.9167,Lithuania,LT,Šiauliai,,10829,10651
+Grigiškės,54.6667,25.1000,Lithuania,LT,Vilniaus Miestas,,10815,9750
+Jurbarkas,55.0833,22.7667,Lithuania,LT,Jurbarkas,admin,10571,10571
+Likiškiai,54.3950,23.9970,Lithuania,LT,Alytus,,10489,10489
+Biržai,56.2000,24.7500,Lithuania,LT,Biržai,admin,10444,10444
+Vilkaviškis,54.6500,23.0333,Lithuania,LT,Vilkaviškis,admin,10291,10291
+Garliava,54.8167,23.8667,Lithuania,LT,Kaunas,,10110,10110
+Lentvaris,54.6500,25.0667,Lithuania,LT,Trakai,,10000,9680
+Raseiniai,55.3667,23.1167,Lithuania,LT,Raseiniai,admin,9686,9686
+Prienai,54.6333,23.9417,Lithuania,LT,Prienai,admin,8894,8894
+Joniškis,56.2333,23.6000,Lithuania,LT,Joniškis,admin,8757,8466
+Anykščiai,55.5333,25.1000,Lithuania,LT,Anykščiai,admin,8638,8638
+Varėna,54.2111,24.5722,Lithuania,LT,Varėna,admin,8477,8042
+Kaišiadorys,54.8667,24.4500,Lithuania,LT,Kaišiadorys,admin,8334,8334
+Naujoji Akmenė,56.3167,22.9000,Lithuania,LT,Akmenė,admin,8170,8170
+Kelmė,55.6333,22.9333,Lithuania,LT,Kelmė,admin,7512,7512
+Šalčininkai,54.3167,25.3833,Lithuania,LT,Šalčininkai,admin,6841,6841
+Pasvalys,56.0594,24.4036,Lithuania,LT,Pasvalys,admin,6411,6411
+Kupiškis,55.8333,24.9667,Lithuania,LT,Kupiškis,admin,6178,6178
+Zarasai,55.7333,26.2500,Lithuania,LT,Zarasai,admin,6051,5942
+Trakai,54.6333,24.9333,Lithuania,LT,Trakai,admin,5912,5912
+Molėtai,55.2333,25.4167,Lithuania,LT,Molėtai,admin,5783,5783
+Kazlų Rūda,54.7500,23.5000,Lithuania,LT,Kazlų Rūdos,admin,5539,5507
+Šakiai,54.9500,23.0500,Lithuania,LT,Šakiai,admin,5440,5440
+Skuodas,56.2667,21.5333,Lithuania,LT,Skuodas,admin,5346,5346
+Pabradė,54.9831,25.7664,Lithuania,LT,Švenčionys,,5339,4735
+Ignalina,55.3500,26.1667,Lithuania,LT,Ignalina,admin,5106,5106
+Domeikava,54.9667,23.9167,Lithuania,LT,Kaunas,,5006,5006
+Švenčionėliai,55.1667,26.0000,Lithuania,LT,Švenčionys,,4726,4613
+Šilalė,55.4833,22.1833,Lithuania,LT,Šilalė,admin,4699,4699
+Vievis,54.7750,24.8083,Lithuania,LT,Elektrénai,,4552,4214
+Pakruojis,55.9667,23.8667,Lithuania,LT,Pakruojis,admin,4490,4490
+Švenčionys,55.1333,26.1556,Lithuania,LT,Švenčionys,admin,4480,4480
+Kybartai,54.6222,22.7667,Lithuania,LT,Vilkaviškis,,4461,4015
+Raudondvaris,54.9431,23.7833,Lithuania,LT,Kaunas,,4142,4142
+Skaidiškės,54.6081,25.3861,Lithuania,LT,Vilnius,,4133,4133
+Kalvarija,54.4167,23.2167,Lithuania,LT,Kalvarija,admin,4025,4025
+Pervalka,55.4139,21.0944,Lithuania,LT,Neringa,,4022,4022
+Rudamina,54.5972,25.3500,Lithuania,LT,Vilnius,,3981,3981
+Lazdijai,54.2333,23.5167,Lithuania,LT,Lazdijai,admin,3895,3895
+Pagiriai,54.5789,25.1983,Lithuania,LT,Vilnius,,3451,3451
+Žiežmariai,54.8000,24.4500,Lithuania,LT,Kaišiadorys,,3268,3034
+Rietavas,55.7167,21.9333,Lithuania,LT,Rietavas,admin,3253,3253
+Birštonas,54.6028,24.0206,Lithuania,LT,Birštonas,admin,3094,3094
+Akademija,54.8944,23.8361,Lithuania,LT,Kaunas,,2807,2807
+Ariogala,55.2667,23.4667,Lithuania,LT,Raseiniai,,2760,2619
+Šventoji,56.0253,21.0817,Lithuania,LT,Palangos Miestas,,2631,2631
+Didžioji Reišė,54.8028,25.2639,Lithuania,LT,,,2520,2520
+Nemėžis,54.6361,25.3611,Lithuania,LT,Vilnius,,2498,2498
+Nida,55.3033,21.0056,Lithuania,LT,Neringa,admin,2385,2385
+Pilviškiai,54.7222,23.2222,Lithuania,LT,Vilkaviškis,,2305,2305
+Viekšniai,56.2333,22.5167,Lithuania,LT,Mažeikiai,,2180,2180
+Venta,56.2000,22.7000,Lithuania,LT,Akmenė,,2168,2155
+Avižieniai,54.7639,25.1831,Lithuania,LT,Vilnius,,2125,2125
+Rukla,55.0528,24.3778,Lithuania,LT,Jonava,,2098,2098
+Valčiūnai,54.5611,25.2639,Lithuania,LT,Vilnius,,2089,2089
+Baisogala,55.6389,23.7222,Lithuania,LT,Radviliškis,,2034,2034
+Tytuvėnai,55.6000,23.2000,Lithuania,LT,Kelmė,,1841,1774
+Viečiūnai,54.0583,24.0528,Lithuania,LT,Druskininkai,,1708,1708
+Teleičiai,54.8440,23.8830,Lithuania,LT,Kaunas,,1700,1700
+Viduklė,55.4028,22.8972,Lithuania,LT,Raseiniai,,1678,1678
+Švėkšna,55.5167,21.6278,Lithuania,LT,Šilutė,,1649,1649
+Krekenava,55.5500,24.1000,Lithuania,LT,Panevėžys,,1636,1636
+Gelgaudiškis,55.0833,22.9833,Lithuania,LT,Šakiai,,1622,1522
+Ramučiai,54.9472,24.0306,Lithuania,LT,Kaunas,,1583,1583
+Ežerėlis,54.8833,23.6167,Lithuania,LT,Kaunas,,1583,1583
+Babtai,55.0917,23.7944,Lithuania,LT,Kaunas,,1563,1563
+Josvainiai,55.2472,23.8333,Lithuania,LT,Kėdainiai,,1545,1545
+Kudirkos Naumiestis,54.7667,22.8667,Lithuania,LT,Šakiai,,1444,1329
+Ramygala,55.5111,24.3028,Lithuania,LT,Panevėžys,,1440,1198
+Kulautuva,54.9389,23.6500,Lithuania,LT,Kaunas,,1425,1364
+Skaudvilė,55.4075,22.5825,Lithuania,LT,Tauragė,,1425,1370
+Senieji Trakai,54.6167,24.9667,Lithuania,LT,Trakai,,1396,1396
+Žagarė,56.3667,23.2500,Lithuania,LT,Joniškis,,1383,1247
+Salantai,56.0667,21.5667,Lithuania,LT,Kretinga,,1362,1251
+Kužiai,55.9972,23.1444,Lithuania,LT,Šiauliai,,1332,1332
+Vilainiai,55.3000,24.0031,Lithuania,LT,Kėdainiai,,1330,1330
+Padvariai,55.9083,21.2833,Lithuania,LT,Kretinga,,1308,1308
+Didžiasalis,55.3194,26.6806,Lithuania,LT,Ignalina,,1299,1299
+Veisiejai,54.1000,23.7000,Lithuania,LT,Lazdijai,,1267,1054
+Priekulė,55.5556,21.3194,Lithuania,LT,Klaipėda,,1251,1251
+Linkuva,56.0833,23.9667,Lithuania,LT,Pakruojis,,1246,1217
+Riešė,54.8083,25.2389,Lithuania,LT,Vilnius,,1234,1234
+Galgiai,54.7190,25.4170,Lithuania,LT,Vilnius,,1230,1230
+Matuizos,54.2833,24.6833,Lithuania,LT,Varėna,,1201,1201
+Simnas,54.4000,23.6500,Lithuania,LT,Alytus,,1198,1192
+Ylakiai,56.2806,21.8500,Lithuania,LT,Skuodas,,1165,1165
+Kairiai,55.9167,23.4389,Lithuania,LT,Šiauliai,,1158,1158
+Varniai,55.7333,22.3667,Lithuania,LT,Telšiai,,1140,854
+Laukuva,55.6194,22.2333,Lithuania,LT,Šilalė,,1140,1140
+Dovilai,55.6778,21.3556,Lithuania,LT,Klaipėda,,1100,1100
+Veiveriai,54.7639,23.7250,Lithuania,LT,Prienai,,1100,1100
+Vidiškės,55.3750,26.2111,Lithuania,LT,Ignalina,,1084,1084
+Gineitiškės,54.7390,25.2000,Lithuania,LT,Vilnius,,1082,1082
+Baltoji Vokė,54.4500,25.1333,Lithuania,LT,Šalčininkai,,1056,991
+Liudvinavas,54.4833,23.3528,Lithuania,LT,Marijampolė,,1055,1055
+Miklusėnai,54.4417,23.9972,Lithuania,LT,Alytus,,1044,1044
+Mokolai,54.5720,23.3390,Lithuania,LT,Marijampolė,,1031,1031
+Plateliai,56.0500,21.8167,Lithuania,LT,Plungė,,1021,1021
+Joniškėlis,56.0250,24.1694,Lithuania,LT,Pasvalys,,1021,977
+Širvintos,55.0361,24.9694,Lithuania,LT,Širvintos,admin,744,744
+Pagėgiai,55.1333,21.9167,Lithuania,LT,Pagégiai,admin,57,57

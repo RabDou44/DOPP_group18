@@ -1,0 +1,55 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Lisbon,38.7253,-9.1500,Portugal,PT,Lisboa,primary,2719000,545923
+Porto,41.1621,-8.6220,Portugal,PT,Porto,admin,1278210,237591
+Aves,41.4400,-8.3000,Portugal,PT,Porto,,425411,425411
+Sintra,38.7992,-9.3883,Portugal,PT,Lisboa,minor,377835,377835
+Vila Nova de Gaia,41.1333,-8.6167,Portugal,PT,Porto,minor,302295,302295
+Cascais,38.7000,-9.4167,Portugal,PT,Lisboa,minor,206479,206479
+Loures,38.8333,-9.1667,Portugal,PT,Lisboa,minor,205054,205054
+Braga,41.5503,-8.4200,Portugal,PT,Braga,admin,181494,181494
+Almada,38.6803,-9.1583,Portugal,PT,Setúbal,minor,177268,177268
+Matosinhos,41.1833,-8.7000,Portugal,PT,Porto,minor,175478,175478
+Amadora,38.7333,-9.2333,Portugal,PT,Lisboa,minor,175136,175136
+Oeiras,38.6833,-9.3167,Portugal,PT,Lisboa,minor,172120,171802
+Gondomar,41.1500,-8.5333,Portugal,PT,Porto,minor,168027,168027
+Seixal,38.6500,-9.1000,Portugal,PT,Setúbal,minor,158269,158269
+Guimarães,41.4500,-8.3000,Portugal,PT,Braga,minor,158124,158124
+Odivelas,38.7903,-9.1797,Portugal,PT,Lisboa,minor,144549,144549
+Coimbra,40.2111,-8.4292,Portugal,PT,Coimbra,admin,143396,143396
+Vila Franca de Xira,38.9500,-8.9833,Portugal,PT,Lisboa,minor,136886,136886
+Maia,41.2333,-8.6167,Portugal,PT,Porto,minor,135306,135306
+Famalicão,41.4167,-8.5167,Portugal,PT,Braga,minor,133832,133832
+Leiria,39.7500,-8.8000,Portugal,PT,Leiria,admin,126897,126897
+Setúbal,38.5243,-8.8926,Portugal,PT,Setúbal,admin,123684,123496
+Barcelos,41.5167,-8.6167,Portugal,PT,Braga,minor,120391,120391
+Funchal,32.6500,-16.9167,Portugal,PT,Madeira,admin,111892,111892
+Viseu,40.6667,-7.9167,Portugal,PT,Viseu,admin,99274,99274
+Viana do Castelo,41.7000,-8.8333,Portugal,PT,Viana do Castelo,admin,88725,88725
+Barreiro,38.6667,-9.0667,Portugal,PT,Setúbal,minor,78764,78764
+Aveiro,40.6333,-8.6500,Portugal,PT,Aveiro,admin,78450,78450
+Queluz,38.7514,-9.2664,Portugal,PT,Lisboa,,78273,78273
+Ponta Delgada,37.7400,-25.6700,Portugal,PT,Azores,admin,68809,68809
+Faro,37.0161,-7.9350,Portugal,PT,Faro,admin,64560,64560
+Santarém,39.2339,-8.6861,Portugal,PT,Santarém,admin,62200,62200
+Évora,38.5667,-7.9000,Portugal,PT,Évora,admin,56596,56596
+Castelo Branco,39.8167,-7.5000,Portugal,PT,Castelo Branco,admin,56109,56109
+Vila Real,41.2958,-7.7461,Portugal,PT,Vila Real,admin,51850,51850
+Rio Tinto,41.1780,-8.5600,Portugal,PT,Porto,,50713,50713
+Amora,38.6265,-9.1189,Portugal,PT,Setúbal,,48629,48629
+Corroios,38.6147,-9.1508,Portugal,PT,Setúbal,,46475,46475
+Guarda,40.5333,-7.3333,Portugal,PT,Guarda,admin,42541,42541
+Mafamude,41.1152,-8.6036,Portugal,PT,Porto,,38940,38940
+Ermezinde,41.2170,-8.5500,Portugal,PT,Porto,,38798,38798
+Beja,38.0333,-7.8833,Portugal,PT,Beja,admin,35854,35854
+Agualva,38.7700,-9.2988,Portugal,PT,Lisboa,,35824,35824
+Bragança,41.8067,-6.7589,Portugal,PT,Bragança,admin,35341,35341
+Espinho,41.0100,-8.6400,Portugal,PT,Aveiro,minor,31027,31027
+Póvoa de Santa Iria,38.8620,-9.0690,Portugal,PT,Lisboa,,29348,29348
+Senhora da Hora,41.1860,-8.6510,Portugal,PT,Porto,,29000,29000
+Massamá,38.7568,-9.2748,Portugal,PT,Lisboa,,28112,28112
+Águas Santas,41.2090,-8.5890,Portugal,PT,Porto,,27470,27470
+Estoril,38.7042,-9.3983,Portugal,PT,Lisboa,,26399,26399
+Portalegre,39.3167,-7.4167,Portugal,PT,Portalegre,admin,24930,24930
+São João da Madeira,40.8972,-8.4889,Portugal,PT,Aveiro,minor,21713,21713
+Entroncamento,39.4653,-8.4681,Portugal,PT,Santarém,minor,20206,20206
+Feira,40.9254,-8.5428,Portugal,PT,Aveiro,minor,,
