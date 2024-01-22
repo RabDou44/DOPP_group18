@@ -1,6 +1,13 @@
 # Data-Oriented Programming Paradigms – Group 18 – Train vs plane travel times
 
 ## To do:
+
+ - Emile push final notebook to git
+ - Emile & Adam choose routes to query
+
+
+
+
 ### 1. Travel times only for trips that have direct train and plane connections
  - We need to match airports to train stations when they are in the same city – what counts as the same city? For example Brussels Charleroi is not so close to Brussels
  - We need to choose which trips to include in 'Europe'
