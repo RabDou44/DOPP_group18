@@ -1,3 +1,5 @@
 pandas
 googletrans
-mpl_toolkits.basemap
+# mpl_toolkits.basemap # problem with this one in dataspell
+geopandas
+shapely.geometry
