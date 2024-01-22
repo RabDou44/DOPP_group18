@@ -1,0 +1,301 @@
+city1,city2,transit_distance [m],transit_time [s]
+San Bartolome,Barcelona,-1,-1
+Alicante,Barcelona,449965,28800
+Amsterdam,Barcelona,1574426,55320
+Spata,Barcelona,3359236,189858
+Malaga,Barcelona,1049384,36900
+Bologna,Barcelona,1305498,62700
+Bordeaux,Barcelona,-1,-1
+Zaventem,Barcelona,1382477,53040
+Cagliari,Barcelona,-1,-1
+Charleroi,Barcelona,1435393,58500
+Genova,Barcelona,926099,85800
+Gothenburg,Barcelona,2498700,120360
+Gatwick,Barcelona,1543032,62460
+Maastricht,Barcelona,1487093,61565
+Postage,Barcelona,-1,-1
+Otopeni,Barcelona,-1,-1
+Belgrade,Barcelona,2027096,117360
+Orio al Serio,Barcelona,1130633,57149
+Birmingham,Barcelona,1685388,68100
+Bilbao,Barcelona,508671,30600
+Bristol,Barcelona,1694441,68160
+Budapest,Barcelona,-1,-1
+Tille,Barcelona,1167082,58466
+Paris,Barcelona,834126,47710
+San Bartolome,Malaga,-1,-1
+Barcelona,Malaga,1041588,39420
+Bordeaux,Malaga,1251761,48080
+Gothenburg,Malaga,3640736,145200
+Hamburg,Malaga,2722744,113700
+Gatwick,Malaga,2332583,84720
+Madrid,Malaga,471357,29280
+Amsterdam,Malaga,2413746,78540
+Stockholm,Malaga,4019751,155520
+Orio al Serio,Malaga,2241087,82589
+Birmingham,Malaga,2800421,93540
+Bournemouth,Malaga,2362596,100500
+Bristol,Malaga,2809474,93600
+Budapest,Malaga,3319175,119940
+Paris,Malaga,1603347,69120
+Cologne,Malaga,2758812,85440
+San Bartolome,Paris,-1,-1
+Ajaccio,Paris,1080196,57099
+Amsterdam,Paris,449334,29220
+Spata,Paris,3104592,150918
+Belgrade,Paris,1868840,78180
+Bilbao,Paris,951215,36900
+Saint,Paris,-1,-1
+Stockholm,Paris,2156564,80880
+Helsinki,Paris,2696435,140820
+Munich,Paris,860458,28920
+Tromso,Paris,3711689,181305
+San Bartolome,Orio al Serio,-1,-1
+Alghero,Orio al Serio,629411,63430
+Brindisi,Orio al Serio,1223476,45694
+Alicante,Orio al Serio,1627931,92730
+Stockholm,Orio al Serio,2491813,107679
+Bristol,Orio al Serio,1535332,74223
+Tille,Orio al Serio,998766,59196
+Pescara,Orio al Serio,676389,33030
+Bari,Orio al Serio,901280,39364
+Budapest,Orio al Serio,913600,48881
+Cluj,Orio al Serio,1677743,91119
+Alicante,Otopeni,-1,-1
+Amsterdam,Otopeni,2287632,119340
+Spata,Otopeni,1252410,76728
+Orio al Serio,Otopeni,1897744,110519
+Birmingham,Otopeni,3123447,148260
+Bari,Otopeni,-1,-1
+Saint,Otopeni,-1,-1
+Paris,Otopeni,2365718,119220
+Cluj,Otopeni,601842,43080
+San Bartolome,Birmingham,-1,-1
+Alicante,Birmingham,2265833,79020
+Amsterdam,Birmingham,719732,45240
+Belfast,Birmingham,542550,45420
+Belfast,Birmingham,542550,45420
+Budapest,Birmingham,-1,-1
+Paris,Birmingham,585472,38820
+Viviers,Birmingham,1281721,38812
+Aalborg,Amsterdam,1027798,58200
+Aberdeen,Amsterdam,1448954,52320
+Spata,Amsterdam,2987674,161178
+Luton,Amsterdam,627897,37560
+Belfast,Amsterdam,1309053,64500
+Bilbao,Amsterdam,1484185,52620
+Saint,Amsterdam,-1,-1
+Mykonos,Spata,-1,-1
+Kavala,Spata,640420,45393
+Samos Island,Spata,-1,-1
+Belgrade,Spata,-1,-1
+Budapest,Spata,1662564,107698
+Kerkyra,Spata,583039,47552
+Souda,Spata,-1,-1
+Alesund,Alicante,-1,-1
+Orio al Serio,Alicante,1669913,82889
+Bristol,Alicante,2220310,92400
+Cardiff,Alicante,-1,-1
+Liverpool,Alicante,-1,-1
+Amsterdam,Alicante,2373122,76440
+Belfast,Alicante,2972959,124080
+Sochi,Moscow,2919260,103440
+Sochi,Moscow,2919260,103440
+Sochi,Moscow,2919260,103440
+Sochi,Moscow,2919260,103440
+Astrakhan,Moscow,2596624,134400
+Belgrade,Moscow,3281265,159900
+Chelyabinsk,Moscow,-1,-1
+Alicante,Postage,-1,-1
+Amsterdam,Postage,-1,-1
+Orio al Serio,Postage,-1,-1
+Birmingham,Postage,-1,-1
+Bilbao,Postage,-1,-1
+Bristol,Postage,-1,-1
+Tille,Postage,-1,-1
+Aberdeen,Gatwick,895395,39720
+San Bartolome,Gatwick,-1,-1
+Alicante,Gatwick,2131230,75840
+Amsterdam,Gatwick,577535,40500
+Spata,Gatwick,3652500,172278
+Belfast,Gatwick,759209,51480
+Bilbao,Gatwick,1500397,51540
+San Bartolome,Zaventem,-1,-1
+Alicante,Zaventem,1909024,71280
+Spata,Zaventem,3026733,155058
+Malaga,Zaventem,2092019,75780
+Barcelona,Zaventem,1413018,49800
+Paris,Zaventem,338598,20520
+Amsterdam,Stockholm,1640267,66960
+Alicante,Stockholm,-1,-1
+Orio al Serio,Stockholm,2337259,110099
+Helsinki,Stockholm,513360,48989
+Munich,Stockholm,1941966,74220
+Budapest,Stockholm,1909523,109200
+Alghero,Rome,922389,79200
+Bari,Rome,575170,27900
+Budapest,Rome,1167179,46140
+Charleroi,Rome,1549691,67260
+Otopeni,Rome,2457213,124800
+Cluj,Rome,1917646,114240
+Amsterdam,El Matorral,-1,-1
+Birmingham,El Matorral,-1,-1
+Bilbao,El Matorral,-1,-1
+Bristol,El Matorral,-1,-1
+Saint,El Matorral,-1,-1
+Cologne,El Matorral,-1,-1
+Spata,Bologna,2251329,137418
+Brindisi,Bologna,952023,38820
+Craiova,Bologna,-1,-1
+Budapest,Bologna,812679,38940
+Paris,Bologna,971526,44940
+San Bartolome,Charleroi,-1,-1
+Orio al Serio,Charleroi,1333938,49499
+Bari,Charleroi,2057811,75660
+Budapest,Charleroi,1484023,62040
+Beziers,Charleroi,1280514,47318
+Alicante,Warsaw,3183016,128220
+Stockholm,Warsaw,-1,-1
+Belgrade,Warsaw,1483115,75720
+Bari,Warsaw,2053251,105484
+Budapest,Warsaw,689288,35580
+Amsterdam,Munich,892889,35580
+Bilbao,Munich,1860587,61080
+Bremen,Munich,769214,27960
+Saint,Munich,-1,-1
+Cologne,Munich,569246,21300
+Krasnyi Kurgan,St. Petersburg,-1,-1
+Sochi,St. Petersburg,3601960,124440
+Arkhangelsk,St. Petersburg,1795516,84180
+Belgrade,St. Petersburg,2833650,162540
+Chelyabinsk,St. Petersburg,3106503,138300
+Amsterdam,Bristol,729917,45720
+Alicante,Bristol,2281069,81180
+Orio al Serio,Bristol,1664264,60659
+Saint,Bristol,-1,-1
+Budapest,Bristol,-1,-1
+San Bartolome,Madrid,-1,-1
+Alicante,Madrid,380250,24600
+Spata,Madrid,4308544,199938
+Bilbao,Madrid,323742,16200
+Budapest,Madrid,-1,-1
+Amsterdam,Billund,840036,45060
+Gdansk,Billund,1226822,61620
+Otopeni,Billund,2379010,136920
+Bolzano,Billund,1542718,64549
+San Bartolome,Luton,-1,-1
+Bratislava,Luton,1926808,70920
+Budapest,Luton,-1,-1
+Bydgoszcz,Luton,1717263,66600
+Alicante,Gothenburg,-1,-1
+Stockholm,Gothenburg,506760,27360
+Banja Luka,Gothenburg,2515261,123600
+Paris,Gothenburg,1709478,78840
+Stockholm,Poznan,1685624,69960
+Birmingham,Poznan,1584158,59160
+Bristol,Poznan,1612685,60060
+San Bartolome,Hamburg,-1,-1
+Alicante,Hamburg,2684100,98880
+Amsterdam,Hamburg,483514,23640
+Amsterdam,Geneva,1001504,84840
+Spata,Geneva,3102587,185268
+Belfast,Geneva,1743461,76140
+Alicante,Gdansk,3251284,132480
+Amsterdam,Gdansk,1246530,61969
+Stockholm,Gdansk,-1,-1
+San Bartolome,Bordeaux,-1,-1
+Barcelona,Bordeaux,650419,41100
+Paris,Bordeaux,504695,26100
+Alesund,Bergen,261497,39222
+Amsterdam,Bergen,2034971,113160
+Malaga,Bergen,4329836,198720
+Amsterdam,Zurich,-1,-1
+Spata,Zurich,2777335,174588
+Belgrade,Zurich,1213653,67800
+Amsterdam,Valencia,1925346,70740
+Orio al Serio,Valencia,1477314,73709
+Birmingham,Valencia,2090149,61080
+Belgrade,Tille,1964207,100494
+Orio al Serio,Tille,1055101,49699
+Amsterdam,Prague,1042910,45289
+Budapest,Prague,531355,22800
+Belgrade,Budapest,380445,21600
+Bari,Budapest,1423754,73804
+Amsterdam,Helsinki,2289006,125340
+Budapest,Helsinki,1879856,120540
+Bilbao,San Bartolome,-1,-1
+Saint,San Bartolome,-1,-1
+Belfast,London,711828,49740
+Budapest,London,1807437,70320
+Bari,Ferno,-1,-1
+Budapest,Ferno,-1,-1
+Bari,Valletta,-1,-1
+Budapest,Valletta,-1,-1
+Orio al Serio,Lamezia Terme,1137541,37649
+Saint,Lamezia Terme,-1,-1
+Saint,Catania,-1,-1
+Budapest,Catania,1903462,81185
+San Bartolome,Edinburgh,-1,-1
+Belfast,Edinburgh,-1,-1
+San Bartolome,Liverpool,-1,-1
+Belfast,Liverpool,-1,-1
+Ajaccio,Nice,424974,52899
+Calvi,Nice,570368,99616
+Ajaccio,Marseille,337981,45115
+Budapest,Marseille,-1,-1
+Alghero,Segrate,578742,59760
+Bari,Segrate,857863,36660
+San Bartolome,Oslo,-1,-1
+Belgrade,Oslo,2837179,146700
+Saint Anne,Southampton,-1,-1
+Amsterdam,Southampton,674604,43020
+Sochi,Kazan,4588313,181920
+Belgrade,Kazan,-1,-1
+Sochi,Cherepovets,-1,-1
+St. Petersburg,Cherepovets,617248,38014
+Bari,Venezia,793174,36600
+Copenhagen,Aalborg,459074,27360
+Belfast,Manchester,507199,44640
+Birmingham,Craiova,2741353,131887
+Varna,Cologne,2380810,143766
+Bronnoy,Bodo,290549,47858
+Bronnoy,Trondheim,383525,26860
+Bodo,Mosjoen,321323,13920
+Bodo,Leknes,158003,27272
+Bari,Caselle,994615,42102
+Moscow,Chelyabinsk,2834441,150900
+Castellon de la Plana,Weeze,1911541,72857
+Bari,Rinas,263705,45278
+Bratislava,Kaunas,1085758,63265
+Luton,Cluj,2674089,123300
+Bari,Caselle Torinese,994960,42518
+Saint,Prishtina,-1,-1
+Orio al Serio,Cagliari,1084319,69689
+Orio al Serio,Iasi,2020738,128969
+Amsterdam,Norwich,722830,44940
+Braganca,Vila Real,122310,6000
+Belgrade,Vienna,769142,39600
+Amsterdam,Aberdeen,1380434,65040
+San Bartolome,Belfast,-1,-1
+Saint Anne,Saint Peter Port,-1,-1
+Sochi,Krasnoyarsk,9959629,360180
+Sochi,Perm,5660343,209520
+Sochi,Pskov,3893856,161358
+Alicante,Maastricht,2031763,76260
+Amsterdam,Burgas,2611288,141900
+Amsterdam,Cardiff,787150,45780
+Amsterdam,Firenze,1427171,65220
+Amsterdam,Rovaniemi,3046567,139200
+Andenes,Evenes,238160,28534
+Andenes,Tromso,475884,40517
+Moscow,Arkhangelsk,-1,-1
+Spata,Alexandroupolis,964391,49548
+Spata,Chios Island,-1,-1
+Spata,Rhodes,-1,-1
+Spata,Thessaloniki,511292,23029
+Alexandroupolis,Crete Island,-1,-1
+Belgrade,Nis,237455,12277
+Belgrade,Lisbon,3152127,167400
+Belgrade,Podgorica,696595,104664
+Belgrade,Tivat,-1,-1
+Copenhagen,Aarhus,314916,17760

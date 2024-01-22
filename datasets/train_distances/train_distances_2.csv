@@ -1,0 +1,301 @@
+city1,city2,transit_distance [m],transit_time [s]
+Copenhagen,Madrid,2650752,101160
+Dusseldorf,Madrid,2294605,73440
+Hondarribia,Madrid,423537,27354
+Edinburgh,Madrid,2535097,88800
+Rome,Madrid,2245051,92100
+Firenze,Madrid,1987592,76800
+Funchal,Madrid,-1,-1
+Granada,Madrid,430337,26700
+Geneva,Madrid,1888379,66000
+Helsinki,Madrid,3803684,185520
+Copenhagen,Paris,1526162,63480
+Dusseldorf,Paris,563981,33000
+Nottingham,Paris,615301,37380
+Rome,Paris,1472545,56580
+Rome,Paris,1472545,56580
+Firenze,Paris,1210135,42420
+Funchal,Paris,-1,-1
+Frankfurt am Main,Paris,590415,30900
+Paisley,Paris,-1,-1
+Copenhagen,Malaga,3327758,117720
+Edinburgh,Malaga,2830358,115500
+Eindhoven,Malaga,2533381,83280
+Nottingham,Malaga,2819350,92760
+Rome,Malaga,2687560,124800
+Frankfurt am Main,Malaga,2483591,84300
+Frankfurt am Main,Malaga,2483591,84300
+Copenhagen,Helsinki,1130928,84960
+Dusseldorf,Helsinki,2320958,121080
+Frankfurt am Main,Helsinki,2182334,114420
+Stockholm,Helsinki,495997,50700
+Paris,Helsinki,2710949,145740
+Oulu,Helsinki,679470,27720
+Rovaniemi,Helsinki,897102,30000
+Copenhagen,Amsterdam,998571,47400
+Dusseldorf,Amsterdam,297951,16140
+Faro,Amsterdam,2849781,94080
+Rome,Amsterdam,2010915,71820
+Funchal,Amsterdam,-1,-1
+Frankfurt am Main,Amsterdam,522489,29400
+Paisley,Amsterdam,-1,-1
+Copenhagen,Munich,1315701,49200
+Dusseldorf,Munich,660970,26940
+Rome,Munich,910221,42600
+Firenze,Munich,787303,38220
+Frankfurt am Main,Munich,419719,17040
+Geneva,Munich,597482,34800
+Hanover,Munich,647042,21660
+Hondarribia,Barcelona,-1,-1
+Edinburgh,Barcelona,2247839,82080
+Rome,Barcelona,-1,-1
+Frankfurt am Main,Barcelona,1644271,61080
+Granada,Barcelona,1033665,38400
+Geneva,Barcelona,793406,34260
+Helsinki,Barcelona,3907329,177133
+Copenhagen,Gothenburg,300390,15480
+Edinburgh,Gothenburg,-1,-1
+Frankfurt am Main,Gothenburg,1329196,65460
+Malaga,Gothenburg,3637487,147900
+Bergen,Gothenburg,748233,41700
+Geneva,Gothenburg,2022864,88200
+Helsinki,Gothenburg,970031,61620
+Copenhagen,Budapest,1874267,75720
+Dortmund,Budapest,1265539,55500
+Eindhoven,Budapest,1386390,61380
+Rome,Budapest,1248839,62400
+Funchal,Budapest,-1,-1
+Frankfurt am Main,Budapest,992027,45600
+Edinburgh,Gatwick,698408,34440
+Rome,Gatwick,2041950,74340
+Firenze,Gatwick,1764722,59940
+Frankfurt am Main,Gatwick,836486,40680
+Saint Peter Port,Gatwick,277282,22649
+Geneva,Gatwick,962230,44340
+Dusseldorf,El Matorral,-1,-1
+Edinburgh,El Matorral,-1,-1
+Nottingham,El Matorral,-1,-1
+Frankfurt am Main,El Matorral,-1,-1
+Paisley,El Matorral,-1,-1
+Hanover,El Matorral,-1,-1
+Barcelona,Charleroi,1448802,50580
+Rome,Charleroi,1843536,68700
+Otopeni,Charleroi,2447536,124140
+Catania,Charleroi,2673604,95032
+Edinburgh,Charleroi,1077944,44940
+Copenhagen,Postage,-1,-1
+Rheinmunster,Postage,-1,-1
+Memmingen,Postage,-1,-1
+Funchal,Postage,-1,-1
+Geneva,Postage,-1,-1
+Copenhagen,London,1591446,66060
+Copenhagen,London,1591446,66060
+Dusseldorf,London,655479,33720
+Rome,London,1997248,72180
+Frankfurt am Main,London,793309,39660
+Copenhagen,Alicante,3345152,113700
+Eindhoven,Alicante,2324171,81540
+Nottingham,Alicante,2229322,93060
+Rheinmunster,Alicante,2142329,83222
+Frankfurt am Main,Alicante,2442967,82200
+Dusseldorf,Lisbon,3244825,111240
+Eindhoven,Lisbon,-1,-1
+Faro,Lisbon,294312,13500
+Rome,Lisbon,3134449,107400
+Funchal,Lisbon,-1,-1
+Copenhagen,Geneva,1682227,71220
+Edinburgh,Geneva,1677100,53340
+Nottingham,Geneva,1139522,49200
+Frankfurt am Main,Geneva,569453,31500
+Paisley,Geneva,-1,-1
+Copenhagen,Frankfurt am Main,1005327,42960
+Dusseldorf,Frankfurt am Main,219904,6540
+Frankfurt am Main,Frankfurt am Main,-1,-1
+Hanover,Frankfurt am Main,353579,17100
+Nis,Frankfurt am Main,1806843,82452
+Edinburgh,Bristol,633134,36240
+Funchal,Bristol,-1,-1
+Frankfurt am Main,Bristol,987786,47700
+Paisley,Bristol,-1,-1
+Geneva,Bristol,1112054,49380
+Copenhagen,Hamburg,507800,25800
+Frankfurt am Main,Hamburg,503485,24660
+Malaga,Hamburg,2778379,109200
+El Matorral,Hamburg,-1,-1
+Helsinki,Hamburg,1675597,107160
+Edinburgh,Birmingham,456879,33000
+Saint Peter Port,Birmingham,439474,28769
+Girona,Birmingham,1651548,49495
+Geneva,Birmingham,1097093,47520
+Rome,Zaventem,1804906,66180
+Frankfurt am Main,Zaventem,402924,22680
+Geneva,Zaventem,739991,36180
+Helsinki,Zaventem,2307224,134520
+Dusseldorf,San Bartolome,-1,-1
+Nottingham,San Bartolome,-1,-1
+Frankfurt am Main,San Bartolome,-1,-1
+Paisley,San Bartolome,-1,-1
+Crotone,Bologna,931313,36180
+Catania,Bologna,1155953,43012
+Rome,Bologna,376814,12000
+Frankfurt am Main,Bologna,882912,42480
+Copenhagen,Vienna,1626575,63600
+Dusseldorf,Vienna,974869,43500
+Rome,Vienna,1136656,57300
+Frankfurt am Main,Vienna,729450,33180
+Copenhagen,Zurich,1544224,64800
+Dusseldorf,Zurich,684854,29100
+Rome,Zurich,876478,36600
+Frankfurt am Main,Zurich,399935,20940
+Catania,Firenze,1033067,41692
+Rome,Firenze,267528,5100
+Frankfurt am Main,Firenze,964314,44940
+Funchal,Saint,-1,-1
+Frankfurt am Main,Saint,-1,-1
+Bristol,Saint,-1,-1
+Catania,Prague,-1,-1
+Rome,Prague,1295895,63300
+Frankfurt am Main,Prague,526066,22500
+Dortmund,Cluj,1862955,92100
+Eindhoven,Cluj,1928283,105660
+Memmingen,Cluj,1411831,82860
+Debrecen,Luton,2061613,75660
+Faro,Luton,2817558,102300
+Paisley,Luton,-1,-1
+Moscow,St. Petersburg,643486,28800
+Gelendzhik,St. Petersburg,-1,-1
+Nizhny Novgorod,St. Petersburg,1521773,48900
+Catania,Otopeni,-1,-1
+Rome,Otopeni,2047516,119820
+Memmingen,Otopeni,1700188,108960
+Dusseldorf,Ivalo,3338776,178371
+Frankfurt am Main,Ivalo,3310591,177891
+Helsinki,Ivalo,1141546,57411
+Cheboksary,Moscow,1167121,44700
+Cheboksary,Moscow,1167121,44700
+Nizhny Novgorod,Moscow,762888,13620
+Crotone,Orio al Serio,1235886,44404
+Catania,Orio al Serio,1419090,52096
+Eindhoven,Orio al Serio,1086582,60183
+Copenhagen,Balice,1659211,73009
+Eindhoven,Balice,1297220,67540
+Frankfurt am Main,Balice,1023645,51409
+Copenhagen,Stockholm,637064,27360
+Frankfurt am Main,Stockholm,1626841,70080
+Geneva,Stockholm,2320651,92880
+Copenhagen,Gdansk,1149479,61320
+Dortmund,Gdansk,1076683,58320
+Malaga,Gdansk,3551175,146820
+Copenhagen,Salzburg,1463282,56520
+Eindhoven,Salzburg,976892,55740
+Frankfurt am Main,Salzburg,573482,31260
+Nottingham,Belfast,618497,46200
+Faro,Belfast,3630860,142476
+Rome,Caselle Torinese,761774,40121
+Frankfurt am Main,Caselle Torinese,827943,45240
+Eindhoven,Brindisi,1987189,84780
+Rome,Brindisi,603592,27600
+Eindhoven,Spata,2750908,159831
+Rome,Spata,2422686,131871
+Copenhagen,Cologne,933487,39360
+Rome,Cologne,1448538,58140
+Dortmund,Dubrave Gornje,-1,-1
+Memmingen,Dubrave Gornje,-1,-1
+Faro,Liverpool,-1,-1
+Geneva,Liverpool,-1,-1
+Rome,Warsaw,1839285,84420
+Frankfurt am Main,Warsaw,1238687,55500
+Dusseldorf,Rinas,1987677,124178
+Rome,Rinas,923427,68678
+Rome,Poznan,1819781,74460
+Frankfurt am Main,Poznan,796613,32690
+Dusseldorf,Prishtina,1910926,117449
+Geneva,Prishtina,1911936,130589
+Rome,Genova,680186,30900
+Barcelona,Genova,1028886,55980
+Dusseldorf,Chisinau,2008838,116554
+Rome,Chisinau,2222433,136894
+Copenhagen,Manchester,1892994,74640
+Frankfurt am Main,Manchester,1089228,48780
+Copenhagen,Oslo,558093,28680
+Frankfurt am Main,Oslo,1853836,83700
+Dortmund,Vilnius,1564667,69660
+Eindhoven,Vilnius,1697445,103723
+Rome,Segrate,621204,30540
+Frankfurt am Main,Segrate,691942,39840
+Floro,Bergen,142051,12887
+Karmoy,Bergen,154693,34772
+Moscow,Volgograd,1545280,76680
+Nizhny Novgorod,Volgograd,3376981,125100
+Saint Peter Port,Southampton,220370,19709
+Geneva,Southampton,1046917,48840
+Bologna,Craiova,1634934,104047
+Charleroi,Craiova,2130903,130447
+Cilipi,Zagreb,-1,-1
+Frankfurt am Main,Zagreb,915151,43800
+Catania,Caselle,1516404,54034
+Rome,Caselle,762511,40002
+Dortmund,Rome,1456235,54600
+Iasi,Rome,2446133,130485
+Dortmund,Ozarowice,991203,53533
+Funchal,Ozarowice,-1,-1
+Rome,Nice,882809,42240
+Rome,Olbia,664022,44880
+Rome,Palermo,932007,39920
+Rome,Marseille,-1,-1
+Saint Peter Port,Saint Helier,52966,12728
+Rome,Radome,-1,-1
+Rome,Suceava,2217221,136392
+Rome,Split,1311860,64800
+Paisley,Stornoway,-1,-1
+Rome,Lamezia Terme,618004,23400
+Frankfurt am Main,Dusseldorf,223564,6540
+Nice,Figari Sud,-1,-1
+Frankfurt am Main,Wroclaw,740088,38520
+Rome,Ronchi dei Legionari,695980,33324
+Rome,Valencia,1718298,93660
+Frankfurt am Main,Tallinn,2220175,120780
+Frankfurt am Main,Stuttgart,184811,4740
+Frankfurt am Main,Nuremberg,232085,9600
+Frankfurt am Main,Ferno,-1,-1
+Frankfurt am Main,Schkeuditz,387277,16080
+Funchal,Vila Baleira,-1,-1
+Frankfurt am Main,Kuusamo,3253990,145999
+Rome,Valletta,-1,-1
+Frankfurt am Main,Graz,732825,33300
+Frankfurt am Main,Dresden,531429,27000
+Frankfurt am Main,Bremen,536709,24060
+Faro,Paisley,-1,-1
+Rome,Lyon,1048884,51563
+Dusseldorf,Copenhagen,764787,37620
+Moscow,Sochi,2633183,82560
+Moscow,Arkhangelsk,-1,-1
+Moscow,Grozny,3147441,126600
+Moscow,Chita,-1,-1
+Moscow,Izhevsk,2136787,61260
+Moscow,Kazan,1126149,63540
+Moscow,Murmansk,4217130,126240
+Moscow,Minsk,732456,24600
+Moscow,Novokuznetsk,-1,-1
+Moscow,Perm,-1,-1
+Moscow,Penza,961728,46860
+Dortmund,Belgrade,1776872,80580
+Copenhagen,Riga,1396208,107100
+Dortmund,Olsztyn,1107875,55980
+Copenhagen,Kaunas,1776335,97221
+Rome,Memmingen,1024967,50460
+Dusseldorf,Kittila,2892534,169080
+Dusseldorf,Sta Cruz de la Palma,-1,-1
+Dusseldorf,Tromso,3170950,183317
+Copenhagen,Faro,3446739,127828
+Copenhagen,Vagar,-1,-1
+Eindhoven,Debrecen,1602048,71640
+Nottingham,Jasionka,2118973,98966
+Faro,Weeze,2877610,97080
+Rome,Alghero,-1,-1
+Rome,Ancona,310447,15900
+Copenhagen,Bolzano,1728163,66420
+Rome,Cagliari,467881,52380
+Rome,Catania,812622,35107
+Rome,Eindhoven,1591024,67560
+Geneva,Bournemouth,1093048,50700

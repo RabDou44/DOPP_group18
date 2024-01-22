@@ -1,0 +1,301 @@
+city1,city2,transit_distance [m],transit_time [s]
+Ferno,Madrid,-1,-1
+Nice,Madrid,1297402,45600
+Nantes,Madrid,836131,55500
+Paris,Madrid,1049942,55800
+Ranon,Madrid,453215,27857
+Palermo,Madrid,2286076,138900
+Pamplona,Madrid,334346,18900
+Prague,Madrid,2770259,74700
+Pisa,Madrid,1689062,75720
+Santiago de Compostela,Madrid,633390,11100
+Santander,Madrid,-1,-1
+Sofia,Madrid,3478272,163800
+Sta Cruz de la Palma,Madrid,-1,-1
+London,Madrid,1783116,70560
+Minsk,Moscow,1044496,29880
+Minsk,Moscow,1044496,29880
+Novokuznetsk,Moscow,-1,-1
+Beslan,Moscow,3308674,186975
+Orsk,Moscow,2543466,117900
+Perm,Moscow,2107130,88320
+Perm,Moscow,2107130,88320
+Petrozavodsk,Moscow,1046454,44940
+Orenburg,Moscow,1907595,94560
+Sabetta,Moscow,-1,-1
+Syktyvkar,Moscow,-1,-1
+Syktyvkar,Moscow,-1,-1
+Munich,Barcelona,1537928,55860
+Ferno,Barcelona,-1,-1
+Napoli,Barcelona,-1,-1
+Nice,Barcelona,672651,32880
+Paris,Barcelona,834126,47710
+Ranon,Barcelona,1054522,37817
+Palermo,Barcelona,1661325,126180
+Prague,Barcelona,2164088,63060
+Sofia,Barcelona,2501740,134820
+Sta Cruz de la Palma,Barcelona,-1,-1
+London,Barcelona,1503477,60960
+Munich,Malaga,2648382,81300
+Newcastle,Malaga,2656156,114600
+Weeze,Malaga,2257111,97200
+Paris,Malaga,1603347,69120
+Oslo,Malaga,3944068,156420
+Prague,Malaga,3274542,88500
+Rotterdam,Malaga,2271941,78420
+London,Malaga,2272216,83580
+Napoli,Otopeni,-1,-1
+Nykoping,Otopeni,3148807,157211
+Oradea,Otopeni,763720,50040
+Billund,Otopeni,2743271,132060
+Bologna,Otopeni,1672492,102420
+Rome,Otopeni,2047516,119820
+Gatwick,Otopeni,2981091,142620
+London,Otopeni,2688075,138420
+Munich,Valencia,1890955,72420
+Napoli,Valencia,1941299,100402
+Paris,Valencia,1134635,64630
+Palermo,Valencia,2024250,141180
+Pisa,Valencia,1429572,80640
+Santiago de Compostela,Valencia,1030811,21780
+London,Valencia,1850158,77520
+Munich,Thessaloniki,1592447,95820
+Weeze,Thessaloniki,2190249,120000
+Nuremberg,Thessaloniki,1681447,99240
+Rhodes,Thessaloniki,-1,-1
+Stuttgart,Thessaloniki,1886166,103800
+London,Thessaloniki,2804245,146100
+Ferno,Zurich,-1,-1
+Nice,Zurich,650132,41520
+Ohrid,Zurich,1762571,130483
+Oslo,Zurich,2085052,83100
+Pula,Zurich,780728,41400
+Ilinden,Zurich,-1,-1
+Ferno,Postage,-1,-1
+Madrid,Postage,-1,-1
+Paris,Postage,-1,-1
+Ponta Delgada,Postage,-1,-1
+Pisa,Postage,-1,-1
+London,Postage,-1,-1
+Ferno,Amsterdam,-1,-1
+Nantes,Amsterdam,938884,39540
+Oslo,Amsterdam,1553365,69300
+Riga,Amsterdam,1969393,89100
+Split,Amsterdam,1862066,83700
+London,Amsterdam,535353,35760
+Ferno,Alicante,-1,-1
+Newcastle,Alicante,-1,-1
+Oslo,Alicante,3929227,157140
+Rotterdam,Alicante,-1,-1
+Sofia,Alicante,2959639,163800
+London,Alicante,2251643,80880
+Minsk,St. Petersburg,1038523,71340
+Nizhnekamsk,St. Petersburg,-1,-1
+Perm,St. Petersburg,3643201,114600
+Orenburg,St. Petersburg,2550610,113400
+Syktyvkar,St. Petersburg,3224544,181080
+Simferopol,St. Petersburg,-1,-1
+Alicante,Munich,2497066,85380
+Stockholm,Munich,1948285,70200
+Dresden,Munich,601902,28200
+Ferno,Munich,-1,-1
+Sibiu,Munich,1244973,64380
+Sofia,Munich,1421825,82200
+Nantes,San Bartolome,-1,-1
+Paris,San Bartolome,-1,-1
+Ranon,San Bartolome,-1,-1
+Santiago de Compostela,San Bartolome,-1,-1
+London,San Bartolome,-1,-1
+Napoli,Orio al Serio,842944,37532
+Palermo,Orio al Serio,1465761,54791
+Prague,Orio al Serio,950921,57526
+Sofia,Orio al Serio,1498358,83137
+London,Orio al Serio,1286260,69783
+Ferno,Paris,-1,-1
+Ferno,Paris,-1,-1
+Nice,Paris,940150,35460
+Oslo,Paris,2080881,81780
+Prague,Paris,1069952,36960
+Ferno,Vienna,-1,-1
+Napoli,Vienna,1489329,67822
+Riga,Vienna,1347911,75900
+Sofia,Vienna,1001505,57600
+London,Vienna,1852190,69360
+Munich,Gatwick,1362605,41640
+Ferno,Gatwick,-1,-1
+Newquay,Gatwick,481083,29700
+Paris,Gatwick,443282,33600
+Sofia,Gatwick,-1,-1
+Munich,El Matorral,-1,-1
+Ferno,El Matorral,-1,-1
+Newcastle,El Matorral,-1,-1
+Nantes,El Matorral,-1,-1
+London,El Matorral,-1,-1
+Nantes,Geneva,924501,42240
+Prague,Geneva,988856,46020
+Riga,Geneva,2276759,122580
+Southend,Geneva,979054,44760
+London,Geneva,938682,42840
+Napoli,Rome,188802,4769
+Olbia,Rome,291804,62040
+Palermo,Rome,841446,38240
+Ilinden,Rome,-1,-1
+London,Rome,1819754,77460
+Ferno,Spata,-1,-1
+Ilinden,Spata,-1,-1
+Sofia,Spata,830602,48266
+London,Spata,3664682,192958
+Napoli,Ferno,-1,-1
+Paris,Ferno,-1,-1
+Palermo,Ferno,-1,-1
+London,Ferno,-1,-1
+Ferno,Catania,-1,-1
+Napoli,Catania,539115,29789
+Sofia,Catania,-1,-1
+London,Catania,2565107,110322
+Ferno,Helsinki,-1,-1
+Oslo,Helsinki,1231790,69720
+Prague,Helsinki,-1,-1
+Riga,Helsinki,397713,31832
+Napoli,London,2138048,78982
+Palermo,London,2807239,106380
+Riga,London,2515646,129780
+Sofia,London,-1,-1
+Palermo,Napoli,639921,33702
+Sofia,Napoli,-1,-1
+London,Napoli,2032116,83482
+Napoli,Segrate,797147,34942
+Olbia,Segrate,-1,-1
+Palermo,Segrate,929198,83580
+Napoli,Charleroi,1999164,74662
+Pisa,Charleroi,1617452,69360
+Sofia,Charleroi,2209512,109740
+Munich,Bologna,546693,26100
+Palermo,Bologna,1199341,46220
+London,Bologna,1502358,66540
+Ilinden,Eindhoven,-1,-1
+Sofia,Eindhoven,2084072,106860
+London,Eindhoven,569292,36420
+Napoli,Venezia,736402,35902
+Palermo,Venezia,1294091,53540
+London,Venezia,1511372,75780
+Oslo,Stockholm,719197,34080
+Riga,Stockholm,902724,86962
+London,Stockholm,2147903,106200
+Paris,Valletta,-1,-1
+Ilinden,Valletta,-1,-1
+Sofia,Valletta,-1,-1
+Riga,Copenhagen,2061673,95160
+Ilinden,Copenhagen,-1,-1
+Sofia,Copenhagen,2262207,120840
+Sarajevo,Cologne,1598842,91980
+Ilinden,Cologne,-1,-1
+London,Cologne,741065,45360
+Riga,Salzburg,1659887,86700
+Rotterdam,Salzburg,1078237,44100
+London,Salzburg,1543725,60540
+Palermo,Memmingen,1732571,86060
+Sofia,Memmingen,1538016,88500
+Paris,Southampton,525599,38580
+Saint Helier,Southampton,233724,22872
+Oslo,Tromso,1610177,125777
+Hadsel,Tromso,401285,29308
+Palermo,Nuremberg,1786289,82040
+London,Nuremberg,993850,49440
+Ilinden,Rheinmunster,-1,-1
+Sofia,Rheinmunster,1757175,99303
+Riga,Warsaw,695996,42180
+Sofia,Warsaw,1686008,89940
+Palermo,Pisa,728139,64380
+London,Pisa,1613385,78300
+Palermo,Caselle Torinese,962387,89318
+London,Caselle Torinese,1445719,70118
+Riga,Bristol,2710123,137820
+Sofia,Bristol,-1,-1
+Riga,Lisbon,4731151,199860
+London,Lisbon,3059868,110400
+Ilinden,Bratislava,-1,-1
+London,Bratislava,1933446,75185
+Sibiu,Luton,-1,-1
+Sofia,Luton,-1,-1
+Paris,Nice,943507,39660
+Sofia,Nice,1757577,101400
+Oslo,Gothenburg,263798,13500
+London,Gothenburg,1871226,94260
+Munich,Hamburg,825097,27720
+Prishtina,Hamburg,2372666,146028
+Munich,Stuttgart,293719,7800
+Prishtina,Stuttgart,1824202,121968
+Ferno,Cagliari,-1,-1
+Parma,Cagliari,914342,66780
+Nantes,Marseille,1149919,37598
+London,Marseille,1148730,47438
+Nice,Bastia,-1,-1
+Paris,Bastia,-1,-1
+Napoli,Ronchi dei Legionari,842963,41962
+London,Ronchi dei Legionari,1665722,78924
+Ferno,Vilnius,-1,-1
+Riga,Vilnius,296757,20115
+Napoli,Sofia,-1,-1
+London,Sofia,2664554,128700
+Napoli,Balice,1911092,102179
+London,Balice,1774464,88657
+Munich,Prishtina,1262074,97529
+Ferno,Prishtina,-1,-1
+London,Viviers,1101986,28989
+London,Bydgoszcz,1553204,79680
+London,Budapest,2099835,78780
+Paris,Tarbes,745741,42857
+London,Bordeaux,964228,39900
+London,Faro,2773126,96840
+London,Billund,1374967,75180
+London,Belfast,878292,51780
+Sofia,Varna,619760,42883
+Sofia,Treviso,1136761,81120
+Ilinden,Zagreb,-1,-1
+London,Edinburgh,673363,32400
+London,Genova,1554881,67320
+London,Gdansk,1737165,88650
+London,Saint,-1,-1
+Ilinden,Frankfurt am Main,-1,-1
+London,Ozarowice,1741169,87613
+London,Lodz,1658735,84240
+London,Poznan,1401630,73620
+London,Prague,1526744,76500
+London,Riga,2374323,126466
+London,Santiago de Compostela,2377572,88620
+London,Seville,2253374,81240
+London,Olsztyn,1705150,87840
+London,Goleniow,1326851,72180
+London,Rinas,2461954,140258
+London,Torp,-1,-1
+Ilinden,Nykoping,-1,-1
+Munich,Graz,424433,18900
+Munich,Birmingham,1497170,46080
+Munich,Zaventem,825390,37920
+Paris,Montpellier,689348,35760
+Naryan Mar,Kazan,-1,-1
+Paris,Toulouse,588070,33300
+Oslo,Bergen,482204,26640
+Oslo,Stavanger,584896,32100
+Ranon,Weeze,1729418,109337
+Ponta Delgada,Horta,-1,-1
+Ponta Delgada,Vila do Porto,-1,-1
+Napoli,Palermo,339319,36288
+Ferno,Podgorica,-1,-1
+Ferno,Lamezia Terme,-1,-1
+Palermo,Caselle,962041,88902
+Orio al Serio,Pescara,656000,38264
+Vila Baleira,Funchal,-1,-1
+Vila Baleira,Oslo,-1,-1
+Ferno,Jasionka,-1,-1
+Riga,Kittila,-1,-1
+Ferno,Bacau,-1,-1
+Riga,Palanga,531085,36710
+Riga,Tallinn,319373,20492
+Otopeni,Suceava,468743,26892
+Paris,Ivalo,3889711,191151
+Bodo,Hadsel,334778,26650
+Ilinden,Belgrade,-1,-1
+Munich,Greven,768915,38400
+London,Vigo,2472931,92220
