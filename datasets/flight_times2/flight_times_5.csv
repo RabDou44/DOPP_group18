@@ -1,0 +1,270 @@
+departure city,arrival city
+Romford,Vilnius
+Romford,Verona
+Romford,Warsaw
+Romford,Wrocław
+Romford,Graz
+Romford,Zaragoza
+Bucharest,Stuttgart
+Thessaloníki,Stuttgart
+Stavanger,Alicante
+Stavanger,Hoofddorp
+Stavanger,Bergen
+Stavanger,Gdynia
+Stavanger,Oslo
+Trondheim,Trondheim
+Arkhangelsk,Khimki
+Khimki,Cherepovets
+Chelyabinsk,Khimki
+Khimki,Groznyy
+Izhevsk,Khimki
+Khimki,Kaliningrad
+Krasnoyarsk,Khimki
+Khimki,Samara
+Khimki,Saint Petersburg
+Khimki,Murmansk
+Khimki,Magnitogorsk
+Khimki,Naberezhnyye Chelny
+Khimki,Stavropol
+Dos Hermanas,Las Palmas
+Dos Hermanas,Barcelona
+Dos Hermanas,Bergamo
+Dos Hermanas,Paris
+Dos Hermanas,Rome
+Dos Hermanas,Catania
+Dos Hermanas,Las Palmas
+Dos Hermanas,Torrejón de Ardoz
+Dos Hermanas,Sale
+Dos Hermanas,Milan
+Dos Hermanas,Nuremberg
+Dos Hermanas,Paris
+Dos Hermanas,Livorno
+Dos Hermanas,Romford
+Dos Hermanas,Warsaw
+Salzburg,Hoofddorp
+Salzburg,Uppsala
+Salzburg,Bristol
+Salzburg,Hamburg
+Salzburg,Vantaa
+Salzburg,Croydon
+Szczecin,Oslo
+La Laguna,La Laguna
+La Laguna,La Laguna
+Kamëz,Uppsala
+Kamëz,Athens
+Kamëz,Barcelona
+Kamëz,Bergamo
+Kamëz,Bologna
+Kamëz,Bari
+Kamëz,Amiens
+Kamëz,Rome
+Kamëz,Charleroi
+Kamëz,Aberdeen
+Kamëz,Rome
+Kamëz,Genoa
+Kamëz,Hamburg
+Kamëz,Saarbrücken
+Kamëz,Luton
+Kamëz,Villeurbanne
+Kamëz,Milan
+Kamëz,Nuremberg
+Kamëz,Perugia
+Kamëz,Livorno
+Kamëz,Romford
+Kamëz,Trieste
+Kamëz,Venice
+Kamëz,Verona
+Tallinn,Uppsala
+Tallinn,Geneva
+Tallinn,Vantaa
+Tallinn,Croydon
+Toulouse,Bordeaux
+Toulouse,Torrejón de Ardoz
+Toulouse,Siracusa
+Toulouse,Munich
+Tampere,Hoofddorp
+Tampere,Tallinn
+Oulu,Bergen
+Oulu,Gdynia
+Trondheim,Alicante
+Trondheim,Hoofddorp
+Trondheim,Bergen
+Trondheim,Trondheim
+Trondheim,Vantaa
+Trondheim,Oslo
+Oslo,Hoofddorp
+Oslo,Bergen
+Oslo,Warsaw
+Oslo,Warsaw
+Turin,Uppsala
+Turin,Barcelona
+Turin,Taranto
+Turin,Cagliari
+Turin,Catania
+Turin,Gothenburg
+Turin,Croydon
+Turin,Torrejón de Ardoz
+Turin,Munich
+Turin,Bucharest
+Turin,Reggio di Calabria
+Turin,Vilnius
+Venice,Amiens
+Venice,Charleroi
+Venice,Siracusa
+Venice,Marseille
+Venice,Bucharest
+Venice,Sofia
+Venice,Kamëz
+Venice,Vienna
+Venice,Valencia
+Timişoara,Bergamo
+Timişoara,Amiens
+Timişoara,Bucharest
+Tours,Romford
+Ufa,Sochi
+Ufa,Domodedovo
+Ufa,Krasnoyarsk
+Ufa,Saint Petersburg
+Ufa,Khimki
+Ufa,Odintsovo
+Ulyanovsk,Saint Petersburg
+Ulyanovsk,Khimki
+Ulyanovsk,Odintsovo
+Turku,Uppsala
+Almetyevsk,Odintsovo
+Tampere,Vantaa
+Bonn,Varna
+Varna,Hamburg
+Venice,Hoofddorp
+Venice,Barcelona
+Venice,Bari
+Venice,Paris
+Venice,Catania
+Venice,Aberdeen
+Venice,Rome
+Venice,Frankfurt
+Venice,Harrow
+Venice,Odivelas
+Venice,Torrejón de Ardoz
+Venice,Sale
+Venice,Munich
+Venice,Naples
+Venice,Paris
+Venice,Palermo
+Venice,Skopje
+Venice,Romford
+Venice,Reggio di Calabria
+Vigo,Barcelona
+Vigo,Torrejón de Ardoz
+Vienna,Málaga
+Vienna,Athens
+Vienna,Barcelona
+Vienna,Bergamo
+Vienna,Brussels
+Vienna,Paris
+Vienna,Cluj-Napoca
+Vienna,Las Palmas
+Vienna,Geneva
+Vienna,Hamburg
+Vienna,Vantaa
+Vienna,Ljubljana
+Vienna,Croydon
+Vienna,Saarbrücken
+Vienna,Torrejón de Ardoz
+Vienna,Siracusa
+Vienna,Munich
+Vienna,Milan
+Vienna,Bucharest
+Vienna,Santander
+Vienna,Stuttgart
+Vienna,Tallinn
+Vienna,Oulu
+Vienna,Zürich
+Odintsovo,Groznyy
+Kaliningrad,Odintsovo
+Odintsovo,Samara
+Odintsovo,Saint Petersburg
+Odintsovo,Murmansk
+Naberezhnyye Chelny,Odintsovo
+Valencia,Bologna
+Valencia,Brussels
+Valencia,Torrejón de Ardoz
+Valencia,Maia
+Vilnius,Málaga
+Vilnius,Amiens
+Vilnius,Vantaa
+Vilnius,Munich
+Volgograd,Saint Petersburg
+Volgograd,Khimki
+Volgograd,Odintsovo
+Voronezh,Saint Petersburg
+Verona,Gdynia
+Verona,Poznań
+Verona,Reggio di Calabria
+Coimbra,Oeiras
+Coimbra,Aves
+Warsaw,Hoofddorp
+Warsaw,Athens
+Warsaw,Barcelona
+Warsaw,Bergamo
+Warsaw,Brussels
+Warsaw,Budapest
+Warsaw,Paris
+Warsaw,Cluj-Napoca
+Warsaw,Las Palmas
+Warsaw,Gdynia
+Warsaw,Grenoble
+Warsaw,Geneva
+Warsaw,Vantaa
+Warsaw,Kraków
+Warsaw,Sosnowiec
+Warsaw,Harrow
+Warsaw,Ljubljana
+Warsaw,Luton
+Warsaw,Munich
+Warsaw,Bucharest
+Warsaw,Prague
+Warsaw,Tallinn
+Warsaw,Vilnius
+Warsaw,Verona
+Warsaw,Wrocław
+Warsaw,Zürich
+Warsaw,Málaga
+Warsaw,Barcelona
+Warsaw,Rome
+Warsaw,Charleroi
+Wrocław,Málaga
+Wrocław,Solihull
+Amiens,Wrocław
+Wrocław,Valencia
+Jerez de la Frontera,Barcelona
+Jerez de la Frontera,Torrejón de Ardoz
+Graz,Hoofddorp
+Graz,Charleroi
+Graz,Saarbrücken
+Graz,Harrow
+Graz,Munich
+Graz,Novi Sad
+Graz,Foggia
+Graz,Vienna
+Graz,Zürich
+Zaragoza,Amiens
+Zürich,Málaga
+Zürich,Uppsala
+Zürich,Barcelona
+Zürich,Bologna
+Zürich,Brussels
+Zürich,Paris
+Zürich,Aberdeen
+Zürich,Gothenburg
+Zürich,Geneva
+Zürich,Hamburg
+Zürich,Vantaa
+Zürich,Torrejón de Ardoz
+Zürich,Munich
+Zürich,Maia
+Zürich,Bucharest
+Zürich,Pristina
+Zürich,Oulu
+Zürich,Stuttgart
+Pátra,Athens

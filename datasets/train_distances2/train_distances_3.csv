@@ -1,0 +1,301 @@
+departure city,arrival city,transit_distance [m],transit_time [s]
+Palma,Torrejón de Ardoz,-1,-1
+A Coruña,Torrejón de Ardoz,730790,15240
+Almería,Torrejón de Ardoz,451486,27403
+Harrow,Torrejón de Ardoz,2149367,75480
+Milan,Torrejón de Ardoz,1699809,61980
+Odivelas,Torrejón de Ardoz,924675,40958
+Villeurbanne,Torrejón de Ardoz,1267801,42060
+Málaga,Torrejón de Ardoz,470699,29340
+Barcelona,Torrejón de Ardoz,555063,30240
+Bologna,Torrejón de Ardoz,1934291,76320
+Bordeaux,Torrejón de Ardoz,702263,34746
+Brussels,Torrejón de Ardoz,1744597,61560
+Las Palmas,Torrejón de Ardoz,-1,-1
+Hamburg,Torrejón de Ardoz,2434398,79620
+Croydon,Torrejón de Ardoz,2145573,75540
+Maia,Torrejón de Ardoz,-1,-1
+Sale,Torrejón de Ardoz,-1,-1
+Siracusa,Torrejón de Ardoz,3035335,128255
+Marseille,Torrejón de Ardoz,1055895,39540
+Ivanovo,Saint Petersburg,1174896,35040
+Kaliningrad,Saint Petersburg,2104572,98520
+Krasnoyarsk,Saint Petersburg,6190048,226260
+Samara,Saint Petersburg,1836132,72600
+Kirov,Saint Petersburg,1946517,82140
+Kazan,Saint Petersburg,2703474,89700
+Cherepovets,Saint Petersburg,615009,36934
+Murmansk,Saint Petersburg,2036611,86220
+Kaspiysk,Saint Petersburg,-1,-1
+Pyatigorsk,Saint Petersburg,3397166,109500
+Palma,Barcelona,-1,-1
+Kraków,Barcelona,2403062,102199
+Harrow,Barcelona,1520859,61860
+Odivelas,Barcelona,1508224,50318
+Liverpool,Barcelona,-1,-1
+Luton,Barcelona,1549673,61320
+Palma,Barcelona,-1,-1
+Sale,Barcelona,-1,-1
+Siracusa,Barcelona,2383723,111875
+Innsbruck,Croydon,-1,-1
+Aberdeen,Croydon,970196,35880
+Kraków,Croydon,1734219,69240
+Málaga,Croydon,2289672,82860
+Barcelona,Croydon,1598663,54668
+Rennes,Croydon,839170,33480
+Bucharest,Croydon,-1,-1
+Odivelas,Croydon,3024251,116558
+Siracusa,Croydon,2799997,108180
+Chisinau,Paris,2597046,123754
+Milan,Paris,908935,32820
+Odivelas,Paris,2597132,75698
+Odivelas,Paris,2597132,75698
+Villeurbanne,Paris,396686,22320
+Sale,Paris,-1,-1
+Montpellier,Paris,685655,24840
+Marseille,Paris,770369,32056
+Marseille,Paris,770369,32056
+Kraków,Málaga,3554283,131160
+Liège,Málaga,2310327,79620
+Harrow,Málaga,2635892,87300
+Luton,Málaga,2664706,86760
+Saarbrücken,Málaga,2299023,73829
+Sale,Málaga,-1,-1
+Almería,Málaga,214838,18763
+Marseille,Málaga,1550556,48360
+Kraków,Hoofddorp,1215450,59400
+Stavanger,Hoofddorp,1447870,87611
+Bradford,Hoofddorp,916864,42360
+Harrow,Hoofddorp,593433,17580
+Milan,Hoofddorp,1427321,47100
+Odivelas,Hoofddorp,3077481,109178
+Sale,Hoofddorp,-1,-1
+Montpellier,Hoofddorp,1209986,37200
+Iaşi,Bucharest,463877,26145
+Chisinau,Bucharest,463407,28800
+Harrow,Bucharest,2986902,133620
+Liverpool,Bucharest,-1,-1
+Luton,Bucharest,2968157,139020
+Siracusa,Bucharest,-1,-1
+Marseille,Bucharest,2498147,140160
+Vlorë,Athens,-1,-1
+Athens,Athens,-1,-1
+Irákleio,Athens,10843,1672
+Bodrum,Athens,-1,-1
+Sosnowiec,Athens,1969879,124560
+Harrow,Athens,3699151,202546
+Menemen,Athens,-1,-1
+Innsbruck,Aberdeen,-1,-1
+Kraków,Aberdeen,2564903,97200
+Harrow,Aberdeen,836895,40260
+Harrow,Aberdeen,836895,40260
+Luton,Aberdeen,848661,43380
+Villeurbanne,Aberdeen,1817182,63300
+Siracusa,Aberdeen,3619766,132840
+Kuopio,Vantaa,416777,13980
+Oulu,Vantaa,663769,26580
+Kuopio,Vantaa,416777,13980
+Milan,Vantaa,2802898,144840
+Odivelas,Vantaa,5485545,230858
+Sale,Vantaa,-1,-1
+Krasnoyarsk,Odintsovo,-1,-1
+Krasnodar,Odintsovo,-1,-1
+Kirov,Odintsovo,-1,-1
+Kazan,Odintsovo,-1,-1
+Kaspiysk,Odintsovo,-1,-1
+Pyatigorsk,Odintsovo,-1,-1
+Sosnowiec,Siracusa,2499073,112980
+Harrow,Siracusa,2646451,114600
+Milan,Siracusa,1357587,46835
+Odivelas,Siracusa,3919909,164918
+Sale,Siracusa,-1,-1
+Niš,Siracusa,-1,-1
+Krasnodar,Khimki,2415332,86760
+Kirov,Khimki,2078392,104160
+Kazan,Khimki,829589,75660
+Kaspiysk,Khimki,-1,-1
+Pyatigorsk,Khimki,2754203,115920
+Kraków,Bergamo,1289330,62640
+Kaunas,Bergamo,2152058,99871
+Odivelas,Bergamo,-1,-1
+Saarbrücken,Bergamo,614946,36209
+Siracusa,Bergamo,1410526,51155
+Kraków,Uppsala,-1,-1
+Harrow,Uppsala,2247502,110760
+Oulu,Uppsala,1332935,54840
+Villeurbanne,Uppsala,2624303,110340
+Malmö,Uppsala,666293,20520
+Harrow,Belfast,860006,51060
+Luton,Belfast,879925,54660
+Sale,Belfast,-1,-1
+Sale,Belfast,-1,-1
+Sale,Belfast,-1,-1
+Harrow,Geneva,956064,43740
+Lille,Geneva,748663,23359
+Odivelas,Geneva,2332442,79958
+Luton,Geneva,984878,43200
+Sale,Geneva,-1,-1
+Milan,Munich,499178,25200
+Odivelas,Munich,3548186,116618
+Villeurbanne,Munich,956389,51720
+Sale,Munich,-1,-1
+Siracusa,Munich,1567010,71975
+Sosnowiec,Alicante,-1,-1
+Bradford,Alicante,-1,-1
+Odivelas,Alicante,1187211,51218
+Sale,Alicante,-1,-1
+Marseille,Alicante,938395,48480
+Bradford,Las Palmas,-1,-1
+Saarbrücken,Las Palmas,-1,-1
+Villeurbanne,Las Palmas,-1,-1
+Sale,Las Palmas,-1,-1
+Sale,Las Palmas,-1,-1
+Chisinau,Odivelas,4383663,193472
+Harrow,Odivelas,2369986,89340
+Sale,Odivelas,-1,-1
+Marseille,Odivelas,1604236,74479
+Belfast,Harrow,732311,51060
+Basel,Harrow,899074,40260
+Odivelas,Harrow,3029450,117038
+Sale,Harrow,-1,-1
+Innsbruck,Vienna,501046,18840
+Kraków,Vienna,476731,24000
+Harrow,Vienna,1561216,51420
+Odivelas,Vienna,-1,-1
+Kraków,Livorno,1383144,65880
+Siracusa,Livorno,1090373,48275
+Marseille,Livorno,488176,29400
+Marseille,Livorno,488176,29400
+Harrow,Brussels,396243,10680
+Milan,Brussels,1229948,40800
+Odivelas,Brussels,2928381,84998
+Siracusa,Brussels,2506473,94355
+Kraków,Luton,1761112,69060
+Sosnowiec,Luton,1692269,70440
+Cluj-Napoca,Luton,2443990,126300
+Lublin,Luton,1916809,75497
+Oulu,Zürich,3477712,148500
+Harrow,Zürich,1136226,32580
+Odivelas,Zürich,2606085,93758
+Siracusa,Zürich,1587246,76200
+Odivelas,Bonn,3101686,110978
+Sale,Bonn,-1,-1
+Siracusa,Bonn,2126957,93155
+Sosnowiec,Catania,2435111,109602
+Milan,Catania,1288953,43711
+Siracusa,Catania,58822,3000
+Odivelas,La Laguna,-1,-1
+Odivelas,La Laguna,-1,-1
+Sale,La Laguna,-1,-1
+Kraków,Oslo,2021481,85560
+Harrow,Oslo,2089335,109620
+Odivelas,Oslo,4695238,174638
+Palma,Valencia,-1,-1
+Kraków,Valencia,2764299,121200
+Odivelas,Valencia,1308442,47798
+Harrow,Grenoble,1084122,29760
+Luton,Grenoble,1113755,28860
+Sale,Grenoble,-1,-1
+Harrow,Milan,1310938,62400
+Harrow,Milan,1310938,62400
+Odivelas,Milan,-1,-1
+Harrow,Villeurbanne,864490,44520
+Odivelas,Villeurbanne,2176442,71498
+Marseille,Villeurbanne,340700,19156
+Kraków,Charleroi,1389174,58740
+Siracusa,Charleroi,2556423,98375
+Marseille,Charleroi,1145267,39376
+Kraków,Rome,1522446,66240
+Odivelas,Rome,3236718,125678
+Sale,Rome,-1,-1
+Sale,Budapest,-1,-1
+Marseille,Budapest,1529588,75120
+Odivelas,Maia,-1,-1
+Saarbrücken,Maia,-1,-1
+Luton,Wrocław,1581289,76500
+Sale,Wrocław,-1,-1
+Harrow,Salzburg,1410690,48960
+Sale,Salzburg,-1,-1
+Bradford,Poznań,-1,-1
+Sale,Poznań,-1,-1
+Bradford,Kraków,2165054,102420
+Sale,Kraków,-1,-1
+Bradford,Annecy,1431123,49800
+Sale,Annecy,-1,-1
+Alicante,Liverpool,-1,-1
+Oulu,Liverpool,-1,-1
+Kazan,Samara,-1,-1
+Pyatigorsk,Samara,2941396,159600
+Kaspiysk,Domodedovo,-1,-1
+Pyatigorsk,Domodedovo,3441247,172260
+Milan,Reggio di Calabria,1200438,32640
+Milan,Reggio di Calabria,1200438,32640
+Innsbruck,Frankfurt,763315,27360
+Sale,Frankfurt,-1,-1
+Liverpool,Gdynia,-1,-1
+Luton,Gdynia,1892732,76860
+Kraków,Toulouse,2738627,84720
+Harrow,Toulouse,1253679,51660
+Kraków,Bologna,1208730,58140
+Harrow,Bologna,1519740,67440
+Croydon,Rennes,806881,39960
+Southampton,Rennes,-1,-1
+Kraków,Cagliari,2012814,120600
+Milan,Cagliari,1033905,64800
+Kraków,Gothenburg,2044976,79800
+Harrow,Gothenburg,1840594,96120
+Kraków,Warsaw,373084,15480
+Odivelas,Warsaw,4212716,143438
+Košice,Prague,762175,37560
+Sale,Prague,-1,-1
+Pyatigorsk,Naberezhnyye Chelny,3837118,231420
+Pyatigorsk,Perm,5455549,194580
+Pyatigorsk,Magnitogorsk,4418158,223260
+Luton,Oulu,3200629,171300
+Pyatigorsk,Ufa,-1,-1
+Pyatigorsk,Kaluga,-1,-1
+Luton,Vilnius,2340837,101083
+Pyatigorsk,Chelyabinsk,5318757,250620
+Luton,Chernivtsi,2303908,100380
+Almería,Granada,124037,11563
+Pyatigorsk,Cherepovets,-1,-1
+Luton,Pristina,2778574,154589
+Pyatigorsk,Sochi,1170626,37980
+Sale,Murcia,-1,-1
+Sale,Rzeszów,-1,-1
+Marseille,Nantes,1188649,40516
+Sale,Santander,-1,-1
+Sale,Dos Hermanas,-1,-1
+Malmö,Stockholm,596273,16560
+Sale,Venice,-1,-1
+Sale,Verona,-1,-1
+Almería,Almería,-1,-1
+Sale,Copenhagen,-1,-1
+Saarbrücken,Niš,1659886,97957
+Luton,Iaşi,2587092,154107
+Innsbruck,Sale,-1,-1
+Bodrum,Thessaloníki,-1,-1
+Murmansk,Murmansk,-1,-1
+Bodrum,Bodrum,-1,-1
+Odintsovo,Kaliningrad,-1,-1
+Kraków,Solihull,1894583,75476
+Kraków,Amiens,1977317,68880
+Kraków,Eindhoven,1237783,59040
+Kraków,Lille,1444212,60060
+Kraków,Norrköping,-1,-1
+Kraków,Kamëz,-1,-1
+Stavanger,Bergen,206341,19074
+Athens,Plovdiv,887784,50700
+Odivelas,Saarbrücken,3002941,106009
+Innsbruck,Bristol,-1,-1
+Bradford,Huelva,2698998,123360
+Las Palmas,Leipzig,-1,-1
+Harrow,Aarhus,1378193,72172
+Harrow,Algeciras,2692581,114900
+Niš,Ljubljana,767692,55152
+Khimki,Krasnoyarsk,7058761,242940
+Harrow,Nice,1400565,52560
+Harrow,Gateshead,417046,25740
+Milan,Taranto,1139485,49200
+Odivelas,Bordeaux,1574034,76418
+Pyatigorsk,Volgograd,1387950,83580

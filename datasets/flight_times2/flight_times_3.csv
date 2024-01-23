@@ -1,0 +1,301 @@
+departure city,arrival city
+Iaşi,Bucharest
+Palma,Barcelona
+Palma,Torrejón de Ardoz
+Palma,Valencia
+Saarbrücken,Niš
+Niš,Ljubljana
+Innsbruck,Bristol
+Innsbruck,Aberdeen
+Innsbruck,Frankfurt
+Innsbruck,Croydon
+Innsbruck,Sale
+Innsbruck,Vienna
+Aberdeen,Croydon
+Vlorë,Athens
+Belfast,Harrow
+Ivanovo,Saint Petersburg
+Croydon,Rennes
+Southampton,Rennes
+Athens,Athens
+Irákleio,Athens
+Kuopio,Vantaa
+Kaliningrad,Saint Petersburg
+Odintsovo,Kaliningrad
+Bodrum,Athens
+Bodrum,Bodrum
+Bodrum,Thessaloníki
+Chisinau,Paris
+Chisinau,Odivelas
+Chisinau,Bucharest
+Krasnoyarsk,Saint Petersburg
+Khimki,Krasnoyarsk
+Krasnoyarsk,Odintsovo
+Murmansk,Murmansk
+Kraków,Málaga
+Kraków,Hoofddorp
+Kraków,Uppsala
+Kraków,Barcelona
+Kraków,Bergamo
+Kraków,Solihull
+Kraków,Bologna
+Kraków,Amiens
+Kraków,Cagliari
+Kraków,Rome
+Kraków,Charleroi
+Kraków,Aberdeen
+Kraków,Eindhoven
+Kraków,Gothenburg
+Kraków,Croydon
+Kraków,Lille
+Kraków,Luton
+Kraków,Norrköping
+Kraków,Oslo
+Kraków,Livorno
+Kraków,Kamëz
+Kraków,Toulouse
+Kraków,Vienna
+Kraków,Valencia
+Kraków,Warsaw
+Krasnodar,Khimki
+Krasnodar,Odintsovo
+Stavanger,Hoofddorp
+Stavanger,Bergen
+Košice,Prague
+Oulu,Vantaa
+Oulu,Zürich
+Sosnowiec,Alicante
+Sosnowiec,Athens
+Sosnowiec,Catania
+Sosnowiec,Luton
+Sosnowiec,Siracusa
+Samara,Saint Petersburg
+Kaunas,Bergamo
+Kuopio,Vantaa
+Athens,Plovdiv
+Kirov,Saint Petersburg
+Kirov,Khimki
+Kirov,Odintsovo
+Kazan,Samara
+Kazan,Saint Petersburg
+Kazan,Khimki
+Kazan,Odintsovo
+Bradford,Las Palmas
+Bradford,Alicante
+Bradford,Hoofddorp
+Bradford,Annecy
+Bradford,Huelva
+Bradford,Kraków
+Bradford,Poznań
+A Coruña,Torrejón de Ardoz
+Cherepovets,Saint Petersburg
+Murmansk,Saint Petersburg
+Almería,Torrejón de Ardoz
+Las Palmas,Leipzig
+Liège,Málaga
+Málaga,Croydon
+Barcelona,Croydon
+Rennes,Croydon
+Bucharest,Croydon
+Harrow,Aberdeen
+Harrow,Málaga
+Harrow,Hoofddorp
+Harrow,Uppsala
+Harrow,Athens
+Harrow,Barcelona
+Harrow,Aarhus
+Harrow,Bologna
+Harrow,Brussels
+Basel,Harrow
+Harrow,Aberdeen
+Harrow,Algeciras
+Harrow,Belfast
+Harrow,Grenoble
+Harrow,Gothenburg
+Harrow,Geneva
+Harrow,Milan
+Odivelas,Harrow
+Harrow,Villeurbanne
+Harrow,Torrejón de Ardoz
+Harrow,Siracusa
+Harrow,Milan
+Harrow,Nice
+Harrow,Gateshead
+Harrow,Oslo
+Harrow,Bucharest
+Harrow,Salzburg
+Harrow,Toulouse
+Harrow,Vienna
+Harrow,Zürich
+Lille,Geneva
+Milan,Hoofddorp
+Milan,Taranto
+Milan,Brussels
+Milan,Cagliari
+Milan,Paris
+Milan,Catania
+Milan,Vantaa
+Milan,Torrejón de Ardoz
+Milan,Siracusa
+Milan,Munich
+Milan,Reggio di Calabria
+Milan,Reggio di Calabria
+Odivelas,Alicante
+Odivelas,Hoofddorp
+Odivelas,Barcelona
+Odivelas,Bergamo
+Odivelas,Bordeaux
+Odivelas,Brussels
+Odivelas,Paris
+Odivelas,Bonn
+Odivelas,Rome
+Odivelas,Geneva
+Odivelas,Vantaa
+Odivelas,Croydon
+Harrow,Odivelas
+Odivelas,Saarbrücken
+Odivelas,Villeurbanne
+Odivelas,Torrejón de Ardoz
+Odivelas,Siracusa
+Odivelas,Munich
+Odivelas,Milan
+Odivelas,Maia
+Odivelas,Paris
+Odivelas,Oslo
+Odivelas,La Laguna
+Odivelas,La Laguna
+Odivelas,Vienna
+Odivelas,Valencia
+Odivelas,Warsaw
+Odivelas,Zürich
+Oulu,Uppsala
+Alicante,Liverpool
+Liverpool,Barcelona
+Liverpool,Gdynia
+Liverpool,Bucharest
+Oulu,Liverpool
+Luton,Málaga
+Luton,Barcelona
+Luton,Belfast
+Cluj-Napoca,Luton
+Luton,Aberdeen
+Luton,Gdynia
+Luton,Grenoble
+Luton,Geneva
+Luton,Iaşi
+Luton,Bucharest
+Luton,Pristina
+Luton,Chernivtsi
+Luton,Oulu
+Luton,Vilnius
+Luton,Wrocław
+Saarbrücken,Málaga
+Saarbrücken,Bergamo
+Saarbrücken,Las Palmas
+Saarbrücken,Maia
+Lublin,Luton
+Villeurbanne,Las Palmas
+Villeurbanne,Uppsala
+Villeurbanne,Paris
+Villeurbanne,Aberdeen
+Villeurbanne,Torrejón de Ardoz
+Villeurbanne,Munich
+Málaga,Torrejón de Ardoz
+Barcelona,Torrejón de Ardoz
+Bologna,Torrejón de Ardoz
+Bordeaux,Torrejón de Ardoz
+Brussels,Torrejón de Ardoz
+Las Palmas,Torrejón de Ardoz
+Hamburg,Torrejón de Ardoz
+Croydon,Torrejón de Ardoz
+Maia,Torrejón de Ardoz
+Palma,Barcelona
+Sale,Las Palmas
+Sale,Málaga
+Sale,Alicante
+Sale,Hoofddorp
+Sale,Barcelona
+Sale,Belfast
+Sale,Belfast
+Sale,Budapest
+Sale,Paris
+Sale,Bonn
+Sale,Rome
+Sale,Annecy
+Sale,Copenhagen
+Sale,La Laguna
+Sale,Frankfurt
+Sale,Las Palmas
+Sale,Grenoble
+Sale,Geneva
+Sale,Vantaa
+Sale,Belfast
+Sale,Kraków
+Sale,Harrow
+Sale,Odivelas
+Sale,Torrejón de Ardoz
+Sale,Siracusa
+Sale,Munich
+Sale,Poznań
+Sale,Prague
+Sale,Murcia
+Sale,Rzeszów
+Sale,Santander
+Sale,Dos Hermanas
+Sale,Salzburg
+Sale,Venice
+Sale,Verona
+Sale,Wrocław
+Kaspiysk,Domodedovo
+Kaspiysk,Saint Petersburg
+Kaspiysk,Khimki
+Kaspiysk,Odintsovo
+Menemen,Athens
+Siracusa,Barcelona
+Siracusa,Bergamo
+Siracusa,Brussels
+Siracusa,Bonn
+Siracusa,Charleroi
+Siracusa,Catania
+Siracusa,Aberdeen
+Niš,Siracusa
+Siracusa,Croydon
+Siracusa,Torrejón de Ardoz
+Siracusa,Munich
+Siracusa,Bucharest
+Siracusa,Livorno
+Siracusa,Zürich
+Almería,Málaga
+Almería,Granada
+Almería,Almería
+Malmö,Uppsala
+Malmö,Stockholm
+Montpellier,Hoofddorp
+Montpellier,Paris
+Marseille,Málaga
+Marseille,Livorno
+Marseille,Alicante
+Marseille,Livorno
+Marseille,Budapest
+Marseille,Paris
+Marseille,Charleroi
+Marseille,Odivelas
+Marseille,Villeurbanne
+Marseille,Torrejón de Ardoz
+Marseille,Nantes
+Marseille,Paris
+Marseille,Bucharest
+Pyatigorsk,Sochi
+Pyatigorsk,Cherepovets
+Pyatigorsk,Chelyabinsk
+Pyatigorsk,Domodedovo
+Pyatigorsk,Kaluga
+Pyatigorsk,Samara
+Pyatigorsk,Saint Petersburg
+Pyatigorsk,Magnitogorsk
+Pyatigorsk,Naberezhnyye Chelny
+Pyatigorsk,Perm
+Pyatigorsk,Khimki
+Pyatigorsk,Ufa
+Pyatigorsk,Odintsovo
+Pyatigorsk,Volgograd

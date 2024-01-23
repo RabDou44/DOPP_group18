@@ -1,0 +1,301 @@
+departure city,arrival city
+Aarhus,Hoofddorp
+Novorossiysk,Saint Petersburg
+Hoofddorp,Aberdeen
+Aberdeen,Croydon
+Las Palmas,Málaga
+Las Palmas,Barcelona
+Las Palmas,Belfast
+Las Palmas,Bergamo
+Las Palmas,Solihull
+Las Palmas,Bordeaux
+Las Palmas,Brussels
+Las Palmas,Paris
+Las Palmas,Charleroi
+Las Palmas,Aberdeen
+Las Palmas,Hamburg
+Las Palmas,Croydon
+Las Palmas,Liverpool
+Las Palmas,Luton
+Las Palmas,Torrejón de Ardoz
+Las Palmas,Oslo
+Bournemouth,Bournemouth
+Bournemouth,Southampton
+Sochi,Cherepovets
+Sochi,Domodedovo
+Sochi,Krasnoyarsk
+Sochi,Kazan
+Sochi,Saint Petersburg
+Sochi,Perm
+Sochi,Pskov
+Sochi,Khimki
+Sochi,Odintsovo
+Sochi,Lyubertsy
+Bergen,Alicante
+Bergen,Bergen
+Barcelona,Málaga
+Bordeaux,Málaga
+Gothenburg,Málaga
+Hamburg,Málaga
+Croydon,Málaga
+Torrejón de Ardoz,Málaga
+Cagliari,Bergamo
+Cagliari,Rome
+Cagliari,Milan
+Livorno,Marseille
+Livorno,Nice
+Livorno,Paris
+Alicante,Barcelona
+Bergamo,Alicante
+Alicante,Solihull
+Bristol,Alicante
+Alicante,Brussels
+Bristol,Alicante
+Alicante,Gdynia
+Alicante,Gothenburg
+Alicante,Hamburg
+Alicante,Croydon
+Liverpool,Alicante
+Alicante,Torrejón de Ardoz
+Alicante,Maastricht
+Alicante,Maia
+Alicante,Bucharest
+Alicante,Warsaw
+Aberdeen,Hoofddorp
+Hoofddorp,Málaga
+Hoofddorp,Alicante
+Hoofddorp,Uppsala
+Athens,Hoofddorp
+Hoofddorp,Barcelona
+Hoofddorp,Bergen
+Hoofddorp,Solihull
+Hoofddorp,Aarhus
+Hoofddorp,Burgas
+Hoofddorp,Bristol
+Hoofddorp,Paris
+Hoofddorp,Bristol
+Hoofddorp,Florence
+Hoofddorp,Las Palmas
+Hoofddorp,Gdynia
+Hoofddorp,Geneva
+Hoofddorp,Hamburg
+Hoofddorp,Vantaa
+Hoofddorp,Croydon
+Luton,Hoofddorp
+Hoofddorp,Munich
+Hoofddorp,Norwich
+Hoofddorp,Maia
+Hoofddorp,Bucharest
+Hoofddorp,Prague
+Hoofddorp,Oulu
+Hoofddorp,Southampton
+Hoofddorp,Valencia
+Hoofddorp,Zürich
+Trondheim,Trondheim
+Trondheim,Oulu
+Arkhangelsk,Saint Petersburg
+Khimki,Arkhangelsk
+Uppsala,Málaga
+Alicante,Uppsala
+Bergamo,Uppsala
+Uppsala,Gdynia
+Uppsala,Gothenburg
+Vantaa,Uppsala
+Munich,Uppsala
+Uppsala,Poznań
+Uppsala,Warsaw
+Astrakhan,Khimki
+Athens,Çanakkale
+Athens,Barcelona
+Athens,Bologna
+Athens,Brussels
+Athens,Paris
+Athens,Geneva
+Athens,Menemen
+Athens,Athens
+Plovdiv,Athens
+Athens,Croydon
+Athens,Torrejón de Ardoz
+Athens,Bucharest
+Athens,Bodrum
+Athens,Thessaloníki
+Söke,Athens
+Athens,Zürich
+Çanakkale,Irákleio
+Málaga,Barcelona
+Bologna,Barcelona
+Bordeaux,Barcelona
+Brussels,Barcelona
+Cagliari,Barcelona
+Charleroi,Barcelona
+Genoa,Barcelona
+Gothenburg,Barcelona
+Croydon,Barcelona
+Maastricht,Barcelona
+Maia,Barcelona
+Bucharest,Barcelona
+Taranto,Bergamo
+Taranto,Bologna
+Zemun,Athens
+Zemun,Barcelona
+Zemun,Budapest
+Zemun,Amiens
+Zemun,Paris
+Zemun,Niš
+Zemun,Kazan
+Zemun,Saint Petersburg
+Zemun,Odivelas
+Zemun,Oslo
+Zemun,Khimki
+Zemun,Kamëz
+Zemun,Kamëz
+Zemun,Vienna
+Zemun,Warsaw
+Zemun,Zürich
+Belfast,Alicante
+Belfast,Solihull
+Belfast,Aberdeen
+Belfast,Geneva
+León,Aves
+Málaga,Bergen
+Bergamo,Málaga
+Alicante,Bergamo
+Uppsala,Bergamo
+Bergamo,Barcelona
+Bristol,Bergamo
+Amiens,Bergamo
+Bergamo,Cagliari
+Bergamo,Charleroi
+Bergamo,Iaşi
+Bergamo,Maia
+Bergamo,Bucharest
+Giugliano in Campania,Bergamo
+Bergamo,Reggio di Calabria
+Bergamo,Valencia
+Belfast,Hoofddorp
+Belfast,Solihull
+Belfast,Croydon
+Belfast,Harrow
+Belfast,Liverpool
+Belfast,Sale
+Solihull,Málaga
+Solihull,Barcelona
+Solihull,Craiova
+Solihull,Las Palmas
+Solihull,Maia
+Solihull,Bucharest
+Solihull,Poznań
+Solihull,Valencia
+Bilbao,Las Palmas
+Bilbao,Hoofddorp
+Bilbao,Barcelona
+Bilbao,Paris
+Bilbao,Las Palmas
+Bilbao,Croydon
+Bilbao,Torrejón de Ardoz
+Bilbao,Munich
+Bilbao,Maia
+Gdynia,Aarhus
+Bucharest,Aarhus
+Craiova,Bologna
+Trondheim,Trondheim
+Trondheim,Trondheim
+Pécs,Gothenburg
+Barcelona,Bordeaux
+Bournemouth,Málaga
+Trondheim,Trondheim
+Trondheim,Trondheim
+Bremen,Munich
+Bari,Bergamo
+Bari,Budapest
+Bari,Charleroi
+Bari,Rome
+Bari,Milan
+Bari,Siracusa
+Bari,Milan
+Bari,Bucharest
+Bari,Kamëz
+Bari,Turin
+Bari,Venice
+Bari,Verona
+Bari,Warsaw
+Bristol,Málaga
+Alicante,Bristol
+Bristol,Barcelona
+Bergamo,Bristol
+Bristol,Las Palmas
+Grenoble,Bristol
+Bristol,Maia
+Bristol,Poznań
+Málaga,Brussels
+Barcelona,Brussels
+Basel,Las Palmas
+Basel,Hoofddorp
+Basel,Paris
+Basel,Catania
+Basel,Las Palmas
+Basel,Munich
+Basel,Bucharest
+Basel,Pristina
+Basel,Reggio di Calabria
+Bratislava,Kaunas
+Bratislava,Luton
+Budapest,Málaga
+Budapest,Uppsala
+Budapest,Athens
+Budapest,Barcelona
+Budapest,Bergamo
+Budapest,Solihull
+Budapest,Bologna
+Budapest,Bristol
+Budapest,Rome
+Budapest,Charleroi
+Budapest,Catania
+Budapest,Vantaa
+Budapest,Harrow
+Budapest,Luton
+Budapest,Torrejón de Ardoz
+Budapest,Siracusa
+Budapest,Marseille
+Budapest,Milan
+Budapest,Prague
+Budapest,Warsaw
+Amiens,Barcelona
+Bergamo,Amiens
+Amiens,Maia
+Bydgoszcz,Luton
+Innsbruck,Aarhus
+Montpellier,Charleroi
+Paris,Málaga
+Uppsala,Paris
+Paris,Barcelona
+Paris,Solihull
+Paris,Bologna
+Paris,Bordeaux
+Paris,Brussels
+Paris,Gothenburg
+Vantaa,Paris
+Munich,Paris
+Paris,Bucharest
+Oulu,Paris
+Castellón de la Plana,Nijmegen
+Saint Petersburg,Cherepovets
+Chelyabinsk,Saint Petersburg
+Khimki,Chelyabinsk
+Chelyabinsk,Odintsovo
+Vlorë,Athens
+Bonn,Málaga
+Bonn,Las Palmas
+Bonn,Munich
+Varna,Bonn
+Irákleio,Athens
+Charleroi,Rome
+Bucharest,Rome
+Cluj-Napoca,Bergamo
+Cluj-Napoca,Rome
+Luton,Cluj-Napoca
+Cluj-Napoca,Bucharest
+Livorno,Nice
+Annecy,Solihull
+Copenhagen,Aarhus
+Copenhagen,Aarhus

@@ -1,0 +1,2939 @@
+city1,city2,transit_distance [m],transit_time [s],departure city,arrival city
+San Bartolome,Barcelona,-1,-1,,
+Alicante,Barcelona,449965,28800,,
+Amsterdam,Barcelona,1574426,55320,,
+Spata,Barcelona,3359236,189858,,
+Malaga,Barcelona,1049384,36900,,
+Bologna,Barcelona,1305498,62700,,
+Bordeaux,Barcelona,-1,-1,,
+Zaventem,Barcelona,1382477,53040,,
+Cagliari,Barcelona,-1,-1,,
+Charleroi,Barcelona,1435393,58500,,
+Genova,Barcelona,926099,85800,,
+Gothenburg,Barcelona,2498700,120360,,
+Gatwick,Barcelona,1543032,62460,,
+Maastricht,Barcelona,1487093,61565,,
+Postage,Barcelona,-1,-1,,
+Otopeni,Barcelona,-1,-1,,
+Belgrade,Barcelona,2027096,117360,,
+Orio al Serio,Barcelona,1130633,57149,,
+Birmingham,Barcelona,1685388,68100,,
+Bilbao,Barcelona,508671,30600,,
+Bristol,Barcelona,1694441,68160,,
+Budapest,Barcelona,-1,-1,,
+Tille,Barcelona,1167082,58466,,
+Paris,Barcelona,834126,47710,,
+San Bartolome,Malaga,-1,-1,,
+Barcelona,Malaga,1041588,39420,,
+Bordeaux,Malaga,1251761,48080,,
+Gothenburg,Malaga,3640736,145200,,
+Hamburg,Malaga,2722744,113700,,
+Gatwick,Malaga,2332583,84720,,
+Madrid,Malaga,471357,29280,,
+Amsterdam,Malaga,2413746,78540,,
+Stockholm,Malaga,4019751,155520,,
+Orio al Serio,Malaga,2241087,82589,,
+Birmingham,Malaga,2800421,93540,,
+Bournemouth,Malaga,2362596,100500,,
+Bristol,Malaga,2809474,93600,,
+Budapest,Malaga,3319175,119940,,
+Paris,Malaga,1603347,69120,,
+Cologne,Malaga,2758812,85440,,
+San Bartolome,Paris,-1,-1,,
+Ajaccio,Paris,1080196,57099,,
+Amsterdam,Paris,449334,29220,,
+Spata,Paris,3104592,150918,,
+Belgrade,Paris,1868840,78180,,
+Bilbao,Paris,951215,36900,,
+Saint,Paris,-1,-1,,
+Stockholm,Paris,2156564,80880,,
+Helsinki,Paris,2696435,140820,,
+Munich,Paris,860458,28920,,
+Tromso,Paris,3711689,181305,,
+San Bartolome,Orio al Serio,-1,-1,,
+Alghero,Orio al Serio,629411,63430,,
+Brindisi,Orio al Serio,1223476,45694,,
+Alicante,Orio al Serio,1627931,92730,,
+Stockholm,Orio al Serio,2491813,107679,,
+Bristol,Orio al Serio,1535332,74223,,
+Tille,Orio al Serio,998766,59196,,
+Pescara,Orio al Serio,676389,33030,,
+Bari,Orio al Serio,901280,39364,,
+Budapest,Orio al Serio,913600,48881,,
+Cluj,Orio al Serio,1677743,91119,,
+Alicante,Otopeni,-1,-1,,
+Amsterdam,Otopeni,2287632,119340,,
+Spata,Otopeni,1252410,76728,,
+Orio al Serio,Otopeni,1897744,110519,,
+Birmingham,Otopeni,3123447,148260,,
+Bari,Otopeni,-1,-1,,
+Saint,Otopeni,-1,-1,,
+Paris,Otopeni,2365718,119220,,
+Cluj,Otopeni,601842,43080,,
+San Bartolome,Birmingham,-1,-1,,
+Alicante,Birmingham,2265833,79020,,
+Amsterdam,Birmingham,719732,45240,,
+Belfast,Birmingham,542550,45420,,
+Belfast,Birmingham,542550,45420,,
+Budapest,Birmingham,-1,-1,,
+Paris,Birmingham,585472,38820,,
+Viviers,Birmingham,1281721,38812,,
+Aalborg,Amsterdam,1027798,58200,,
+Aberdeen,Amsterdam,1448954,52320,,
+Spata,Amsterdam,2987674,161178,,
+Luton,Amsterdam,627897,37560,,
+Belfast,Amsterdam,1309053,64500,,
+Bilbao,Amsterdam,1484185,52620,,
+Saint,Amsterdam,-1,-1,,
+Mykonos,Spata,-1,-1,,
+Kavala,Spata,640420,45393,,
+Samos Island,Spata,-1,-1,,
+Belgrade,Spata,-1,-1,,
+Budapest,Spata,1662564,107698,,
+Kerkyra,Spata,583039,47552,,
+Souda,Spata,-1,-1,,
+Alesund,Alicante,-1,-1,,
+Orio al Serio,Alicante,1669913,82889,,
+Bristol,Alicante,2220310,92400,,
+Cardiff,Alicante,-1,-1,,
+Liverpool,Alicante,-1,-1,,
+Amsterdam,Alicante,2373122,76440,,
+Belfast,Alicante,2972959,124080,,
+Sochi,Moscow,2919260,103440,,
+Sochi,Moscow,2919260,103440,,
+Sochi,Moscow,2919260,103440,,
+Sochi,Moscow,2919260,103440,,
+Astrakhan,Moscow,2596624,134400,,
+Belgrade,Moscow,3281265,159900,,
+Chelyabinsk,Moscow,-1,-1,,
+Alicante,Postage,-1,-1,,
+Amsterdam,Postage,-1,-1,,
+Orio al Serio,Postage,-1,-1,,
+Birmingham,Postage,-1,-1,,
+Bilbao,Postage,-1,-1,,
+Bristol,Postage,-1,-1,,
+Tille,Postage,-1,-1,,
+Aberdeen,Gatwick,895395,39720,,
+San Bartolome,Gatwick,-1,-1,,
+Alicante,Gatwick,2131230,75840,,
+Amsterdam,Gatwick,577535,40500,,
+Spata,Gatwick,3652500,172278,,
+Belfast,Gatwick,759209,51480,,
+Bilbao,Gatwick,1500397,51540,,
+San Bartolome,Zaventem,-1,-1,,
+Alicante,Zaventem,1909024,71280,,
+Spata,Zaventem,3026733,155058,,
+Malaga,Zaventem,2092019,75780,,
+Barcelona,Zaventem,1413018,49800,,
+Paris,Zaventem,338598,20520,,
+Amsterdam,Stockholm,1640267,66960,,
+Alicante,Stockholm,-1,-1,,
+Orio al Serio,Stockholm,2337259,110099,,
+Helsinki,Stockholm,513360,48989,,
+Munich,Stockholm,1941966,74220,,
+Budapest,Stockholm,1909523,109200,,
+Alghero,Rome,922389,79200,,
+Bari,Rome,575170,27900,,
+Budapest,Rome,1167179,46140,,
+Charleroi,Rome,1549691,67260,,
+Otopeni,Rome,2457213,124800,,
+Cluj,Rome,1917646,114240,,
+Amsterdam,El Matorral,-1,-1,,
+Birmingham,El Matorral,-1,-1,,
+Bilbao,El Matorral,-1,-1,,
+Bristol,El Matorral,-1,-1,,
+Saint,El Matorral,-1,-1,,
+Cologne,El Matorral,-1,-1,,
+Spata,Bologna,2251329,137418,,
+Brindisi,Bologna,952023,38820,,
+Craiova,Bologna,-1,-1,,
+Budapest,Bologna,812679,38940,,
+Paris,Bologna,971526,44940,,
+San Bartolome,Charleroi,-1,-1,,
+Orio al Serio,Charleroi,1333938,49499,,
+Bari,Charleroi,2057811,75660,,
+Budapest,Charleroi,1484023,62040,,
+Beziers,Charleroi,1280514,47318,,
+Alicante,Warsaw,3183016,128220,,
+Stockholm,Warsaw,-1,-1,,
+Belgrade,Warsaw,1483115,75720,,
+Bari,Warsaw,2053251,105484,,
+Budapest,Warsaw,689288,35580,,
+Amsterdam,Munich,892889,35580,,
+Bilbao,Munich,1860587,61080,,
+Bremen,Munich,769214,27960,,
+Saint,Munich,-1,-1,,
+Cologne,Munich,569246,21300,,
+Krasnyi Kurgan,St. Petersburg,-1,-1,,
+Sochi,St. Petersburg,3601960,124440,,
+Arkhangelsk,St. Petersburg,1795516,84180,,
+Belgrade,St. Petersburg,2833650,162540,,
+Chelyabinsk,St. Petersburg,3106503,138300,,
+Amsterdam,Bristol,729917,45720,,
+Alicante,Bristol,2281069,81180,,
+Orio al Serio,Bristol,1664264,60659,,
+Saint,Bristol,-1,-1,,
+Budapest,Bristol,-1,-1,,
+San Bartolome,Madrid,-1,-1,,
+Alicante,Madrid,380250,24600,,
+Spata,Madrid,4308544,199938,,
+Bilbao,Madrid,323742,16200,,
+Budapest,Madrid,-1,-1,,
+Amsterdam,Billund,840036,45060,,
+Gdansk,Billund,1226822,61620,,
+Otopeni,Billund,2379010,136920,,
+Bolzano,Billund,1542718,64549,,
+San Bartolome,Luton,-1,-1,,
+Bratislava,Luton,1926808,70920,,
+Budapest,Luton,-1,-1,,
+Bydgoszcz,Luton,1717263,66600,,
+Alicante,Gothenburg,-1,-1,,
+Stockholm,Gothenburg,506760,27360,,
+Banja Luka,Gothenburg,2515261,123600,,
+Paris,Gothenburg,1709478,78840,,
+Stockholm,Poznan,1685624,69960,,
+Birmingham,Poznan,1584158,59160,,
+Bristol,Poznan,1612685,60060,,
+San Bartolome,Hamburg,-1,-1,,
+Alicante,Hamburg,2684100,98880,,
+Amsterdam,Hamburg,483514,23640,,
+Amsterdam,Geneva,1001504,84840,,
+Spata,Geneva,3102587,185268,,
+Belfast,Geneva,1743461,76140,,
+Alicante,Gdansk,3251284,132480,,
+Amsterdam,Gdansk,1246530,61969,,
+Stockholm,Gdansk,-1,-1,,
+San Bartolome,Bordeaux,-1,-1,,
+Barcelona,Bordeaux,650419,41100,,
+Paris,Bordeaux,504695,26100,,
+Alesund,Bergen,261497,39222,,
+Amsterdam,Bergen,2034971,113160,,
+Malaga,Bergen,4329836,198720,,
+Amsterdam,Zurich,-1,-1,,
+Spata,Zurich,2777335,174588,,
+Belgrade,Zurich,1213653,67800,,
+Amsterdam,Valencia,1925346,70740,,
+Orio al Serio,Valencia,1477314,73709,,
+Birmingham,Valencia,2090149,61080,,
+Belgrade,Tille,1964207,100494,,
+Orio al Serio,Tille,1055101,49699,,
+Amsterdam,Prague,1042910,45289,,
+Budapest,Prague,531355,22800,,
+Belgrade,Budapest,380445,21600,,
+Bari,Budapest,1423754,73804,,
+Amsterdam,Helsinki,2289006,125340,,
+Budapest,Helsinki,1879856,120540,,
+Bilbao,San Bartolome,-1,-1,,
+Saint,San Bartolome,-1,-1,,
+Belfast,London,711828,49740,,
+Budapest,London,1807437,70320,,
+Bari,Ferno,-1,-1,,
+Budapest,Ferno,-1,-1,,
+Bari,Valletta,-1,-1,,
+Budapest,Valletta,-1,-1,,
+Orio al Serio,Lamezia Terme,1137541,37649,,
+Saint,Lamezia Terme,-1,-1,,
+Saint,Catania,-1,-1,,
+Budapest,Catania,1903462,81185,,
+San Bartolome,Edinburgh,-1,-1,,
+Belfast,Edinburgh,-1,-1,,
+San Bartolome,Liverpool,-1,-1,,
+Belfast,Liverpool,-1,-1,,
+Ajaccio,Nice,424974,52899,,
+Calvi,Nice,570368,99616,,
+Ajaccio,Marseille,337981,45115,,
+Budapest,Marseille,-1,-1,,
+Alghero,Segrate,578742,59760,,
+Bari,Segrate,857863,36660,,
+San Bartolome,Oslo,-1,-1,,
+Belgrade,Oslo,2837179,146700,,
+Saint Anne,Southampton,-1,-1,,
+Amsterdam,Southampton,674604,43020,,
+Sochi,Kazan,4588313,181920,,
+Belgrade,Kazan,-1,-1,,
+Sochi,Cherepovets,-1,-1,,
+St. Petersburg,Cherepovets,617248,38014,,
+Bari,Venezia,793174,36600,,
+Copenhagen,Aalborg,459074,27360,,
+Belfast,Manchester,507199,44640,,
+Birmingham,Craiova,2741353,131887,,
+Varna,Cologne,2380810,143766,,
+Bronnoy,Bodo,290549,47858,,
+Bronnoy,Trondheim,383525,26860,,
+Bodo,Mosjoen,321323,13920,,
+Bodo,Leknes,158003,27272,,
+Bari,Caselle,994615,42102,,
+Moscow,Chelyabinsk,2834441,150900,,
+Castellon de la Plana,Weeze,1911541,72857,,
+Bari,Rinas,263705,45278,,
+Bratislava,Kaunas,1085758,63265,,
+Luton,Cluj,2674089,123300,,
+Bari,Caselle Torinese,994960,42518,,
+Saint,Prishtina,-1,-1,,
+Orio al Serio,Cagliari,1084319,69689,,
+Orio al Serio,Iasi,2020738,128969,,
+Amsterdam,Norwich,722830,44940,,
+Braganca,Vila Real,122310,6000,,
+Belgrade,Vienna,769142,39600,,
+Amsterdam,Aberdeen,1380434,65040,,
+San Bartolome,Belfast,-1,-1,,
+Saint Anne,Saint Peter Port,-1,-1,,
+Sochi,Krasnoyarsk,9959629,360180,,
+Sochi,Perm,5660343,209520,,
+Sochi,Pskov,3893856,161358,,
+Alicante,Maastricht,2031763,76260,,
+Amsterdam,Burgas,2611288,141900,,
+Amsterdam,Cardiff,787150,45780,,
+Amsterdam,Firenze,1427171,65220,,
+Amsterdam,Rovaniemi,3046567,139200,,
+Andenes,Evenes,238160,28534,,
+Andenes,Tromso,475884,40517,,
+Moscow,Arkhangelsk,-1,-1,,
+Spata,Alexandroupolis,964391,49548,,
+Spata,Chios Island,-1,-1,,
+Spata,Rhodes,-1,-1,,
+Spata,Thessaloniki,511292,23029,,
+Alexandroupolis,Crete Island,-1,-1,,
+Belgrade,Nis,237455,12277,,
+Belgrade,Lisbon,3152127,167400,,
+Belgrade,Podgorica,696595,104664,,
+Belgrade,Tivat,-1,-1,,
+Copenhagen,Aarhus,314916,17760,,
+Copenhagen,Madrid,2650752,101160,,
+Dusseldorf,Madrid,2294605,73440,,
+Hondarribia,Madrid,423537,27354,,
+Edinburgh,Madrid,2535097,88800,,
+Rome,Madrid,2245051,92100,,
+Firenze,Madrid,1987592,76800,,
+Funchal,Madrid,-1,-1,,
+Granada,Madrid,430337,26700,,
+Geneva,Madrid,1888379,66000,,
+Helsinki,Madrid,3803684,185520,,
+Copenhagen,Paris,1526162,63480,,
+Dusseldorf,Paris,563981,33000,,
+Nottingham,Paris,615301,37380,,
+Rome,Paris,1472545,56580,,
+Rome,Paris,1472545,56580,,
+Firenze,Paris,1210135,42420,,
+Funchal,Paris,-1,-1,,
+Frankfurt am Main,Paris,590415,30900,,
+Paisley,Paris,-1,-1,,
+Copenhagen,Malaga,3327758,117720,,
+Edinburgh,Malaga,2830358,115500,,
+Eindhoven,Malaga,2533381,83280,,
+Nottingham,Malaga,2819350,92760,,
+Rome,Malaga,2687560,124800,,
+Frankfurt am Main,Malaga,2483591,84300,,
+Frankfurt am Main,Malaga,2483591,84300,,
+Copenhagen,Helsinki,1130928,84960,,
+Dusseldorf,Helsinki,2320958,121080,,
+Frankfurt am Main,Helsinki,2182334,114420,,
+Stockholm,Helsinki,495997,50700,,
+Paris,Helsinki,2710949,145740,,
+Oulu,Helsinki,679470,27720,,
+Rovaniemi,Helsinki,897102,30000,,
+Copenhagen,Amsterdam,998571,47400,,
+Dusseldorf,Amsterdam,297951,16140,,
+Faro,Amsterdam,2849781,94080,,
+Rome,Amsterdam,2010915,71820,,
+Funchal,Amsterdam,-1,-1,,
+Frankfurt am Main,Amsterdam,522489,29400,,
+Paisley,Amsterdam,-1,-1,,
+Copenhagen,Munich,1315701,49200,,
+Dusseldorf,Munich,660970,26940,,
+Rome,Munich,910221,42600,,
+Firenze,Munich,787303,38220,,
+Frankfurt am Main,Munich,419719,17040,,
+Geneva,Munich,597482,34800,,
+Hanover,Munich,647042,21660,,
+Hondarribia,Barcelona,-1,-1,,
+Edinburgh,Barcelona,2247839,82080,,
+Rome,Barcelona,-1,-1,,
+Frankfurt am Main,Barcelona,1644271,61080,,
+Granada,Barcelona,1033665,38400,,
+Geneva,Barcelona,793406,34260,,
+Helsinki,Barcelona,3907329,177133,,
+Copenhagen,Gothenburg,300390,15480,,
+Edinburgh,Gothenburg,-1,-1,,
+Frankfurt am Main,Gothenburg,1329196,65460,,
+Malaga,Gothenburg,3637487,147900,,
+Bergen,Gothenburg,748233,41700,,
+Geneva,Gothenburg,2022864,88200,,
+Helsinki,Gothenburg,970031,61620,,
+Copenhagen,Budapest,1874267,75720,,
+Dortmund,Budapest,1265539,55500,,
+Eindhoven,Budapest,1386390,61380,,
+Rome,Budapest,1248839,62400,,
+Funchal,Budapest,-1,-1,,
+Frankfurt am Main,Budapest,992027,45600,,
+Edinburgh,Gatwick,698408,34440,,
+Rome,Gatwick,2041950,74340,,
+Firenze,Gatwick,1764722,59940,,
+Frankfurt am Main,Gatwick,836486,40680,,
+Saint Peter Port,Gatwick,277282,22649,,
+Geneva,Gatwick,962230,44340,,
+Dusseldorf,El Matorral,-1,-1,,
+Edinburgh,El Matorral,-1,-1,,
+Nottingham,El Matorral,-1,-1,,
+Frankfurt am Main,El Matorral,-1,-1,,
+Paisley,El Matorral,-1,-1,,
+Hanover,El Matorral,-1,-1,,
+Barcelona,Charleroi,1448802,50580,,
+Rome,Charleroi,1843536,68700,,
+Otopeni,Charleroi,2447536,124140,,
+Catania,Charleroi,2673604,95032,,
+Edinburgh,Charleroi,1077944,44940,,
+Copenhagen,Postage,-1,-1,,
+Rheinmunster,Postage,-1,-1,,
+Memmingen,Postage,-1,-1,,
+Funchal,Postage,-1,-1,,
+Geneva,Postage,-1,-1,,
+Copenhagen,London,1591446,66060,,
+Copenhagen,London,1591446,66060,,
+Dusseldorf,London,655479,33720,,
+Rome,London,1997248,72180,,
+Frankfurt am Main,London,793309,39660,,
+Copenhagen,Alicante,3345152,113700,,
+Eindhoven,Alicante,2324171,81540,,
+Nottingham,Alicante,2229322,93060,,
+Rheinmunster,Alicante,2142329,83222,,
+Frankfurt am Main,Alicante,2442967,82200,,
+Dusseldorf,Lisbon,3244825,111240,,
+Eindhoven,Lisbon,-1,-1,,
+Faro,Lisbon,294312,13500,,
+Rome,Lisbon,3134449,107400,,
+Funchal,Lisbon,-1,-1,,
+Copenhagen,Geneva,1682227,71220,,
+Edinburgh,Geneva,1677100,53340,,
+Nottingham,Geneva,1139522,49200,,
+Frankfurt am Main,Geneva,569453,31500,,
+Paisley,Geneva,-1,-1,,
+Copenhagen,Frankfurt am Main,1005327,42960,,
+Dusseldorf,Frankfurt am Main,219904,6540,,
+Frankfurt am Main,Frankfurt am Main,-1,-1,,
+Hanover,Frankfurt am Main,353579,17100,,
+Nis,Frankfurt am Main,1806843,82452,,
+Edinburgh,Bristol,633134,36240,,
+Funchal,Bristol,-1,-1,,
+Frankfurt am Main,Bristol,987786,47700,,
+Paisley,Bristol,-1,-1,,
+Geneva,Bristol,1112054,49380,,
+Copenhagen,Hamburg,507800,25800,,
+Frankfurt am Main,Hamburg,503485,24660,,
+Malaga,Hamburg,2778379,109200,,
+El Matorral,Hamburg,-1,-1,,
+Helsinki,Hamburg,1675597,107160,,
+Edinburgh,Birmingham,456879,33000,,
+Saint Peter Port,Birmingham,439474,28769,,
+Girona,Birmingham,1651548,49495,,
+Geneva,Birmingham,1097093,47520,,
+Rome,Zaventem,1804906,66180,,
+Frankfurt am Main,Zaventem,402924,22680,,
+Geneva,Zaventem,739991,36180,,
+Helsinki,Zaventem,2307224,134520,,
+Dusseldorf,San Bartolome,-1,-1,,
+Nottingham,San Bartolome,-1,-1,,
+Frankfurt am Main,San Bartolome,-1,-1,,
+Paisley,San Bartolome,-1,-1,,
+Crotone,Bologna,931313,36180,,
+Catania,Bologna,1155953,43012,,
+Rome,Bologna,376814,12000,,
+Frankfurt am Main,Bologna,882912,42480,,
+Copenhagen,Vienna,1626575,63600,,
+Dusseldorf,Vienna,974869,43500,,
+Rome,Vienna,1136656,57300,,
+Frankfurt am Main,Vienna,729450,33180,,
+Copenhagen,Zurich,1544224,64800,,
+Dusseldorf,Zurich,684854,29100,,
+Rome,Zurich,876478,36600,,
+Frankfurt am Main,Zurich,399935,20940,,
+Catania,Firenze,1033067,41692,,
+Rome,Firenze,267528,5100,,
+Frankfurt am Main,Firenze,964314,44940,,
+Funchal,Saint,-1,-1,,
+Frankfurt am Main,Saint,-1,-1,,
+Bristol,Saint,-1,-1,,
+Catania,Prague,-1,-1,,
+Rome,Prague,1295895,63300,,
+Frankfurt am Main,Prague,526066,22500,,
+Dortmund,Cluj,1862955,92100,,
+Eindhoven,Cluj,1928283,105660,,
+Memmingen,Cluj,1411831,82860,,
+Debrecen,Luton,2061613,75660,,
+Faro,Luton,2817558,102300,,
+Paisley,Luton,-1,-1,,
+Moscow,St. Petersburg,643486,28800,,
+Gelendzhik,St. Petersburg,-1,-1,,
+Nizhny Novgorod,St. Petersburg,1521773,48900,,
+Catania,Otopeni,-1,-1,,
+Rome,Otopeni,2047516,119820,,
+Memmingen,Otopeni,1700188,108960,,
+Dusseldorf,Ivalo,3338776,178371,,
+Frankfurt am Main,Ivalo,3310591,177891,,
+Helsinki,Ivalo,1141546,57411,,
+Cheboksary,Moscow,1167121,44700,,
+Cheboksary,Moscow,1167121,44700,,
+Nizhny Novgorod,Moscow,762888,13620,,
+Crotone,Orio al Serio,1235886,44404,,
+Catania,Orio al Serio,1419090,52096,,
+Eindhoven,Orio al Serio,1086582,60183,,
+Copenhagen,Balice,1659211,73009,,
+Eindhoven,Balice,1297220,67540,,
+Frankfurt am Main,Balice,1023645,51409,,
+Copenhagen,Stockholm,637064,27360,,
+Frankfurt am Main,Stockholm,1626841,70080,,
+Geneva,Stockholm,2320651,92880,,
+Copenhagen,Gdansk,1149479,61320,,
+Dortmund,Gdansk,1076683,58320,,
+Malaga,Gdansk,3551175,146820,,
+Copenhagen,Salzburg,1463282,56520,,
+Eindhoven,Salzburg,976892,55740,,
+Frankfurt am Main,Salzburg,573482,31260,,
+Nottingham,Belfast,618497,46200,,
+Faro,Belfast,3630860,142476,,
+Rome,Caselle Torinese,761774,40121,,
+Frankfurt am Main,Caselle Torinese,827943,45240,,
+Eindhoven,Brindisi,1987189,84780,,
+Rome,Brindisi,603592,27600,,
+Eindhoven,Spata,2750908,159831,,
+Rome,Spata,2422686,131871,,
+Copenhagen,Cologne,933487,39360,,
+Rome,Cologne,1448538,58140,,
+Dortmund,Dubrave Gornje,-1,-1,,
+Memmingen,Dubrave Gornje,-1,-1,,
+Faro,Liverpool,-1,-1,,
+Geneva,Liverpool,-1,-1,,
+Rome,Warsaw,1839285,84420,,
+Frankfurt am Main,Warsaw,1238687,55500,,
+Dusseldorf,Rinas,1987677,124178,,
+Rome,Rinas,923427,68678,,
+Rome,Poznan,1819781,74460,,
+Frankfurt am Main,Poznan,796613,32690,,
+Dusseldorf,Prishtina,1910926,117449,,
+Geneva,Prishtina,1911936,130589,,
+Rome,Genova,680186,30900,,
+Barcelona,Genova,1028886,55980,,
+Dusseldorf,Chisinau,2008838,116554,,
+Rome,Chisinau,2222433,136894,,
+Copenhagen,Manchester,1892994,74640,,
+Frankfurt am Main,Manchester,1089228,48780,,
+Copenhagen,Oslo,558093,28680,,
+Frankfurt am Main,Oslo,1853836,83700,,
+Dortmund,Vilnius,1564667,69660,,
+Eindhoven,Vilnius,1697445,103723,,
+Rome,Segrate,621204,30540,,
+Frankfurt am Main,Segrate,691942,39840,,
+Floro,Bergen,142051,12887,,
+Karmoy,Bergen,154693,34772,,
+Moscow,Volgograd,1545280,76680,,
+Nizhny Novgorod,Volgograd,3376981,125100,,
+Saint Peter Port,Southampton,220370,19709,,
+Geneva,Southampton,1046917,48840,,
+Bologna,Craiova,1634934,104047,,
+Charleroi,Craiova,2130903,130447,,
+Cilipi,Zagreb,-1,-1,,
+Frankfurt am Main,Zagreb,915151,43800,,
+Catania,Caselle,1516404,54034,,
+Rome,Caselle,762511,40002,,
+Dortmund,Rome,1456235,54600,,
+Iasi,Rome,2446133,130485,,
+Dortmund,Ozarowice,991203,53533,,
+Funchal,Ozarowice,-1,-1,,
+Rome,Nice,882809,42240,,
+Rome,Olbia,664022,44880,,
+Rome,Palermo,932007,39920,,
+Rome,Marseille,-1,-1,,
+Saint Peter Port,Saint Helier,52966,12728,,
+Rome,Radome,-1,-1,,
+Rome,Suceava,2217221,136392,,
+Rome,Split,1311860,64800,,
+Paisley,Stornoway,-1,-1,,
+Rome,Lamezia Terme,618004,23400,,
+Frankfurt am Main,Dusseldorf,223564,6540,,
+Nice,Figari Sud,-1,-1,,
+Frankfurt am Main,Wroclaw,740088,38520,,
+Rome,Ronchi dei Legionari,695980,33324,,
+Rome,Valencia,1718298,93660,,
+Frankfurt am Main,Tallinn,2220175,120780,,
+Frankfurt am Main,Stuttgart,184811,4740,,
+Frankfurt am Main,Nuremberg,232085,9600,,
+Frankfurt am Main,Ferno,-1,-1,,
+Frankfurt am Main,Schkeuditz,387277,16080,,
+Funchal,Vila Baleira,-1,-1,,
+Frankfurt am Main,Kuusamo,3253990,145999,,
+Rome,Valletta,-1,-1,,
+Frankfurt am Main,Graz,732825,33300,,
+Frankfurt am Main,Dresden,531429,27000,,
+Frankfurt am Main,Bremen,536709,24060,,
+Faro,Paisley,-1,-1,,
+Rome,Lyon,1048884,51563,,
+Dusseldorf,Copenhagen,764787,37620,,
+Moscow,Sochi,2633183,82560,,
+Moscow,Arkhangelsk,-1,-1,,
+Moscow,Grozny,3147441,126600,,
+Moscow,Chita,-1,-1,,
+Moscow,Izhevsk,2136787,61260,,
+Moscow,Kazan,1126149,63540,,
+Moscow,Murmansk,4217130,126240,,
+Moscow,Minsk,732456,24600,,
+Moscow,Novokuznetsk,-1,-1,,
+Moscow,Perm,-1,-1,,
+Moscow,Penza,961728,46860,,
+Dortmund,Belgrade,1776872,80580,,
+Copenhagen,Riga,1396208,107100,,
+Dortmund,Olsztyn,1107875,55980,,
+Copenhagen,Kaunas,1776335,97221,,
+Rome,Memmingen,1024967,50460,,
+Dusseldorf,Kittila,2892534,169080,,
+Dusseldorf,Sta Cruz de la Palma,-1,-1,,
+Dusseldorf,Tromso,3170950,183317,,
+Copenhagen,Faro,3446739,127828,,
+Copenhagen,Vagar,-1,-1,,
+Eindhoven,Debrecen,1602048,71640,,
+Nottingham,Jasionka,2118973,98966,,
+Faro,Weeze,2877610,97080,,
+Rome,Alghero,-1,-1,,
+Rome,Ancona,310447,15900,,
+Copenhagen,Bolzano,1728163,66420,,
+Rome,Cagliari,467881,52380,,
+Rome,Catania,812622,35107,,
+Rome,Eindhoven,1591024,67560,,
+Geneva,Bournemouth,1093048,50700,,
+Ibiza,Madrid,611672,37634,,
+Culleredo,Madrid,709686,35843,,
+Almeria,Madrid,426980,24103,,
+London,Madrid,1783116,70560,,
+Segrate,Madrid,1711011,75420,,
+Lisbon,Madrid,553107,30000,,
+Lyon,Madrid,1244394,39503,,
+Malaga,Madrid,448077,26940,,
+Barcelona,Madrid,518747,27300,,
+Bologna,Madrid,1911669,74340,,
+Bordeaux,Madrid,557722,31947,,
+Zaventem,Madrid,1712646,63840,,
+El Matorral,Madrid,-1,-1,,
+Hamburg,Madrid,2320471,83280,,
+Gatwick,Madrid,2148918,74100,,
+Postage,Madrid,-1,-1,,
+Manchester,Madrid,2019890,80100,,
+Valletta,Madrid,-1,-1,,
+Marseille,Madrid,1014697,37200,,
+Krasnoyarsk,Moscow,-1,-1,,
+Krasnodar,Moscow,2333338,68700,,
+Krasnodar,Moscow,2333338,68700,,
+Kirov,Moscow,1536020,44100,,
+Kirov,Moscow,1536020,44100,,
+Kazan,Moscow,1581862,47820,,
+Kazan,Moscow,1581862,47820,,
+Makhachkala,Moscow,2983736,158820,,
+Makhachkala,Moscow,2983736,158820,,
+Makhachkala,Moscow,2983736,158820,,
+Mineralnyye Vody,Moscow,2670312,86640,,
+Mineralnyye Vody,Moscow,2670312,86640,,
+Mineralnyye Vody,Moscow,2670312,86640,,
+Ivanovo,St. Petersburg,1174896,35040,,
+Kaliningrad,St. Petersburg,1227809,84024,,
+Krasnoyarsk,St. Petersburg,6190048,226260,,
+Samara,St. Petersburg,1836132,72600,,
+Kirov,St. Petersburg,1946517,82140,,
+Kazan,St. Petersburg,2703474,89700,,
+Cherepovets,St. Petersburg,615009,36934,,
+Murmansk,St. Petersburg,2036611,86220,,
+Makhachkala,St. Petersburg,3542665,158820,,
+Mineralnyye Vody,St. Petersburg,3353012,107640,,
+Ibiza,Barcelona,643731,37334,,
+Balice,Barcelona,2394477,103537,,
+London,Barcelona,1503477,60960,,
+Lisbon,Barcelona,1138429,39900,,
+Liverpool,Barcelona,-1,-1,,
+Luton,Barcelona,1549673,61320,,
+Mahon,Barcelona,245236,57635,,
+Manchester,Barcelona,1910605,61380,,
+Valletta,Barcelona,-1,-1,,
+Innsbruck,Gatwick,1796084,58680,,
+Inverness,Gatwick,968791,42000,,
+Balice,Gatwick,1751777,71778,,
+Malaga,Gatwick,2315775,83940,,
+Barcelona,Gatwick,1626423,56220,,
+Saint Helier,Gatwick,294593,25032,,
+Otopeni,Gatwick,-1,-1,,
+Lisbon,Gatwick,2399956,85740,,
+Valletta,Gatwick,-1,-1,,
+Chisinau,Paris,2656379,143186,,
+Segrate,Paris,879823,40500,,
+Lisbon,Paris,1849240,70320,,
+Lisbon,Paris,1849240,70320,,
+Lyon,Paris,395901,21983,,
+Manchester,Paris,850329,35400,,
+Montpellier,Paris,685655,24840,,
+Marseille,Paris,768333,29416,,
+Marseille,Paris,768333,29416,,
+Balice,Amsterdam,1197107,58938,,
+Kjevik,Amsterdam,-1,-1,,
+Leeds,Amsterdam,920017,38700,,
+London,Amsterdam,535353,35760,,
+Segrate,Amsterdam,1422103,50940,,
+Lisbon,Amsterdam,2382209,82740,,
+Manchester,Amsterdam,887657,38100,,
+Montpellier,Amsterdam,1229971,37920,,
+Balice,Malaga,3545698,132498,,
+Grace,Malaga,-1,-1,,
+London,Malaga,2272216,83580,,
+Luton,Malaga,2664706,86760,,
+Luxembourg,Malaga,2608566,68668,,
+Manchester,Malaga,2480812,104400,,
+Melilla,Malaga,-1,-1,,
+Marseille,Malaga,1550556,48360,,
+Iasi,Otopeni,378257,39180,,
+Chisinau,Otopeni,444297,27109,,
+London,Otopeni,2688075,138420,,
+Liverpool,Otopeni,-1,-1,,
+Luton,Otopeni,2987732,141480,,
+Valletta,Otopeni,-1,-1,,
+Marseille,Otopeni,-1,-1,,
+Ozarowice,Valletta,-1,-1,,
+London,Valletta,-1,-1,,
+Segrate,Valletta,-1,-1,,
+Lisbon,Valletta,-1,-1,,
+Manchester,Valletta,-1,-1,,
+Nis,Valletta,-1,-1,,
+Innsbruck,Edinburgh,2380129,72420,,
+Balice,Edinburgh,2335888,84738,,
+London,Edinburgh,673363,32400,,
+Luton,Edinburgh,624891,32100,,
+Lyon,Edinburgh,1606638,53603,,
+Valletta,Edinburgh,-1,-1,,
+Kuusamo,Helsinki,900615,32781,,
+Kittila,Helsinki,1072935,47100,,
+Kuopio,Helsinki,432475,14880,,
+Segrate,Helsinki,2817105,152220,,
+Lisbon,Helsinki,4456764,201600,,
+Manchester,Helsinki,2971406,150600,,
+Ioannina,Spata,917970,101332,,
+Santorini Island,Spata,-1,-1,,
+Kos Island,Spata,-1,-1,,
+Ozarowice,Spata,1899532,131166,,
+London,Spata,3664682,192958,,
+Mytilene,Spata,-1,-1,,
+Balice,Stockholm,2089243,85818,,
+London,Stockholm,2147903,106200,,
+Lulea,Stockholm,944754,43380,,
+Lyon,Stockholm,2553498,106523,,
+Malmo,Stockholm,596149,24780,,
+Malmo,Stockholm,596149,24780,,
+Segrate,Munich,544374,40260,,
+Lisbon,Munich,2700923,101100,,
+Lyon,Munich,820072,45983,,
+Manchester,Munich,1705487,58140,,
+Valletta,Munich,-1,-1,,
+London,Geneva,938682,42840,,
+Lesquin,Geneva,759842,36372,,
+Lisbon,Geneva,2324819,78240,,
+Luton,Geneva,984878,43200,,
+Manchester,Geneva,1380327,50400,,
+Balice,Orio al Serio,1308372,68816,,
+Kaunas,Orio al Serio,2155368,101770,,
+Lisbon,Orio al Serio,-1,-1,,
+Luxembourg,Orio al Serio,772596,59219,,
+Valletta,Orio al Serio,-1,-1,,
+Ozarowice,Alicante,3471890,126975,,
+Leeds,Alicante,-1,-1,,
+Lisbon,Alicante,1002310,44040,,
+Manchester,Alicante,-1,-1,,
+Marseille,Alicante,938395,48480,,
+London,Zaventem,407372,29400,,
+Segrate,Zaventem,1256805,46020,,
+Lisbon,Zaventem,2176200,77580,,
+Valletta,Zaventem,-1,-1,,
+Balice,Luton,1752527,70398,,
+Ozarowice,Luton,1725760,70636,,
+Cluj,Luton,-1,-1,,
+Lublin,Luton,1916809,75497,,
+Chisinau,Lisbon,4375981,192994,,
+London,Lisbon,3059868,110400,,
+Manchester,Lisbon,2628945,107640,,
+Marseille,Lisbon,1590152,72600,,
+Kittila,Zurich,3516334,184200,,
+London,Zurich,1009585,47820,,
+Lisbon,Zurich,2530925,90420,,
+Valletta,Zurich,-1,-1,,
+Castletown,London,-1,-1,,
+Saint,London,-1,-1,,
+Lisbon,London,2355271,83160,,
+Manchester,London,340402,43800,,
+Innsbruck,Vienna,501046,18840,,
+Balice,Vienna,495540,27018,,
+London,Vienna,1852190,69360,,
+Lisbon,Vienna,3164811,122820,,
+Balice,Rome,1538615,70425,,
+Lisbon,Rome,3232202,124860,,
+Manchester,Rome,2209640,76740,,
+Leeds,San Bartolome,-1,-1,,
+Lyon,San Bartolome,-1,-1,,
+Manchester,San Bartolome,-1,-1,,
+Lisbon,Cologne,2391159,89940,,
+Manchester,Cologne,892880,41700,,
+Valletta,Cologne,-1,-1,,
+London,Lyon,830124,40620,,
+Lisbon,Lyon,2167072,68700,,
+Marseille,Lyon,405424,24023,,
+Ibiza,Valencia,209726,27447,,
+Balice,Valencia,2755714,122538,,
+Lisbon,Valencia,938716,38520,,
+Ozarowice,Catania,2468602,109798,,
+Segrate,Catania,1314895,64651,,
+Valletta,Catania,-1,-1,,
+London,Saint,-1,-1,,
+Luton,Saint,-1,-1,,
+Manchester,Saint,-1,-1,,
+Luton,Belfast,879925,54660,,
+Manchester,Belfast,502634,44160,,
+Manchester,Belfast,502634,44160,,
+Balice,Oslo,2036332,88485,,
+London,Oslo,2076660,108600,,
+Lisbon,Oslo,3792990,164100,,
+Balice,Charleroi,1380589,60078,,
+Valletta,Charleroi,-1,-1,,
+Marseille,Charleroi,1145267,39376,,
+Manchester,Budapest,2408930,84120,,
+Marseille,Budapest,1542302,75355,,
+Kazan,Samara,-1,-1,,
+Mineralnyye Vody,Samara,2897242,157740,,
+Luxembourg,El Matorral,-1,-1,,
+Manchester,El Matorral,-1,-1,,
+London,Salzburg,1543725,60540,,
+Manchester,Salzburg,-1,-1,,
+Leeds,Viviers,1443142,44889,,
+Manchester,Viviers,1395529,45009,,
+Leeds,Balice,2083238,97957,,
+Manchester,Balice,2134837,101749,,
+Kosice,Prague,730901,30480,,
+Manchester,Prague,1661514,71700,,
+Luton,Wroclaw,1581289,76500,,
+Manchester,Wroclaw,1870218,81545,,
+Liverpool,Gdansk,-1,-1,,
+Luton,Gdansk,1761143,78720,,
+Alicante,Liverpool,-1,-1,,
+Rovaniemi,Liverpool,-1,-1,,
+Lisbon,Postage,-1,-1,,
+Luxembourg,Postage,-1,-1,,
+London,Ferno,-1,-1,,
+Lisbon,Ferno,-1,-1,,
+Leeds,Poznan,1740857,72360,,
+Manchester,Poznan,1817197,64130,,
+Innsbruck,Frankfurt am Main,-1,-1,,
+Manchester,Frankfurt am Main,1072714,46260,,
+Gatwick,Saint Helier,291378,25959,,
+Southampton,Saint Helier,234377,21399,,
+Balice,Bologna,1224899,62325,,
+London,Bologna,1502358,66540,,
+Balice,Gothenburg,1791456,81138,,
+London,Gothenburg,1871226,94260,,
+Balice,Warsaw,388994,19365,,
+Lisbon,Warsaw,4269593,141720,,
+Balice,Cagliari,2028512,124785,,
+Segrate,Cagliari,1041786,67260,,
+Balice,Pisa,1380895,68865,,
+Valletta,Pisa,-1,-1,,
+Balice,Toulouse,-1,-1,,
+London,Toulouse,1220929,51600,,
+Luton,Suceava,2399111,118512,,
+Luton,Prishtina,2778574,154589,,
+Luton,Tromso,3933251,182117,,
+Luton,Vilnius,2283550,111763,,
+Manchester,Seville,2614404,112800,,
+Innsbruck,Bristol,1942814,64200,,
+Nis,Zgornji Brnik,796195,58392,,
+Frankfurt am Main,Nis,1545861,89077,,
+Manchester,Copenhagen,1958821,88200,,
+Manchester,Funchal,-1,-1,,
+Manchester,Castletown,-1,-1,,
+Manchester,Corvera,2729752,105900,,
+Manchester,Jasionka,2177513,95846,,
+Manchester,Santander,-1,-1,,
+Kjevik,Bergen,411882,49044,,
+Manchester,Venezia,2055239,75840,,
+Manchester,Caselle,1846096,73602,,
+Luton,Iasi,2587092,154107,,
+Melilla,Almeria,-1,-1,,
+Marseille,Ajaccio,-1,-1,,
+Marseille,Bastia,-1,-1,,
+Marseille,Nantes,1188649,40516,,
+Mineralnyye Vody,Sochi,1126473,36120,,
+Mineralnyye Vody,Cherepovets,-1,-1,,
+Mineralnyye Vody,Chelyabinsk,5274603,248760,,
+Mineralnyye Vody,Kaluga,-1,-1,,
+Mineralnyye Vody,Magnitogorsk,4374004,221400,,
+Mineralnyye Vody,Nizhnekamsk,-1,-1,,
+Mineralnyye Vody,Perm,5411395,192720,,
+Mineralnyye Vody,Ufa,-1,-1,,
+Melilla,Granada,-1,-1,,
+Lisbon,Praia da Vitoria,-1,-1,,
+Innsbruck,Manchester,2044275,64980,,
+Lisbon,Ponta Delgada,-1,-1,,
+Balice,Podgorica,1785726,172004,,
+Spata,Kavala,644337,32269,,
+Balice,Nykoping,2005186,87465,,
+Balice,Lesquin,1443367,63774,,
+Leeds,Faro,3013136,119640,,
+Balice,Eindhoven,1229198,60378,,
+El Matorral,Schkeuditz,-1,-1,,
+London,Aberdeen,-1,-1,,
+London,Billund,1374967,75180,,
+Balice,Tille,1957177,77586,,
+London,Gibraltar,2321936,121811,,
+London,Paisley,-1,-1,,
+Balice,Birmingham,1886297,74358,,
+London,Segrate,1260971,67620,,
+Kirkenes,Vadso,155369,36460,,
+Moscow,Krasnoyarsk,-1,-1,,
+London,Nice,1383183,51660,,
+London,Newcastle,432047,14220,,
+Kos Island,Thessaloniki,-1,-1,,
+Segrate,Brindisi,1149183,49140,,
+Kos Island,Rhodes,140689,18332,,
+Segrate,Reggio Calabria,1208148,53580,,
+Segrate,Lamezia Terme,1094837,51900,,
+Lisbon,Bordeaux,1284397,60900,,
+Moscow,Kaliningrad,1303745,90684,,
+Lisbon,Luxembourg,2253202,88888,,
+Spata,Mykonos,-1,-1,,
+Mineralnyye Vody,Volgograd,1343796,81720,,
+Ferno,Madrid,-1,-1,,
+Nice,Madrid,1297402,45600,,
+Nantes,Madrid,836131,55500,,
+Paris,Madrid,1049942,55800,,
+Ranon,Madrid,453215,27857,,
+Palermo,Madrid,2286076,138900,,
+Pamplona,Madrid,334346,18900,,
+Prague,Madrid,2770259,74700,,
+Pisa,Madrid,1689062,75720,,
+Santiago de Compostela,Madrid,633390,11100,,
+Santander,Madrid,-1,-1,,
+Sofia,Madrid,3478272,163800,,
+Sta Cruz de la Palma,Madrid,-1,-1,,
+London,Madrid,1783116,70560,,
+Minsk,Moscow,1044496,29880,,
+Minsk,Moscow,1044496,29880,,
+Novokuznetsk,Moscow,-1,-1,,
+Beslan,Moscow,3308674,186975,,
+Orsk,Moscow,2543466,117900,,
+Perm,Moscow,2107130,88320,,
+Perm,Moscow,2107130,88320,,
+Petrozavodsk,Moscow,1046454,44940,,
+Orenburg,Moscow,1907595,94560,,
+Sabetta,Moscow,-1,-1,,
+Syktyvkar,Moscow,-1,-1,,
+Syktyvkar,Moscow,-1,-1,,
+Munich,Barcelona,1537928,55860,,
+Ferno,Barcelona,-1,-1,,
+Napoli,Barcelona,-1,-1,,
+Nice,Barcelona,672651,32880,,
+Paris,Barcelona,834126,47710,,
+Ranon,Barcelona,1054522,37817,,
+Palermo,Barcelona,1661325,126180,,
+Prague,Barcelona,2164088,63060,,
+Sofia,Barcelona,2501740,134820,,
+Sta Cruz de la Palma,Barcelona,-1,-1,,
+London,Barcelona,1503477,60960,,
+Munich,Malaga,2648382,81300,,
+Newcastle,Malaga,2656156,114600,,
+Weeze,Malaga,2257111,97200,,
+Paris,Malaga,1603347,69120,,
+Oslo,Malaga,3944068,156420,,
+Prague,Malaga,3274542,88500,,
+Rotterdam,Malaga,2271941,78420,,
+London,Malaga,2272216,83580,,
+Napoli,Otopeni,-1,-1,,
+Nykoping,Otopeni,3148807,157211,,
+Oradea,Otopeni,763720,50040,,
+Billund,Otopeni,2743271,132060,,
+Bologna,Otopeni,1672492,102420,,
+Rome,Otopeni,2047516,119820,,
+Gatwick,Otopeni,2981091,142620,,
+London,Otopeni,2688075,138420,,
+Munich,Valencia,1890955,72420,,
+Napoli,Valencia,1941299,100402,,
+Paris,Valencia,1134635,64630,,
+Palermo,Valencia,2024250,141180,,
+Pisa,Valencia,1429572,80640,,
+Santiago de Compostela,Valencia,1030811,21780,,
+London,Valencia,1850158,77520,,
+Munich,Thessaloniki,1592447,95820,,
+Weeze,Thessaloniki,2190249,120000,,
+Nuremberg,Thessaloniki,1681447,99240,,
+Rhodes,Thessaloniki,-1,-1,,
+Stuttgart,Thessaloniki,1886166,103800,,
+London,Thessaloniki,2804245,146100,,
+Ferno,Zurich,-1,-1,,
+Nice,Zurich,650132,41520,,
+Ohrid,Zurich,1762571,130483,,
+Oslo,Zurich,2085052,83100,,
+Pula,Zurich,780728,41400,,
+Ilinden,Zurich,-1,-1,,
+Ferno,Postage,-1,-1,,
+Madrid,Postage,-1,-1,,
+Paris,Postage,-1,-1,,
+Ponta Delgada,Postage,-1,-1,,
+Pisa,Postage,-1,-1,,
+London,Postage,-1,-1,,
+Ferno,Amsterdam,-1,-1,,
+Nantes,Amsterdam,938884,39540,,
+Oslo,Amsterdam,1553365,69300,,
+Riga,Amsterdam,1969393,89100,,
+Split,Amsterdam,1862066,83700,,
+London,Amsterdam,535353,35760,,
+Ferno,Alicante,-1,-1,,
+Newcastle,Alicante,-1,-1,,
+Oslo,Alicante,3929227,157140,,
+Rotterdam,Alicante,-1,-1,,
+Sofia,Alicante,2959639,163800,,
+London,Alicante,2251643,80880,,
+Minsk,St. Petersburg,1038523,71340,,
+Nizhnekamsk,St. Petersburg,-1,-1,,
+Perm,St. Petersburg,3643201,114600,,
+Orenburg,St. Petersburg,2550610,113400,,
+Syktyvkar,St. Petersburg,3224544,181080,,
+Simferopol,St. Petersburg,-1,-1,,
+Alicante,Munich,2497066,85380,,
+Stockholm,Munich,1948285,70200,,
+Dresden,Munich,601902,28200,,
+Ferno,Munich,-1,-1,,
+Sibiu,Munich,1244973,64380,,
+Sofia,Munich,1421825,82200,,
+Nantes,San Bartolome,-1,-1,,
+Paris,San Bartolome,-1,-1,,
+Ranon,San Bartolome,-1,-1,,
+Santiago de Compostela,San Bartolome,-1,-1,,
+London,San Bartolome,-1,-1,,
+Napoli,Orio al Serio,842944,37532,,
+Palermo,Orio al Serio,1465761,54791,,
+Prague,Orio al Serio,950921,57526,,
+Sofia,Orio al Serio,1498358,83137,,
+London,Orio al Serio,1286260,69783,,
+Ferno,Paris,-1,-1,,
+Ferno,Paris,-1,-1,,
+Nice,Paris,940150,35460,,
+Oslo,Paris,2080881,81780,,
+Prague,Paris,1069952,36960,,
+Ferno,Vienna,-1,-1,,
+Napoli,Vienna,1489329,67822,,
+Riga,Vienna,1347911,75900,,
+Sofia,Vienna,1001505,57600,,
+London,Vienna,1852190,69360,,
+Munich,Gatwick,1362605,41640,,
+Ferno,Gatwick,-1,-1,,
+Newquay,Gatwick,481083,29700,,
+Paris,Gatwick,443282,33600,,
+Sofia,Gatwick,-1,-1,,
+Munich,El Matorral,-1,-1,,
+Ferno,El Matorral,-1,-1,,
+Newcastle,El Matorral,-1,-1,,
+Nantes,El Matorral,-1,-1,,
+London,El Matorral,-1,-1,,
+Nantes,Geneva,924501,42240,,
+Prague,Geneva,988856,46020,,
+Riga,Geneva,2276759,122580,,
+Southend,Geneva,979054,44760,,
+London,Geneva,938682,42840,,
+Napoli,Rome,188802,4769,,
+Olbia,Rome,291804,62040,,
+Palermo,Rome,841446,38240,,
+Ilinden,Rome,-1,-1,,
+London,Rome,1819754,77460,,
+Ferno,Spata,-1,-1,,
+Ilinden,Spata,-1,-1,,
+Sofia,Spata,830602,48266,,
+London,Spata,3664682,192958,,
+Napoli,Ferno,-1,-1,,
+Paris,Ferno,-1,-1,,
+Palermo,Ferno,-1,-1,,
+London,Ferno,-1,-1,,
+Ferno,Catania,-1,-1,,
+Napoli,Catania,539115,29789,,
+Sofia,Catania,-1,-1,,
+London,Catania,2565107,110322,,
+Ferno,Helsinki,-1,-1,,
+Oslo,Helsinki,1231790,69720,,
+Prague,Helsinki,-1,-1,,
+Riga,Helsinki,397713,31832,,
+Napoli,London,2138048,78982,,
+Palermo,London,2807239,106380,,
+Riga,London,2515646,129780,,
+Sofia,London,-1,-1,,
+Palermo,Napoli,639921,33702,,
+Sofia,Napoli,-1,-1,,
+London,Napoli,2032116,83482,,
+Napoli,Segrate,797147,34942,,
+Olbia,Segrate,-1,-1,,
+Palermo,Segrate,929198,83580,,
+Napoli,Charleroi,1999164,74662,,
+Pisa,Charleroi,1617452,69360,,
+Sofia,Charleroi,2209512,109740,,
+Munich,Bologna,546693,26100,,
+Palermo,Bologna,1199341,46220,,
+London,Bologna,1502358,66540,,
+Ilinden,Eindhoven,-1,-1,,
+Sofia,Eindhoven,2084072,106860,,
+London,Eindhoven,569292,36420,,
+Napoli,Venezia,736402,35902,,
+Palermo,Venezia,1294091,53540,,
+London,Venezia,1511372,75780,,
+Oslo,Stockholm,719197,34080,,
+Riga,Stockholm,902724,86962,,
+London,Stockholm,2147903,106200,,
+Paris,Valletta,-1,-1,,
+Ilinden,Valletta,-1,-1,,
+Sofia,Valletta,-1,-1,,
+Riga,Copenhagen,2061673,95160,,
+Ilinden,Copenhagen,-1,-1,,
+Sofia,Copenhagen,2262207,120840,,
+Sarajevo,Cologne,1598842,91980,,
+Ilinden,Cologne,-1,-1,,
+London,Cologne,741065,45360,,
+Riga,Salzburg,1659887,86700,,
+Rotterdam,Salzburg,1078237,44100,,
+London,Salzburg,1543725,60540,,
+Palermo,Memmingen,1732571,86060,,
+Sofia,Memmingen,1538016,88500,,
+Paris,Southampton,525599,38580,,
+Saint Helier,Southampton,233724,22872,,
+Oslo,Tromso,1610177,125777,,
+Hadsel,Tromso,401285,29308,,
+Palermo,Nuremberg,1786289,82040,,
+London,Nuremberg,993850,49440,,
+Ilinden,Rheinmunster,-1,-1,,
+Sofia,Rheinmunster,1757175,99303,,
+Riga,Warsaw,695996,42180,,
+Sofia,Warsaw,1686008,89940,,
+Palermo,Pisa,728139,64380,,
+London,Pisa,1613385,78300,,
+Palermo,Caselle Torinese,962387,89318,,
+London,Caselle Torinese,1445719,70118,,
+Riga,Bristol,2710123,137820,,
+Sofia,Bristol,-1,-1,,
+Riga,Lisbon,4731151,199860,,
+London,Lisbon,3059868,110400,,
+Ilinden,Bratislava,-1,-1,,
+London,Bratislava,1933446,75185,,
+Sibiu,Luton,-1,-1,,
+Sofia,Luton,-1,-1,,
+Paris,Nice,943507,39660,,
+Sofia,Nice,1757577,101400,,
+Oslo,Gothenburg,263798,13500,,
+London,Gothenburg,1871226,94260,,
+Munich,Hamburg,825097,27720,,
+Prishtina,Hamburg,2372666,146028,,
+Munich,Stuttgart,293719,7800,,
+Prishtina,Stuttgart,1824202,121968,,
+Ferno,Cagliari,-1,-1,,
+Parma,Cagliari,914342,66780,,
+Nantes,Marseille,1149919,37598,,
+London,Marseille,1148730,47438,,
+Nice,Bastia,-1,-1,,
+Paris,Bastia,-1,-1,,
+Napoli,Ronchi dei Legionari,842963,41962,,
+London,Ronchi dei Legionari,1665722,78924,,
+Ferno,Vilnius,-1,-1,,
+Riga,Vilnius,296757,20115,,
+Napoli,Sofia,-1,-1,,
+London,Sofia,2664554,128700,,
+Napoli,Balice,1911092,102179,,
+London,Balice,1774464,88657,,
+Munich,Prishtina,1262074,97529,,
+Ferno,Prishtina,-1,-1,,
+London,Viviers,1101986,28989,,
+London,Bydgoszcz,1553204,79680,,
+London,Budapest,2099835,78780,,
+Paris,Tarbes,745741,42857,,
+London,Bordeaux,964228,39900,,
+London,Faro,2773126,96840,,
+London,Billund,1374967,75180,,
+London,Belfast,878292,51780,,
+Sofia,Varna,619760,42883,,
+Sofia,Treviso,1136761,81120,,
+Ilinden,Zagreb,-1,-1,,
+London,Edinburgh,673363,32400,,
+London,Genova,1554881,67320,,
+London,Gdansk,1737165,88650,,
+London,Saint,-1,-1,,
+Ilinden,Frankfurt am Main,-1,-1,,
+London,Ozarowice,1741169,87613,,
+London,Lodz,1658735,84240,,
+London,Poznan,1401630,73620,,
+London,Prague,1526744,76500,,
+London,Riga,2374323,126466,,
+London,Santiago de Compostela,2377572,88620,,
+London,Seville,2253374,81240,,
+London,Olsztyn,1705150,87840,,
+London,Goleniow,1326851,72180,,
+London,Rinas,2461954,140258,,
+London,Torp,-1,-1,,
+Ilinden,Nykoping,-1,-1,,
+Munich,Graz,424433,18900,,
+Munich,Birmingham,1497170,46080,,
+Munich,Zaventem,825390,37920,,
+Paris,Montpellier,689348,35760,,
+Naryan Mar,Kazan,-1,-1,,
+Paris,Toulouse,588070,33300,,
+Oslo,Bergen,482204,26640,,
+Oslo,Stavanger,584896,32100,,
+Ranon,Weeze,1729418,109337,,
+Ponta Delgada,Horta,-1,-1,,
+Ponta Delgada,Vila do Porto,-1,-1,,
+Napoli,Palermo,339319,36288,,
+Ferno,Podgorica,-1,-1,,
+Ferno,Lamezia Terme,-1,-1,,
+Palermo,Caselle,962041,88902,,
+Orio al Serio,Pescara,656000,38264,,
+Vila Baleira,Funchal,-1,-1,,
+Vila Baleira,Oslo,-1,-1,,
+Ferno,Jasionka,-1,-1,,
+Riga,Kittila,-1,-1,,
+Ferno,Bacau,-1,-1,,
+Riga,Palanga,531085,36710,,
+Riga,Tallinn,319373,20492,,
+Otopeni,Suceava,468743,26892,,
+Paris,Ivalo,3889711,191151,,
+Bodo,Hadsel,334778,26650,,
+Ilinden,Belgrade,-1,-1,,
+Munich,Greven,768915,38400,,
+London,Vigo,2472931,92220,,
+Arkhangelsk,Moscow,-1,-1,,
+Chelyabinsk,Moscow,-1,-1,,
+Izhevsk,Moscow,1528463,97800,,
+Krasnoyarsk,Moscow,-1,-1,,
+Ufa,Moscow,3448951,84480,,
+Ufa,Moscow,3448951,84480,,
+Ufa,Moscow,3448951,84480,,
+Ulyanovsk,Moscow,1313631,56940,,
+Ulyanovsk,Moscow,1313631,56940,,
+Bugulma,Moscow,1826268,84420,,
+Kaliningrad,Moscow,1832277,81384,,
+Nizhnekamsk,Moscow,-1,-1,,
+Volgograd,Moscow,1850832,85200,,
+Volgograd,Moscow,1850832,85200,,
+Seville,Barcelona,1339767,45000,,
+Rinas,Barcelona,2120563,138949,,
+Caselle Torinese,Barcelona,957511,56033,,
+Venezia,Barcelona,-1,-1,,
+Vigo,Barcelona,1316211,29820,,
+Vienna,Barcelona,2480790,81960,,
+Warsaw,Barcelona,2796867,101170,,
+Warsaw,Barcelona,2796867,101170,,
+Jerez de la Frontera,Barcelona,-1,-1,,
+Zurich,Barcelona,1072286,60060,,
+Seville,Madrid,738460,34920,,
+Toulouse,Madrid,689688,35100,,
+Caselle Torinese,Madrid,1586501,70133,,
+Venezia,Madrid,-1,-1,,
+Vigo,Madrid,682836,16200,,
+Vienna,Madrid,2745457,88680,,
+Valencia,Madrid,398351,6780,,
+Jerez de la Frontera,Madrid,-1,-1,,
+Zurich,Madrid,1701276,74160,,
+Salzburg,Helsinki,2155024,120780,,
+Tallinn,Helsinki,86284,10020,,
+Trondheim,Helsinki,1709393,106620,,
+Vaasa,Helsinki,419874,13860,,
+Vienna,Helsinki,1933618,117900,,
+Vilnius,Helsinki,671904,54600,,
+Warsaw,Helsinki,1089352,68760,,
+Zurich,Helsinki,2546658,134640,,
+Toulouse,Munich,1501464,58380,,
+Caselle Torinese,Munich,776281,47273,,
+Venezia,Munich,507193,30600,,
+Vienna,Munich,455693,16140,,
+Vilnius,Munich,1736485,66780,,
+Warsaw,Munich,1258113,44400,,
+Zagreb,Munich,547928,29280,,
+Zurich,Munich,570891,29160,,
+Stavanger,Amsterdam,-1,-1,,
+Salzburg,Amsterdam,1045276,38280,,
+Tampere,Amsterdam,2145592,127560,,
+Trondheim,Amsterdam,2190943,115440,,
+Torp,Amsterdam,-1,-1,,
+Venezia,Amsterdam,1368873,62940,,
+Warsaw,Amsterdam,1245793,55140,,
+Zagreb,Amsterdam,1408600,61140,,
+Seville,Paris,2112683,80100,,
+Seville,Paris,2112683,80100,,
+Venezia,Paris,1414754,52380,,
+Venezia,Paris,1414754,52380,,
+Vienna,Paris,1362533,43860,,
+Warsaw,Paris,1712257,64860,,
+Zurich,Paris,583839,33000,,
+Seville,London,2617180,93060,,
+Rinas,London,2513368,142069,,
+Tours,London,942527,45960,,
+Venezia,London,1780655,70020,,
+Venezia,London,1780655,70020,,
+Warsaw,London,1835478,71760,,
+Zagreb,London,-1,-1,,
+Caselle Torinese,Otopeni,2241021,130913,,
+Treviso,Otopeni,1603273,112980,,
+Timisoara,Otopeni,674977,48107,,
+Vienna,Otopeni,1146401,65580,,
+Warsaw,Otopeni,-1,-1,,
+Zurich,Otopeni,1869221,100620,,
+Salzburg,Stockholm,2081974,74820,,
+Rinas,Stockholm,3358794,176809,,
+Tallinn,Stockholm,534104,77869,,
+Caselle Torinese,Stockholm,2506704,117113,,
+Umea,Stockholm,709688,28440,,
+Zurich,Stockholm,2086993,80580,,
+Moscow,St. Petersburg,643476,31140,,
+Ufa,St. Petersburg,4340610,101520,,
+Ulyanovsk,St. Petersburg,1957526,72240,,
+Moscow,St. Petersburg,643476,31140,,
+Volgograd,St. Petersburg,3461445,127500,,
+Voronezh,St. Petersburg,1260547,47280,,
+Seville,Orio al Serio,2292145,82895,,
+Rinas,Orio al Serio,1160677,81666,,
+Timisoara,Orio al Serio,1459170,76125,,
+Vienna,Orio al Serio,901226,42723,,
+Warsaw,Orio al Serio,1813577,73738,,
+Seville,Rome,2800056,88500,,
+Rinas,Rome,722903,66289,,
+Rinas,Rome,722903,66289,,
+Venezia,Rome,533970,27240,,
+Warsaw,Rome,2123477,79080,,
+Vienna,Malaga,3076153,124980,,
+Vilnius,Malaga,3858754,158040,,
+Warsaw,Malaga,3579983,135900,,
+Wroclaw,Malaga,3292897,117905,,
+Zurich,Malaga,2175139,85260,,
+Salzburg,Hamburg,964647,41520,,
+Rinas,Hamburg,2278269,130309,,
+Varna,Hamburg,2295654,140526,,
+Vienna,Hamburg,935616,39420,,
+Zurich,Hamburg,1070853,42720,,
+Rinas,Tille,-1,-1,,
+Treviso,Tille,1229684,67041,,
+Timisoara,Tille,2017784,79928,,
+Vilnius,Tille,2339532,107814,,
+Zaragoza,Tille,1197328,47094,,
+Rinas,Charleroi,2050923,133489,,
+Treviso,Charleroi,1508506,69540,,
+Warsaw,Charleroi,1445619,65340,,
+Zagreb,Charleroi,-1,-1,,
+Salzburg,Gatwick,1603537,49380,,
+Tallinn,Gatwick,2881878,126840,,
+Caselle Torinese,Gatwick,1341664,51773,,
+Vienna,Gatwick,1912002,59520,,
+Rinas,Spata,-1,-1,,
+Vienna,Spata,1837758,109258,,
+Warsaw,Spata,2271442,138051,,
+Zakynthos,Spata,-1,-1,,
+Tallinn,Geneva,2873025,138000,,
+Vienna,Geneva,1055504,42180,,
+Warsaw,Geneva,1717442,68160,,
+Zurich,Geneva,278706,11400,,
+Stavanger,Gdansk,1622968,119160,,
+Tromso,Gdansk,2544124,161745,,
+Caselle,Gdansk,1963124,81971,,
+Warsaw,Gdansk,623852,29100,,
+Stavanger,Bergen,206341,19074,,
+Tromso,Bergen,1910666,132765,,
+Trondheim,Bergen,960069,58500,,
+Torp,Bergen,-1,-1,,
+Otopeni,Stuttgart,1953923,103380,,
+Thessaloniki,Stuttgart,1929406,118860,,
+Vienna,Stuttgart,749625,25560,,
+Zurich,Stuttgart,454595,20040,,
+Vienna,Zaventem,1135642,47640,,
+Valencia,Zaventem,1605364,62580,,
+Warsaw,Zaventem,1384969,61140,,
+Zurich,Zaventem,601429,36660,,
+London,Warsaw,1699120,82680,,
+Seville,Warsaw,3780912,115020,,
+Torp,Warsaw,-1,-1,,
+Torp,Warsaw,-1,-1,,
+Rinas,Edinburgh,3142106,157849,,
+Venezia,Edinburgh,2409387,85980,,
+Zurich,Edinburgh,1599634,60360,,
+London,Caselle,1445374,69702,,
+Rinas,Caselle,1259988,84391,,
+Warsaw,Caselle,1982283,77742,,
+Rinas,Bologna,899478,71089,,
+Valencia,Bologna,-1,-1,,
+Zurich,Bologna,498911,24900,,
+Toulouse,Valletta,-1,-1,,
+Treviso,Valletta,-1,-1,,
+Vienna,Valletta,-1,-1,,
+Tampere,Tallinn,273166,17280,,
+Vienna,Tallinn,1760512,106560,,
+Warsaw,Tallinn,986254,52980,,
+Caselle Torinese,Lamezia Terme,-1,-1,,
+Venezia,Lamezia Terme,1057532,43980,,
+Caselle,Lamezia Terme,-1,-1,,
+Vienna,Zurich,781564,31500,,
+Warsaw,Zurich,1555997,61740,,
+Zagreb,Zurich,879826,43020,,
+London,Vilnius,2200055,113203,,
+Caselle Torinese,Vilnius,2495339,114463,,
+Warsaw,Vilnius,503763,26923,,
+Rinas,Frankfurt am Main,1774265,116089,,
+Venezia,Frankfurt am Main,1020357,46740,,
+Zagreb,Frankfurt am Main,1033049,44520,,
+London,Wroclaw,1522894,74160,,
+Warsaw,Wroclaw,464684,23040,,
+Tille,Wroclaw,1700870,80726,,
+Seville,Ferno,-1,-1,,
+Rinas,Ferno,-1,-1,,
+Vienna,Ferno,-1,-1,,
+Seville,El Matorral,-1,-1,,
+Vienna,El Matorral,-1,-1,,
+Warsaw,El Matorral,-1,-1,,
+Seville,Catania,3422541,121740,,
+Caselle Torinese,Catania,-1,-1,,
+Venezia,Catania,1234433,61111,,
+Stavanger,Oslo,584836,33060,,
+Goleniow,Oslo,-1,-1,,
+Trondheim,Oslo,469804,28020,,
+Svolvaer,Bodo,147845,13917,,
+Trondheim,Bodo,725223,36000,,
+Moscow,Grozny,3147441,126600,,
+Moscow,Grozny,3147441,126600,,
+Valencia,Postage,-1,-1,,
+Zurich,Postage,-1,-1,,
+Caselle Torinese,Gothenburg,2259204,98760,,
+Zurich,Gothenburg,1789442,73200,,
+Stavanger,Alicante,3770352,233940,,
+Trondheim,Alicante,4432922,275400,,
+Rinas,Luton,2558860,143449,,
+Warsaw,Luton,1884003,73800,,
+Moscow,Samara,1569205,52860,,
+Moscow,Samara,1569205,52860,,
+Moscow,Murmansk,4217130,126240,,
+Moscow,Murmansk,4217130,126240,,
+Seville,Pisa,2596825,89520,,
+Rinas,Pisa,1068551,76849,,
+Rinas,Bari,263516,48589,,
+Venezia,Bari,1012622,43200,,
+Treviso,Vienna,659576,39240,,
+Zagreb,Vienna,370036,18300,,
+Treviso,Valencia,1769274,96480,,
+Wroclaw,Valencia,2549567,107945,,
+Vienna,Cluj,879750,50100,,
+Warsaw,Cluj,1042113,88440,,
+Seville,Manchester,3031190,110100,,
+Venezia,Manchester,2073493,78480,,
+Seville,Nuremberg,2917968,83100,,
+Rinas,Nuremberg,1651448,106969,,
+Vienna,Klagenfurt on Lake Worthersee,314274,19130,,
+Vienna,Luxembourg,1089071,48268,,
+London,Zagreb,1879353,87600,,
+Vienna,Santander,-1,-1,,
+Vienna,Tromso,3720842,209477,,
+London,Zaragoza,1476592,65160,,
+Viseu,Vila Real,97802,4771,,
+Caselle,Poznan,1690152,76996,,
+Viseu,Cascais,326828,19411,,
+Venezia,Palermo,1353886,66860,,
+Warsaw,Budapest,939184,47460,,
+Warsaw,Saint,-1,-1,,
+Warsaw,Balice,307928,17317,,
+Warsaw,Ozarowice,281606,14369,,
+Warsaw,Zgornji Brnik,1201091,63600,,
+Warsaw,Prague,785389,40200,,
+Wroclaw,Birmingham,1731186,69005,,
+Zagreb,Sarajevo,411885,28800,,
+Zagreb,Split,409169,18300,,
+Zurich,Prishtina,1622133,114989,,
+Venezia,Ilinden,-1,-1,,
+Treviso,Sofia,1342991,93360,,
+Venezia,Napoli,749816,31462,,
+Rinas,Ronchi dei Legionari,1165856,82729,,
+Salzburg,Bristol,1750267,54900,,
+Praia da Vitoria,Ponta Delgada,-1,-1,,
+Praia da Vitoria,Pico Island,-1,-1,,
+Seville,San Bartolome,-1,-1,,
+Moscow,Stavropol,-1,-1,,
+Moscow,Nizhnekamsk,-1,-1,,
+Moscow,Magnitogorsk,2461654,171240,,
+Rinas,Genova,1242205,83629,,
+Rinas,Lyon,1552975,105492,,
+Rinas,Perugia,893439,78469,,
+Rinas,Treviso,1071009,78769,,
+Venezia,Lisbon,3031567,140340,,
+Moscow,Kaliningrad,1303745,90684,,
+Toulouse,Bordeaux,256701,8460,,
+Moscow,Cherepovets,-1,-1,,
+Caselle Torinese,Brindisi,1369069,54833,,
+Caselle Torinese,Cagliari,1183631,72779,,
+Treviso,Marseille,-1,-1,,
+Treviso,Rinas,982000,70058,,
+Ufa,Sochi,5760985,180660,,
+Ufa,Krasnoyarsk,4316816,162060,,
+Cologne,Varna,2360943,123578,,
+Zurich,Rovaniemi,3494234,156300,,
+,,-1,-1,Las Palmas,Barcelona
+,,461047,27900,Alicante,Barcelona
+,,1586298,56400,Hoofddorp,Barcelona
+,,-1,-1,Athens,Barcelona
+,,1049384,36900,Malaga,Barcelona
+,,1305498,62700,Bologna,Barcelona
+,,-1,-1,Bordeaux,Barcelona
+,,1391806,48840,Brussels,Barcelona
+,,-1,-1,Cagliari,Barcelona
+,,1356773,39660,Charleroi,Barcelona
+,,926262,40260,Genoa,Barcelona
+,,2498700,120360,Gothenburg,Barcelona
+,,1517065,61920,Croydon,Barcelona
+,,1631994,59400,Maastricht,Barcelona
+,,-1,-1,Maia,Barcelona
+,,-1,-1,Bucharest,Barcelona
+,,-1,-1,Zemun,Barcelona
+,,1135750,58453,Bergamo,Barcelona
+,,1807387,68580,Solihull,Barcelona
+,,961165,29400,Bilbao,Barcelona
+,,1808468,51900,Bristol,Barcelona
+,,-1,-1,Budapest,Barcelona
+,,1190333,37680,Amiens,Barcelona
+,,834126,47710,Paris,Barcelona
+,,-1,-1,Las Palmas,Malaga
+,,1041588,39420,Barcelona,Malaga
+,,1234729,48290,Bordeaux,Malaga
+,,3640736,145200,Gothenburg,Malaga
+,,2722744,113700,Hamburg,Malaga
+,,2632098,87360,Croydon,Malaga
+,,493447,33060,Torrejon de Ardoz,Malaga
+,,2425618,79620,Hoofddorp,Malaga
+,,4170751,150064,Uppsala,Malaga
+,,2246204,83893,Bergamo,Malaga
+,,2377594,111600,Solihull,Malaga
+,,2362596,100500,Bournemouth,Malaga
+,,2378675,94920,Bristol,Malaga
+,,3319175,119940,Budapest,Malaga
+,,1603347,69120,Paris,Malaga
+,,2725422,84060,Bonn,Malaga
+,,-1,-1,Las Palmas,Bergamo
+,,840657,73659,Cagliari,Bergamo
+,,1006808,52380,Taranto,Bergamo
+,,1632395,95020,Alicante,Bergamo
+,,2593777,101164,Uppsala,Bergamo
+,,1593305,60780,Bristol,Bergamo
+,,1176506,41760,Amiens,Bergamo
+,,883192,37980,Giugliano in Campania,Bergamo
+,,854045,38584,Bari,Bergamo
+,,907955,46800,Budapest,Bergamo
+,,1628382,106660,Cluj-Napoca,Bergamo
+,,-1,-1,Las Palmas,Paris
+,,1230274,45480,Livorno,Paris
+,,448204,25800,Hoofddorp,Paris
+,,3041164,156060,Athens,Paris
+,,1880224,81255,Zemun,Paris
+,,887156,25320,Bilbao,Paris
+,,496022,27420,Basel,Paris
+,,2144566,95944,Uppsala,Paris
+,,2706407,142440,Vantaa,Paris
+,,819687,31200,Munich,Paris
+,,3166555,160920,Oulu,Paris
+,,-1,-1,Alicante,Bucharest
+,,2419561,127500,Hoofddorp,Bucharest
+,,1226521,100770,Athens,Bucharest
+,,1884243,108193,Bergamo,Bucharest
+,,3130001,150300,Solihull,Bucharest
+,,-1,-1,Bari,Bucharest
+,,2067352,104988,Basel,Bucharest
+,,2501580,128530,Paris,Bucharest
+,,582406,39300,Cluj-Napoca,Bucharest
+,,-1,-1,Hoofddorp,Las Palmas
+,,-1,-1,Solihull,Las Palmas
+,,-1,-1,Bilbao,Las Palmas
+,,-1,-1,Bilbao,Las Palmas
+,,-1,-1,Bristol,Las Palmas
+,,-1,-1,Basel,Las Palmas
+,,-1,-1,Basel,Las Palmas
+,,-1,-1,Bonn,Las Palmas
+,,-1,-1,Las Palmas,Solihull
+,,2255016,82440,Alicante,Solihull
+,,757228,24402,Hoofddorp,Solihull
+,,556234,48480,Belfast,Solihull
+,,556234,48480,Belfast,Solihull
+,,-1,-1,Budapest,Solihull
+,,573784,40440,Paris,Solihull
+,,1264527,37500,Annecy,Solihull
+,,897822,52500,Aarhus,Hoofddorp
+,,1432312,52691,Aberdeen,Hoofddorp
+,,2897982,165540,Athens,Hoofddorp
+,,575814,35940,Luton,Hoofddorp
+,,1438603,57825,Belfast,Hoofddorp
+,,1400141,37500,Bilbao,Hoofddorp
+,,825169,36600,Basel,Hoofddorp
+,,-1,-1,Bergen,Alicante
+,,1675030,84193,Bergamo,Alicante
+,,-1,-1,Bristol,Alicante
+,,-1,-1,Bristol,Alicante
+,,-1,-1,Liverpool,Alicante
+,,2384994,77520,Hoofddorp,Alicante
+,,2959782,126885,Belfast,Alicante
+,,-1,-1,Athens,Athens
+,,955668,53446,Plovdiv,Athens
+,,-1,-1,Soke,Athens
+,,-1,-1,Zemun,Athens
+,,1388726,86248,Budapest,Athens
+,,-1,-1,Vlore,Athens
+,,10843,1672,Irakleio,Athens
+,,875102,37560,Aberdeen,Croydon
+,,-1,-1,Las Palmas,Croydon
+,,2105265,74880,Alicante,Croydon
+,,557595,40380,Hoofddorp,Croydon
+,,3243760,175260,Athens,Croydon
+,,735540,52020,Belfast,Croydon
+,,1410356,39780,Bilbao,Croydon
+,,-1,-1,Alicante,Maia
+,,-1,-1,Hoofddorp,Maia
+,,-1,-1,Bergamo,Maia
+,,-1,-1,Solihull,Maia
+,,-1,-1,Bilbao,Maia
+,,-1,-1,Bristol,Maia
+,,-1,-1,Amiens,Maia
+,,962222,50880,Hoofddorp,Aarhus
+,,-1,-1,Gdynia,Aarhus
+,,2403709,134572,Bucharest,Aarhus
+,,1653540,56640,Innsbruck,Aarhus
+,,314916,17760,Copenhagen,Aarhus
+,,314916,17760,Copenhagen,Aarhus
+,,1772762,78240,Hoofddorp,Uppsala
+,,-1,-1,Alicante,Uppsala
+,,2412654,115273,Bergamo,Uppsala
+,,591754,54840,Vantaa,Uppsala
+,,2011986,78540,Munich,Uppsala
+,,1979543,112740,Budapest,Uppsala
+,,689292,61200,Cagliari,Rome
+,,485231,20700,Bari,Rome
+,,1167179,46140,Budapest,Rome
+,,1686432,74700,Charleroi,Rome
+,,2437336,122220,Bucharest,Rome
+,,1981968,110400,Cluj-Napoca,Rome
+,,769211,23160,Hoofddorp,Bristol
+,,769211,23160,Hoofddorp,Bristol
+,,2281069,81180,Alicante,Bristol
+,,1669639,62293,Bergamo,Bristol
+,,1255032,34560,Grenoble,Bristol
+,,-1,-1,Budapest,Bristol
+,,-1,-1,Las Palmas,Brussels
+,,1897676,69900,Alicante,Brussels
+,,2844463,160740,Athens,Brussels
+,,2080671,74400,Malaga,Brussels
+,,1398824,48240,Barcelona,Brussels
+,,-1,-1,Paris,Brussels
+,,-1,-1,Las Palmas,Torrejon de Ardoz
+,,383935,20340,Alicante,Torrejon de Ardoz
+,,-1,-1,Athens,Torrejon de Ardoz
+,,350967,20431,Bilbao,Torrejon de Ardoz
+,,-1,-1,Budapest,Torrejon de Ardoz
+,,2547190,154140,Athens,Bologna
+,,744601,42900,Taranto,Bologna
+,,-1,-1,Craiova,Bologna
+,,812679,38940,Budapest,Bologna
+,,971526,44940,Paris,Bologna
+,,968245,39660,Hoofddorp,Munich
+,,1760967,50220,Bilbao,Munich
+,,964184,30120,Bremen,Munich
+,,482552,24720,Basel,Munich
+,,595195,29040,Bonn,Munich
+,,2935546,114600,Novorossiysk,Saint Petersburg
+,,3601960,124440,Sochi,Saint Petersburg
+,,1795516,84180,Arkhangelsk,Saint Petersburg
+,,2845034,165615,Zemun,Saint Petersburg
+,,3106503,138300,Chelyabinsk,Saint Petersburg
+,,3183016,128220,Alicante,Warsaw
+,,-1,-1,Uppsala,Warsaw
+,,1494499,78795,Zemun,Warsaw
+,,2053251,105484,Bari,Warsaw
+,,689288,35580,Budapest,Warsaw
+,,-1,-1,Las Palmas,Charleroi
+,,1339313,51133,Bergamo,Charleroi
+,,2011192,78604,Bari,Charleroi
+,,1484023,62040,Budapest,Charleroi
+,,1062589,34800,Montpellier,Charleroi
+,,-1,-1,Trondheim,Trondheim
+,,-1,-1,Trondheim,Trondheim
+,,-1,-1,Trondheim,Trondheim
+,,-1,-1,Trondheim,Trondheim
+,,-1,-1,Trondheim,Trondheim
+,,787346,70359,Cagliari,Milan
+,,800737,34804,Bari,Milan
+,,800737,34804,Bari,Milan
+,,936455,44100,Budapest,Milan
+,,-1,-1,Alicante,Gothenburg
+,,588937,33540,Uppsala,Gothenburg
+,,2227312,120960,Pecs,Gothenburg
+,,1783002,81600,Paris,Gothenburg
+,,-1,-1,Las Palmas,Luton
+,,1926808,70920,Bratislava,Luton
+,,-1,-1,Budapest,Luton
+,,1717263,66600,Bydgoszcz,Luton
+,,1137362,42660,Hoofddorp,Zurich
+,,2466652,149520,Athens,Zurich
+,,1225037,70875,Zemun,Zurich
+,,-1,-1,Zemun,Kamez
+,,-1,-1,Zemun,Kamez
+,,-1,-1,Bari,Kamez
+,,-1,-1,Las Palmas,Hamburg
+,,2684100,98880,Alicante,Hamburg
+,,607926,27420,Hoofddorp,Hamburg
+,,1416298,41460,Hoofddorp,Aberdeen
+,,-1,-1,Las Palmas,Aberdeen
+,,448273,31845,Belfast,Aberdeen
+,,1937218,71820,Hoofddorp,Valencia
+,,1482431,75013,Bergamo,Valencia
+,,2080696,62403,Solihull,Valencia
+,,3263393,131820,Alicante,Gdynia
+,,1275915,66180,Hoofddorp,Gdynia
+,,952837,64494,Uppsala,Gdynia
+,,-1,-1,Las Palmas,Bordeaux
+,,650419,41100,Barcelona,Bordeaux
+,,498866,24600,Paris,Bordeaux
+,,1051089,42840,Hoofddorp,Geneva
+,,2732629,161520,Athens,Geneva
+,,1779202,83745,Belfast,Geneva
+,,-1,-1,Bergen,Bergen
+,,2125802,112920,Hoofddorp,Bergen
+,,4329836,198720,Malaga,Bergen
+,,1784859,73374,Uppsala,Poznan
+,,1684279,61250,Solihull,Poznan
+,,1709331,60350,Bristol,Poznan
+,,2958997,130860,Sochi,Khimki
+,,2636361,161820,Astrakhan,Khimki
+,,3736381,207615,Zemun,Khimki
+,,594263,39900,Bari,Siracusa
+,,1974166,85235,Budapest,Siracusa
+,,1583176,73740,Basel,Catania
+,,1903462,81185,Budapest,Catania
+,,929737,45300,Hoofddorp,Prague
+,,531355,22800,Budapest,Prague
+,,391829,25035,Zemun,Budapest
+,,1423754,73804,Bari,Budapest
+,,732311,51060,Belfast,Harrow
+,,-1,-1,Budapest,Harrow
+,,1255959,48553,Bergamo,Reggio di Calabria
+,,1484291,64500,Basel,Reggio di Calabria
+,,-1,-1,Las Palmas,Oslo
+,,2848563,149775,Zemun,Oslo
+,,2011703,87135,Zemun,Amiens
+,,1104861,46033,Bergamo,Amiens
+,,2407508,145140,Hoofddorp,Vantaa
+,,1894241,123120,Budapest,Vantaa
+,,3029572,150900,Hoofddorp,Oulu
+,,-1,-1,Trondheim,Oulu
+,,-1,-1,Sochi,Odintsovo
+,,-1,-1,Chelyabinsk,Odintsovo
+,,-1,-1,Sochi,Cherepovets
+,,617248,38014,Saint Petersburg,Cherepovets
+,,346269,24300,Livorno,Nice
+,,346269,24300,Livorno,Nice
+,,-1,-1,Livorno,Marseille
+,,-1,-1,Budapest,Marseille
+,,-1,-1,Las Palmas,Liverpool
+,,-1,-1,Belfast,Liverpool
+,,4588313,181920,Sochi,Kazan
+,,-1,-1,Zemun,Kazan
+,,46151,2700,Bournemouth,Southampton
+,,712815,22080,Hoofddorp,Southampton
+,,751305,37444,Bari,Venice
+,,2026113,130363,Bergamo,Iasi
+,,3513929,176100,Sochi,Domodedovo
+,,-1,-1,Belfast,Sale
+,,2730489,133987,Solihull,Craiova
+,,941744,41072,Bari,Turin
+,,-1,-1,Las Palmas,Belfast
+,,705451,37504,Bari,Verona
+,,-1,-1,Leon,Aves
+,,-1,-1,Bournemouth,Bournemouth
+,,1698074,125043,Basel,Pristina
+,,1085758,63265,Bratislava,Kaunas
+,,1881523,67080,Castellon de la Plana,Nijmegen
+,,2450119,123420,Khimki,Chelyabinsk
+,,2347194,127370,Varna,Bonn
+,,1087213,68280,Bergamo,Cagliari
+,,3465140,172929,Zemun,Odivelas
+,,780526,42675,Zemun,Vienna
+,,-1,-1,Athens,Menemen
+,,764050,24600,Hoofddorp,Norwich
+,,2633019,144000,Hoofddorp,Burgas
+,,2031763,76260,Alicante,Maastricht
+,,2144484,78120,Khimki,Arkhangelsk
+,,-1,-1,Sochi,Lyubertsy
+,,-1,-1,Athens,Canakkale
+,,3893856,161358,Sochi,Pskov
+,,9959629,360180,Sochi,Krasnoyarsk
+,,-1,-1,Athens,Bodrum
+,,499003,21960,Athens,Thessaloniki
+,,-1,-1,Canakkale,Irakleio
+,,5660343,209520,Sochi,Perm
+,,248839,16252,Zemun,Nis
+,,1817556,63900,Hoofddorp,Florence
+,,2674089,123300,Luton,Cluj-Napoca
+,,-1,-1,Dusseldorf,Las Palmas
+,,-1,-1,Dusseldorf,Las Palmas
+,,-1,-1,Aberdeen,Las Palmas
+,,-1,-1,Derby,Las Palmas
+,,-1,-1,Derby,Las Palmas
+,,-1,-1,Frankfurt,Las Palmas
+,,-1,-1,Frankfurt,Las Palmas
+,,-1,-1,Belfast,Las Palmas
+,,-1,-1,Belfast,Las Palmas
+,,-1,-1,Hannover,Las Palmas
+,,2795292,104193,Copenhagen,Torrejon de Ardoz
+,,2317227,75420,Dusseldorf,Torrejon de Ardoz
+,,422781,26986,Donostia,Torrejon de Ardoz
+,,2630268,98129,Aberdeen,Torrejon de Ardoz
+,,2660569,110731,Rome,Torrejon de Ardoz
+,,1982691,83520,Florence,Torrejon de Ardoz
+,,-1,-1,La Laguna,Torrejon de Ardoz
+,,379899,19440,Granada,Torrejon de Ardoz
+,,1911001,67920,Geneva,Torrejon de Ardoz
+,,3958196,190173,Vantaa,Torrejon de Ardoz
+,,1526162,63480,Copenhagen,Paris
+,,525306,33540,Dusseldorf,Paris
+,,738352,28544,Derby,Paris
+,,1414812,56580,Rome,Paris
+,,1414812,56580,Rome,Paris
+,,1204434,50280,Florence,Paris
+,,-1,-1,La Laguna,Paris
+,,594457,29700,Frankfurt,Paris
+,,1215849,60780,Belfast,Paris
+,,3327758,117720,Copenhagen,Malaga
+,,3134673,110400,Aberdeen,Malaga
+,,-1,-1,Eindhoven,Malaga
+,,2390595,95700,Derby,Malaga
+,,2728316,97860,Rome,Malaga
+,,2490359,70500,Frankfurt,Malaga
+,,2299023,73829,Saarbrucken,Malaga
+,,-1,-1,Donostia,Barcelona
+,,2544104,72420,Aberdeen,Barcelona
+,,1378395,76500,Rome,Barcelona
+,,1379905,45060,Frankfurt,Barcelona
+,,958584,27000,Granada,Barcelona
+,,793406,34260,Geneva,Barcelona
+,,3923460,178860,Vantaa,Barcelona
+,,1315701,49200,Copenhagen,Munich
+,,699763,24120,Dusseldorf,Munich
+,,910081,32820,Rome,Munich
+,,642110,33300,Florence,Munich
+,,423475,24780,Frankfurt,Munich
+,,597482,34800,Geneva,Munich
+,,647042,21660,Hannover,Munich
+,,1174993,66660,Copenhagen,Vantaa
+,,2344016,123745,Dusseldorf,Vantaa
+,,2201476,116820,Frankfurt,Vantaa
+,,-1,-1,Uppsala,Vantaa
+,,2757752,129720,Paris,Vantaa
+,,663785,26820,Oulu,Vantaa
+,,663785,26820,Oulu,Vantaa
+,,339564,27360,Copenhagen,Gothenburg
+,,-1,-1,Aberdeen,Gothenburg
+,,1329196,65460,Frankfurt,Gothenburg
+,,3637487,147900,Malaga,Gothenburg
+,,748233,41700,Bergen,Gothenburg
+,,1910823,84000,Geneva,Gothenburg
+,,980003,63240,Vantaa,Gothenburg
+,,1008404,49200,Copenhagen,Hoofddorp
+,,240614,13860,Dusseldorf,Hoofddorp
+,,-1,-1,Huelva,Hoofddorp
+,,1916608,71100,Rome,Hoofddorp
+,,-1,-1,La Laguna,Hoofddorp
+,,544170,31020,Frankfurt,Hoofddorp
+,,1438603,57825,Belfast,Hoofddorp
+,,970196,35880,Aberdeen,Croydon
+,,1926824,73380,Rome,Croydon
+,,1747874,67080,Florence,Croydon
+,,810383,39540,Frankfurt,Croydon
+,,202728,18881,Bournemouth,Croydon
+,,1069937,40980,Geneva,Croydon
+,,1874267,75720,Copenhagen,Budapest
+,,1315128,47820,Dortmund,Budapest
+,,1380479,57780,Eindhoven,Budapest
+,,1279337,66660,Rome,Budapest
+,,-1,-1,La Laguna,Budapest
+,,992027,45600,Frankfurt,Budapest
+,,3257852,114420,Dusseldorf,Odivelas
+,,-1,-1,Eindhoven,Odivelas
+,,391111,22080,Huelva,Odivelas
+,,3142131,107878,Rome,Odivelas
+,,-1,-1,La Laguna,Odivelas
+,,2904777,123540,Dusseldorf,Oulu
+,,2904777,123540,Dusseldorf,Oulu
+,,2904777,123540,Dusseldorf,Oulu
+,,3033756,126120,Frankfurt,Oulu
+,,663864,29100,Vantaa,Oulu
+,,-1,-1,Copenhagen,Maia
+,,-1,-1,Strasbourg,Maia
+,,-1,-1,Ulm,Maia
+,,-1,-1,La Laguna,Maia
+,,-1,-1,Geneva,Maia
+,,1448802,50580,Barcelona,Charleroi
+,,1769203,67860,Rome,Charleroi
+,,2427659,121560,Bucharest,Charleroi
+,,2533878,93892,Catania,Charleroi
+,,1315377,42000,Aberdeen,Charleroi
+,,3345152,113700,Copenhagen,Alicante
+,,-1,-1,Eindhoven,Alicante
+,,-1,-1,Derby,Alicante
+,,1665331,74040,Strasbourg,Alicante
+,,1916343,70800,Frankfurt,Alicante
+,,504934,25560,Copenhagen,Hamburg
+,,503485,24660,Frankfurt,Hamburg
+,,2778379,109200,Malaga,Hamburg
+,,-1,-1,Las Palmas,Hamburg
+,,1685547,108780,Vantaa,Hamburg
+,,1682227,71220,Copenhagen,Geneva
+,,1979319,58140,Aberdeen,Geneva
+,,1268350,43544,Derby,Geneva
+,,569453,31500,Frankfurt,Geneva
+,,1779202,83745,Belfast,Geneva
+,,864320,40260,Aberdeen,Bristol
+,,-1,-1,La Laguna,Bristol
+,,987786,47700,Frankfurt,Bristol
+,,689408,52560,Belfast,Bristol
+,,1241560,46860,Geneva,Bristol
+,,731110,37980,Aberdeen,Solihull
+,,260440,31200,Bournemouth,Solihull
+,,1787733,62640,Mataro,Solihull
+,,1225895,47763,Geneva,Solihull
+,,467881,52380,Rome,Cagliari
+,,467881,52380,Rome,Cagliari
+,,467881,52380,Rome,Cagliari
+,,966579,79800,Nice,Cagliari
+,,744601,42900,Taranto,Bologna
+,,1080829,38880,Catania,Bologna
+,,373928,16800,Rome,Bologna
+,,863500,43140,Frankfurt,Bologna
+,,1626575,63600,Copenhagen,Vienna
+,,961800,40740,Dusseldorf,Vienna
+,,1243361,59100,Rome,Vienna
+,,729450,33180,Frankfurt,Vienna
+,,1719235,64800,Rome,Brussels
+,,411946,26700,Frankfurt,Brussels
+,,862310,34260,Geneva,Brussels
+,,2331342,137460,Vantaa,Brussels
+,,625909,50160,Derby,Belfast
+,,-1,-1,Huelva,Belfast
+,,-1,-1,Huelva,Belfast
+,,-1,-1,Belfast,Belfast
+,,1544224,64800,Copenhagen,Zurich
+,,684854,29100,Dusseldorf,Zurich
+,,807072,44820,Rome,Zurich
+,,421523,24240,Frankfurt,Zurich
+,,1607909,66960,Copenhagen,Harrow
+,,674597,35700,Dusseldorf,Harrow
+,,1924240,73500,Rome,Harrow
+,,812427,41640,Frankfurt,Harrow
+,,1463282,56520,Copenhagen,Salzburg
+,,976657,57416,Eindhoven,Salzburg
+,,578156,23040,Frankfurt,Salzburg
+,,-1,-1,Domodedovo,Saint Petersburg
+,,2935546,114600,Novorossiysk,Saint Petersburg
+,,2099389,39540,Nizhniy Novgorod,Saint Petersburg
+,,1005327,42960,Copenhagen,Frankfurt
+,,219904,6540,Dusseldorf,Frankfurt
+,,353579,17100,Hannover,Frankfurt
+,,1135112,58800,Copenhagen,Gdynia
+,,1062316,55800,Dortmund,Gdynia
+,,3528275,144300,Malaga,Gdynia
+,,2061613,75660,Debrecen,Luton
+,,-1,-1,Huelva,Luton
+,,764092,53100,Belfast,Luton
+,,-1,-1,Kamez,Graz
+,,790543,41040,Frankfurt,Graz
+,,790543,41040,Frankfurt,Graz
+,,1492312,68280,Copenhagen,Krakow
+,,1249703,64080,Eindhoven,Krakow
+,,949640,53880,Frankfurt,Krakow
+,,1960162,91372,Catania,Prague
+,,1421761,70860,Rome,Prague
+,,524512,26160,Frankfurt,Prague
+,,-1,-1,Catania,Bucharest
+,,2080382,127800,Rome,Bucharest
+,,1714867,103800,Ulm,Bucharest
+,,957943,37560,Catania,Florence
+,,275156,11700,Rome,Florence
+,,952502,46740,Frankfurt,Florence
+,,1006808,52380,Taranto,Bergamo
+,,1342826,46080,Catania,Bergamo
+,,1071119,105900,Eindhoven,Bergamo
+,,707181,25500,Copenhagen,Uppsala
+,,1696861,74400,Frankfurt,Uppsala
+,,2274703,88620,Geneva,Uppsala
+,,1862955,92100,Dortmund,Cluj-Napoca
+,,1928291,121740,Eindhoven,Cluj-Napoca
+,,1444112,81240,Ulm,Cluj-Napoca
+,,603755,28200,Rome,Milan
+,,654752,38100,Frankfurt,Milan
+,,654752,38100,Frankfurt,Milan
+,,2008838,116554,Dusseldorf,Chisinau
+,,-1,-1,Rome,Chisinau
+,,46151,2700,Bournemouth,Southampton
+,,1180417,46620,Geneva,Southampton
+,,-1,-1,Bergen,Bergen
+,,206341,19074,Stavanger,Bergen
+,,1910926,117449,Dusseldorf,Pristina
+,,1911936,130589,Geneva,Pristina
+,,-1,-1,Dusseldorf,La Laguna
+,,-1,-1,La Laguna,La Laguna
+,,-1,-1,Dusseldorf,Kamez
+,,-1,-1,Rome,Kamez
+,,-1,-1,Eindhoven,Taranto
+,,506667,25500,Rome,Taranto
+,,208531,14400,Frankfurt,Saarbrucken
+,,1767698,97152,Nis,Saarbrucken
+,,-1,-1,La Laguna,Basel
+,,334769,20086,Frankfurt,Basel
+,,2734499,155100,Eindhoven,Athens
+,,2406263,127140,Rome,Athens
+,,485737,29760,Rome,Genoa
+,,1028886,55980,Barcelona,Genoa
+,,-1,-1,Huelva,Liverpool
+,,-1,-1,Geneva,Liverpool
+,,1965292,92760,Rome,Warsaw
+,,1090425,44280,Frankfurt,Warsaw
+,,694657,31648,Rome,Turin
+,,722324,43528,Frankfurt,Turin
+,,1822311,66830,Rome,Poznan
+,,796613,32690,Frankfurt,Poznan
+,,1564667,69660,Dortmund,Vilnius
+,,1767367,83383,Eindhoven,Vilnius
+,,1616033,68700,Dortmund,Novi Sad
+,,1085215,51000,Ulm,Novi Sad
+,,1456235,54600,Dortmund,Rome
+,,2446133,130485,Iasi,Rome
+,,733959,43260,Copenhagen,Oslo
+,,1853836,83700,Frankfurt,Oslo
+,,988011,50820,Dortmund,Sosnowiec
+,,-1,-1,La Laguna,Sosnowiec
+,,1877774,121080,Domodedovo,Volgograd
+,,3376981,125100,Nizhniy Novgorod,Volgograd
+,,977611,43920,Copenhagen,Bonn
+,,1371032,60480,Rome,Bonn
+,,1194452,43380,Catania,Verona
+,,495049,26828,Rome,Verona
+,,1115236,64320,Cheboksary,Khimki
+,,804303,30720,Nizhniy Novgorod,Khimki
+,,-1,-1,Copenhagen,Sale
+,,-1,-1,Frankfurt,Sale
+,,1634934,104047,Bologna,Craiova
+,,2112787,102247,Charleroi,Craiova
+,,1160239,61860,Dortmund,Olsztyn
+,,665052,31440,Rome,Trieste
+,,1776335,97221,Copenhagen,Kaunas
+,,1718298,93660,Rome,Valencia
+,,410965,21000,Rome,Foggia
+,,662461,28380,Rome,Reggio di Calabria
+,,2222258,123660,Rome,Chernivtsi
+,,1880429,90660,Rome,Radom
+,,3354770,121860,Copenhagen,Huelva
+,,469781,25680,Frankfurt,Dresden
+,,476099,23400,Frankfurt,Bremen
+,,659728,42960,Rome,Nice
+,,220029,8340,Frankfurt,Dusseldorf
+,,2429962,94140,Copenhagen,Aberdeen
+,,2618669,131220,Frankfurt,Kuopio
+,,373144,14160,Frankfurt,Leipzig
+,,231800,12360,Frankfurt,Nuremberg
+,,186600,8160,Frankfurt,Stuttgart
+,,2220175,120780,Frankfurt,Tallinn
+,,740088,38520,Frankfurt,Wroclaw
+,,-1,-1,Bournemouth,Rennes
+,,1581945,58680,Copenhagen,Innsbruck
+,,1284833,41220,Bristol,Grenoble
+,,880193,45900,Rome,Palermo
+,,1037950,53100,Rome,Villeurbanne
+,,-1,-1,Rome,Marseille
+,,830927,43500,Rome,Siracusa
+,,1726476,82580,Dortmund,Zemun
+,,764787,37620,Dusseldorf,Copenhagen
+,,-1,-1,Domodedovo,Penza
+,,4974953,297960,Domodedovo,Perm
+,,7736340,467880,Domodedovo,Prokopyevsk
+,,-1,-1,Domodedovo,Minsk
+,,-1,-1,Domodedovo,Murmansk
+,,-1,-1,Domodedovo,Kazan
+,,-1,-1,Domodedovo,Izhevsk
+,,12691170,564540,Domodedovo,Chita
+,,-1,-1,Domodedovo,Groznyy
+,,-1,-1,Domodedovo,Arkhangelsk
+,,2275334,180900,Domodedovo,Sochi
+,,1602035,86400,Eindhoven,Debrecen
+,,2067648,87540,Derby,Rzeszow
+,,-1,-1,Cheboksary,Odintsovo
+,,-1,-1,Huelva,Nijmegen
+,,492350,25440,Rome,Rimini
+,,769576,39300,Rome,Catania
+,,1546913,71160,Rome,Eindhoven
+,,1077629,56280,Rome,Ulm
+,,1612637,67860,Copenhagen,Romford
+,,2064589,104340,Copenhagen,Riga
+,,1226548,48900,Geneva,Bournemouth
+,,-1,-1,Palma,Torrejon de Ardoz
+,,730790,15240,A Coruna,Torrejon de Ardoz
+,,451486,27403,Almeria,Torrejon de Ardoz
+,,2149367,75480,Harrow,Torrejon de Ardoz
+,,1699809,61980,Milan,Torrejon de Ardoz
+,,924675,40958,Odivelas,Torrejon de Ardoz
+,,1267801,42060,Villeurbanne,Torrejon de Ardoz
+,,470699,29340,Malaga,Torrejon de Ardoz
+,,555063,30240,Barcelona,Torrejon de Ardoz
+,,1934291,76320,Bologna,Torrejon de Ardoz
+,,702263,34746,Bordeaux,Torrejon de Ardoz
+,,1744597,61560,Brussels,Torrejon de Ardoz
+,,-1,-1,Las Palmas,Torrejon de Ardoz
+,,2434398,79620,Hamburg,Torrejon de Ardoz
+,,2145573,75540,Croydon,Torrejon de Ardoz
+,,-1,-1,Maia,Torrejon de Ardoz
+,,-1,-1,Sale,Torrejon de Ardoz
+,,3035335,128255,Siracusa,Torrejon de Ardoz
+,,1055895,39540,Marseille,Torrejon de Ardoz
+,,1174896,35040,Ivanovo,Saint Petersburg
+,,2104572,98520,Kaliningrad,Saint Petersburg
+,,6190048,226260,Krasnoyarsk,Saint Petersburg
+,,1836132,72600,Samara,Saint Petersburg
+,,1946517,82140,Kirov,Saint Petersburg
+,,2703474,89700,Kazan,Saint Petersburg
+,,615009,36934,Cherepovets,Saint Petersburg
+,,2036611,86220,Murmansk,Saint Petersburg
+,,-1,-1,Kaspiysk,Saint Petersburg
+,,3397166,109500,Pyatigorsk,Saint Petersburg
+,,-1,-1,Palma,Barcelona
+,,2403062,102199,Krakow,Barcelona
+,,1520859,61860,Harrow,Barcelona
+,,1508224,50318,Odivelas,Barcelona
+,,-1,-1,Liverpool,Barcelona
+,,1549673,61320,Luton,Barcelona
+,,-1,-1,Palma,Barcelona
+,,-1,-1,Sale,Barcelona
+,,2383723,111875,Siracusa,Barcelona
+,,-1,-1,Innsbruck,Croydon
+,,970196,35880,Aberdeen,Croydon
+,,1734219,69240,Krakow,Croydon
+,,2289672,82860,Malaga,Croydon
+,,1598663,54668,Barcelona,Croydon
+,,839170,33480,Rennes,Croydon
+,,-1,-1,Bucharest,Croydon
+,,3024251,116558,Odivelas,Croydon
+,,2799997,108180,Siracusa,Croydon
+,,2597046,123754,Chisinau,Paris
+,,908935,32820,Milan,Paris
+,,2597132,75698,Odivelas,Paris
+,,2597132,75698,Odivelas,Paris
+,,396686,22320,Villeurbanne,Paris
+,,-1,-1,Sale,Paris
+,,685655,24840,Montpellier,Paris
+,,770369,32056,Marseille,Paris
+,,770369,32056,Marseille,Paris
+,,3554283,131160,Krakow,Malaga
+,,2310327,79620,Liege,Malaga
+,,2635892,87300,Harrow,Malaga
+,,2664706,86760,Luton,Malaga
+,,2299023,73829,Saarbrucken,Malaga
+,,-1,-1,Sale,Malaga
+,,214838,18763,Almeria,Malaga
+,,1550556,48360,Marseille,Malaga
+,,1215450,59400,Krakow,Hoofddorp
+,,1447870,87611,Stavanger,Hoofddorp
+,,916864,42360,Bradford,Hoofddorp
+,,593433,17580,Harrow,Hoofddorp
+,,1427321,47100,Milan,Hoofddorp
+,,3077481,109178,Odivelas,Hoofddorp
+,,-1,-1,Sale,Hoofddorp
+,,1209986,37200,Montpellier,Hoofddorp
+,,463877,26145,Iasi,Bucharest
+,,463407,28800,Chisinau,Bucharest
+,,2986902,133620,Harrow,Bucharest
+,,-1,-1,Liverpool,Bucharest
+,,2968157,139020,Luton,Bucharest
+,,-1,-1,Siracusa,Bucharest
+,,2498147,140160,Marseille,Bucharest
+,,-1,-1,Vlore,Athens
+,,-1,-1,Athens,Athens
+,,10843,1672,Irakleio,Athens
+,,-1,-1,Bodrum,Athens
+,,1969879,124560,Sosnowiec,Athens
+,,3699151,202546,Harrow,Athens
+,,-1,-1,Menemen,Athens
+,,-1,-1,Innsbruck,Aberdeen
+,,2564903,97200,Krakow,Aberdeen
+,,836895,40260,Harrow,Aberdeen
+,,836895,40260,Harrow,Aberdeen
+,,848661,43380,Luton,Aberdeen
+,,1817182,63300,Villeurbanne,Aberdeen
+,,3619766,132840,Siracusa,Aberdeen
+,,416777,13980,Kuopio,Vantaa
+,,663769,26580,Oulu,Vantaa
+,,416777,13980,Kuopio,Vantaa
+,,2802898,144840,Milan,Vantaa
+,,5485545,230858,Odivelas,Vantaa
+,,-1,-1,Sale,Vantaa
+,,-1,-1,Krasnoyarsk,Odintsovo
+,,-1,-1,Krasnodar,Odintsovo
+,,-1,-1,Kirov,Odintsovo
+,,-1,-1,Kazan,Odintsovo
+,,-1,-1,Kaspiysk,Odintsovo
+,,-1,-1,Pyatigorsk,Odintsovo
+,,2499073,112980,Sosnowiec,Siracusa
+,,2646451,114600,Harrow,Siracusa
+,,1357587,46835,Milan,Siracusa
+,,3919909,164918,Odivelas,Siracusa
+,,-1,-1,Sale,Siracusa
+,,-1,-1,Nis,Siracusa
+,,2415332,86760,Krasnodar,Khimki
+,,2078392,104160,Kirov,Khimki
+,,829589,75660,Kazan,Khimki
+,,-1,-1,Kaspiysk,Khimki
+,,2754203,115920,Pyatigorsk,Khimki
+,,1289330,62640,Krakow,Bergamo
+,,2152058,99871,Kaunas,Bergamo
+,,-1,-1,Odivelas,Bergamo
+,,614946,36209,Saarbrucken,Bergamo
+,,1410526,51155,Siracusa,Bergamo
+,,-1,-1,Krakow,Uppsala
+,,2247502,110760,Harrow,Uppsala
+,,1332935,54840,Oulu,Uppsala
+,,2624303,110340,Villeurbanne,Uppsala
+,,666293,20520,Malmo,Uppsala
+,,860006,51060,Harrow,Belfast
+,,879925,54660,Luton,Belfast
+,,-1,-1,Sale,Belfast
+,,-1,-1,Sale,Belfast
+,,-1,-1,Sale,Belfast
+,,956064,43740,Harrow,Geneva
+,,748663,23359,Lille,Geneva
+,,2332442,79958,Odivelas,Geneva
+,,984878,43200,Luton,Geneva
+,,-1,-1,Sale,Geneva
+,,499178,25200,Milan,Munich
+,,3548186,116618,Odivelas,Munich
+,,956389,51720,Villeurbanne,Munich
+,,-1,-1,Sale,Munich
+,,1567010,71975,Siracusa,Munich
+,,-1,-1,Sosnowiec,Alicante
+,,-1,-1,Bradford,Alicante
+,,1187211,51218,Odivelas,Alicante
+,,-1,-1,Sale,Alicante
+,,938395,48480,Marseille,Alicante
+,,-1,-1,Bradford,Las Palmas
+,,-1,-1,Saarbrucken,Las Palmas
+,,-1,-1,Villeurbanne,Las Palmas
+,,-1,-1,Sale,Las Palmas
+,,-1,-1,Sale,Las Palmas
+,,4383663,193472,Chisinau,Odivelas
+,,2369986,89340,Harrow,Odivelas
+,,-1,-1,Sale,Odivelas
+,,1604236,74479,Marseille,Odivelas
+,,732311,51060,Belfast,Harrow
+,,899074,40260,Basel,Harrow
+,,3029450,117038,Odivelas,Harrow
+,,-1,-1,Sale,Harrow
+,,501046,18840,Innsbruck,Vienna
+,,476731,24000,Krakow,Vienna
+,,1561216,51420,Harrow,Vienna
+,,-1,-1,Odivelas,Vienna
+,,1383144,65880,Krakow,Livorno
+,,1090373,48275,Siracusa,Livorno
+,,488176,29400,Marseille,Livorno
+,,488176,29400,Marseille,Livorno
+,,396243,10680,Harrow,Brussels
+,,1229948,40800,Milan,Brussels
+,,2928381,84998,Odivelas,Brussels
+,,2506473,94355,Siracusa,Brussels
+,,1761112,69060,Krakow,Luton
+,,1692269,70440,Sosnowiec,Luton
+,,2443990,126300,Cluj-Napoca,Luton
+,,1916809,75497,Lublin,Luton
+,,3477712,148500,Oulu,Zurich
+,,1136226,32580,Harrow,Zurich
+,,2606085,93758,Odivelas,Zurich
+,,1587246,76200,Siracusa,Zurich
+,,3101686,110978,Odivelas,Bonn
+,,-1,-1,Sale,Bonn
+,,2126957,93155,Siracusa,Bonn
+,,2435111,109602,Sosnowiec,Catania
+,,1288953,43711,Milan,Catania
+,,58822,3000,Siracusa,Catania
+,,-1,-1,Odivelas,La Laguna
+,,-1,-1,Odivelas,La Laguna
+,,-1,-1,Sale,La Laguna
+,,2021481,85560,Krakow,Oslo
+,,2089335,109620,Harrow,Oslo
+,,4695238,174638,Odivelas,Oslo
+,,-1,-1,Palma,Valencia
+,,2764299,121200,Krakow,Valencia
+,,1308442,47798,Odivelas,Valencia
+,,1084122,29760,Harrow,Grenoble
+,,1113755,28860,Luton,Grenoble
+,,-1,-1,Sale,Grenoble
+,,1310938,62400,Harrow,Milan
+,,1310938,62400,Harrow,Milan
+,,-1,-1,Odivelas,Milan
+,,864490,44520,Harrow,Villeurbanne
+,,2176442,71498,Odivelas,Villeurbanne
+,,340700,19156,Marseille,Villeurbanne
+,,1389174,58740,Krakow,Charleroi
+,,2556423,98375,Siracusa,Charleroi
+,,1145267,39376,Marseille,Charleroi
+,,1522446,66240,Krakow,Rome
+,,3236718,125678,Odivelas,Rome
+,,-1,-1,Sale,Rome
+,,-1,-1,Sale,Budapest
+,,1529588,75120,Marseille,Budapest
+,,-1,-1,Odivelas,Maia
+,,-1,-1,Saarbrucken,Maia
+,,1581289,76500,Luton,Wroclaw
+,,-1,-1,Sale,Wroclaw
+,,1410690,48960,Harrow,Salzburg
+,,-1,-1,Sale,Salzburg
+,,-1,-1,Bradford,Poznan
+,,-1,-1,Sale,Poznan
+,,2165054,102420,Bradford,Krakow
+,,-1,-1,Sale,Krakow
+,,1431123,49800,Bradford,Annecy
+,,-1,-1,Sale,Annecy
+,,-1,-1,Alicante,Liverpool
+,,-1,-1,Oulu,Liverpool
+,,-1,-1,Kazan,Samara
+,,2941396,159600,Pyatigorsk,Samara
+,,-1,-1,Kaspiysk,Domodedovo
+,,3441247,172260,Pyatigorsk,Domodedovo
+,,1200438,32640,Milan,Reggio di Calabria
+,,1200438,32640,Milan,Reggio di Calabria
+,,763315,27360,Innsbruck,Frankfurt
+,,-1,-1,Sale,Frankfurt
+,,-1,-1,Liverpool,Gdynia
+,,1892732,76860,Luton,Gdynia
+,,2738627,84720,Krakow,Toulouse
+,,1253679,51660,Harrow,Toulouse
+,,1208730,58140,Krakow,Bologna
+,,1519740,67440,Harrow,Bologna
+,,806881,39960,Croydon,Rennes
+,,-1,-1,Southampton,Rennes
+,,2012814,120600,Krakow,Cagliari
+,,1033905,64800,Milan,Cagliari
+,,2044976,79800,Krakow,Gothenburg
+,,1840594,96120,Harrow,Gothenburg
+,,373084,15480,Krakow,Warsaw
+,,4212716,143438,Odivelas,Warsaw
+,,762175,37560,Kosice,Prague
+,,-1,-1,Sale,Prague
+,,3837118,231420,Pyatigorsk,Naberezhnyye Chelny
+,,5455549,194580,Pyatigorsk,Perm
+,,4418158,223260,Pyatigorsk,Magnitogorsk
+,,3200629,171300,Luton,Oulu
+,,-1,-1,Pyatigorsk,Ufa
+,,-1,-1,Pyatigorsk,Kaluga
+,,2340837,101083,Luton,Vilnius
+,,5318757,250620,Pyatigorsk,Chelyabinsk
+,,2303908,100380,Luton,Chernivtsi
+,,124037,11563,Almeria,Granada
+,,-1,-1,Pyatigorsk,Cherepovets
+,,2778574,154589,Luton,Pristina
+,,1170626,37980,Pyatigorsk,Sochi
+,,-1,-1,Sale,Murcia
+,,-1,-1,Sale,Rzeszow
+,,1188649,40516,Marseille,Nantes
+,,-1,-1,Sale,Santander
+,,-1,-1,Sale,Dos Hermanas
+,,596273,16560,Malmo,Stockholm
+,,-1,-1,Sale,Venice
+,,-1,-1,Sale,Verona
+,,-1,-1,Almeria,Almeria
+,,-1,-1,Sale,Copenhagen
+,,1659886,97957,Saarbrucken,Nis
+,,2587092,154107,Luton,Iasi
+,,-1,-1,Innsbruck,Sale
+,,-1,-1,Bodrum,Thessaloniki
+,,-1,-1,Murmansk,Murmansk
+,,-1,-1,Bodrum,Bodrum
+,,-1,-1,Odintsovo,Kaliningrad
+,,1894583,75476,Krakow,Solihull
+,,1977317,68880,Krakow,Amiens
+,,1237783,59040,Krakow,Eindhoven
+,,1444212,60060,Krakow,Lille
+,,-1,-1,Krakow,Norrkoping
+,,-1,-1,Krakow,Kamez
+,,206341,19074,Stavanger,Bergen
+,,887784,50700,Athens,Plovdiv
+,,3002941,106009,Odivelas,Saarbrucken
+,,-1,-1,Innsbruck,Bristol
+,,2698998,123360,Bradford,Huelva
+,,-1,-1,Las Palmas,Leipzig
+,,1378193,72172,Harrow,Aarhus
+,,2692581,114900,Harrow,Algeciras
+,,767692,55152,Nis,Ljubljana
+,,7058761,242940,Khimki,Krasnoyarsk
+,,1400565,52560,Harrow,Nice
+,,417046,25740,Harrow,Gateshead
+,,1139485,49200,Milan,Taranto
+,,1574034,76418,Odivelas,Bordeaux
+,,1387950,83580,Pyatigorsk,Volgograd
+,,1699809,61980,Milan,Torrejon de Ardoz
+,,1320024,47520,Nice,Torrejon de Ardoz
+,,861112,58680,Nantes,Torrejon de Ardoz
+,,1074923,58980,Paris,Torrejon de Ardoz
+,,405265,21240,Oviedo,Torrejon de Ardoz
+,,3106242,130520,Palermo,Torrejon de Ardoz
+,,359327,21540,Pamplona,Torrejon de Ardoz
+,,-1,-1,Prague,Torrejon de Ardoz
+,,1602051,87809,Livorno,Torrejon de Ardoz
+,,730790,15240,A Coruna,Torrejon de Ardoz
+,,-1,-1,Santander,Torrejon de Ardoz
+,,3505497,168031,Sofia,Torrejon de Ardoz
+,,-1,-1,La Laguna,Torrejon de Ardoz
+,,2134484,74760,Romford,Torrejon de Ardoz
+,,1537928,55860,Munich,Barcelona
+,,1071016,48360,Milan,Barcelona
+,,1609138,73402,Naples,Barcelona
+,,672651,32880,Nice,Barcelona
+,,1053748,29220,Paris,Barcelona
+,,983950,28800,Oviedo,Barcelona
+,,2454630,114140,Palermo,Barcelona
+,,2404244,78720,Prague,Barcelona
+,,2501740,134820,Sofia,Barcelona
+,,-1,-1,La Laguna,Barcelona
+,,1505976,61140,Romford,Barcelona
+,,-1,-1,Munich,Las Palmas
+,,-1,-1,Milan,Las Palmas
+,,-1,-1,Gateshead,Las Palmas
+,,-1,-1,Nantes,Las Palmas
+,,-1,-1,Nantes,Las Palmas
+,,-1,-1,Paris,Las Palmas
+,,-1,-1,Oviedo,Las Palmas
+,,-1,-1,A Coruna,Las Palmas
+,,-1,-1,Romford,Las Palmas
+,,-1,-1,Romford,Las Palmas
+,,2648382,81300,Munich,Malaga
+,,2660341,115800,Gateshead,Malaga
+,,2708051,84600,Nijmegen,Malaga
+,,1603347,69120,Paris,Malaga
+,,3959506,167460,Oslo,Malaga
+,,-1,-1,Prague,Malaga
+,,2271941,78420,Rotterdam,Malaga
+,,2621009,86580,Romford,Malaga
+,,-1,-1,Naples,Bucharest
+,,2790631,153300,Norrkoping,Bucharest
+,,744145,46980,Oradea,Bucharest
+,,2485947,136860,Aarhus,Bucharest
+,,1654897,98700,Bologna,Bucharest
+,,1978370,108060,Rome,Bucharest
+,,2935549,139620,Croydon,Bucharest
+,,2991960,133320,Romford,Bucharest
+,,1890955,72420,Munich,Valencia
+,,2082271,94649,Naples,Valencia
+,,1458174,65820,Paris,Valencia
+,,2805550,129560,Palermo,Valencia
+,,1404839,75000,Livorno,Valencia
+,,1092236,23700,A Coruna,Valencia
+,,1852657,77700,Romford,Valencia
+,,806638,25948,Naples,Milan
+,,806638,25948,Naples,Milan
+,,787346,70359,Cagliari,Milan
+,,762834,40020,Paris,Milan
+,,1408030,50240,Palermo,Milan
+,,1408030,50240,Palermo,Milan
+,,1296055,61680,Romford,Milan
+,,1093864,47460,Minsk,Saint Petersburg
+,,2934329,100860,Naberezhnyye Chelny,Saint Petersburg
+,,3643201,114600,Perm,Saint Petersburg
+,,2550610,113400,Orenburg,Saint Petersburg
+,,3224544,181080,Syktyvkar,Saint Petersburg
+,,-1,-1,Simferopol,Saint Petersburg
+,,224806,15000,Milan,Zurich
+,,650132,41520,Nice,Zurich
+,,1662786,122437,Tetovo,Zurich
+,,2043961,92400,Oslo,Zurich
+,,833258,40320,Trieste,Zurich
+,,1625823,119401,Skopje,Zurich
+,,1427321,47100,Milan,Hoofddorp
+,,918900,39300,Nantes,Hoofddorp
+,,1749766,77831,Oslo,Hoofddorp
+,,2028713,110623,Riga,Hoofddorp
+,,2084030,73320,Foggia,Hoofddorp
+,,532074,34800,Romford,Hoofddorp
+,,1610296,74100,Milan,Alicante
+,,2549982,100500,Gateshead,Alicante
+,,3955667,222300,Oslo,Alicante
+,,2231317,76320,Rotterdam,Alicante
+,,2959639,163800,Sofia,Alicante
+,,2030981,86880,Romford,Alicante
+,,1592447,95820,Munich,Thessaloniki
+,,2235594,135300,Nijmegen,Thessaloniki
+,,1681447,99240,Nuremberg,Thessaloniki
+,,-1,-1,Bodrum,Thessaloniki
+,,1886166,103800,Stuttgart,Thessaloniki
+,,2997886,176880,Romford,Thessaloniki
+,,-1,-1,Milan,Maia
+,,-1,-1,Torrejon de Ardoz,Maia
+,,-1,-1,Paris,Maia
+,,-1,-1,La Laguna,Maia
+,,-1,-1,Livorno,Maia
+,,-1,-1,Romford,Maia
+,,-1,-1,Minsk,Khimki
+,,5087807,217800,Prokopyevsk,Khimki
+,,2583214,123780,Orsk,Khimki
+,,1660130,76020,Perm,Khimki
+,,1947332,100440,Orenburg,Khimki
+,,2621223,216960,Syktyvkar,Khimki
+,,2497066,85380,Alicante,Munich
+,,2032506,68944,Uppsala,Munich
+,,601902,28200,Dresden,Munich
+,,499178,25200,Milan,Munich
+,,1251282,74880,Sibiu,Munich
+,,1421825,82200,Sofia,Munich
+,,926386,22860,Nantes,Geneva
+,,998219,51120,Prague,Geneva
+,,2484750,120272,Riga,Geneva
+,,958519,43440,Basildon,Geneva
+,,941181,43020,Romford,Geneva
+,,216855,9568,Naples,Rome
+,,689292,61200,Cagliari,Rome
+,,841446,38240,Palermo,Rome
+,,1634200,119101,Skopje,Rome
+,,1862079,74280,Romford,Rome
+,,859946,29728,Naples,Bergamo
+,,1461338,53420,Palermo,Bergamo
+,,947577,55500,Prague,Bergamo
+,,1496966,81300,Sofia,Bergamo
+,,1349363,66060,Romford,Bergamo
+,,-1,-1,Minsk,Odintsovo
+,,-1,-1,Vladikavkaz,Odintsovo
+,,-1,-1,Perm,Odintsovo
+,,-1,-1,Petrozavodsk,Odintsovo
+,,-1,-1,Syktyvkar,Odintsovo
+,,908935,32820,Milan,Paris
+,,908935,32820,Milan,Paris
+,,940150,35460,Nice,Paris
+,,2249722,88500,Oslo,Paris
+,,1310108,46680,Prague,Paris
+,,955986,44100,Milan,Vienna
+,,1338382,57088,Naples,Vienna
+,,1454240,78932,Riga,Vienna
+,,1001505,57600,Sofia,Vienna
+,,1547438,67200,Romford,Vienna
+,,1336640,40680,Munich,Croydon
+,,1437557,49380,Milan,Croydon
+,,-1,-1,Plymouth,Croydon
+,,417173,32340,Paris,Croydon
+,,-1,-1,Sofia,Croydon
+,,2177195,74788,Naples,Romford
+,,2837379,108360,Palermo,Romford
+,,2643709,128072,Riga,Romford
+,,-1,-1,Sofia,Romford
+,,757206,28588,Naples,Venice
+,,1294091,53540,Palermo,Venice
+,,1119541,77580,Sofia,Venice
+,,1555723,73080,Romford,Venice
+,,410947,25920,Nice,Livorno
+,,952726,54420,Paris,Livorno
+,,709710,63480,Palermo,Livorno
+,,1686817,76560,Romford,Livorno
+,,3237172,144000,Paris,Oulu
+,,1961674,81240,Oslo,Oulu
+,,1081059,60872,Riga,Oulu
+,,-1,-1,Trondheim,Oulu
+,,2802898,144840,Milan,Vantaa
+,,1248948,71100,Oslo,Vantaa
+,,-1,-1,Prague,Vantaa
+,,412098,34412,Riga,Vantaa
+,,1288953,43711,Milan,Catania
+,,601558,31741,Naples,Catania
+,,-1,-1,Sofia,Catania
+,,2568137,110502,Romford,Catania
+,,2203088,121140,Milan,Athens
+,,-1,-1,Skopje,Athens
+,,810282,43846,Sofia,Athens
+,,3499312,200326,Romford,Athens
+,,2214500,82320,Paris,Siracusa
+,,-1,-1,Skopje,Siracusa
+,,-1,-1,Sofia,Siracusa
+,,546693,26100,Munich,Bologna
+,,1199341,46220,Palermo,Bologna
+,,1504856,66720,Romford,Bologna
+,,2091086,132961,Skopje,Eindhoven
+,,2084072,106860,Sofia,Eindhoven
+,,645259,19080,Romford,Eindhoven
+,,2151985,117452,Riga,Copenhagen
+,,2622608,146941,Skopje,Copenhagen
+,,2262207,120840,Sofia,Copenhagen
+,,635540,22380,Oslo,Uppsala
+,,975934,91071,Riga,Uppsala
+,,2232578,110940,Romford,Uppsala
+,,2017093,69748,Naples,Charleroi
+,,1601265,57600,Livorno,Charleroi
+,,2209512,109740,Sofia,Charleroi
+,,639921,33702,Palermo,Naples
+,,-1,-1,Sofia,Naples
+,,2074440,79702,Romford,Naples
+,,1766006,89732,Riga,Salzburg
+,,1078237,44100,Rotterdam,Salzburg
+,,1478576,62760,Romford,Salzburg
+,,1657241,72540,Novi Sad,Bonn
+,,2117612,117541,Skopje,Bonn
+,,636855,39300,Romford,Bonn
+,,-1,-1,La Laguna,La Laguna
+,,-1,-1,La Laguna,La Laguna
+,,-1,-1,La Laguna,La Laguna
+,,394057,12840,Oslo,Gothenburg
+,,1825670,96300,Romford,Gothenburg
+,,1925821,118201,Skopje,Strasbourg
+,,1789039,96000,Sofia,Strasbourg
+,,915680,74281,Skopje,Bratislava
+,,1621386,73560,Romford,Bratislava
+,,796496,49052,Riga,Warsaw
+,,1686008,89940,Sofia,Warsaw
+,,-1,-1,Sibiu,Luton
+,,-1,-1,Sofia,Luton
+,,1763793,83660,Palermo,Ulm
+,,1478274,86520,Sofia,Ulm
+,,2814454,133652,Riga,Bristol
+,,-1,-1,Sofia,Bristol
+,,4852892,198872,Riga,Odivelas
+,,2374800,89460,Romford,Odivelas
+,,1786289,82040,Palermo,Nuremberg
+,,1027341,34080,Romford,Nuremberg
+,,1534832,57288,Palermo,Turin
+,,1439675,67443,Romford,Turin
+,,-1,-1,La Laguna,Oslo
+,,2074411,109800,Romford,Oslo
+,,943507,39660,Paris,Nice
+,,1757577,101400,Sofia,Nice
+,,525599,38580,Paris,Southampton
+,,949650,39120,Rennes,Southampton
+,,1033905,64800,Milan,Cagliari
+,,914342,66780,Parma,Cagliari
+,,756050,33960,Paris,Toulouse
+,,756050,33960,Paris,Toulouse
+,,1262074,97529,Munich,Pristina
+,,1321529,99389,Milan,Pristina
+,,957480,36540,Munich,Hamburg
+,,2372666,146028,Pristina,Hamburg
+,,424433,18900,Munich,Graz
+,,938256,76801,Skopje,Graz
+,,-1,-1,Milan,Kamez
+,,-1,-1,Romford,Kamez
+,,2183677,107863,Milan,Vilnius
+,,296757,20115,Riga,Vilnius
+,,293719,8100,Munich,Stuttgart
+,,1824202,121968,Pristina,Stuttgart
+,,1855053,75149,Naples,Krakow
+,,1801898,86040,Romford,Krakow
+,,-1,-1,Naples,Sofia
+,,2699317,116880,Romford,Sofia
+,,899130,35248,Naples,Trieste
+,,1688124,78900,Romford,Trieste
+,,1149919,37598,Nantes,Marseille
+,,-1,-1,Romford,Marseille
+,,1590929,59880,Romford,Bydgoszcz
+,,2034613,81000,Romford,Budapest
+,,986717,46680,Romford,Annecy
+,,982097,42120,Romford,Bordeaux
+,,908981,45420,Romford,Aberdeen
+,,1363269,72352,Romford,Aarhus
+,,2810510,107820,Romford,Huelva
+,,1868360,77040,Romford,Gdynia
+,,616401,36900,Paris,Montpellier
+,,1094211,32206,Romford,Grenoble
+,,1430835,69120,Romford,Genoa
+,,460514,35089,Sofia,Varna
+,,1733910,85740,Romford,Sosnowiec
+,,1648804,81204,Romford,Lodz
+,,1439383,50880,Romford,Poznan
+,,1390925,50820,Romford,Prague
+,,2455082,117286,Romford,Riga
+,,-1,-1,Romford,A Coruna
+,,2619762,90362,Romford,Dos Hermanas
+,,1974644,83760,Romford,Olsztyn
+,,1325960,70868,Romford,Szczecin
+,,904563,56400,Romford,Belfast
+,,377911,33533,Skopje,Zemun
+,,3084559,164161,Skopje,Norrkoping
+,,1547117,80220,Milan,Rzeszow
+,,-1,-1,Syktyvkar,Kazan
+,,482196,23700,Oslo,Bergen
+,,584900,27600,Oslo,Stavanger
+,,1630005,58380,Oviedo,Nijmegen
+,,720943,36554,Naples,Palermo
+,,1312964,50720,Palermo,Verona
+,,858451,36853,Bergamo,Giugliano in Campania
+,,1200438,32640,Milan,Reggio di Calabria
+,,-1,-1,Milan,Bacau
+,,1936144,107701,Skopje,Frankfurt
+,,399125,32372,Riga,Klaipeda
+,,319373,20492,Riga,Tallinn
+,,-1,-1,Surgut,Domodedovo
+,,524042,35214,Bucharest,Chernivtsi
+,,-1,-1,Trondheim,Trondheim
+,,832795,28440,Munich,Munster
+,,814704,37140,Munich,Brussels
+,,1486514,48240,Munich,Solihull
+,,-1,-1,Romford,Vigo
+,,1086323,43380,Dos Hermanas,Barcelona
+,,-1,-1,Kamez,Barcelona
+,,945449,52717,Turin,Barcelona
+,,-1,-1,Venice,Barcelona
+,,1316211,29820,Vigo,Barcelona
+,,1857080,78840,Vienna,Barcelona
+,,2729701,95460,Warsaw,Barcelona
+,,2729701,95460,Warsaw,Barcelona
+,,1180045,24600,Jerez de la Frontera,Barcelona
+,,1181656,37380,Zurich,Barcelona
+,,507638,36300,Dos Hermanas,Torrejon de Ardoz
+,,1057934,37440,Toulouse,Torrejon de Ardoz
+,,1597061,69097,Turin,Torrejon de Ardoz
+,,-1,-1,Venice,Torrejon de Ardoz
+,,703703,18600,Vigo,Torrejon de Ardoz
+,,2534046,108331,Vienna,Torrejon de Ardoz
+,,495323,19980,Valencia,Torrejon de Ardoz
+,,597657,18000,Jerez de la Frontera,Torrejon de Ardoz
+,,1810449,51000,Zurich,Torrejon de Ardoz
+,,2157331,123180,Salzburg,Vantaa
+,,100210,12420,Tallinn,Vantaa
+,,1368324,96240,Trondheim,Vantaa
+,,164608,7500,Tampere,Vantaa
+,,1948003,120480,Vienna,Vantaa
+,,686370,57000,Vilnius,Vantaa
+,,1204966,76980,Warsaw,Vantaa
+,,2565800,137040,Zurich,Vantaa
+,,1473669,58440,Toulouse,Munich
+,,764219,43957,Turin,Munich
+,,577384,37080,Venice,Munich
+,,456078,21960,Vienna,Munich
+,,1619490,73800,Vilnius,Munich
+,,1209825,53700,Warsaw,Munich
+,,393706,19800,Graz,Munich
+,,392295,25080,Zurich,Munich
+,,1447870,87611,Stavanger,Hoofddorp
+,,1056647,39780,Salzburg,Hoofddorp
+,,2170393,129000,Tampere,Hoofddorp
+,,2174181,109751,Trondheim,Hoofddorp
+,,1749766,77831,Oslo,Hoofddorp
+,,1645889,63540,Venice,Hoofddorp
+,,1215536,49800,Warsaw,Hoofddorp
+,,1172771,50640,Graz,Hoofddorp
+,,2180095,48960,Dos Hermanas,Paris
+,,2180095,48960,Dos Hermanas,Paris
+,,1176659,52200,Venice,Paris
+,,1176659,52200,Venice,Paris
+,,1362143,46680,Vienna,Paris
+,,1650700,53100,Warsaw,Paris
+,,819647,33600,Zurich,Paris
+,,1792474,92220,Arkhangelsk,Khimki
+,,2280788,123420,Chelyabinsk,Khimki
+,,1553930,80820,Izhevsk,Khimki
+,,5364333,211380,Krasnoyarsk,Khimki
+,,3488688,87960,Ufa,Khimki
+,,1353368,65220,Ulyanovsk,Khimki
+,,2635730,112620,Volgograd,Khimki
+,,691736,22380,Khimki,Saint Petersburg
+,,4340610,101520,Ufa,Saint Petersburg
+,,1957526,72240,Ulyanovsk,Saint Petersburg
+,,-1,-1,Odintsovo,Saint Petersburg
+,,3461445,127500,Volgograd,Saint Petersburg
+,,2023725,42360,Voronezh,Saint Petersburg
+,,2209523,123817,Turin,Bucharest
+,,1649121,91140,Venice,Bucharest
+,,532509,37007,Timisoara,Bucharest
+,,1128806,62340,Vienna,Bucharest
+,,1652076,86280,Warsaw,Bucharest
+,,1851626,96900,Zurich,Bucharest
+,,2151925,79080,Salzburg,Uppsala
+,,-1,-1,Kamez,Uppsala
+,,659624,70756,Tallinn,Uppsala
+,,2562483,117322,Turin,Uppsala
+,,391954,43207,Turku,Uppsala
+,,2156944,84840,Zurich,Uppsala
+,,-1,-1,Ufa,Odintsovo
+,,-1,-1,Ulyanovsk,Odintsovo
+,,-1,-1,Almetyevsk,Odintsovo
+,,-1,-1,Kaliningrad,Odintsovo
+,,-1,-1,Naberezhnyye Chelny,Odintsovo
+,,-1,-1,Volgograd,Odintsovo
+,,959022,35100,Salzburg,Hamburg
+,,-1,-1,Kamez,Hamburg
+,,2287150,132710,Varna,Hamburg
+,,935616,39420,Vienna,Hamburg
+,,964041,40440,Zurich,Hamburg
+,,-1,-1,Kamez,Amiens
+,,1276176,55140,Venice,Amiens
+,,2063890,100727,Timisoara,Amiens
+,,2394819,106440,Vilnius,Amiens
+,,1243676,45780,Zaragoza,Amiens
+,,2814823,90540,Dos Hermanas,Rome
+,,-1,-1,Kamez,Rome
+,,-1,-1,Kamez,Rome
+,,533307,24000,Venice,Rome
+,,1937100,81120,Warsaw,Rome
+,,3143554,120300,Vienna,Malaga
+,,4100218,149640,Vilnius,Malaga
+,,3501771,114360,Warsaw,Malaga
+,,3113392,125045,Wroclaw,Malaga
+,,2292110,62820,Zurich,Malaga
+,,2301267,83280,Dos Hermanas,Bergamo
+,,-1,-1,Kamez,Bergamo
+,,1354341,82107,Timisoara,Bergamo
+,,843961,40620,Vienna,Bergamo
+,,1638466,77820,Warsaw,Bergamo
+,,206341,19074,Stavanger,Bergen
+,,2545568,123300,Oulu,Bergen
+,,1032926,58080,Trondheim,Bergen
+,,482196,23700,Oslo,Bergen
+,,2616235,91980,Dos Hermanas,Romford
+,,-1,-1,Kamez,Romford
+,,773269,21420,Tours,Romford
+,,1658560,66720,Venice,Romford
+,,1747386,61710,Romford,Warsaw
+,,3795679,116700,Dos Hermanas,Warsaw
+,,1911090,84000,Oslo,Warsaw
+,,1911090,84000,Oslo,Warsaw
+,,1577572,48420,Salzburg,Croydon
+,,2855912,125880,Tallinn,Croydon
+,,1304290,47062,Turin,Croydon
+,,1812882,63780,Vienna,Croydon
+,,-1,-1,Kamez,Athens
+,,1832119,106200,Vienna,Athens
+,,2255019,133320,Warsaw,Athens
+,,-1,-1,Patra,Athens
+,,1334807,50340,Vienna,Brussels
+,,1752063,59100,Valencia,Brussels
+,,1335599,45840,Warsaw,Brussels
+,,827726,38400,Zurich,Brussels
+,,-1,-1,Stavanger,Gdynia
+,,2092720,104400,Oulu,Gdynia
+,,1640135,67521,Verona,Gdynia
+,,343454,14580,Warsaw,Gdynia
+,,-1,-1,Kamez,Charleroi
+,,1498484,60300,Venice,Charleroi
+,,1389264,49140,Warsaw,Charleroi
+,,1188899,52740,Graz,Charleroi
+,,2873025,138000,Tallinn,Geneva
+,,1055504,42180,Vienna,Geneva
+,,1808375,81480,Warsaw,Geneva
+,,291573,15000,Zurich,Geneva
+,,1934046,100800,Bucharest,Stuttgart
+,,1929406,118860,Thessaloniki,Stuttgart
+,,749537,32160,Vienna,Stuttgart
+,,243652,13680,Zurich,Stuttgart
+,,-1,-1,Dos Hermanas,Las Palmas
+,,-1,-1,Dos Hermanas,Las Palmas
+,,-1,-1,Vienna,Las Palmas
+,,-1,-1,Warsaw,Las Palmas
+,,-1,-1,Kamez,Aberdeen
+,,2522177,97740,Venice,Aberdeen
+,,2024833,59760,Zurich,Aberdeen
+,,-1,-1,Kamez,Saarbrucken
+,,986939,41622,Vienna,Saarbrucken
+,,925835,40182,Graz,Saarbrucken
+,,1438673,68160,Romford,Verona
+,,-1,-1,Kamez,Verona
+,,1509678,69780,Warsaw,Verona
+,,1653521,65940,Venice,Harrow
+,,1731795,59520,Warsaw,Harrow
+,,1531614,63960,Graz,Harrow
+,,781564,31500,Vienna,Zurich
+,,1541788,69000,Warsaw,Zurich
+,,726612,37680,Graz,Zurich
+,,-1,-1,Kamez,Bologna
+,,-1,-1,Valencia,Bologna
+,,444761,23640,Zurich,Bologna
+,,2175439,111480,Toulouse,Siracusa
+,,1303067,64235,Venice,Siracusa
+,,1827845,81695,Vienna,Siracusa
+,,-1,-1,Turin,Reggio di Calabria
+,,1169986,47700,Venice,Reggio di Calabria
+,,1150925,48501,Verona,Reggio di Calabria
+,,273166,17280,Tampere,Tallinn
+,,1760512,106560,Vienna,Tallinn
+,,992148,58260,Warsaw,Tallinn
+,,2316465,101263,Romford,Vilnius
+,,2482487,111140,Turin,Vilnius
+,,573842,38143,Warsaw,Vilnius
+,,528383,28020,Stavanger,Oslo
+,,1790492,72420,Szczecin,Oslo
+,,557465,27660,Trondheim,Oslo
+,,2247838,79680,Dos Hermanas,Milan
+,,-1,-1,Kamez,Milan
+,,850414,37500,Vienna,Milan
+,,3437308,123780,Dos Hermanas,Catania
+,,-1,-1,Turin,Catania
+,,1234433,61111,Venice,Catania
+,,1537549,75360,Romford,Wroclaw
+,,359635,19985,Warsaw,Wroclaw
+,,1668506,59940,Amiens,Wroclaw
+,,3166446,130740,Khimki,Groznyy
+,,-1,-1,Odintsovo,Groznyy
+,,1759252,87240,Venice,Valencia
+,,2994933,119705,Wroclaw,Valencia
+,,2246352,95437,Turin,Gothenburg
+,,1789442,73200,Zurich,Gothenburg
+,,879750,50100,Vienna,Cluj-Napoca
+,,1468791,79080,Warsaw,Cluj-Napoca
+,,2616964,146940,Vienna,Oulu
+,,3483094,150300,Zurich,Oulu
+,,-1,-1,Trondheim,Trondheim
+,,-1,-1,Trondheim,Trondheim
+,,2630010,92940,Dos Hermanas,Livorno
+,,-1,-1,Kamez,Livorno
+,,613199,30480,Venice,Vienna
+,,226645,20580,Graz,Vienna
+,,1588208,76260,Khimki,Samara
+,,-1,-1,Odintsovo,Samara
+,,-1,-1,Valencia,Maia
+,,-1,-1,Zurich,Maia
+,,3552244,136920,Khimki,Murmansk
+,,-1,-1,Odintsovo,Murmansk
+,,379135,18300,Vienna,Ljubljana
+,,1218081,63660,Warsaw,Ljubljana
+,,-1,-1,Kamez,Luton
+,,1761255,59760,Warsaw,Luton
+,,-1,-1,Kamez,Bari
+,,1012622,43200,Venice,Bari
+,,-1,-1,Dos Hermanas,Sale
+,,-1,-1,Venice,Sale
+,,-1,-1,La Laguna,La Laguna
+,,-1,-1,La Laguna,La Laguna
+,,2932735,84780,Dos Hermanas,Nuremberg
+,,-1,-1,Kamez,Nuremberg
+,,3637553,167520,Stavanger,Alicante
+,,4356826,183540,Trondheim,Alicante
+,,1262796,48240,Graz,Foggia
+,,-1,-1,Venice,Skopje
+,,1353886,66860,Venice,Palermo
+,,690464,43500,Graz,Novi Sad
+,,749816,31462,Venice,Naples
+,,939184,47460,Warsaw,Budapest
+,,-1,-1,Vienna,Santander
+,,1720015,70685,Wroclaw,Solihull
+,,637099,38640,Warsaw,Prague
+,,1308235,53481,Verona,Poznan
+,,236417,22441,Coimbra,Oeiras
+,,356985,19740,Warsaw,Sosnowiec
+,,-1,-1,Coimbra,Aves
+,,-1,-1,Warsaw,Krakow
+,,2218762,67740,Warsaw,Grenoble
+,,2888750,105598,Venice,Odivelas
+,,-1,-1,Kamez,Villeurbanne
+,,953047,47220,Venice,Frankfurt
+,,2368481,126038,Bonn,Varna
+,,1773198,81660,Romford,Graz
+,,1805565,67800,Romford,Zaragoza
+,,-1,-1,Khimki,Cherepovets
+,,1976346,132024,Khimki,Kaliningrad
+,,2480659,180300,Khimki,Magnitogorsk
+,,1574957,135000,Khimki,Naberezhnyye Chelny
+,,-1,-1,Khimki,Stavropol
+,,1750267,54900,Salzburg,Bristol
+,,-1,-1,Kamez,Genoa
+,,-1,-1,Kamez,Perugia
+,,-1,-1,Kamez,Trieste
+,,-1,-1,Kamez,Venice
+,,256701,8460,Toulouse,Bordeaux
+,,-1,-1,Turin,Taranto
+,,1177415,69970,Turin,Cagliari
+,,-1,-1,Venice,Marseille
+,,1358898,92220,Venice,Sofia
+,,-1,-1,Venice,Kamez
+,,5760985,180660,Ufa,Sochi
+,,-1,-1,Ufa,Domodedovo
+,,4316816,162060,Ufa,Krasnoyarsk
+,,1622133,114989,Zurich,Pristina

@@ -1,0 +1,301 @@
+departure city,arrival city,transit_distance [m],transit_time [s]
+Milan,Torrejón de Ardoz,1699809,61980
+Nice,Torrejón de Ardoz,1320024,47520
+Nantes,Torrejón de Ardoz,861112,58680
+Paris,Torrejón de Ardoz,1074923,58980
+Oviedo,Torrejón de Ardoz,405265,21240
+Palermo,Torrejón de Ardoz,3106242,130520
+Pamplona,Torrejón de Ardoz,359327,21540
+Prague,Torrejón de Ardoz,-1,-1
+Livorno,Torrejón de Ardoz,1602051,87809
+A Coruña,Torrejón de Ardoz,730790,15240
+Santander,Torrejón de Ardoz,-1,-1
+Sofia,Torrejón de Ardoz,3505497,168031
+La Laguna,Torrejón de Ardoz,-1,-1
+Romford,Torrejón de Ardoz,2134484,74760
+Munich,Barcelona,1537928,55860
+Milan,Barcelona,1071016,48360
+Naples,Barcelona,1609138,73402
+Nice,Barcelona,672651,32880
+Paris,Barcelona,1053748,29220
+Oviedo,Barcelona,983950,28800
+Palermo,Barcelona,2454630,114140
+Prague,Barcelona,2404244,78720
+Sofia,Barcelona,2501740,134820
+La Laguna,Barcelona,-1,-1
+Romford,Barcelona,1505976,61140
+Munich,Las Palmas,-1,-1
+Milan,Las Palmas,-1,-1
+Gateshead,Las Palmas,-1,-1
+Nantes,Las Palmas,-1,-1
+Nantes,Las Palmas,-1,-1
+Paris,Las Palmas,-1,-1
+Oviedo,Las Palmas,-1,-1
+A Coruña,Las Palmas,-1,-1
+Romford,Las Palmas,-1,-1
+Romford,Las Palmas,-1,-1
+Munich,Málaga,2648382,81300
+Gateshead,Málaga,2660341,115800
+Nijmegen,Málaga,2708051,84600
+Paris,Málaga,1603347,69120
+Oslo,Málaga,3959506,167460
+Prague,Málaga,-1,-1
+Rotterdam,Málaga,2271941,78420
+Romford,Málaga,2621009,86580
+Naples,Bucharest,-1,-1
+Norrköping,Bucharest,2790631,153300
+Oradea,Bucharest,744145,46980
+Aarhus,Bucharest,2485947,136860
+Bologna,Bucharest,1654897,98700
+Rome,Bucharest,1978370,108060
+Croydon,Bucharest,2935549,139620
+Romford,Bucharest,2991960,133320
+Munich,Valencia,1890955,72420
+Naples,Valencia,2082271,94649
+Paris,Valencia,1458174,65820
+Palermo,Valencia,2805550,129560
+Livorno,Valencia,1404839,75000
+A Coruña,Valencia,1092236,23700
+Romford,Valencia,1852657,77700
+Naples,Milan,806638,25948
+Naples,Milan,806638,25948
+Cagliari,Milan,787346,70359
+Paris,Milan,762834,40020
+Palermo,Milan,1408030,50240
+Palermo,Milan,1408030,50240
+Romford,Milan,1296055,61680
+Minsk,Saint Petersburg,1093864,47460
+Naberezhnyye Chelny,Saint Petersburg,2934329,100860
+Perm,Saint Petersburg,3643201,114600
+Orenburg,Saint Petersburg,2550610,113400
+Syktyvkar,Saint Petersburg,3224544,181080
+Simferopol,Saint Petersburg,-1,-1
+Milan,Zürich,224806,15000
+Nice,Zürich,650132,41520
+Tetovo,Zürich,1662786,122437
+Oslo,Zürich,2043961,92400
+Trieste,Zürich,833258,40320
+Skopje,Zürich,1625823,119401
+Milan,Hoofddorp,1427321,47100
+Nantes,Hoofddorp,918900,39300
+Oslo,Hoofddorp,1749766,77831
+Riga,Hoofddorp,2028713,110623
+Foggia,Hoofddorp,2084030,73320
+Romford,Hoofddorp,532074,34800
+Milan,Alicante,1610296,74100
+Gateshead,Alicante,2549982,100500
+Oslo,Alicante,3955667,222300
+Rotterdam,Alicante,2231317,76320
+Sofia,Alicante,2959639,163800
+Romford,Alicante,2030981,86880
+Munich,Thessaloníki,1592447,95820
+Nijmegen,Thessaloníki,2235594,135300
+Nuremberg,Thessaloníki,1681447,99240
+Bodrum,Thessaloníki,-1,-1
+Stuttgart,Thessaloníki,1886166,103800
+Romford,Thessaloníki,2997886,176880
+Milan,Maia,-1,-1
+Torrejón de Ardoz,Maia,-1,-1
+Paris,Maia,-1,-1
+La Laguna,Maia,-1,-1
+Livorno,Maia,-1,-1
+Romford,Maia,-1,-1
+Minsk,Khimki,-1,-1
+Prokopyevsk,Khimki,5087807,217800
+Orsk,Khimki,2583214,123780
+Perm,Khimki,1660130,76020
+Orenburg,Khimki,1947332,100440
+Syktyvkar,Khimki,2621223,216960
+Alicante,Munich,2497066,85380
+Uppsala,Munich,2032506,68944
+Dresden,Munich,601902,28200
+Milan,Munich,499178,25200
+Sibiu,Munich,1251282,74880
+Sofia,Munich,1421825,82200
+Nantes,Geneva,926386,22860
+Prague,Geneva,998219,51120
+Riga,Geneva,2484750,120272
+Basildon,Geneva,958519,43440
+Romford,Geneva,941181,43020
+Naples,Rome,216855,9568
+Cagliari,Rome,689292,61200
+Palermo,Rome,841446,38240
+Skopje,Rome,1634200,119101
+Romford,Rome,1862079,74280
+Naples,Bergamo,859946,29728
+Palermo,Bergamo,1461338,53420
+Prague,Bergamo,947577,55500
+Sofia,Bergamo,1496966,81300
+Romford,Bergamo,1349363,66060
+Minsk,Odintsovo,-1,-1
+Vladikavkaz,Odintsovo,-1,-1
+Perm,Odintsovo,-1,-1
+Petrozavodsk,Odintsovo,-1,-1
+Syktyvkar,Odintsovo,-1,-1
+Milan,Paris,908935,32820
+Milan,Paris,908935,32820
+Nice,Paris,940150,35460
+Oslo,Paris,2249722,88500
+Prague,Paris,1310108,46680
+Milan,Vienna,955986,44100
+Naples,Vienna,1338382,57088
+Riga,Vienna,1454240,78932
+Sofia,Vienna,1001505,57600
+Romford,Vienna,1547438,67200
+Munich,Croydon,1336640,40680
+Milan,Croydon,1437557,49380
+Plymouth,Croydon,-1,-1
+Paris,Croydon,417173,32340
+Sofia,Croydon,-1,-1
+Naples,Romford,2177195,74788
+Palermo,Romford,2837379,108360
+Riga,Romford,2643709,128072
+Sofia,Romford,-1,-1
+Naples,Venice,757206,28588
+Palermo,Venice,1294091,53540
+Sofia,Venice,1119541,77580
+Romford,Venice,1555723,73080
+Nice,Livorno,410947,25920
+Paris,Livorno,952726,54420
+Palermo,Livorno,709710,63480
+Romford,Livorno,1686817,76560
+Paris,Oulu,3237172,144000
+Oslo,Oulu,1961674,81240
+Riga,Oulu,1081059,60872
+Trondheim,Oulu,-1,-1
+Milan,Vantaa,2802898,144840
+Oslo,Vantaa,1248948,71100
+Prague,Vantaa,-1,-1
+Riga,Vantaa,412098,34412
+Milan,Catania,1288953,43711
+Naples,Catania,601558,31741
+Sofia,Catania,-1,-1
+Romford,Catania,2568137,110502
+Milan,Athens,2203088,121140
+Skopje,Athens,-1,-1
+Sofia,Athens,810282,43846
+Romford,Athens,3499312,200326
+Paris,Siracusa,2214500,82320
+Skopje,Siracusa,-1,-1
+Sofia,Siracusa,-1,-1
+Munich,Bologna,546693,26100
+Palermo,Bologna,1199341,46220
+Romford,Bologna,1504856,66720
+Skopje,Eindhoven,2091086,132961
+Sofia,Eindhoven,2084072,106860
+Romford,Eindhoven,645259,19080
+Riga,Copenhagen,2151985,117452
+Skopje,Copenhagen,2622608,146941
+Sofia,Copenhagen,2262207,120840
+Oslo,Uppsala,635540,22380
+Riga,Uppsala,975934,91071
+Romford,Uppsala,2232578,110940
+Naples,Charleroi,2017093,69748
+Livorno,Charleroi,1601265,57600
+Sofia,Charleroi,2209512,109740
+Palermo,Naples,639921,33702
+Sofia,Naples,-1,-1
+Romford,Naples,2074440,79702
+Riga,Salzburg,1766006,89732
+Rotterdam,Salzburg,1078237,44100
+Romford,Salzburg,1478576,62760
+Novi Sad,Bonn,1657241,72540
+Skopje,Bonn,2117612,117541
+Romford,Bonn,636855,39300
+La Laguna,La Laguna,-1,-1
+La Laguna,La Laguna,-1,-1
+La Laguna,La Laguna,-1,-1
+Oslo,Gothenburg,394057,12840
+Romford,Gothenburg,1825670,96300
+Skopje,Strasbourg,1925821,118201
+Sofia,Strasbourg,1789039,96000
+Skopje,Bratislava,915680,74281
+Romford,Bratislava,1621386,73560
+Riga,Warsaw,796496,49052
+Sofia,Warsaw,1686008,89940
+Sibiu,Luton,-1,-1
+Sofia,Luton,-1,-1
+Palermo,Ulm,1763793,83660
+Sofia,Ulm,1478274,86520
+Riga,Bristol,2814454,133652
+Sofia,Bristol,-1,-1
+Riga,Odivelas,4852892,198872
+Romford,Odivelas,2374800,89460
+Palermo,Nuremberg,1786289,82040
+Romford,Nuremberg,1027341,34080
+Palermo,Turin,1534832,57288
+Romford,Turin,1439675,67443
+La Laguna,Oslo,-1,-1
+Romford,Oslo,2074411,109800
+Paris,Nice,943507,39660
+Sofia,Nice,1757577,101400
+Paris,Southampton,525599,38580
+Rennes,Southampton,949650,39120
+Milan,Cagliari,1033905,64800
+Parma,Cagliari,914342,66780
+Paris,Toulouse,756050,33960
+Paris,Toulouse,756050,33960
+Munich,Pristina,1262074,97529
+Milan,Pristina,1321529,99389
+Munich,Hamburg,957480,36540
+Pristina,Hamburg,2372666,146028
+Munich,Graz,424433,18900
+Skopje,Graz,938256,76801
+Milan,Kamëz,-1,-1
+Romford,Kamëz,-1,-1
+Milan,Vilnius,2183677,107863
+Riga,Vilnius,296757,20115
+Munich,Stuttgart,293719,8100
+Pristina,Stuttgart,1824202,121968
+Naples,Kraków,1855053,75149
+Romford,Kraków,1801898,86040
+Naples,Sofia,-1,-1
+Romford,Sofia,2699317,116880
+Naples,Trieste,899130,35248
+Romford,Trieste,1688124,78900
+Nantes,Marseille,1149919,37598
+Romford,Marseille,-1,-1
+Romford,Bydgoszcz,1590929,59880
+Romford,Budapest,2034613,81000
+Romford,Annecy,986717,46680
+Romford,Bordeaux,982097,42120
+Romford,Aberdeen,908981,45420
+Romford,Aarhus,1363269,72352
+Romford,Huelva,2810510,107820
+Romford,Gdynia,1868360,77040
+Paris,Montpellier,616401,36900
+Romford,Grenoble,1094211,32206
+Romford,Genoa,1430835,69120
+Sofia,Varna,460514,35089
+Romford,Sosnowiec,1733910,85740
+Romford,Łódź,1648804,81204
+Romford,Poznań,1439383,50880
+Romford,Prague,1390925,50820
+Romford,Riga,2455082,117286
+Romford,A Coruña,-1,-1
+Romford,Dos Hermanas,2619762,90362
+Romford,Olsztyn,1974644,83760
+Romford,Szczecin,1325960,70868
+Romford,Belfast,904563,56400
+Skopje,Zemun,377911,33533
+Skopje,Norrköping,3084559,164161
+Milan,Rzeszów,1547117,80220
+Syktyvkar,Kazan,-1,-1
+Oslo,Bergen,482196,23700
+Oslo,Stavanger,584900,27600
+Oviedo,Nijmegen,1630005,58380
+Naples,Palermo,720943,36554
+Palermo,Verona,1312964,50720
+Bergamo,Giugliano in Campania,858451,36853
+Milan,Reggio di Calabria,1200438,32640
+Milan,Bacău,-1,-1
+Skopje,Frankfurt,1936144,107701
+Riga,Klaipėda,399125,32372
+Riga,Tallinn,319373,20492
+Surgut,Domodedovo,-1,-1
+Bucharest,Chernivtsi,524042,35214
+Trondheim,Trondheim,-1,-1
+Munich,Münster,832795,28440
+Munich,Brussels,814704,37140
+Munich,Solihull,1486514,48240
+Romford,Vigo,-1,-1

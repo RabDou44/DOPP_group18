@@ -1,0 +1,301 @@
+departure city,arrival city,transit_distance [m],transit_time [s]
+Las Palmas,Barcelona,-1,-1
+Alicante,Barcelona,-1,-1
+Hoofddorp,Barcelona,1607384,43680
+Athens,Barcelona,-1,-1
+Málaga,Barcelona,1114160,20700
+Bologna,Barcelona,-1,-1
+Bordeaux,Barcelona,661381,22800
+Brussels,Barcelona,1430929,49140
+Cagliari,Barcelona,-1,-1
+Charleroi,Barcelona,1356773,39420
+Genoa,Barcelona,889700,46020
+Gothenburg,Barcelona,2884706,114660
+Croydon,Barcelona,1617409,39960
+Maastricht,Barcelona,1628329,79080
+Maia,Barcelona,-1,-1
+Bucharest,Barcelona,3608090,168720
+Zemun,Barcelona,-1,-1
+Bergamo,Barcelona,1077591,56580
+Solihull,Barcelona,1789076,45960
+Bilbao,Barcelona,703002,30420
+Bristol,Barcelona,1792277,46020
+Budapest,Barcelona,2377725,88560
+Amiens,Barcelona,1246454,46920
+Paris,Barcelona,1088908,24540
+Las Palmas,Málaga,-1,-1
+Barcelona,Málaga,1137172,21480
+Bordeaux,Málaga,1363364,46980
+Gothenburg,Málaga,4000024,140100
+Hamburg,Málaga,3009159,105060
+Croydon,Málaga,2754575,94500
+Torrejón de Ardoz,Málaga,558481,12960
+Hoofddorp,Málaga,2749454,98220
+Uppsala,Málaga,4750902,259320
+Bergamo,Málaga,2572236,95640
+Solihull,Málaga,2926242,100500
+Bournemouth,Málaga,2935990,102720
+Bristol,Málaga,2929443,100560
+Budapest,Málaga,3541359,127620
+Paris,Málaga,2199362,49980
+Bonn,Málaga,2485241,101280
+Las Palmas,Bergamo,-1,-1
+Cagliari,Bergamo,1308898,75180
+Taranto,Bergamo,1079852,36900
+Alicante,Bergamo,-1,-1
+Uppsala,Bergamo,2599810,103800
+Bristol,Bergamo,1594755,58200
+Amiens,Bergamo,1027911,37740
+Giugliano in Campania,Bergamo,832128,21900
+Bari,Bergamo,895511,30180
+Budapest,Bergamo,1151966,50220
+Cluj-Napoca,Bergamo,1547745,105540
+Las Palmas,Paris,-1,-1
+Livorno,Paris,1306768,45060
+Hoofddorp,Paris,512591,11760
+Athens,Paris,3314740,205080
+Zemun,Paris,-1,-1
+Bilbao,Paris,-1,-1
+Basel,Paris,522003,11040
+Uppsala,Paris,2470399,85320
+Vantaa,Paris,2953282,149580
+Munich,Paris,906629,19740
+Oulu,Paris,3355132,163140
+Alicante,Bucharest,-1,-1
+Hoofddorp,Bucharest,2326646,140160
+Athens,Bucharest,1282269,82740
+Bergamo,Bucharest,2022081,104400
+Solihull,Bucharest,3000164,148440
+Bari,Bucharest,-1,-1
+Basel,Bucharest,2011726,99180
+Paris,Bucharest,2500671,104460
+Cluj-Napoca,Bucharest,495367,34380
+Hoofddorp,Las Palmas,-1,-1
+Solihull,Las Palmas,-1,-1
+Bilbao,Las Palmas,-1,-1
+Bilbao,Las Palmas,-1,-1
+Bristol,Las Palmas,-1,-1
+Basel,Las Palmas,-1,-1
+Basel,Las Palmas,-1,-1
+Bonn,Las Palmas,-1,-1
+Las Palmas,Solihull,-1,-1
+Alicante,Solihull,-1,-1
+Hoofddorp,Solihull,745981,25500
+Belfast,Solihull,567861,48042
+Belfast,Solihull,567861,48042
+Budapest,Solihull,2283490,95340
+Paris,Solihull,672614,18660
+Annecy,Solihull,1272439,42000
+Aarhus,Hoofddorp,899897,39300
+Aberdeen,Hoofddorp,1415465,65940
+Athens,Hoofddorp,2916853,185760
+Luton,Hoofddorp,623097,17160
+Belfast,Hoofddorp,1313305,86562
+Bilbao,Hoofddorp,1442400,42720
+Basel,Hoofddorp,1040389,25560
+Bergen,Alicante,-1,-1
+Bergamo,Alicante,2504904,94080
+Bristol,Alicante,-1,-1
+Bristol,Alicante,-1,-1
+Liverpool,Alicante,-1,-1
+Hoofddorp,Alicante,-1,-1
+Belfast,Alicante,-1,-1
+Athens,Athens,-1,-1
+Plovdiv,Athens,914200,56799
+Söke,Athens,-1,-1
+Zemun,Athens,-1,-1
+Budapest,Athens,2163555,151980
+Vlorë,Athens,-1,-1
+Irákleio,Athens,11710,960
+Aberdeen,Croydon,863534,29400
+Las Palmas,Croydon,-1,-1
+Alicante,Croydon,-1,-1
+Hoofddorp,Croydon,595955,19560
+Athens,Croydon,3940543,224280
+Belfast,Croydon,759115,60342
+Bilbao,Croydon,1452498,44880
+Alicante,Maia,-1,-1
+Hoofddorp,Maia,-1,-1
+Bergamo,Maia,-1,-1
+Solihull,Maia,-1,-1
+Bilbao,Maia,-1,-1
+Bristol,Maia,-1,-1
+Amiens,Maia,-1,-1
+Hoofddorp,Aarhus,959995,42120
+Gdynia,Aarhus,1376025,73680
+Bucharest,Aarhus,2666703,130800
+Innsbruck,Aarhus,1640720,63120
+Copenhagen,Aarhus,326997,11280
+Copenhagen,Aarhus,326997,11280
+Hoofddorp,Uppsala,1770991,74640
+Alicante,Uppsala,-1,-1
+Bergamo,Uppsala,2434930,109740
+Vantaa,Uppsala,654981,55800
+Munich,Uppsala,2004926,73680
+Budapest,Uppsala,2595704,111240
+Cagliari,Rome,689006,60000
+Bari,Rome,456826,14940
+Budapest,Rome,1350296,74400
+Charleroi,Rome,1847010,71640
+Bucharest,Rome,2361268,109140
+Cluj-Napoca,Rome,2067195,94620
+Hoofddorp,Bristol,771898,26160
+Hoofddorp,Bristol,771898,26160
+Alicante,Bristol,-1,-1
+Bergamo,Bristol,1597312,59640
+Grenoble,Bristol,1282840,34740
+Budapest,Bristol,2309420,93780
+Las Palmas,Brussels,-1,-1
+Alicante,Brussels,-1,-1
+Athens,Brussels,2800052,173760
+Málaga,Brussels,-1,-1
+Barcelona,Brussels,1432390,34020
+Paris,Brussels,315128,5400
+Las Palmas,Torrejón de Ardoz,-1,-1
+Alicante,Torrejón de Ardoz,480770,10980
+Athens,Torrejón de Ardoz,-1,-1
+Bilbao,Torrejón de Ardoz,503394,23520
+Budapest,Torrejón de Ardoz,3027801,118260
+Athens,Bologna,3244086,203160
+Taranto,Bologna,734095,25140
+Craiova,Bologna,1781557,109507
+Budapest,Bologna,1134332,45960
+Paris,Bologna,1087789,35160
+Hoofddorp,Munich,883643,30660
+Bilbao,Munich,-1,-1
+Bremen,Munich,769212,24900
+Basel,Munich,420648,16260
+Bonn,Munich,636467,18060
+Novorossiysk,Saint Petersburg,2538536,110220
+Sochi,Saint Petersburg,2752956,100680
+Arkhangelsk,Saint Petersburg,1795516,84180
+Zemun,Saint Petersburg,-1,-1
+Chelyabinsk,Saint Petersburg,3695794,164700
+Alicante,Warsaw,4048357,150900
+Uppsala,Warsaw,-1,-1
+Zemun,Warsaw,-1,-1
+Bari,Warsaw,2164861,87900
+Budapest,Warsaw,902011,40440
+Las Palmas,Charleroi,-1,-1
+Bergamo,Charleroi,1263763,46680
+Bari,Charleroi,1904871,87660
+Budapest,Charleroi,1580932,79860
+Montpellier,Charleroi,1004217,27600
+Trondheim,Trondheim,-1,-1
+Trondheim,Trondheim,-1,-1
+Trondheim,Trondheim,-1,-1
+Trondheim,Trondheim,-1,-1
+Trondheim,Trondheim,-1,-1
+Cagliari,Milan,1255590,71880
+Bari,Milan,842203,26400
+Bari,Milan,842203,26400
+Budapest,Milan,1088429,44400
+Alicante,Gothenburg,-1,-1
+Uppsala,Gothenburg,523504,15840
+Pécs,Gothenburg,2609443,111660
+Paris,Gothenburg,1857312,71880
+Las Palmas,Luton,-1,-1
+Bratislava,Luton,1664221,93060
+Budapest,Luton,2160386,87960
+Bydgoszcz,Luton,1698044,88620
+Hoofddorp,Zürich,1128871,29220
+Athens,Zürich,2733936,194520
+Zemun,Zürich,-1,-1
+Zemun,Kamëz,-1,-1
+Zemun,Kamëz,-1,-1
+Bari,Kamëz,-1,-1
+Las Palmas,Hamburg,-1,-1
+Alicante,Hamburg,-1,-1
+Hoofddorp,Hamburg,502243,21300
+Hoofddorp,Aberdeen,1415924,45360
+Las Palmas,Aberdeen,-1,-1
+Belfast,Aberdeen,513457,35940
+Hoofddorp,Valencia,1960411,89460
+Bergamo,Valencia,1776888,91020
+Solihull,Valencia,2135757,91740
+Alicante,Gdynia,-1,-1
+Hoofddorp,Gdynia,1249926,74340
+Uppsala,Gdynia,-1,-1
+Las Palmas,Bordeaux,-1,-1
+Barcelona,Bordeaux,-1,-1
+Paris,Bordeaux,566866,9000
+Hoofddorp,Geneva,1042589,25800
+Athens,Geneva,2690289,176400
+Belfast,Geneva,1769582,94182
+Bergen,Bergen,-1,-1
+Hoofddorp,Bergen,2280183,168000
+Málaga,Bergen,-1,-1
+Uppsala,Poznań,1756069,87000
+Solihull,Poznań,1644094,69900
+Bristol,Poznań,1648419,70560
+Sochi,Khimki,2695113,88140
+Astrakhan,Khimki,2636361,161820
+Zemun,Khimki,-1,-1
+Bari,Siracusa,888883,50075
+Budapest,Siracusa,2293779,107735
+Basel,Catania,1614113,68402
+Budapest,Catania,2223075,104373
+Hoofddorp,Prague,1045908,43500
+Budapest,Prague,537011,24180
+Zemun,Budapest,-1,-1
+Bari,Budapest,1572128,80640
+Belfast,Harrow,756095,55782
+Budapest,Harrow,2131329,87900
+Bergamo,Reggio di Calabria,1252947,34920
+Basel,Reggio di Calabria,1531734,50760
+Las Palmas,Oslo,-1,-1
+Zemun,Oslo,-1,-1
+Zemun,Amiens,-1,-1
+Bergamo,Amiens,1029311,41760
+Hoofddorp,Vantaa,2169834,116940
+Budapest,Vantaa,2993638,164340
+Hoofddorp,Oulu,2630686,133860
+Trondheim,Oulu,1454347,87120
+Sochi,Odintsovo,-1,-1
+Chelyabinsk,Odintsovo,-1,-1
+Sochi,Cherepovets,3604679,123720
+Saint Petersburg,Cherepovets,883686,34380
+Livorno,Nice,347251,21540
+Livorno,Nice,347251,21540
+Livorno,Marseille,573639,32770
+Budapest,Marseille,-1,-1
+Las Palmas,Liverpool,-1,-1
+Belfast,Liverpool,-1,-1
+Sochi,Kazan,3111929,130440
+Zemun,Kazan,-1,-1
+Bournemouth,Southampton,46151,2880
+Hoofddorp,Southampton,708686,25380
+Bari,Venice,792821,26700
+Bergamo,Iaşi,2428947,134070
+Sochi,Domodedovo,2756568,117300
+Belfast,Sale,-1,-1
+Solihull,Craiova,2793970,135967
+Bari,Turin,985713,31563
+Las Palmas,Belfast,-1,-1
+Bari,Verona,740803,25680
+León,Aves,-1,-1
+Bournemouth,Bournemouth,-1,-1
+Basel,Pristina,1840188,130109
+Bratislava,Kaunas,1029187,61101
+Castellón de la Plana,Nijmegen,1975691,79320
+Khimki,Chelyabinsk,2450119,123420
+Varna,Bonn,2703391,169849
+Bergamo,Cagliari,1087213,68280
+Zemun,Odivelas,-1,-1
+Zemun,Vienna,-1,-1
+Athens,Menemen,-1,-1
+Hoofddorp,Norwich,763639,25260
+Hoofddorp,Burgas,3054174,201680
+Alicante,Maastricht,-1,-1
+Khimki,Arkhangelsk,2144484,78120
+Sochi,Lyubertsy,-1,-1
+Athens,Çanakkale,-1,-1
+Sochi,Pskov,3263103,131640
+Sochi,Krasnoyarsk,8877409,301620
+Athens,Bodrum,-1,-1
+Athens,Thessaloníki,499001,19380
+Çanakkale,Irákleio,-1,-1
+Sochi,Perm,-1,-1
+Zemun,Niš,-1,-1
+Hoofddorp,Florence,1678687,63360
+Luton,Cluj-Napoca,2584685,119580

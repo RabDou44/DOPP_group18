@@ -1,0 +1,139 @@
+departure city,arrival city,transit_distance [m],transit_time [s]
+Ufa,Moscow,2441320,106920
+Ufa,Moscow,2441320,106920
+Ulyanovsk,Moscow,1313631,56940
+Ulyanovsk,Moscow,1313631,56940
+Kaliningrad,Moscow,1826517,67860
+Naberezhnyye Chelny,Moscow,1599506,71400
+Volgograd,Moscow,2404217,138600
+Volgograd,Moscow,2404217,138600
+Venice,Barcelona,1384924,98520
+Vigo,Barcelona,1342718,28800
+Vienna,Barcelona,2584778,93420
+Warsaw,Barcelona,2501159,99660
+Warsaw,Barcelona,2501159,99660
+Jerez de la Frontera,Barcelona,1199790,26460
+Zürich,Barcelona,1200953,42780
+Vienna,Brussels,1165509,36840
+Valencia,Brussels,1766838,49680
+Warsaw,Brussels,1394342,76560
+Warsaw,Brussels,1394342,76560
+Bistrica ob Sotli,Brussels,1374366,79740
+Zürich,Brussels,931436,22740
+Venice,Munich,554928,26220
+Vienna,Munich,455727,14760
+Vilnius,Munich,1793009,92880
+Warsaw,Munich,1205736,33120
+Bistrica ob Sotli,Munich,546242,36960
+Zürich,Munich,331898,12660
+Venice,Madrid,2009675,111120
+Vigo,Madrid,728696,15720
+Vienna,Madrid,3209529,103800
+Valencia,Madrid,398539,7380
+Jerez de la Frontera,Madrid,575039,15000
+Zürich,Madrid,1825704,82440
+Venice,London,1623147,83400
+Venice,London,1623147,83400
+Vienna,London,1543947,49020
+Warsaw,London,1870633,86220
+Warsaw,London,1870633,86220
+Bistrica ob Sotli,London,2284995,95580
+Ufa,Saint Petersburg,3085215,122220
+Ulyanovsk,Saint Petersburg,1957526,72240
+Moscow,Saint Petersburg,1334414,14640
+Volgograd,Saint Petersburg,3047232,157440
+Voronezh,Saint Petersburg,1220862,44940
+Vaasa,Helsinki,419892,14400
+Vienna,Helsinki,2735586,151380
+Vilnius,Helsinki,-1,-1
+Warsaw,Helsinki,-1,-1
+Zürich,Helsinki,-1,-1
+Venice,Paris,1278048,46020
+Venice,Paris,1278048,46020
+Vienna,Paris,1448077,36480
+Warsaw,Paris,1670213,75600
+Zürich,Paris,610395,14640
+Vienna,Málaga,3301837,108900
+Vilnius,Málaga,4497689,217500
+Warsaw,Málaga,3611613,125100
+Wrocław,Málaga,3317860,111120
+Zürich,Málaga,-1,-1
+Vienna,Bucharest,1101001,75900
+Warsaw,Bucharest,1719699,98460
+Zürich,Bucharest,1923309,95580
+Vienna,Geneva,1055505,38580
+Warsaw,Geneva,1641345,75420
+Zürich,Geneva,266162,9780
+Vienna,Athens,2420577,164580
+Warsaw,Athens,2233196,148560
+Alykés,Athens,-1,-1
+Vienna,Zürich,781565,27900
+Warsaw,Zürich,1504086,68340
+Bistrica ob Sotli,Zürich,933091,70080
+Venice,Amsterdam,1493885,61620
+Warsaw,Amsterdam,1276193,45540
+Bistrica ob Sotli,Amsterdam,1408190,81240
+Varna,Hamburg,2422209,176269
+Vienna,Hamburg,1120454,34260
+Zürich,Hamburg,-1,-1
+Vienna,Stuttgart,694127,24420
+Zürich,Stuttgart,418160,15960
+Valencia,Bologna,-1,-1
+Zürich,Bologna,462670,20220
+Valencia,Porto,1301470,36960
+Zürich,Porto,2960675,191400
+Vienna,Cluj-Napoca,792243,49380
+Warsaw,Cluj-Napoca,1427052,82740
+Vilnius,Amiens,2352626,123120
+Zaragoza,Amiens,1525368,39240
+Vienna,Monza,911930,37980
+Warsaw,Monza,2003462,75720
+Vienna,Tallinn,-1,-1
+Warsaw,Tallinn,-1,-1
+Venice,Cosenza,978392,34175
+Verona,Cosenza,1022011,35735
+Venice,Rome,460935,13980
+Warsaw,Rome,2212588,78600
+Venice,Lisbon,3263210,184320
+Viseu,Lisbon,306721,14671
+Umeå,Stockholm,708578,25320
+Zürich,Stockholm,-1,-1
+Venice,Dunfermline,2281705,103260
+Zürich,Dunfermline,1778850,51540
+Verona,Gdańsk,1849084,86730
+Warsaw,Gdańsk,347095,13350
+Warsaw,Wrocław,400702,15360
+Amiens,Wrocław,1561697,65100
+Warsaw,Vilnius,522616,35700
+Warsaw,Prague,733535,33720
+Wrocław,Valencia,2565520,102240
+Bistrica ob Sotli,Koblenz,1155191,62160
+Warsaw,Ljubljana,1267142,65880
+Warsaw,Verona,1849098,68460
+Wrocław,Birmingham,1738022,86400
+Warsaw,Katowice,366568,11340
+Bistrica ob Sotli,Vienna,361174,27000
+Warsaw,Kraków,289598,7920
+Warsaw,Grenoble,1821326,83520
+Warsaw,Budapest,843072,42300
+Zürich,Gothenburg,1875424,76860
+Zürich,Pristina,1622886,254489
+Viseu,Vila Real,97006,4504
+Vienna,Novara,947305,40740
+Verona,Poznań,1360416,56520
+Venice,Palermo,988843,51900
+Cologne,Varna,2400245,166808
+Venice,Bari,780620,26760
+Venice,Catania,1222476,51307
+Venice,Frankfurt,978220,39240
+Venice,Manchester,1916082,91860
+Venice,Naples,695689,18862
+Venice,Skopje,-1,-1
+Moscow,Murmansk,3482022,114060
+Vienna,Klagenfurt,333525,16800
+Vienna,Trier,1004878,35940
+Vienna,Santander,-1,-1
+Vienna,Tromsø,3970237,197151
+Moscow,Groznyy,3147441,126600
+Moscow,Samara,1569205,52860
+Zürich,Rovaniemi,-1,-1

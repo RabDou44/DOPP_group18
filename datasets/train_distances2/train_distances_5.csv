@@ -1,0 +1,270 @@
+departure city,arrival city,transit_distance [m],transit_time [s]
+Dos Hermanas,Barcelona,1086323,43380
+Kamëz,Barcelona,-1,-1
+Turin,Barcelona,945449,52717
+Venice,Barcelona,-1,-1
+Vigo,Barcelona,1316211,29820
+Vienna,Barcelona,1857080,78840
+Warsaw,Barcelona,2729701,95460
+Warsaw,Barcelona,2729701,95460
+Jerez de la Frontera,Barcelona,1180045,24600
+Zürich,Barcelona,1181656,37380
+Dos Hermanas,Torrejón de Ardoz,507638,36300
+Toulouse,Torrejón de Ardoz,1057934,37440
+Turin,Torrejón de Ardoz,1597061,69097
+Venice,Torrejón de Ardoz,-1,-1
+Vigo,Torrejón de Ardoz,703703,18600
+Vienna,Torrejón de Ardoz,2534046,108331
+Valencia,Torrejón de Ardoz,495323,19980
+Jerez de la Frontera,Torrejón de Ardoz,597657,18000
+Zürich,Torrejón de Ardoz,1810449,51000
+Salzburg,Vantaa,2157331,123180
+Tallinn,Vantaa,100210,12420
+Trondheim,Vantaa,1368324,96240
+Tampere,Vantaa,164608,7500
+Vienna,Vantaa,1948003,120480
+Vilnius,Vantaa,686370,57000
+Warsaw,Vantaa,1204966,76980
+Zürich,Vantaa,2565800,137040
+Toulouse,Munich,1473669,58440
+Turin,Munich,764219,43957
+Venice,Munich,577384,37080
+Vienna,Munich,456078,21960
+Vilnius,Munich,1619490,73800
+Warsaw,Munich,1209825,53700
+Graz,Munich,393706,19800
+Zürich,Munich,392295,25080
+Stavanger,Hoofddorp,1447870,87611
+Salzburg,Hoofddorp,1056647,39780
+Tampere,Hoofddorp,2170393,129000
+Trondheim,Hoofddorp,2174181,109751
+Oslo,Hoofddorp,1749766,77831
+Venice,Hoofddorp,1645889,63540
+Warsaw,Hoofddorp,1215536,49800
+Graz,Hoofddorp,1172771,50640
+Dos Hermanas,Paris,2180095,48960
+Dos Hermanas,Paris,2180095,48960
+Venice,Paris,1176659,52200
+Venice,Paris,1176659,52200
+Vienna,Paris,1362143,46680
+Warsaw,Paris,1650700,53100
+Zürich,Paris,819647,33600
+Arkhangelsk,Khimki,1792474,92220
+Chelyabinsk,Khimki,2280788,123420
+Izhevsk,Khimki,1553930,80820
+Krasnoyarsk,Khimki,5364333,211380
+Ufa,Khimki,3488688,87960
+Ulyanovsk,Khimki,1353368,65220
+Volgograd,Khimki,2635730,112620
+Khimki,Saint Petersburg,691736,22380
+Ufa,Saint Petersburg,4340610,101520
+Ulyanovsk,Saint Petersburg,1957526,72240
+Odintsovo,Saint Petersburg,-1,-1
+Volgograd,Saint Petersburg,3461445,127500
+Voronezh,Saint Petersburg,2023725,42360
+Turin,Bucharest,2209523,123817
+Venice,Bucharest,1649121,91140
+Timişoara,Bucharest,532509,37007
+Vienna,Bucharest,1128806,62340
+Warsaw,Bucharest,1652076,86280
+Zürich,Bucharest,1851626,96900
+Salzburg,Uppsala,2151925,79080
+Kamëz,Uppsala,-1,-1
+Tallinn,Uppsala,659624,70756
+Turin,Uppsala,2562483,117322
+Turku,Uppsala,391954,43207
+Zürich,Uppsala,2156944,84840
+Ufa,Odintsovo,-1,-1
+Ulyanovsk,Odintsovo,-1,-1
+Almetyevsk,Odintsovo,-1,-1
+Kaliningrad,Odintsovo,-1,-1
+Naberezhnyye Chelny,Odintsovo,-1,-1
+Volgograd,Odintsovo,-1,-1
+Salzburg,Hamburg,959022,35100
+Kamëz,Hamburg,-1,-1
+Varna,Hamburg,2287150,132710
+Vienna,Hamburg,935616,39420
+Zürich,Hamburg,964041,40440
+Kamëz,Amiens,-1,-1
+Venice,Amiens,1276176,55140
+Timişoara,Amiens,2063890,100727
+Vilnius,Amiens,2394819,106440
+Zaragoza,Amiens,1243676,45780
+Dos Hermanas,Rome,2814823,90540
+Kamëz,Rome,-1,-1
+Kamëz,Rome,-1,-1
+Venice,Rome,533307,24000
+Warsaw,Rome,1937100,81120
+Vienna,Málaga,3143554,120300
+Vilnius,Málaga,4100218,149640
+Warsaw,Málaga,3501771,114360
+Wrocław,Málaga,3113392,125045
+Zürich,Málaga,2292110,62820
+Dos Hermanas,Bergamo,2301267,83280
+Kamëz,Bergamo,-1,-1
+Timişoara,Bergamo,1354341,82107
+Vienna,Bergamo,843961,40620
+Warsaw,Bergamo,1638466,77820
+Stavanger,Bergen,206341,19074
+Oulu,Bergen,2545568,123300
+Trondheim,Bergen,1032926,58080
+Oslo,Bergen,482196,23700
+Dos Hermanas,Romford,2616235,91980
+Kamëz,Romford,-1,-1
+Tours,Romford,773269,21420
+Venice,Romford,1658560,66720
+Romford,Warsaw,1747386,61710
+Dos Hermanas,Warsaw,3795679,116700
+Oslo,Warsaw,1911090,84000
+Oslo,Warsaw,1911090,84000
+Salzburg,Croydon,1577572,48420
+Tallinn,Croydon,2855912,125880
+Turin,Croydon,1304290,47062
+Vienna,Croydon,1812882,63780
+Kamëz,Athens,-1,-1
+Vienna,Athens,1832119,106200
+Warsaw,Athens,2255019,133320
+Pátra,Athens,-1,-1
+Vienna,Brussels,1334807,50340
+Valencia,Brussels,1752063,59100
+Warsaw,Brussels,1335599,45840
+Zürich,Brussels,827726,38400
+Stavanger,Gdynia,-1,-1
+Oulu,Gdynia,2092720,104400
+Verona,Gdynia,1640135,67521
+Warsaw,Gdynia,343454,14580
+Kamëz,Charleroi,-1,-1
+Venice,Charleroi,1498484,60300
+Warsaw,Charleroi,1389264,49140
+Graz,Charleroi,1188899,52740
+Tallinn,Geneva,2873025,138000
+Vienna,Geneva,1055504,42180
+Warsaw,Geneva,1808375,81480
+Zürich,Geneva,291573,15000
+Bucharest,Stuttgart,1934046,100800
+Thessaloníki,Stuttgart,1929406,118860
+Vienna,Stuttgart,749537,32160
+Zürich,Stuttgart,243652,13680
+Dos Hermanas,Las Palmas,-1,-1
+Dos Hermanas,Las Palmas,-1,-1
+Vienna,Las Palmas,-1,-1
+Warsaw,Las Palmas,-1,-1
+Kamëz,Aberdeen,-1,-1
+Venice,Aberdeen,2522177,97740
+Zürich,Aberdeen,2024833,59760
+Kamëz,Saarbrücken,-1,-1
+Vienna,Saarbrücken,986939,41622
+Graz,Saarbrücken,925835,40182
+Romford,Verona,1438673,68160
+Kamëz,Verona,-1,-1
+Warsaw,Verona,1509678,69780
+Venice,Harrow,1653521,65940
+Warsaw,Harrow,1731795,59520
+Graz,Harrow,1531614,63960
+Vienna,Zürich,781564,31500
+Warsaw,Zürich,1541788,69000
+Graz,Zürich,726612,37680
+Kamëz,Bologna,-1,-1
+Valencia,Bologna,-1,-1
+Zürich,Bologna,444761,23640
+Toulouse,Siracusa,2175439,111480
+Venice,Siracusa,1303067,64235
+Vienna,Siracusa,1827845,81695
+Turin,Reggio di Calabria,-1,-1
+Venice,Reggio di Calabria,1169986,47700
+Verona,Reggio di Calabria,1150925,48501
+Tampere,Tallinn,273166,17280
+Vienna,Tallinn,1760512,106560
+Warsaw,Tallinn,992148,58260
+Romford,Vilnius,2316465,101263
+Turin,Vilnius,2482487,111140
+Warsaw,Vilnius,573842,38143
+Stavanger,Oslo,528383,28020
+Szczecin,Oslo,1790492,72420
+Trondheim,Oslo,557465,27660
+Dos Hermanas,Milan,2247838,79680
+Kamëz,Milan,-1,-1
+Vienna,Milan,850414,37500
+Dos Hermanas,Catania,3437308,123780
+Turin,Catania,-1,-1
+Venice,Catania,1234433,61111
+Romford,Wrocław,1537549,75360
+Warsaw,Wrocław,359635,19985
+Amiens,Wrocław,1668506,59940
+Khimki,Groznyy,3166446,130740
+Odintsovo,Groznyy,-1,-1
+Venice,Valencia,1759252,87240
+Wrocław,Valencia,2994933,119705
+Turin,Gothenburg,2246352,95437
+Zürich,Gothenburg,1789442,73200
+Vienna,Cluj-Napoca,879750,50100
+Warsaw,Cluj-Napoca,1468791,79080
+Vienna,Oulu,2616964,146940
+Zürich,Oulu,3483094,150300
+Trondheim,Trondheim,-1,-1
+Trondheim,Trondheim,-1,-1
+Dos Hermanas,Livorno,2630010,92940
+Kamëz,Livorno,-1,-1
+Venice,Vienna,613199,30480
+Graz,Vienna,226645,20580
+Khimki,Samara,1588208,76260
+Odintsovo,Samara,-1,-1
+Valencia,Maia,-1,-1
+Zürich,Maia,-1,-1
+Khimki,Murmansk,3552244,136920
+Odintsovo,Murmansk,-1,-1
+Vienna,Ljubljana,379135,18300
+Warsaw,Ljubljana,1218081,63660
+Kamëz,Luton,-1,-1
+Warsaw,Luton,1761255,59760
+Kamëz,Bari,-1,-1
+Venice,Bari,1012622,43200
+Dos Hermanas,Sale,-1,-1
+Venice,Sale,-1,-1
+La Laguna,La Laguna,-1,-1
+La Laguna,La Laguna,-1,-1
+Dos Hermanas,Nuremberg,2932735,84780
+Kamëz,Nuremberg,-1,-1
+Stavanger,Alicante,3637553,167520
+Trondheim,Alicante,4356826,183540
+Graz,Foggia,1262796,48240
+Venice,Skopje,-1,-1
+Venice,Palermo,1353886,66860
+Graz,Novi Sad,690464,43500
+Venice,Naples,749816,31462
+Warsaw,Budapest,939184,47460
+Vienna,Santander,-1,-1
+Wrocław,Solihull,1720015,70685
+Warsaw,Prague,637099,38640
+Verona,Poznań,1308235,53481
+Coimbra,Oeiras,236417,22441
+Warsaw,Sosnowiec,356985,19740
+Coimbra,Aves,-1,-1
+Warsaw,Kraków,-1,-1
+Warsaw,Grenoble,2218762,67740
+Venice,Odivelas,2888750,105598
+Kamëz,Villeurbanne,-1,-1
+Venice,Frankfurt,953047,47220
+Bonn,Varna,2368481,126038
+Romford,Graz,1773198,81660
+Romford,Zaragoza,1805565,67800
+Khimki,Cherepovets,-1,-1
+Khimki,Kaliningrad,1976346,132024
+Khimki,Magnitogorsk,2480659,180300
+Khimki,Naberezhnyye Chelny,1574957,135000
+Khimki,Stavropol,-1,-1
+Salzburg,Bristol,1750267,54900
+Kamëz,Genoa,-1,-1
+Kamëz,Perugia,-1,-1
+Kamëz,Trieste,-1,-1
+Kamëz,Venice,-1,-1
+Toulouse,Bordeaux,256701,8460
+Turin,Taranto,-1,-1
+Turin,Cagliari,1177415,69970
+Venice,Marseille,-1,-1
+Venice,Sofia,1358898,92220
+Venice,Kamëz,-1,-1
+Ufa,Sochi,5760985,180660
+Ufa,Domodedovo,-1,-1
+Ufa,Krasnoyarsk,4316816,162060
+Zürich,Pristina,1622133,114989

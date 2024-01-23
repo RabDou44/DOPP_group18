@@ -1,0 +1,301 @@
+departure city,arrival city
+Minsk,Saint Petersburg
+Minsk,Khimki
+Minsk,Odintsovo
+Munich,Málaga
+Alicante,Munich
+Uppsala,Munich
+Munich,Barcelona
+Munich,Solihull
+Munich,Bologna
+Munich,Brussels
+Dresden,Munich
+Munich,Münster
+Munich,Las Palmas
+Munich,Graz
+Munich,Hamburg
+Munich,Croydon
+Munich,Pristina
+Munich,Thessaloníki
+Munich,Stuttgart
+Munich,Valencia
+Milan,Alicante
+Milan,Hoofddorp
+Milan,Athens
+Milan,Bacău
+Milan,Barcelona
+Milan,Cagliari
+Milan,Paris
+Milan,Catania
+Milan,Las Palmas
+Milan,Vantaa
+Milan,Croydon
+Milan,Torrejón de Ardoz
+Milan,Munich
+Milan,Maia
+Milan,Paris
+Milan,Pristina
+Milan,Rzeszów
+Milan,Reggio di Calabria
+Milan,Kamëz
+Milan,Vienna
+Milan,Vilnius
+Milan,Zürich
+Naples,Barcelona
+Naples,Bergamo
+Naples,Charleroi
+Naples,Catania
+Naples,Rome
+Naples,Kraków
+Naples,Milan
+Naples,Milan
+Naples,Bucharest
+Naples,Palermo
+Naples,Sofia
+Naples,Romford
+Naples,Trieste
+Naples,Venice
+Naples,Vienna
+Naples,Valencia
+Naberezhnyye Chelny,Saint Petersburg
+Nice,Barcelona
+Nice,Livorno
+Nice,Paris
+Nice,Torrejón de Ardoz
+Nice,Zürich
+Gateshead,Málaga
+Gateshead,Alicante
+Gateshead,Las Palmas
+Syktyvkar,Kazan
+Prokopyevsk,Khimki
+Plymouth,Croydon
+Nijmegen,Málaga
+Nijmegen,Thessaloníki
+Nantes,Las Palmas
+Nantes,Hoofddorp
+Nantes,Las Palmas
+Nantes,Geneva
+Nantes,Torrejón de Ardoz
+Nantes,Marseille
+Nuremberg,Thessaloníki
+Norrköping,Bucharest
+Vladikavkaz,Odintsovo
+Tetovo,Zürich
+Cagliari,Rome
+Cagliari,Milan
+Oradea,Bucharest
+Torrejón de Ardoz,Maia
+Paris,Las Palmas
+Paris,Málaga
+Paris,Barcelona
+Paris,Livorno
+Paris,Oulu
+Paris,Toulouse
+Paris,Croydon
+Paris,Torrejón de Ardoz
+Paris,Siracusa
+Paris,Montpellier
+Paris,Milan
+Paris,Nice
+Paris,Maia
+Paris,Southampton
+Paris,Toulouse
+Paris,Valencia
+Oslo,Málaga
+Oslo,Alicante
+Oslo,Hoofddorp
+Oslo,Uppsala
+Oslo,Bergen
+Oslo,Paris
+Oslo,Gothenburg
+Oslo,Vantaa
+Oslo,Stavanger
+Oslo,Oulu
+Oslo,Zürich
+Orsk,Khimki
+Aarhus,Bucharest
+Bologna,Bucharest
+Rome,Bucharest
+Croydon,Bucharest
+Oviedo,Las Palmas
+Oviedo,Barcelona
+Oviedo,Torrejón de Ardoz
+Oviedo,Nijmegen
+La Laguna,La Laguna
+La Laguna,Maia
+La Laguna,La Laguna
+Perm,Saint Petersburg
+Perm,Khimki
+Perm,Odintsovo
+Petrozavodsk,Odintsovo
+Parma,Cagliari
+Palermo,Barcelona
+Palermo,Bergamo
+Palermo,Bologna
+Palermo,Rome
+Palermo,Ulm
+Palermo,Milan
+Palermo,Torrejón de Ardoz
+Palermo,Milan
+Palermo,Naples
+Palermo,Nuremberg
+Palermo,Livorno
+Palermo,Romford
+Palermo,Turin
+Palermo,Venice
+Palermo,Valencia
+Palermo,Verona
+Pamplona,Torrejón de Ardoz
+Prague,Málaga
+Prague,Barcelona
+Prague,Bergamo
+Prague,Paris
+Prague,Geneva
+Prague,Vantaa
+Prague,Torrejón de Ardoz
+Pristina,Hamburg
+Pristina,Stuttgart
+Livorno,Charleroi
+Livorno,Torrejón de Ardoz
+Livorno,Maia
+Livorno,Valencia
+Bergamo,Giugliano in Campania
+Trieste,Zürich
+La Laguna,La Laguna
+La Laguna,Oslo
+Orenburg,Saint Petersburg
+Orenburg,Khimki
+Riga,Hoofddorp
+Riga,Uppsala
+Riga,Bristol
+Riga,Copenhagen
+Riga,Geneva
+Riga,Vantaa
+Riga,Oulu
+Riga,Odivelas
+Riga,Klaipėda
+Riga,Romford
+Riga,Salzburg
+Riga,Tallinn
+Riga,Vienna
+Riga,Vilnius
+Riga,Warsaw
+Rotterdam,Málaga
+Rotterdam,Alicante
+Rotterdam,Salzburg
+Surgut,Domodedovo
+Sibiu,Luton
+Sibiu,Munich
+A Coruña,Las Palmas
+A Coruña,Torrejón de Ardoz
+A Coruña,Valencia
+Bucharest,Chernivtsi
+Syktyvkar,Saint Petersburg
+Syktyvkar,Khimki
+Syktyvkar,Odintsovo
+Santander,Torrejón de Ardoz
+Basildon,Geneva
+Simferopol,Saint Petersburg
+Novi Sad,Bonn
+Bodrum,Thessaloníki
+Stuttgart,Thessaloníki
+Trondheim,Trondheim
+Trondheim,Oulu
+Skopje,Athens
+Skopje,Zemun
+Skopje,Bratislava
+Skopje,Bonn
+Skopje,Copenhagen
+Skopje,Eindhoven
+Skopje,Rome
+Skopje,Strasbourg
+Skopje,Frankfurt
+Skopje,Siracusa
+Skopje,Norrköping
+Skopje,Graz
+Skopje,Zürich
+Sofia,Alicante
+Sofia,Athens
+Sofia,Barcelona
+Sofia,Bergamo
+Sofia,Bristol
+Sofia,Copenhagen
+Sofia,Charleroi
+Sofia,Catania
+Sofia,Eindhoven
+Sofia,Strasbourg
+Sofia,Ulm
+Sofia,Croydon
+Sofia,Luton
+Sofia,Torrejón de Ardoz
+Sofia,Siracusa
+Sofia,Munich
+Sofia,Naples
+Sofia,Nice
+Sofia,Romford
+Sofia,Venice
+Sofia,Varna
+Sofia,Vienna
+Sofia,Warsaw
+Rennes,Southampton
+La Laguna,Barcelona
+La Laguna,Torrejón de Ardoz
+Foggia,Hoofddorp
+Romford,Las Palmas
+Romford,Málaga
+Romford,Alicante
+Romford,Hoofddorp
+Romford,Uppsala
+Romford,Athens
+Romford,Barcelona
+Romford,Belfast
+Romford,Bergamo
+Romford,Aarhus
+Romford,Bologna
+Romford,Bordeaux
+Romford,Bratislava
+Romford,Budapest
+Romford,Bydgoszcz
+Romford,Bonn
+Romford,Rome
+Romford,Annecy
+Romford,Catania
+Romford,Aberdeen
+Romford,Eindhoven
+Romford,Huelva
+Romford,Las Palmas
+Romford,Gdynia
+Romford,Grenoble
+Romford,Genoa
+Romford,Gothenburg
+Romford,Geneva
+Romford,Kraków
+Romford,Sosnowiec
+Romford,Łódź
+Romford,Odivelas
+Romford,Torrejón de Ardoz
+Romford,Marseille
+Romford,Milan
+Romford,Naples
+Romford,Nuremberg
+Romford,Maia
+Romford,Bucharest
+Romford,Poznań
+Romford,Prague
+Romford,Livorno
+Romford,Riga
+Romford,A Coruña
+Romford,Thessaloníki
+Romford,Sofia
+Romford,Dos Hermanas
+Romford,Salzburg
+Romford,Olsztyn
+Romford,Szczecin
+Romford,Kamëz
+Romford,Oslo
+Romford,Turin
+Romford,Trieste
+Romford,Venice
+Romford,Vigo
+Romford,Vienna
+Romford,Valencia
